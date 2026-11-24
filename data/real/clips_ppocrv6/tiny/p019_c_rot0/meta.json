@@ -1,0 +1,270 @@
+{
+ "f000.jpg": {
+  "n_lines": 19,
+  "box": [
+   134,
+   1159,
+   422,
+   1369
+  ],
+  "level": "digits",
+  "lines": [
+   "6x840G."
+  ],
+  "all_lines": [
+   "Flan",
+   "TACENDADO",
+   "dn",
+   "HACENDADO",
+   "INA",
+   "EREOA",
+   "CEREOÃ",
+   "BIHI",
+   "全纯",
+   "DE",
+   "180",
+   "NDAD",
+   "HACENDAD",
+   "ILACENDADO",
+   "CEREÓA",
+   "80e",
+   "EN ALMIBAR",
+   "6x840G.",
+   "1,95c"
+  ],
+  "crop_wh": [
+   288,
+   210
+  ],
+  "sharpness": 307.1,
+  "ocr_s": 0.25
+ },
+ "f006.jpg": {
+  "n_lines": 15,
+  "box": [
+   122,
+   1173,
+   411,
+   1383
+  ],
+  "level": "digits",
+  "lines": [
+   "6×840G."
+  ],
+  "all_lines": [
+   "Flan",
+   "aua",
+   "HACENDADO",
+   "IRA",
+   "REOA",
+   "CEREDÃ",
+   "180e",
+   "HACENDADO",
+   "HACENDADO",
+   "CEREOA",
+   "€",
+   "ENALMIBAR",
+   "AK25S",
+   "6×840G.",
+   "1,95c"
+  ],
+  "crop_wh": [
+   289,
+   210
+  ],
+  "sharpness": 282.8,
+  "ocr_s": 0.22
+ },
+ "f012.jpg": {
+  "n_lines": 17,
+  "box": [
+   89,
+   1181,
+   391,
+   1403
+  ],
+  "level": "digits",
+  "lines": [
+   "6×840G."
+  ],
+  "all_lines": [
+   "FACEADNDO",
+   "Flan",
+   "A",
+   "HACENDADO",
+   "CEREDA",
+   "帆具具",
+   "云",
+   "1v.O",
+   "180",
+   "HACENDADO",
+   "EADADO",
+   "CERECA",
+   "€",
+   "EN ALMIBAR",
+   "HICCOEN",
+   "6×840G.",
+   "1,95c"
+  ],
+  "crop_wh": [
+   302,
+   222
+  ],
+  "sharpness": 277.5,
+  "ocr_s": 0.23
+ },
+ "f018.jpg": {
+  "n_lines": 18,
+  "box": [
+   73,
+   1193,
+   378,
+   1419
+  ],
+  "level": "digits",
+  "lines": [
+   "6×840G."
+  ],
+  "all_lines": [
+   "Flan",
+   "HACEDADO",
+   "24",
+   "HACENDADO",
+   "HACENDADO",
+   "EINIUONS",
+   "JINiUons",
+   "CEREDÃ",
+   "10.O",
+   "180",
+   "CEREÓA",
+   "HACENDADO",
+   "NDADO",
+   "180e",
+   "EN ALMIBAR",
+   "LUAP",
+   "1,95e",
+   "6×840G."
+  ],
+  "crop_wh": [
+   305,
+   226
+  ],
+  "sharpness": 266.2,
+  "ocr_s": 0.23
+ },
+ "f024.jpg": {
+  "n_lines": 16,
+  "box": [
+   74,
+   1204,
+   380,
+   1430
+  ],
+  "level": "digits",
+  "lines": [
+   "6x840G."
+  ],
+  "all_lines": [
+   "IACENDNDO",
+   "Flan",
+   "HACENDADO",
+   "21",
+   "CEREDÁ",
+   "10x",
+   "Sa",
+   "180",
+   "CEREÓA",
+   "HACENDADO",
+   "NDADO",
+   "E",
+   "EN ALMIBAR",
+   "RCFUON",
+   "195c",
+   "6x840G."
+  ],
+  "crop_wh": [
+   306,
+   226
+  ],
+  "sharpness": 263.7,
+  "ocr_s": 0.22
+ },
+ "f030.jpg": {
+  "n_lines": 19,
+  "box": [
+   59,
+   1218,
+   369,
+   1448
+  ],
+  "level": "digits",
+  "lines": [
+   "6×840G."
+  ],
+  "all_lines": [
+   "Flan",
+   "HACENDADO",
+   "EA",
+   "HACENDADO",
+   "210",
+   "3IHLUUWS",
+   "CEREDÃ",
+   "10x",
+   "AR",
+   "G",
+   "CEREÓA",
+   "HACENDADO",
+   "ADO",
+   "180c",
+   "10n3e",
+   "PO0S",
+   "HCESSG",
+   "1,95e",
+   "6×840G."
+  ],
+  "crop_wh": [
+   310,
+   230
+  ],
+  "sharpness": 264.9,
+  "ocr_s": 0.23
+ },
+ "f036.jpg": {
+  "n_lines": 17,
+  "box": [
+   62,
+   1219,
+   372,
+   1449
+  ],
+  "level": "digits",
+  "lines": [
+   "6×840G."
+  ],
+  "all_lines": [
+   "Flan",
+   "HACENDADO",
+   "2u.t",
+   "HACENDADO",
+   "210",
+   "CEREOÃ",
+   "10x",
+   "180c",
+   "CEREÓA",
+   "NDADO",
+   "HACENDADO",
+   "DADO",
+   "€",
+   "180.",
+   "EN ALMIBAR",
+   "1,95e",
+   "6×840G."
+  ],
+  "crop_wh": [
+   310,
+   230
+  ],
+  "sharpness": 264.5,
+  "ocr_s": 0.23
+ }
+}

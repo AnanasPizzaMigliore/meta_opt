@@ -1,0 +1,301 @@
+{
+ "f000.jpg": {
+  "n_lines": 19,
+  "box": [
+   1165,
+   748,
+   1266,
+   928
+  ],
+  "level": "date",
+  "lines": [
+   "24.11.26 R21",
+   "FECHADECADUCIDAD:"
+  ],
+  "all_lines": [
+   "400",
+   "7,53€",
+   "P.V.P.",
+   "14,80€",
+   "PRECIO KILO:",
+   "0,509kg",
+   "PESO NETO:",
+   "24.11.26 R21",
+   "FECHADECADUCIDAD:",
+   "ANOJO",
+   "MORCILLO/",
+   "JARRETE",
+   "LHREGLOS",
+   "2313741007534",
+   "VACUNO",
+   "8.14C",
+   "22",
+   "JARRETE/MORCILLC",
+   "MANOS"
+  ],
+  "crop_wh": [
+   101,
+   180
+  ],
+  "sharpness": 294.8,
+  "ocr_s": 1.56
+ },
+ "f006.jpg": {
+  "n_lines": 21,
+  "box": [
+   870,
+   639,
+   966,
+   825
+  ],
+  "level": "date",
+  "lines": [
+   "24.11.26 R21",
+   "FECHA DE CADUCIDAD:"
+  ],
+  "all_lines": [
+   "SOLW",
+   "ptig",
+   "P.V.P.",
+   "14,80€",
+   "PRECIO KILO:",
+   "0,509kg",
+   "国",
+   "7,53€",
+   "PESO NETO:",
+   "24.11.26 R21",
+   "FECHA DE CADUCIDAD:",
+   "AÑOJO",
+   "MORCILLO/",
+   "JARRETE",
+   "VACUNO",
+   "RREGLOS",
+   "2313741007534",
+   "110",
+   "7",
+   "MANOS",
+   "爱！"
+  ],
+  "crop_wh": [
+   96,
+   186
+  ],
+  "sharpness": 266.9,
+  "ocr_s": 1.58
+ },
+ "f012.jpg": {
+  "n_lines": 19,
+  "box": [
+   918,
+   705,
+   1014,
+   889
+  ],
+  "level": "date",
+  "lines": [
+   "24.11.26 R21",
+   "FECHA DE CADUCIDAD:"
+  ],
+  "all_lines": [
+   "NA",
+   "P.V.P.",
+   "14,80€",
+   "PRECIO KILO:",
+   "0,509kg",
+   "7,53€",
+   "PESO NETO:",
+   "24.11.26 R21",
+   "FECHA DE CADUCIDAD:",
+   "ANOJO",
+   "MORCILLO/",
+   "JARRETE",
+   "ARREGLOS",
+   "VACUNO",
+   "2313741007534",
+   "110",
+   "DSn",
+   "MANOS",
+   "顾！"
+  ],
+  "crop_wh": [
+   96,
+   184
+  ],
+  "sharpness": 282.8,
+  "ocr_s": 1.55
+ },
+ "f018.jpg": {
+  "n_lines": 21,
+  "box": [
+   845,
+   678,
+   1042,
+   902
+  ],
+  "level": "digits",
+  "lines": [
+   "14,80€",
+   "0,509kg",
+   "24.11.26R21",
+   "FECHA DE CADUCIDAD:"
+  ],
+  "all_lines": [
+   "MOILA",
+   "UU",
+   "P.V.P.",
+   "14,80€",
+   "PRECIO KILO:",
+   "0,509kg",
+   "7,53€",
+   "PESO NETO:",
+   "24.11.26R21",
+   "FECHA DE CADUCIDAD:",
+   "ANOJO",
+   "MORCILLO/",
+   "JARRETE",
+   "ARREGLOS",
+   "VACUNO",
+   "2313741007534",
+   "119",
+   "57",
+   "MANOS",
+   "通",
+   "图"
+  ],
+  "crop_wh": [
+   197,
+   224
+  ],
+  "sharpness": 286.8,
+  "ocr_s": 1.57
+ },
+ "f024.jpg": {
+  "n_lines": 19,
+  "box": [
+   931,
+   705,
+   1027,
+   892
+  ],
+  "level": "date",
+  "lines": [
+   "24.11.26 R21",
+   "FECHA DE CADUCIDAD:"
+  ],
+  "all_lines": [
+   "国",
+   "P.V.P.",
+   "14,80€",
+   "PRECIO KILO:",
+   "0,509kg",
+   "7,53€",
+   "PESO NETO:",
+   "24.11.26 R21",
+   "FECHA DE CADUCIDAD:",
+   "ANOJO",
+   "MORCILLO/",
+   "JARRETE",
+   "VACUNO",
+   "ARREGLOS",
+   "2313741007534",
+   "087",
+   "MANOS",
+   "酒",
+   "E"
+  ],
+  "crop_wh": [
+   96,
+   187
+  ],
+  "sharpness": 283.5,
+  "ocr_s": 1.56
+ },
+ "f030.jpg": {
+  "n_lines": 20,
+  "box": [
+   867,
+   686,
+   1061,
+   910
+  ],
+  "level": "digits",
+  "lines": [
+   "14,80€",
+   "0,509kg",
+   "24.11.26R21",
+   "FECHA DE CADUCIDAD:"
+  ],
+  "all_lines": [
+   "P.V.P.",
+   "14,80€",
+   "PRECIO KILO:",
+   "0,509kg",
+   "7,53€",
+   "PESO NETO:",
+   "24.11.26R21",
+   "FECHA DE CADUCIDAD:",
+   "ANOJO",
+   "MORCILLO/",
+   "JARRETE",
+   "ARREGLOS",
+   "VACUNO",
+   "2313741007534",
+   "1",
+   "119",
+   "w7",
+   "MACRCULS",
+   "MANOS",
+   "吧"
+  ],
+  "crop_wh": [
+   194,
+   224
+  ],
+  "sharpness": 282.4,
+  "ocr_s": 1.61
+ },
+ "f036.jpg": {
+  "n_lines": 22,
+  "box": [
+   947,
+   701,
+   1043,
+   889
+  ],
+  "level": "date",
+  "lines": [
+   "24.11.26 R21",
+   "FECHA DE CADUCIDAD:"
+  ],
+  "all_lines": [
+   "PRICA",
+   "o13g",
+   "14,80€",
+   "PRECIO KILO:",
+   "0,509kg",
+   "P.V.P.",
+   "PESO NETO:",
+   "24.11.26 R21",
+   "7,53€",
+   "FECHA DE CADUCIDAD:",
+   "AÑOJO",
+   "MORCILLO/",
+   "JARRETE",
+   "ARREGLOS",
+   "C",
+   "VACUNO",
+   "2313741007534",
+   "n",
+   "113",
+   "5377",
+   "MANOS",
+   "风"
+  ],
+  "crop_wh": [
+   96,
+   188
+  ],
+  "sharpness": 279.8,
+  "ocr_s": 1.6
+ }
+}

@@ -1,0 +1,311 @@
+{
+ "f000.jpg": {
+  "n_lines": 15,
+  "box": [
+   1264,
+   1046,
+   1360,
+   1200
+  ],
+  "level": "digits",
+  "lines": [
+   "500g(2×250g)"
+  ],
+  "all_lines": [
+   "LEGADO",
+   "290c",
+   "3.90€",
+   "270",
+   "2,80",
+   "3,20",
+   "Embaind",
+   "6",
+   "500g(2×250g)",
+   "O1",
+   "NNE L ENL",
+   "EOMEOINA",
+   "290",
+   "(DxS)000",
+   "R"
+  ],
+  "crop_wh": [
+   96,
+   154
+  ],
+  "sharpness": 335.6,
+  "ocr_s": 1.44
+ },
+ "f006.jpg": {
+  "n_lines": 21,
+  "box": [
+   780,
+   751,
+   980,
+   961
+  ],
+  "level": "digits",
+  "lines": [
+   "Secy 2 rcoara 1 40 Md",
+   "500g(2x250g)",
+   "800500220",
+   "ExpotaEspenta",
+   "MERCADONA"
+  ],
+  "all_lines": [
+   "FICH",
+   "290c",
+   "270c",
+   "BURGER MEAT BOVINO. PREPARADO DE CARNE",
+   "INGREDEATTS",
+   "MEATVACUNO",
+   "apa ",
+   "2,80",
+   "PREPARADO DE CARNT",
+   "ExpotaEspenta",
+   "Secy 2 rcoara 1 40 Md",
+   "MEDINA SAU PoL Ind Ei Rimodn,",
+   "500g(2x250g)",
+   "800500220",
+   "MERCADONA",
+   "ECMEDIN",
+   "2",
+   "110",
+   "0sle00",
+   "ERE",
+   "290c"
+  ],
+  "crop_wh": [
+   200,
+   210
+  ],
+  "sharpness": 306.2,
+  "ocr_s": 1.63
+ },
+ "f012.jpg": {
+  "n_lines": 27,
+  "box": [
+   956,
+   766,
+   1052,
+   941
+  ],
+  "level": "digits",
+  "lines": [
+   "500g(2x250g)"
+  ],
+  "all_lines": [
+   "290c",
+   "90c",
+   "270c",
+   "seu cdemumo Não comumir er",
+   "moums. No cosumix arudo",
+   "Cocinar complertamente snten de se",
+   "PRECAUCHONES/PRECAIÇÕES",
+   "Comsemir e 4honas",
+   "CONSERVACION/CORSERVAÇÃO",
+   "Came de vecuno (90%)",
+   "INCREDENTES",
+   "2,80",
+   "iIabeo",
+   "Emvesado es",
+   "terea",
+   "agua ta",
+   "500g(2x250g)",
+   "",
+   "Grasas/Lipides",
+   "BORADOS CARNICOS",
+   "ECMEDIN",
+   "É NE",
+   "É AAÉ",
+   "F",
+   "6",
+   "0xs)e 00",
+   "R"
+  ],
+  "crop_wh": [
+   96,
+   175
+  ],
+  "sharpness": 305.4,
+  "ocr_s": 1.8
+ },
+ "f018.jpg": {
+  "n_lines": 18,
+  "box": [
+   947,
+   796,
+   1043,
+   964
+  ],
+  "level": "digits",
+  "lines": [
+   "500g(2x250g)"
+  ],
+  "all_lines": [
+   "290",
+   "270",
+   "Copieh",
+   "pontere palurta",
+   "INGALDIETES",
+   "2,80",
+   "viz abens",
+   "500g(2x250g)",
+   "5",
+   "Energitice/Ene",
+   "vaicy",
+   "ELABORADOSCARNICOS",
+   "ECMEDINA",
+   "WEAA  AE",
+   "É E",
+   "2",
+   "00le0",
+   "R"
+  ],
+  "crop_wh": [
+   96,
+   168
+  ],
+  "sharpness": 321.6,
+  "ocr_s": 1.64
+ },
+ "f024.jpg": {
+  "n_lines": 23,
+  "box": [
+   848,
+   787,
+   1052,
+   999
+  ],
+  "level": "digits",
+  "lines": [
+   "500g(2x250g)",
+   "800500220",
+   "Expala/Espath"
+  ],
+  "all_lines": [
+   "290",
+   "Oc",
+   "270",
+   "CONSERVACION/CONSERVAÇÃO",
+   "oe",
+   "INGREDIENTES",
+   "2,80",
+   "avezaberto",
+   "Lesasadoen",
+   "Expala/Espath",
+   "3",
+   "500g(2x250g)",
+   "800500220",
+   "as/Lipidon",
+   "COUn QAES",
+   "ECMÉDINA",
+   "ÉUR  ",
+   "É ",
+   "190 kca",
+   "15",
+   "x)e00",
+   "UCCV",
+   "4.55"
+  ],
+  "crop_wh": [
+   204,
+   212
+  ],
+  "sharpness": 327.6,
+  "ocr_s": 1.68
+ },
+ "f030.jpg": {
+  "n_lines": 23,
+  "box": [
+   847,
+   667,
+   1051,
+   999
+  ],
+  "level": "digits",
+  "lines": [
+   "500g(2x250g)",
+   "800500220",
+   "consumir em 4& horas",
+   "ExpatarEspanta"
+  ],
+  "all_lines": [
+   "290",
+   "Oc",
+   "270",
+   "consumir em 4& horas",
+   "CONSERVACION/CONSERVAÇÃO",
+   " de vacuno (90%) agus, Sbea",
+   "INGAEDURTES",
+   "2,80",
+   "Una vezabieto",
+   "Cona",
+   "ExpatarEspanta",
+   "500g(2x250g)",
+   "de ki cuisin do quies",
+   "800500220",
+   "ECHEDINA",
+   "  C",
+   "É A",
+   "e",
+   "Z",
+   "x5le00",
+   "",
+   "4.55",
+   "3.80."
+  ],
+  "crop_wh": [
+   204,
+   332
+  ],
+  "sharpness": 330.3,
+  "ocr_s": 1.69
+ },
+ "f036.jpg": {
+  "n_lines": 24,
+  "box": [
+   711,
+   767,
+   1077,
+   1152
+  ],
+  "level": "digits",
+  "lines": [
+   "500g(2x250g)",
+   "800500220",
+   "00)000"
+  ],
+  "all_lines": [
+   "290",
+   "Oc",
+   "270",
+   "CONSERVACION/CORSERVAÇÃO",
+   "BURGERMEATVACUNO",
+   "INGAEDIENTES",
+   "2,80",
+   "aroma ",
+   "T",
+   "PREPARADODECARNE",
+   "Espoha/tspanha",
+   "MLDINA",
+   "500g(2x250g)",
+   "800500220",
+   "MEROADONA",
+   "daso",
+   "Grasas/Upidos",
+   "Laor",
+   "ORADOS CARNICOS",
+   "ECMÉDINA",
+   "ÉUR  ANE",
+   "2",
+   "00)000",
+   "3.80c"
+  ],
+  "crop_wh": [
+   366,
+   385
+  ],
+  "sharpness": 330.1,
+  "ocr_s": 1.72
+ }
+}

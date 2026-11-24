@@ -1,0 +1,243 @@
+{
+ "f000.jpg": {
+  "n_lines": 16,
+  "box": [
+   1006,
+   1108,
+   1176,
+   1373
+  ],
+  "level": "digits",
+  "lines": [
+   "L03627317 20c2",
+   "03308"
+  ],
+  "all_lines": [
+   "CLASCA",
+   "LSNI",
+   "CLÁSSICA",
+   "0.85c",
+   "BASe",
+   "CLASSICA",
+   "HELICESESPIRA",
+   "1,20cl",
+   "1kg",
+   "L03627317 20c2",
+   "0,85c",
+   "ISSICA",
+   "03308",
+   "SPAGHETTI",
+   "SPAGHETTI",
+   "PACH"
+  ],
+  "crop_wh": [
+   170,
+   265
+  ],
+  "sharpness": 212.5,
+  "ocr_s": 0.24
+ },
+ "f006.jpg": {
+  "n_lines": 13,
+  "box": [
+   901,
+   896,
+   1046,
+   992
+  ],
+  "level": "digits",
+  "lines": [
+   "L03627317 2000"
+  ],
+  "all_lines": [
+   "品品分",
+   "CLASCA",
+   "CLASSICA",
+   "",
+   "0.85e",
+   "",
+   "1kg",
+   "CLASSICA",
+   "L03627317 2000",
+   "LICESESPIR",
+   "120cd",
+   "0.85c",
+   "SPAGHETTI"
+  ],
+  "crop_wh": [
+   145,
+   96
+  ],
+  "sharpness": 184.6,
+  "ocr_s": 0.24
+ },
+ "f012.jpg": {
+  "n_lines": 13,
+  "box": [
+   937,
+   865,
+   1069,
+   961
+  ],
+  "level": "date",
+  "lines": [
+   "18:1803-2028"
+  ],
+  "all_lines": [
+   "CLASCA",
+   "CLASSICA",
+   "065",
+   "085e",
+   "C4S",
+   "1kg3",
+   "L03027317 2000",
+   "18:1803-2028",
+   "CLASSICA",
+   "ELICESESPID",
+   "120c",
+   "0.85c",
+   "SPACHETTI"
+  ],
+  "crop_wh": [
+   132,
+   96
+  ],
+  "sharpness": 207.7,
+  "ocr_s": 0.24
+ },
+ "f018.jpg": {
+  "n_lines": 14,
+  "box": [
+   944,
+   877,
+   1071,
+   973
+  ],
+  "level": "date",
+  "lines": [
+   "18:1803-2028"
+  ],
+  "all_lines": [
+   "品",
+   "品",
+   "CLASCA",
+   "CLÁSSICA",
+   "0.85e",
+   "BLSN",
+   "To0ZO",
+   "L03627317 2000",
+   "18:1803-2028",
+   "CLASSICA",
+   "ELICESESPIR",
+   "120cd",
+   "0,85c",
+   "SPAGHETTI"
+  ],
+  "crop_wh": [
+   127,
+   96
+  ],
+  "sharpness": 209.5,
+  "ocr_s": 0.25
+ },
+ "f024.jpg": {
+  "n_lines": 13,
+  "box": [
+   947,
+   866,
+   1074,
+   962
+  ],
+  "level": "date",
+  "lines": [
+   "18:18 03-2028"
+  ],
+  "all_lines": [
+   "CLASSCA",
+   "CLASSICA",
+   "F",
+   "0.85c",
+   "CUSe",
+   "1kg3",
+   "L03627317 2000",
+   "18:18 03-2028",
+   "CLASSICA",
+   "ELICESESPIR",
+   "1,20cl",
+   "0,85c",
+   "SPAGHETTI"
+  ],
+  "crop_wh": [
+   127,
+   96
+  ],
+  "sharpness": 209.6,
+  "ocr_s": 0.24
+ },
+ "f030.jpg": {
+  "n_lines": 11,
+  "box": [
+   961,
+   858,
+   1087,
+   954
+  ],
+  "level": "date",
+  "lines": [
+   "18:1803-2028"
+  ],
+  "all_lines": [
+   "RAYADO RT",
+   "CLASIGA",
+   "CLASICA",
+   "0.85.",
+   "L03627317 2000",
+   "18:1803-2028",
+   "CLASSICA",
+   "RELICESESPIR",
+   "1,20cd",
+   "0,85c",
+   "SPACHETTI"
+  ],
+  "crop_wh": [
+   126,
+   96
+  ],
+  "sharpness": 208.0,
+  "ocr_s": 0.24
+ },
+ "f036.jpg": {
+  "n_lines": 13,
+  "box": [
+   972,
+   862,
+   1100,
+   958
+  ],
+  "level": "date",
+  "lines": [
+   "18:1803-2028"
+  ],
+  "all_lines": [
+   "CLASSIA",
+   "CLÁSSICA",
+   "a",
+   "0.85c",
+   "CUASdr",
+   "男02",
+   "L03027317 2000",
+   "18:1803-2028",
+   "CLASSICA",
+   "HELICESESPIR",
+   "1.20cl",
+   "0,85c",
+   "SPAGHETTI"
+  ],
+  "crop_wh": [
+   128,
+   96
+  ],
+  "sharpness": 209.3,
+  "ocr_s": 0.24
+ }
+}

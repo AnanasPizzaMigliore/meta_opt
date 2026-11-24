@@ -1,0 +1,234 @@
+{
+ "f000.jpg": {
+  "n_lines": 15,
+  "box": [
+   1397,
+   1100,
+   1613,
+   1312
+  ],
+  "level": "digits",
+  "lines": [
+   "80050"
+  ],
+  "all_lines": [
+   "Carbono",
+   "umdo",
+   "68 kca",
+   "IACENDADO",
+   "INGR",
+   "HACENDADO",
+   "EREO",
+   "IOrTT",
+   "178g",
+   "unOs seg",
+   "SL",
+   "80050",
+   "30500",
+   "0125126",
+   "08-0"
+  ],
+  "crop_wh": [
+   216,
+   212
+  ],
+  "sharpness": 39.5,
+  "ocr_s": 0.23
+ },
+ "f006.jpg": {
+  "n_lines": 12,
+  "box": [
+   1468,
+   1077,
+   1690,
+   1295
+  ],
+  "level": "digits",
+  "lines": [
+   "80050"
+  ],
+  "all_lines": [
+   "68 kcal",
+   "IACENDNDO",
+   "HACENDADO",
+   "2",
+   "EREO",
+   "ERE",
+   "AC",
+   "178g",
+   "SL C Gabrie",
+   "80050",
+   "30500",
+   "0125126"
+  ],
+  "crop_wh": [
+   222,
+   218
+  ],
+  "sharpness": 35.2,
+  "ocr_s": 0.23
+ },
+ "f012.jpg": {
+  "n_lines": 10,
+  "box": [
+   1005,
+   692,
+   1728,
+   1603
+  ],
+  "level": "digits",
+  "lines": [
+   "1789",
+   "0125126"
+  ],
+  "all_lines": [
+   "RIACENDADO",
+   "HACENDADO",
+   "15",
+   "ERE",
+   "CERE",
+   "HACAE",
+   "1789",
+   "8",
+   "30500",
+   "0125126"
+  ],
+  "crop_wh": [
+   723,
+   911
+  ],
+  "sharpness": 33.5,
+  "ocr_s": 0.22
+ },
+ "f018.jpg": {
+  "n_lines": 12,
+  "box": [
+   970,
+   699,
+   1728,
+   1632
+  ],
+  "level": "digits",
+  "lines": [
+   "1789",
+   "0125126"
+  ],
+  "all_lines": [
+   "FIACENDADO",
+   "HACENDADO",
+   "SKT",
+   "0,00g",
+   "EREO",
+   "ERE",
+   "ACT",
+   "1789",
+   "SLC Gatr",
+   "8",
+   "0125126",
+   "08-0"
+  ],
+  "crop_wh": [
+   758,
+   933
+  ],
+  "sharpness": 28.9,
+  "ocr_s": 0.22
+ },
+ "f024.jpg": {
+  "n_lines": 14,
+  "box": [
+   1032,
+   1234,
+   1373,
+   1548
+  ],
+  "level": "digits",
+  "lines": [
+   "0125126"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "HACENDADO",
+   "OX",
+   "0.00",
+   "500",
+   "CA",
+   "S",
+   "EREO",
+   "ERE",
+   "178g",
+   "SL",
+   "80",
+   "0125126",
+   "08-1"
+  ],
+  "crop_wh": [
+   341,
+   314
+  ],
+  "sharpness": 27.1,
+  "ocr_s": 0.23
+ },
+ "f030.jpg": {
+  "n_lines": 8,
+  "box": [
+   952,
+   684,
+   1728,
+   1622
+  ],
+  "level": "digits",
+  "lines": [
+   "1789",
+   "0125126"
+  ],
+  "all_lines": [
+   "FACENDNDO",
+   "HACENDADO",
+   "MIRTT",
+   "500",
+   "O",
+   "1789",
+   "SL",
+   "0125126"
+  ],
+  "crop_wh": [
+   776,
+   938
+  ],
+  "sharpness": 26.4,
+  "ocr_s": 0.21
+ },
+ "f036.jpg": {
+  "n_lines": 10,
+  "box": [
+   954,
+   680,
+   1728,
+   1619
+  ],
+  "level": "digits",
+  "lines": [
+   "1789",
+   "0125126"
+  ],
+  "all_lines": [
+   "HACLNDADO",
+   "HACENDADO",
+   "RN",
+   "0.00",
+   "500",
+   "ERE",
+   "A0",
+   "1789",
+   "SL",
+   "0125126"
+  ],
+  "crop_wh": [
+   774,
+   939
+  ],
+  "sharpness": 26.1,
+  "ocr_s": 0.21
+ }
+}

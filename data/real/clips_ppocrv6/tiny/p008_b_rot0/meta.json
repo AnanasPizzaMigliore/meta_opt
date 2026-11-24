@@ -1,0 +1,278 @@
+{
+ "f000.jpg": {
+  "n_lines": 22,
+  "box": [
+   1237,
+   981,
+   1491,
+   1225
+  ],
+  "level": "date",
+  "lines": [
+   "C02-60-88"
+  ],
+  "all_lines": [
+   "TURAIM",
+   "Buritos",
+   "LALONAOOA TEMPERO",
+   "Fajitas",
+   "屋",
+   "财S99R2",
+   "TOS",
+   "ATT虹",
+   "ROX",
+   "EVINDAN",
+   "1,2",
+   "30c",
+   "0,90c",
+   "peP",
+   "C02-60-88",
+   "826",
+   "RTILEAS",
+   "FSPIHE",
+   "alCo",
+   "10",
+   "T",
+   "1e.dod, 13"
+  ],
+  "crop_wh": [
+   254,
+   244
+  ],
+  "sharpness": 121.2,
+  "ocr_s": 0.24
+ },
+ "f006.jpg": {
+  "n_lines": 15,
+  "box": [
+   1159,
+   550,
+   1488,
+   879
+  ],
+  "level": "date",
+  "lines": [
+   "6202-60-82"
+  ],
+  "all_lines": [
+   "Ato",
+   "vitos",
+   "Fajitas",
+   "OX",
+   "KINBADO",
+   "6202-60-82",
+   "0,90€",
+   "PSP1HE 8260927",
+   "MO",
+   "S",
+   "qee.dod. 13",
+   "6 TORTILLAS",
+   "AVENAAVEIA",
+   "MINT",
+   "121OR"
+  ],
+  "crop_wh": [
+   329,
+   329
+  ],
+  "sharpness": 66.7,
+  "ocr_s": 0.23
+ },
+ "f012.jpg": {
+  "n_lines": 19,
+  "box": [
+   1172,
+   554,
+   1496,
+   878
+  ],
+  "level": "date",
+  "lines": [
+   "6202-60-82"
+  ],
+  "all_lines": [
+   "tritos",
+   "Fajitas",
+   "AIONADORTEMZUAD",
+   "Tam",
+   "OX",
+   "ENPM",
+   "6202-60-82",
+   "0,90€",
+   "PSP1H2 8260927",
+   "del",
+   "514",
+   "uqe1e.dod. 3",
+   "6 TORTILLASL",
+   "AVENAAVEIA S",
+   "园",
+   "RTILLN",
+   "DUGO",
+   "ININ",
+   ""
+  ],
+  "crop_wh": [
+   324,
+   324
+  ],
+  "sharpness": 68.7,
+  "ocr_s": 0.25
+ },
+ "f018.jpg": {
+  "n_lines": 21,
+  "box": [
+   1178,
+   538,
+   1512,
+   872
+  ],
+  "level": "date",
+  "lines": [
+   "6202-60-82"
+  ],
+  "all_lines": [
+   "44",
+   "o\"pop",
+   "Fajitas",
+   "TARDNADORTANPAAO",
+   "uritos",
+   "Tamp",
+   "OX",
+   "LCASW",
+   "6202-60-82",
+   "8260927",
+   "0e",
+   "0,90€",
+   "FSPHE",
+   "edel",
+   "6TORTILLAS",
+   "AVENA AVEIA 5",
+   "MINI",
+   "MINI",
+   "EA",
+   "RTILLA",
+   "T"
+  ],
+  "crop_wh": [
+   334,
+   334
+  ],
+  "sharpness": 66.9,
+  "ocr_s": 0.24
+ },
+ "f024.jpg": {
+  "n_lines": 20,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "o'pop\"",
+   "Pene",
+   "IAZONADDE TIMPIRO",
+   "",
+   "uiritos",
+   "Fajitas",
+   "Tamg",
+   "ROX",
+   "TLVAN",
+   "pRP",
+   "0s",
+   "0,90c",
+   "rdel",
+   "uqe1edod.日",
+   "6 TORTILLAS",
+   "AVENAAVEIA 5",
+   "EH",
+   "MINI",
+   "TILLA",
+   "12rORLAs"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 65.1,
+  "ocr_s": 0.24
+ },
+ "f030.jpg": {
+  "n_lines": 17,
+  "box": [
+   1193,
+   514,
+   1534,
+   856
+  ],
+  "level": "date",
+  "lines": [
+   "6202-60-82"
+  ],
+  "all_lines": [
+   "Avitos",
+   "Fajitas",
+   "tex",
+   "mex",
+   "ROX",
+   "LKASU",
+   "6202-60-82",
+   "FSb1HE 8260927",
+   "0,90c",
+   "edel",
+   "uqe 1e.dod. 3",
+   "6 TORTILLAS",
+   "AVENA AVEIA S",
+   "MINL",
+   "MINI",
+   "RTILLA",
+   "12ORTA"
+  ],
+  "crop_wh": [
+   341,
+   342
+  ],
+  "sharpness": 64.0,
+  "ocr_s": 0.24
+ },
+ "f036.jpg": {
+  "n_lines": 17,
+  "box": [
+   1196,
+   502,
+   1550,
+   855
+  ],
+  "level": "date",
+  "lines": [
+   "6202-60-82"
+  ],
+  "all_lines": [
+   "na",
+   "ritos",
+   "Fajitas",
+   "AZONADOE FEMPERO",
+   "Tamp",
+   "OX",
+   "ENAN",
+   "6202-60-82",
+   "FSP1H2 8260927",
+   "0,90c",
+   "1",
+   "qee.dod. 3",
+   "6 TORTILLAS",
+   "AVENA AVEA S",
+   "RTILLA",
+   "NIINL",
+   "12LA"
+  ],
+  "crop_wh": [
+   354,
+   353
+  ],
+  "sharpness": 62.0,
+  "ocr_s": 0.28
+ }
+}

@@ -1,0 +1,241 @@
+{
+ "f000.jpg": {
+  "n_lines": 27,
+  "box": [
+   568,
+   894,
+   783,
+   1317
+  ],
+  "level": "date",
+  "lines": [
+   "12.12.2027 21.02"
+  ],
+  "all_lines": [
+   "coic",
+   "10%·Ingr",
+   "de revestiment",
+   "entos corantes",
+   "RECHEIO1",
+   " No apt",
+   "curra",
+   "%·Ingredlente",
+   "para niños me",
+   "EETOPESOLQOETWEIGHT",
+   " Patema(Val)",
+   "Comers22 Pa a Tcica",
+   "TROLLI IBÉRICA SAL",
+   "etore (dd.",
+   "prsumir pree d",
+   "nd lumidh",
+   "rotper del an unedad·Pro",
+   "carrot,sweapotato,apples",
+   "oranca e amar",
+   "ger contra o calr e a umic",
+   "FLAW",
+   "re swallowing!",
+   "de·Store away fom heat",
+   "L:036261333",
+   "12.12.2027 21.02",
+   "de los cuales azu",
+   "sugars"
+  ],
+  "crop_wh": [
+   215,
+   423
+  ],
+  "sharpness": 17.6,
+  "ocr_s": 1.69
+ },
+ "f006.jpg": {
+  "n_lines": 9,
+  "box": [
+   856,
+   590,
+   1266,
+   1150
+  ],
+  "level": "date",
+  "lines": [
+   "12.12.2027 21.02",
+   "Best before /Consume"
+  ],
+  "all_lines": [
+   "QHDO·NETW",
+   "(roilis)",
+   "ange",
+   "e",
+   "ge",
+   "12.12.2027 21.02",
+   "Best before /Consume",
+   "L:036261333",
+   "oc"
+  ],
+  "crop_wh": [
+   410,
+   560
+  ],
+  "sharpness": 10.6,
+  "ocr_s": 1.36
+ },
+ "f012.jpg": {
+  "n_lines": 8,
+  "box": [
+   772,
+   8,
+   1222,
+   1130
+  ],
+  "level": "date",
+  "lines": [
+   "12.12.2027 21.02",
+   "umir de preferência",
+   "Best before /Consume"
+  ],
+  "all_lines": [
+   "x (rollis)",
+   "NETWEIGHT",
+   "teger contra o caare a humid",
+   "umir de preferência",
+   "• Store away from heat",
+   "Best before /Consume",
+   "L:036261333",
+   "12.12.2027 21.02"
+  ],
+  "crop_wh": [
+   450,
+   1122
+  ],
+  "sharpness": 6.4,
+  "ocr_s": 1.34
+ },
+ "f018.jpg": {
+  "n_lines": 8,
+  "box": [
+   748,
+   44,
+   1200,
+   1157
+  ],
+  "level": "date",
+  "lines": [
+   "12.12.2027 21:02",
+   "umir de preferência",
+   "Best before/Consume"
+  ],
+  "all_lines": [
+   "O·NETWEIGHT",
+   "",
+   "X (rollis)",
+   "umir de preferência",
+   "Ie· Store away from heat",
+   "Best before/Consume",
+   "L:036261333",
+   "12.12.2027 21:02"
+  ],
+  "crop_wh": [
+   452,
+   1113
+  ],
+  "sharpness": 6.4,
+  "ocr_s": 1.28
+ },
+ "f024.jpg": {
+  "n_lines": 10,
+  "box": [
+   748,
+   47,
+   1196,
+   1161
+  ],
+  "level": "date",
+  "lines": [
+   "12.12.2027 21.02",
+   "umir de preferência",
+   "Best before /Consume"
+  ],
+  "all_lines": [
+   "x (rollis)",
+   "DO·NETWEIGHT",
+   "(Spain)",
+   "Táctica,",
+   "el·Con",
+   "umir de preferência",
+   "Ie· Store away from heat",
+   "Best before /Consume",
+   "L:036261333",
+   "12.12.2027 21.02"
+  ],
+  "crop_wh": [
+   448,
+   1114
+  ],
+  "sharpness": 6.4,
+  "ocr_s": 1.31
+ },
+ "f030.jpg": {
+  "n_lines": 9,
+  "box": [
+   744,
+   25,
+   1198,
+   1155
+  ],
+  "level": "date",
+  "lines": [
+   "12.12.2027 21.02",
+   "umir de preferência",
+   "Bestbefore /Consume"
+  ],
+  "all_lines": [
+   "X (rollis)",
+   "O·NETWEIGHT",
+   "Spain)",
+   "Táctica,",
+   "umir de preferência",
+   "Bestbefore /Consume",
+   "Store away from heat",
+   "L:036261333",
+   "12.12.2027 21.02"
+  ],
+  "crop_wh": [
+   454,
+   1130
+  ],
+  "sharpness": 6.4,
+  "ocr_s": 1.37
+ },
+ "f036.jpg": {
+  "n_lines": 10,
+  "box": [
+   745,
+   9,
+   1203,
+   1155
+  ],
+  "level": "date",
+  "lines": [
+   "12.12.2027 21.02",
+   "umir de preferência",
+   "·Best before /Consume"
+  ],
+  "all_lines": [
+   "X (rollis)",
+   "·NETWEIGHT",
+   "Spain)",
+   "Tactica,",
+   "umir de preferência",
+   "nge",
+   "· Store away from heat",
+   "·Best before /Consume",
+   "L:036261333",
+   "12.12.2027 21.02"
+  ],
+  "crop_wh": [
+   458,
+   1146
+  ],
+  "sharpness": 6.2,
+  "ocr_s": 1.38
+ }
+}

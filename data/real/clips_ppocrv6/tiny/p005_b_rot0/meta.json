@@ -1,0 +1,161 @@
+{
+ "f000.jpg": {
+  "n_lines": 5,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "hanbra",
+   "OICIONAL",
+   "AMSTEL",
+   "CIRVEEA",
+   "Raudle"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 31.1,
+  "ocr_s": 0.23
+ },
+ "f006.jpg": {
+  "n_lines": 5,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "hambra",
+   "GCIONAL",
+   "AMSTEL",
+   "CERVEZA",
+   "Ruite"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 29.7,
+  "ocr_s": 0.21
+ },
+ "f012.jpg": {
+  "n_lines": 5,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Thambra",
+   "SICIONAL",
+   "AMSTEL",
+   "CERYEZA",
+   "Rutite"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 29.6,
+  "ocr_s": 0.21
+ },
+ "f018.jpg": {
+  "n_lines": 4,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "harabra",
+   "OCIONAL",
+   "AMSTEL",
+   "CRVTZA"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 27.4,
+  "ocr_s": 0.21
+ },
+ "f024.jpg": {
+  "n_lines": 2,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "AMSTEL",
+   "CERVEZA"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 26.7,
+  "ocr_s": 0.2
+ },
+ "f030.jpg": {
+  "n_lines": 4,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "harntra",
+   "CIONAL",
+   "AMSTEL",
+   "CERVE"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 25.3,
+  "ocr_s": 0.2
+ },
+ "f036.jpg": {
+  "n_lines": 1,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Mambr"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 24.0,
+  "ocr_s": 0.21
+ }
+}

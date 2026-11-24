@@ -1,0 +1,336 @@
+{
+ "f000.jpg": {
+  "n_lines": 29,
+  "box": [
+   905,
+   1107,
+   1175,
+   1592
+  ],
+  "level": "date",
+  "lines": [
+   "08/12/26102",
+   "FECHA DE CADUCIDAD /LOTE:"
+  ],
+  "all_lines": [
+   "Vienna",
+   "DREMEN",
+   "Vita Do",
+   "Castelo",
+   "1000",
+   "0 C",
+   "wher best page",
+   "ubuntu",
+   "NUTRI-SCORE",
+   "UNIDADES",
+   "KANGAROOS",
+   "4",
+   "OXFORD",
+   "BARCELONA",
+   "sueltas enelgallinero",
+   "THuevos de gallinas",
+   "TURRÓN",
+   "C",
+   " D 10 R 11,1) (nce",
+   "FLAN DE",
+   "19.2",
+   "",
+   "a41",
+   "PERTH",
+   "SPECIAL",
+   "OXFORD",
+   "LR281126HA10",
+   "08/12/26102",
+   "FECHA DE CADUCIDAD /LOTE:"
+  ],
+  "crop_wh": [
+   270,
+   485
+  ],
+  "sharpness": 103.3,
+  "ocr_s": 1.93
+ },
+ "f006.jpg": {
+  "n_lines": 28,
+  "box": [
+   963,
+   1086,
+   1245,
+   1588
+  ],
+  "level": "date",
+  "lines": [
+   "08/12/26102",
+   "FECHA DE CADUCIDAD/LOTE:"
+  ],
+  "all_lines": [
+   "Vienna",
+   "ORUMEN",
+   "Viama Do",
+   "Csstal",
+   "180",
+   "NUTRI-SCORE",
+   "printer censt page",
+   "ubuntu",
+   "KANGAROOS",
+   "pres",
+   "OXFORD",
+   "BARCELONA",
+   "sueltas en el gallinero",
+   "Huevos de gallinas",
+   "TURRÓN",
+   "C",
+   "FLAN DE",
+   "8 aiet S1o bo h9 k070 Pooteaript",
+   "",
+   "23 14:12:11 2025",
+   "P-170",
+   "PERTH",
+   "2023412:102005",
+   "SPECIAL",
+   "ONFORD",
+   "LR281126HA10",
+   "08/12/26102",
+   "FECHA DE CADUCIDAD/LOTE:"
+  ],
+  "crop_wh": [
+   282,
+   502
+  ],
+  "sharpness": 105.1,
+  "ocr_s": 1.77
+ },
+ "f012.jpg": {
+  "n_lines": 26,
+  "box": [
+   964,
+   1052,
+   1251,
+   1517
+  ],
+  "level": "date",
+  "lines": [
+   "08/12/2610",
+   "FECHA DE CADUCIDAD/LOTE:"
+  ],
+  "all_lines": [
+   "Vienna",
+   "OREMETA",
+   "Viara Do",
+   "Castelo",
+   "MUTRI-SCORE",
+   "Printer tent pege",
+   "ubuntu",
+   "KANGAROOS",
+   "",
+   "ONFORD",
+   "sueltas en el gallinero",
+   "THuevos de gallinas",
+   "BARCELONA",
+   "TURRÓN",
+   "S",
+   "FLAN DE",
+   "17 11-9",
+   "IGS.RO",
+   "made aid adt  Laveobet 10 chlos ht Mst0 hatactips",
+   "SPECIAL",
+   "PERTH",
+   "40",
+   "OXFORD",
+   "LR281126HA10",
+   "08/12/2610",
+   "FECHA DE CADUCIDAD/LOTE:"
+  ],
+  "crop_wh": [
+   287,
+   465
+  ],
+  "sharpness": 103.6,
+  "ocr_s": 1.66
+ },
+ "f018.jpg": {
+  "n_lines": 27,
+  "box": [
+   975,
+   855,
+   1265,
+   1361
+  ],
+  "level": "date",
+  "lines": [
+   "08/12/26102",
+   "FECHA DE CADUCIDAD/LOTE:"
+  ],
+  "all_lines": [
+   "MUTD",
+   "Vienna",
+   "DREMEN",
+   "Viom Do",
+   "Castalo",
+   "sueltas en el gallinero",
+   "Huevos de gallinas",
+   "TURRÓN",
+   "Prister best page",
+   "ubuntu",
+   "FLAN DE",
+   "KANGAROOS",
+   "n",
+   "OXFORD",
+   "SPECIAL",
+   "BARCELONA",
+   "01.121.50 1",
+   "Sale asd Node: t Labertat 1oe polar sy ns10 Post ptrapt",
+   "M",
+   "",
+   "PERTH",
+   "otell",
+   "OXFORD",
+   "务",
+   "LR281126HA10",
+   "08/12/26102",
+   "FECHA DE CADUCIDAD/LOTE:"
+  ],
+  "crop_wh": [
+   290,
+   506
+  ],
+  "sharpness": 91.3,
+  "ocr_s": 1.72
+ },
+ "f024.jpg": {
+  "n_lines": 19,
+  "box": [
+   956,
+   800,
+   1243,
+   1257
+  ],
+  "level": "date",
+  "lines": [
+   "08/12/2610",
+   "FECHA DE CADUCIDAD /LOTE:"
+  ],
+  "all_lines": [
+   "Vienna",
+   "GREMEN",
+   "Viam D",
+   "sueltas en el gallinero",
+   "Huevos de gallinas",
+   "TURRÓN",
+   "Castalo",
+   "FLAN DE",
+   "Ponter tbest page",
+   "ubuntu",
+   "SPECIAL",
+   "KANGAROOS",
+   "OXFORD",
+   "BARCELONA",
+   "0.01 4 1.37 0 4.1 x 21.81 smched",
+   "PERTH",
+   "LR281126HA10",
+   "08/12/2610",
+   "FECHA DE CADUCIDAD /LOTE:"
+  ],
+  "crop_wh": [
+   287,
+   457
+  ],
+  "sharpness": 86.5,
+  "ocr_s": 1.48
+ },
+ "f030.jpg": {
+  "n_lines": 27,
+  "box": [
+   967,
+   778,
+   1266,
+   1260
+  ],
+  "level": "date",
+  "lines": [
+   "08/12/2610",
+   "FECHA DE CADUCIDAD/LOTE:"
+  ],
+  "all_lines": [
+   "Vicnna",
+   "BREMEN",
+   "sueltas en el gallinero",
+   "Huevos de gallinas",
+   "TURRÓN",
+   "S",
+   "Viana Do",
+   "FLAN DE",
+   "Castalo",
+   "Priner test page",
+   "ubuntu",
+   "SPECIAL",
+   "KANGAROOS",
+   "NTAIAON",
+   "OXFORD",
+   "BARCELONA",
+   "1.17 x 4.0  .10 x 11. 3) (nctes",
+   "t Leeles 100 coem  T",
+   " mateles Nod eue Nop lest0 Poatatt lpe",
+   "",
+   "0-70",
+   "PERTH",
+   "240.11",
+   "2001",
+   "LR281126HA10",
+   "08/12/2610",
+   "FECHA DE CADUCIDAD/LOTE:"
+  ],
+  "crop_wh": [
+   299,
+   482
+  ],
+  "sharpness": 85.0,
+  "ocr_s": 1.7
+ },
+ "f036.jpg": {
+  "n_lines": 24,
+  "box": [
+   964,
+   795,
+   1262,
+   1275
+  ],
+  "level": "date",
+  "lines": [
+   "08/12/2610",
+   "FECHA DE CADUCIDAD/LOTE:"
+  ],
+  "all_lines": [
+   "Vienna",
+   "BREMON",
+   "sueltas enelgallinero",
+   "Huevos de gallinas",
+   "TURRÓN",
+   "S",
+   "Viara Do",
+   "FLAN DE",
+   "Castalo",
+   "Prienster lest page",
+   "ubuntu",
+   "SPECIAL",
+   "KANGAROOS",
+   "ONFORD",
+   "BARCELONA",
+   "01",
+   "-25",
+   "",
+   " sa LAsncbe Sn colar npę J0tu Poetecript",
+   "21610:33225",
+   "PERTH",
+   "LR281126HA10",
+   "08/12/2610",
+   "FECHA DE CADUCIDAD/LOTE:"
+  ],
+  "crop_wh": [
+   298,
+   480
+  ],
+  "sharpness": 86.6,
+  "ocr_s": 1.82
+ }
+}

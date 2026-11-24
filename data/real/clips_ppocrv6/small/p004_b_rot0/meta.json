@@ -1,0 +1,309 @@
+{
+ "f000.jpg": {
+  "n_lines": 28,
+  "box": [
+   925,
+   1133,
+   1074,
+   1528
+  ],
+  "level": "date",
+  "lines": [
+   "08/12/2610"
+  ],
+  "all_lines": [
+   "Vienna",
+   "ORCMEN",
+   "Vim Do",
+   "Castel.",
+   "1000",
+   "SHO CEESTG",
+   "wetstpg",
+   "ubuntu",
+   "NUTRI-SCORE",
+   "UNIDADES",
+   "KANGAROOS",
+   "4",
+   "OXFORD",
+   "BARCELONA",
+   "sueltas enel gallinero",
+   "Huevos de gallinas",
+   "TURRÓN",
+   "LD  k  N ",
+   "d-25",
+   "FLAN DE",
+   "35",
+   "PERTH",
+   "92143239",
+   "SPECIAL",
+   "OXFORD",
+   "台",
+   "LR281126HA10",
+   "08/12/2610"
+  ],
+  "crop_wh": [
+   149,
+   395
+  ],
+  "sharpness": 103.3,
+  "ocr_s": 0.5
+ },
+ "f006.jpg": {
+  "n_lines": 21,
+  "box": [
+   991,
+   1117,
+   1131,
+   1517
+  ],
+  "level": "date",
+  "lines": [
+   "08/12/2610"
+  ],
+  "all_lines": [
+   "Vioina",
+   "Viama Do",
+   "Coseal",
+   "减",
+   "NUTRI-SCORE",
+   "Arincar cent page",
+   "ubuntu",
+   "KANGAROOS",
+   "pres",
+   "XFORD",
+   "BARCELONA",
+   "sueltas enelgallinero",
+   "TURRÓN",
+   "FLAN DE",
+   "8 LAbehet So 20 N7 1570 Poosez1gs",
+   "PERTH",
+   "22",
+   "SPECIAL",
+   "ONFORD",
+   "LR281126HA10",
+   "08/12/2610"
+  ],
+  "crop_wh": [
+   140,
+   400
+  ],
+  "sharpness": 105.1,
+  "ocr_s": 0.46
+ },
+ "f012.jpg": {
+  "n_lines": 25,
+  "box": [
+   989,
+   1082,
+   1139,
+   1490
+  ],
+  "level": "date",
+  "lines": [
+   "08/12/2610"
+  ],
+  "all_lines": [
+   "Yienna",
+   "UREMCT",
+   "1",
+   "Viama Do",
+   "Cavel.",
+   "MUTRI-SCORE",
+   "Peinter teit pege",
+   "ubuntu",
+   "KANGAROOS",
+   "PI",
+   "OXFORD",
+   "sueltas enel gallinero",
+   "Juevos degallinas",
+   "BARCELONA",
+   "TURRÓN",
+   "FLAN DE",
+   ".17 00 8 x13.93 taches",
+   "  cl de",
+   " Lavet 1 clos  M Paatecrips",
+   "SPECIAL",
+   "",
+   "PERTH",
+   "OXFORD",
+   "LR281126HA10",
+   "08/12/2610"
+  ],
+  "crop_wh": [
+   150,
+   408
+  ],
+  "sharpness": 103.6,
+  "ocr_s": 0.49
+ },
+ "f018.jpg": {
+  "n_lines": 21,
+  "box": [
+   1000,
+   882,
+   1154,
+   1332
+  ],
+  "level": "date",
+  "lines": [
+   "08/12/26102"
+  ],
+  "all_lines": [
+   "MUTO",
+   "Vienna",
+   "OREMEN",
+   "Viom Do",
+   "Castal",
+   "sueltas en el gallinero",
+   "Huevos de gallinas",
+   "TURRÓN",
+   "Pcistar test page",
+   "ubuntu",
+   "FLAN DE",
+   "KANGAROOS",
+   "OXFORD",
+   "SPECIAL",
+   "BARCELONA",
+   "187170-",
+   "PERTH",
+   "OXFORD",
+   "国",
+   "LR281126HA10",
+   "08/12/26102"
+  ],
+  "crop_wh": [
+   154,
+   450
+  ],
+  "sharpness": 91.3,
+  "ocr_s": 0.48
+ },
+ "f024.jpg": {
+  "n_lines": 20,
+  "box": [
+   979,
+   827,
+   1131,
+   1167
+  ],
+  "level": "date",
+  "lines": [
+   "08/12/26"
+  ],
+  "all_lines": [
+   "Vierna",
+   "BREMEN",
+   "Vim D",
+   "sueltas en el gallinero",
+   "Huevos de gallinas",
+   "TURRÓN",
+   "Castilo",
+   "FLAN DE",
+   "Pimter cest page",
+   "ubuntu",
+   "KANGAROOS",
+   "SPECIAL",
+   "XFORD",
+   "BARCELONA",
+   "A1 Ld a A hes",
+   "2914:313029",
+   "PERTH",
+   "LR281126H A10",
+   "08/12/26",
+   "10"
+  ],
+  "crop_wh": [
+   152,
+   340
+  ],
+  "sharpness": 86.5,
+  "ocr_s": 0.49
+ },
+ "f030.jpg": {
+  "n_lines": 23,
+  "box": [
+   996,
+   809,
+   1145,
+   1157
+  ],
+  "level": "date",
+  "lines": [
+   "08/12/26"
+  ],
+  "all_lines": [
+   "Vieane",
+   "BREMEN",
+   "sueltas en el galltinero",
+   "Huevos de gallinas",
+   "TURRÓN",
+   "S",
+   "Viam Do",
+   "口",
+   "FLAN DE",
+   "Castel.",
+   "Printoy test poge",
+   "ubuntu",
+   "SPECIAL",
+   "KANGAROOS",
+   "OXFORD",
+   "BARCELONA",
+   "4.1  4.0 2.0 x 11.3 incbes",
+   "8121",
+   "Le 10 coioete n 10h",
+   "7",
+   "PERTH",
+   "LR281126H A10",
+   "08/12/26"
+  ],
+  "crop_wh": [
+   149,
+   348
+  ],
+  "sharpness": 85.0,
+  "ocr_s": 0.51
+ },
+ "f036.jpg": {
+  "n_lines": 22,
+  "box": [
+   989,
+   824,
+   1147,
+   1254
+  ],
+  "level": "date",
+  "lines": [
+   "08/12/26 10"
+  ],
+  "all_lines": [
+   "Vienna",
+   "BREMON",
+   "sueltas en el gallinero",
+   "Huevos de gallinas",
+   "TURRÓN",
+   "S",
+   "Viama D.",
+   "FLAN DE",
+   "Castelo",
+   "Printer test page",
+   "ubuntu",
+   "SPECIAL",
+   "KANGAROOS",
+   "OXFORD",
+   "BARCELONATI",
+   "te  0 ×(11 Lnchan",
+   "2 Lsncha) 50 celer s 7e Poetacripe",
+   "33:3205",
+   "PERTH",
+   "20-1127",
+   "LR281126HA10",
+   "08/12/26 10"
+  ],
+  "crop_wh": [
+   158,
+   430
+  ],
+  "sharpness": 86.6,
+  "ocr_s": 0.53
+ }
+}

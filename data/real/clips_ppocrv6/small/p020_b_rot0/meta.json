@@ -1,0 +1,290 @@
+{
+ "f000.jpg": {
+  "n_lines": 21,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Ycarorido",
+   "ABCR",
+   "ARACUYÁ",
+   "ACUYÃ",
+   "MARACUVÁ",
+   "ACUJÁ",
+   "MARACUIA",
+   "con acar",
+   "35",
+   "专",
+   "DCENNIDA",
+   "HACENDAD",
+   "HACENDADO",
+   "1,80€",
+   "Ian",
+   "Chaetan",
+   "MELOCOTUN PESSEGU",
+   "IN ALMISAR",
+   "ELOCO",
+   "MELOCOR",
+   "ENALMS"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 166.1,
+  "ocr_s": 0.5
+ },
+ "f006.jpg": {
+  "n_lines": 23,
+  "box": [
+   334,
+   506,
+   430,
+   602
+  ],
+  "level": "digits",
+  "lines": [
+   "公420120"
+  ],
+  "all_lines": [
+   "Ycar ido",
+   "conr acar",
+   "ARACUYÁ",
+   "ACUVÃ",
+   "MARACUVÁ",
+   "ACUJA",
+   "MARACUIA",
+   "S",
+   "品6",
+   "",
+   "公420120",
+   "RUM",
+   "LENDIO",
+   "HACENDADO",
+   "FIan",
+   "1,80€",
+   "1013",
+   "Mammn",
+   "IN ALMEAR",
+   "ELOCO",
+   "ENA",
+   "MELOCOR",
+   "EN ALABN"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 158.9,
+  "ocr_s": 0.46
+ },
+ "f012.jpg": {
+  "n_lines": 22,
+  "box": [
+   357,
+   509,
+   453,
+   605
+  ],
+  "level": "date",
+  "lines": [
+   "18-40.2027"
+  ],
+  "all_lines": [
+   "conu car",
+   "ARACUYÁ",
+   "ACUVÃ",
+   "MARACUYÁ",
+   "迎站",
+   "CUMA",
+   "ACUJA",
+   "MARACUIA",
+   "3",
+   "晚迎",
+   "C726126",
+   "Dsno",
+   "18-40.2027",
+   "HACENDADO",
+   "1,80€",
+   "Cinmou",
+   "O CL",
+   "ENAUMDAR",
+   "ELOCO",
+   "ENA",
+   "MELOCOR",
+   "ENALAM"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 158.6,
+  "ocr_s": 0.46
+ },
+ "f018.jpg": {
+  "n_lines": 16,
+  "box": [
+   328,
+   503,
+   424,
+   599
+  ],
+  "level": "digits",
+  "lines": [
+   "4:39128"
+  ],
+  "all_lines": [
+   "Ycarido",
+   "con aar",
+   "ARACUYÁ",
+   "ACUYÁ",
+   "MARACUVÁ",
+   "ACUJA",
+   "MARACUJA",
+   "4:39128",
+   "HACENDADO",
+   "1,80€",
+   "Manaidu",
+   "MELOCUTUN FESSLGU",
+   "IN AUBAR",
+   "ELOCO",
+   "MELOCOR",
+   "EN ALMR"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 153.4,
+  "ocr_s": 0.43
+ },
+ "f024.jpg": {
+  "n_lines": 20,
+  "box": [
+   334,
+   509,
+   430,
+   605
+  ],
+  "level": "date",
+  "lines": [
+   "19-40-2221"
+  ],
+  "all_lines": [
+   "Ycarido",
+   "con acar",
+   "ARACUYÁ",
+   "ACUVÃ",
+   "MARACUYÁ",
+   "ACUJA",
+   "MARACUJA",
+   "如28",
+   "200",
+   "0130:24",
+   "19-40-2221",
+   "HACENDADO",
+   "FIan",
+   "1.80€",
+   "广",
+   "MELOCOTON PESSEGO",
+   "IN ALMRAR",
+   "ELOCO",
+   "MELOCO",
+   "ENALAS"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 148.8,
+  "ocr_s": 0.46
+ },
+ "f030.jpg": {
+  "n_lines": 21,
+  "box": [
+   347,
+   513,
+   443,
+   609
+  ],
+  "level": "date",
+  "lines": [
+   "18-09:2127"
+  ],
+  "all_lines": [
+   "carnio",
+   "con acar",
+   "AGOR",
+   "ARACUVÁ",
+   "ACUYÃ",
+   "MARACUYÁ",
+   "ACUJA",
+   "MARACUJA",
+   "0028",
+   "8",
+   "0128 261",
+   "MM",
+   "18-09:2127",
+   "HACENDADO",
+   "FIan",
+   "1,80€",
+   "Ontn",
+   "IN ALMIDAR",
+   "ELOCO",
+   "MELOCO",
+   "ENALMIR"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 150.0,
+  "ocr_s": 0.46
+ },
+ "f036.jpg": {
+  "n_lines": 19,
+  "box": [
+   326,
+   452,
+   484,
+   602
+  ],
+  "level": "digits",
+  "lines": [
+   "10020028",
+   "1600907"
+  ],
+  "all_lines": [
+   "Ycar uid",
+   "conr acar",
+   "ARACUYÁ",
+   "ACUYÃ",
+   "MARACUYÁ",
+   "ACUJA",
+   "MARACUJA",
+   "D",
+   "2",
+   "10020028",
+   "1600907",
+   "HACENDADO",
+   "FIan",
+   "1,80€",
+   "nncal",
+   "INAMIAR",
+   "ELOCO",
+   "MELOCOT",
+   "EN ALAMD"
+  ],
+  "crop_wh": [
+   158,
+   150
+  ],
+  "sharpness": 147.7,
+  "ocr_s": 0.45
+ }
+}

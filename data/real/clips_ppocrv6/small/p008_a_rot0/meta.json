@@ -1,0 +1,343 @@
+{
+ "f000.jpg": {
+  "n_lines": 28,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "2,65c",
+   "Burritos",
+   "Fajitas",
+   "SAZONADOR TEMPERO",
+   "tex",
+   "tex",
+   "mex",
+   "mex",
+   "OX",
+   "HACENDADO",
+   "CALAPuIOS",
+   "2",
+   "EOD",
+   "HACENDADO",
+   "1,65c",
+   "SAZCNADORHAJIIA",
+   "1,30€",
+   "0,90€",
+   "FOORiLD",
+   "116D",
+   "TORT",
+   "AS",
+   "ORTILLAS",
+   "TRIGO",
+   "KKESEO",
+   "10",
+   "TO",
+   "DEMAÍZ/MILHO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 217.7,
+  "ocr_s": 0.5
+ },
+ "f006.jpg": {
+  "n_lines": 22,
+  "box": [
+   999,
+   814,
+   1251,
+   1089
+  ],
+  "level": "digits",
+  "lines": [
+   "289-00-029",
+   "L260128 H1454"
+  ],
+  "all_lines": [
+   "三面",
+   "语",
+   "HACENDADO",
+   "1.25",
+   "1,65€",
+   "TURTILLAS DE",
+   "VENA AVEIA 51%",
+   "Wnges",
+   "289-00-029",
+   "TORTILLAS DE",
+   "INA AVER50",
+   "1.85",
+   "L260128 H1454",
+   "ORT",
+   "TOTILAS",
+   "dod,13",
+   "TRIGO",
+   "TORTILLAS",
+   "TORTILLAS",
+   "12",
+   "MINI",
+   "1.65"
+  ],
+  "crop_wh": [
+   252,
+   275
+  ],
+  "sharpness": 132.5,
+  "ocr_s": 0.45
+ },
+ "f012.jpg": {
+  "n_lines": 34,
+  "box": [
+   584,
+   643,
+   819,
+   750
+  ],
+  "level": "digits",
+  "lines": [
+   "27.5020"
+  ],
+  "all_lines": [
+   "中",
+   "ONLON",
+   "MARDOAN",
+   "L",
+   "VERAD",
+   "A  BERTO",
+   "NCL  AETO",
+   "Aa",
+   " ADERTOI ABEMTOR",
+   "POM",
+   "SALSX",
+   "HEXUCAU",
+   "LAPESOS",
+   "22",
+   "HACENDADO",
+   "1,25c",
+   "1,65€",
+   "RTILLAS DE",
+   "27.5020",
+   "AVEIA51%",
+   "2890-29",
+   "SDE",
+   "51",
+   "L260128 2454",
+   "1,85",
+   "TLAS",
+   "ORT",
+   "A",
+   "RTILLAS",
+   "TRIGO",
+   "TAS",
+   "TORTILL",
+   "MINI",
+   "1.65"
+  ],
+  "crop_wh": [
+   235,
+   107
+  ],
+  "sharpness": 176.2,
+  "ocr_s": 0.53
+ },
+ "f018.jpg": {
+  "n_lines": 33,
+  "box": [
+   1124,
+   737,
+   1283,
+   895
+  ],
+  "level": "date",
+  "lines": [
+   "289-0-29"
+  ],
+  "all_lines": [
+   "ACHCTB3A6",
+   "LISR",
+   "LUETOASE",
+   "ETURA FACL  ABIERTO",
+   "OL 2 ABGTO",
+   "MO",
+   "2 ABERTOI rABERS",
+   "SALSI",
+   "CALAPEIOS",
+   "IN",
+   "DIUE",
+   "HACENDADO",
+   "1,25",
+   "1,65€",
+   "289-0-29",
+   "L26028 221454",
+   "ASDE",
+   "AVEIAS1",
+   "1.65",
+   "ORT",
+   "TUNTILAS",
+   "RTILLAS",
+   "TRIGO",
+   "12",
+   "MINI",
+   "RTILLB",
+   "RIGE",
+   "12",
+   "MINI",
+   "RTILL",
+   "12",
+   "MINI",
+   "1.05"
+  ],
+  "crop_wh": [
+   159,
+   158
+  ],
+  "sharpness": 197.8,
+  "ocr_s": 0.51
+ },
+ "f024.jpg": {
+  "n_lines": 29,
+  "box": [
+   500,
+   820,
+   743,
+   938
+  ],
+  "level": "digits",
+  "lines": [
+   "LROP27.50."
+  ],
+  "all_lines": [
+   "SALOK",
+   "NEXDOAN",
+   "KUG",
+   "LOVg",
+   "LED",
+   "OBER",
+   "2ARTO",
+   "AAN",
+   "ABERTOIADEITUA",
+   "BALSA",
+   "MCSIOANA",
+   "1,25",
+   "HACENDADO",
+   "1,65€",
+   "LAS DE",
+   "51%",
+   "2",
+   "LROP27.50.",
+   "280-29",
+   "L2608 1454",
+   "TORTILLAS DE",
+   "185",
+   "AVENAAVEIA S1",
+   "HACENDADO",
+   "TILAS",
+   "85",
+   "12",
+   "ORTILLAS",
+   "RTILLA"
+  ],
+  "crop_wh": [
+   243,
+   118
+  ],
+  "sharpness": 208.6,
+  "ocr_s": 0.5
+ },
+ "f030.jpg": {
+  "n_lines": 25,
+  "box": [
+   983,
+   854,
+   1167,
+   1063
+  ],
+  "level": "digits",
+  "lines": [
+   "280-0-029",
+   "L26028 211454"
+  ],
+  "all_lines": [
+   "豆醇",
+   "SALOA",
+   "REXIGAN",
+   "CNTEA",
+   "TUNASD",
+   "WTOT",
+   "UETO",
+   "2ADERTO",
+   "",
+   "ABERTOIABERTI",
+   "K7AN",
+   "1,25",
+   "HACENDADO",
+   "ASDE",
+   "1,65€",
+   "51%",
+   "280-0-029",
+   "L26028 211454",
+   "ORTILLAS DE",
+   "1.85",
+   "AVENA/AVEIA 51%",
+   "KEMIMDU",
+   "TLCILAS",
+   "TORTILLAS",
+   "TORTILL"
+  ],
+  "crop_wh": [
+   184,
+   209
+  ],
+  "sharpness": 219.8,
+  "ocr_s": 0.48
+ },
+ "f036.jpg": {
+  "n_lines": 23,
+  "box": [
+   485,
+   879,
+   727,
+   998
+  ],
+  "level": "digits",
+  "lines": [
+   "R27,56"
+  ],
+  "all_lines": [
+   "OALAN",
+   "MERSOAW",
+   "TUN",
+   "",
+   "人",
+   "OL2ABITI",
+   "AN",
+   "2 ABERTOIABEITUZAN",
+   "SALS",
+   "1,25",
+   "HACENDADO",
+   "LASDE",
+   "1,65€",
+   "A51%",
+   "R27,56",
+   "280-0-029",
+   "L76028 21454",
+   "dod,13",
+   "OMTILLAS DE",
+   "AVENA AVEIA 51%",
+   "TLLAS",
+   "856",
+   "M2"
+  ],
+  "crop_wh": [
+   242,
+   119
+  ],
+  "sharpness": 220.6,
+  "ocr_s": 0.46
+ }
+}

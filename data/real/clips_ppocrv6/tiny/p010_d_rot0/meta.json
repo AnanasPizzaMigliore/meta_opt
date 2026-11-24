@@ -1,0 +1,331 @@
+{
+ "f000.jpg": {
+  "n_lines": 21,
+  "box": [
+   661,
+   1036,
+   812,
+   1148
+  ],
+  "level": "digits",
+  "lines": [
+   "04 03 27",
+   "L308 312100 50 M1"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "1J0ee",
+   "3",
+   "IEeO",
+   "R4CENDADO",
+   "HACEADADO",
+   "BACEYM0",
+   "LAS DE",
+   "国0",
+   "AS",
+   "EIA 51%",
+   "04 03 27",
+   "L308 312100 50 M1",
+   "NAU",
+   "aps",
+   "208g",
+   "RTILLAS DE",
+   "A/AVEIA 5",
+   "OTILLAS",
+   "RTILLASRIGOXL",
+   "JOoXL"
+  ],
+  "crop_wh": [
+   151,
+   112
+  ],
+  "sharpness": 278.4,
+  "ocr_s": 0.23
+ },
+ "f006.jpg": {
+  "n_lines": 29,
+  "box": [
+   746,
+   982,
+   893,
+   1090
+  ],
+  "level": "digits",
+  "lines": [
+   "04 03 27",
+   "L30831 21 00 50 M1"
+  ],
+  "all_lines": [
+   "LACEADODO",
+   "1Jod",
+   "OUE3O",
+   "RO2c",
+   "ILCENDLDO",
+   "HHCENTHDO",
+   "3全",
+   "ETE",
+   "",
+   "RTILLAS DE",
+   "BACEDUN",
+   "200",
+   "2aO",
+   "A AVEIA 51%",
+   "AS",
+   "519",
+   "04 03 27",
+   "109",
+   "L30831 21 00 50 M1",
+   "wraps",
+   "0",
+   "208g",
+   "NAU",
+   "6 TORTILLAS DE",
+   "AVENA/AVEIA",
+   "NTILLAS",
+   "UNID",
+   "TILLASRIGOXL",
+   "RIGoXL"
+  ],
+  "crop_wh": [
+   147,
+   108
+  ],
+  "sharpness": 273.1,
+  "ocr_s": 0.26
+ },
+ "f012.jpg": {
+  "n_lines": 32,
+  "box": [
+   762,
+   937,
+   909,
+   1047
+  ],
+  "level": "digits",
+  "lines": [
+   "04 0327",
+   "L308 31210050 M1"
+  ],
+  "all_lines": [
+   "130d",
+   "L3A",
+   "Uc3O",
+   "U0CE",
+   "ILACENDADO",
+   "健EETaGrA",
+   "HACENDKDO",
+   "S3全",
+   "R9",
+   "1",
+   "RTILLAS DE",
+   "0.",
+   "O",
+   "BAEZHO",
+   "ético/Energia",
+   "A AVEIA 51%",
+   "1",
+   "41",
+   "04 0327",
+   "L308 31210050 M1",
+   "睡章",
+   "wraps",
+   "-2089",
+   "NAU",
+   "6 TORTILLAS DE",
+   "AVENA/AVEIA",
+   "TILLAS",
+   "SUNIDA",
+   "7",
+   "TILLASRIGoXL",
+   "RIaoXL",
+   "TILL"
+  ],
+  "crop_wh": [
+   147,
+   110
+  ],
+  "sharpness": 277.1,
+  "ocr_s": 0.26
+ },
+ "f018.jpg": {
+  "n_lines": 25,
+  "box": [
+   744,
+   948,
+   894,
+   1058
+  ],
+  "level": "digits",
+  "lines": [
+   "04 0327",
+   "L30831210050 41"
+  ],
+  "all_lines": [
+   "LAENDAOO",
+   "1od",
+   "AUr30",
+   "SALOA",
+   "姚P装3",
+   "2Ehnuy",
+   "HACENDADO",
+   "ETOI'N",
+   "MNCENDADO",
+   "ILLAS DE",
+   "配C'",
+   "BACDUN",
+   "200",
+   "AVEIA 510%",
+   "04 0327",
+   "L30831210050 41",
+   "wraps",
+   "208g",
+   "NAU",
+   "CEA",
+   "6 TORTILLAS DE",
+   "AVENA/AVEIA",
+   "TILLAS",
+   "TILLASRIGOXL",
+   "RIaoXL"
+  ],
+  "crop_wh": [
+   150,
+   110
+  ],
+  "sharpness": 278.0,
+  "ocr_s": 0.25
+ },
+ "f024.jpg": {
+  "n_lines": 23,
+  "box": [
+   736,
+   942,
+   884,
+   1052
+  ],
+  "level": "digits",
+  "lines": [
+   "04 0327",
+   "L3031210050 M1"
+  ],
+  "all_lines": [
+   "ACENDAIDO",
+   "13oe",
+   "H4CENDADO",
+   "ATDIP建",
+   "LACENDADO",
+   "ha",
+   "o",
+   "BACEDLN",
+   "TILLAS DE",
+   "K",
+   "AVEIA 51%",
+   "04 0327",
+   "L3031210050 M1",
+   "wraps",
+   "208g",
+   "NAU",
+   "BA2OP",
+   "6 TORTILLAS DE",
+   "AVENA/AVELA",
+   "TILLAS",
+   "SUNID",
+   "TILLARIGOXL",
+   "uaoXL"
+  ],
+  "crop_wh": [
+   148,
+   110
+  ],
+  "sharpness": 275.1,
+  "ocr_s": 0.24
+ },
+ "f030.jpg": {
+  "n_lines": 21,
+  "box": [
+   738,
+   924,
+   890,
+   1036
+  ],
+  "level": "digits",
+  "lines": [
+   "04 0327",
+   "L30312100 50 M1"
+  ],
+  "all_lines": [
+   "110d",
+   "RAKLNIADD",
+   "RACENDMDO",
+   "P",
+   "200",
+   "acE2o",
+   "EACEDLD",
+   "ILLAS DE",
+   "AVEIA 51%",
+   "04 0327",
+   "OLS",
+   "L30312100 50 M1",
+   "208g",
+   "wraps",
+   "NAU",
+   "TORTILLAS DE",
+   "VENA/AVEIA",
+   "TILLAS",
+   "RIGoXL",
+   "TILLA",
+   "uoXL"
+  ],
+  "crop_wh": [
+   152,
+   112
+  ],
+  "sharpness": 272.9,
+  "ocr_s": 0.24
+ },
+ "f036.jpg": {
+  "n_lines": 24,
+  "box": [
+   746,
+   918,
+   896,
+   1028
+  ],
+  "level": "digits",
+  "lines": [
+   "04 03 27",
+   "L308 3121:00 50 M1"
+  ],
+  "all_lines": [
+   "13od",
+   "S2ry",
+   "HACENDADO",
+   "VO",
+   "0",
+   "H4CENDADO",
+   "4",
+   "ao",
+   "269",
+   "BACEDNN",
+   "TILLAS DE",
+   "AVEIA 51%",
+   "41司",
+   "04 03 27",
+   "L308 3121:00 50 M1",
+   "208g",
+   "wraps",
+   "NAU",
+   "R甲",
+   "6 TORTILLAS DE",
+   "IVENA/AVEIN",
+   "TILLAS",
+   "TILLASRIGOXL",
+   "RuaoXL"
+  ],
+  "crop_wh": [
+   150,
+   110
+  ],
+  "sharpness": 271.3,
+  "ocr_s": 0.24
+ }
+}

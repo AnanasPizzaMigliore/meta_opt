@@ -1,0 +1,290 @@
+{
+ "f000.jpg": {
+  "n_lines": 27,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "o",
+   "SSAHO",
+   "SEMENTES",
+   "100",
+   "LINO NO",
+   "HACENDADO",
+   "SEMILLAS",
+   "SALDAE",
+   "UINOdardo",
+   "SEMENTES",
+   "IVNWD",
+   "UINHAÇA dourto",
+   "网",
+   "SESAMO",
+   "DEMADA",
+   "ADA",
+   "146e",
+   "310s",
+   "S0",
+   "UNN",
+   "tekk",
+   "264",
+   "27nef",
+   "270c",
+   "",
+   "3,40c",
+   "FE"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 232.8,
+  "ocr_s": 0.24
+ },
+ "f006.jpg": {
+  "n_lines": 8,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "LINOG",
+   "SEMILLAS",
+   "SEMENTES",
+   "DO",
+   "UHA",
+   "AGA",
+   "270",
+   "10o"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 108.5,
+  "ocr_s": 0.22
+ },
+ "f012.jpg": {
+  "n_lines": 18,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "LINO 10",
+   "SEMILLAS",
+   "SEMENTES",
+   "UINO derth",
+   "UNHAÇA douoda",
+   "146e",
+   "23",
+   "STACIOP",
+   "28",
+   "270",
+   "270k",
+   "VTA",
+   "2.95c",
+   "15I",
+   "TOSTADO",
+   "PISTACHO",
+   "PISTACIO",
+   "TOSTnD0 SAL"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 230.7,
+  "ocr_s": 0.24
+ },
+ "f018.jpg": {
+  "n_lines": 18,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "LINO 0",
+   "HACENDADO",
+   "SEMILLAS",
+   "UNO cunto",
+   "SEMENTES",
+   "TUVO",
+   "UNHAÇA dounds",
+   "146e",
+   "119",
+   "13",
+   "STACIO",
+   "2O",
+   "270",
+   "270c",
+   "2.95.",
+   "TOSTADO",
+   "PISTACHO",
+   "PISTACIO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 226.9,
+  "ocr_s": 0.24
+ },
+ "f024.jpg": {
+  "n_lines": 25,
+  "box": [
+   565,
+   825,
+   673,
+   921
+  ],
+  "level": "digits",
+  "lines": [
+   "00500220"
+  ],
+  "all_lines": [
+   "LINO1O",
+   "109",
+   "HACENDADO",
+   "SEMILLAS",
+   "UNO drads",
+   "SEMENTES",
+   "ToOu",
+   "UNHAÇA douch",
+   "EAMO",
+   "业",
+   "LOKai",
+   "146c",
+   "39.",
+   "1S8",
+   "ISTAGIO",
+   "00500220",
+   "2空",
+   "270",
+   "270s",
+   "14us",
+   "ea",
+   "2,95c",
+   "roaTADO",
+   "PISTACHO",
+   "PiSTACIO"
+  ],
+  "crop_wh": [
+   108,
+   96
+  ],
+  "sharpness": 234.7,
+  "ocr_s": 0.26
+ },
+ "f030.jpg": {
+  "n_lines": 24,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "10g",
+   "LINO O",
+   "HACENDADO",
+   "SEMILLAS",
+   "LINO dordo",
+   "SEMENTES",
+   "UNHAÇA douato",
+   "SANO",
+   "饭",
+   "JDn",
+   "146c",
+   "19",
+   "",
+   "STACIO",
+   "270",
+   "270e",
+   "A",
+   "US",
+   "2",
+   "AE",
+   "2,95c",
+   "TOSIADO",
+   "PISTACHO",
+   "PISTAC1O"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 234.6,
+  "ocr_s": 0.24
+ },
+ "f036.jpg": {
+  "n_lines": 33,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "LINO1O",
+   "10g",
+   "IACENDADO",
+   "SEMILLAS",
+   "LUINO dornoe",
+   "SEMENTES",
+   "UNHAÇA dounts",
+   "",
+   "SE5A4",
+   "AONC",
+   "1.46e",
+   "19",
+   "30",
+   "001",
+   "77VW",
+   "STACIO,",
+   "88",
+   "270",
+   "250",
+   "270c",
+   "1E",
+   "1n0",
+   "",
+   "0",
+   "0",
+   "0",
+   "SEE",
+   "VOSTADB SAL",
+   "2.95c",
+   "1SIN",
+   "TOSTADO",
+   "PISTACHD",
+   "PISTACIO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 235.8,
+  "ocr_s": 0.27
+ }
+}

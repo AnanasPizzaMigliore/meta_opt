@@ -1,0 +1,222 @@
+{
+ "f000.jpg": {
+  "n_lines": 11,
+  "box": [
+   436,
+   870,
+   573,
+   966
+  ],
+  "level": "digits",
+  "lines": [
+   "10mo 5.82"
+  ],
+  "all_lines": [
+   "175e",
+   "ARLOA",
+   "GUESO",
+   "HACENDADO",
+   "BAZSA",
+   "HACENDADO",
+   "EQUESO",
+   "1,65",
+   "12",
+   "10mo 5.82",
+   "VENA"
+  ],
+  "crop_wh": [
+   137,
+   96
+  ],
+  "sharpness": 127.5,
+  "ocr_s": 0.41
+ },
+ "f006.jpg": {
+  "n_lines": 10,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "175c",
+   "SRLSA",
+   "QUESO",
+   "HACENDADO",
+   "SALSI",
+   "ESO",
+   "OYQUESI",
+   "HACENDADO",
+   "1,65",
+   "ENAY"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 127.0,
+  "ocr_s": 0.4
+ },
+ "f012.jpg": {
+  "n_lines": 12,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "1.75c",
+   "OALSA",
+   "QUESO",
+   "REOM",
+   "HACENDADO",
+   "SALGI",
+   "QYQUESI",
+   "HACENDADO",
+   "21",
+   "1,65",
+   "luro 5pg",
+   "VENAY"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 127.8,
+  "ocr_s": 0.4
+ },
+ "f018.jpg": {
+  "n_lines": 10,
+  "box": [
+   901,
+   562,
+   1614,
+   1035
+  ],
+  "level": "date",
+  "lines": [
+   "20/06/E8892/60/2"
+  ],
+  "all_lines": [
+   "175e",
+   "ARLCA",
+   "QUESO",
+   "HACENDADO",
+   "VIO",
+   "SALOX",
+   "CYQUEBO",
+   "HACENDADO",
+   "20/06/E8892/60/2",
+   "VENAY"
+  ],
+  "crop_wh": [
+   713,
+   473
+  ],
+  "sharpness": 122.7,
+  "ocr_s": 0.39
+ },
+ "f024.jpg": {
+  "n_lines": 10,
+  "box": [
+   905,
+   585,
+   1612,
+   1034
+  ],
+  "level": "date",
+  "lines": [
+   "20/06/2:8892/60/2"
+  ],
+  "all_lines": [
+   "175c",
+   "SALSA",
+   "OUESO",
+   "W",
+   "HACENDADO",
+   "SALP",
+   "HACENDADO",
+   "20/06/2:8892/60/2",
+   "627201202202794",
+   "VENA"
+  ],
+  "crop_wh": [
+   707,
+   449
+  ],
+  "sharpness": 122.1,
+  "ocr_s": 0.39
+ },
+ "f030.jpg": {
+  "n_lines": 10,
+  "box": [
+   904,
+   582,
+   1602,
+   1013
+  ],
+  "level": "date",
+  "lines": [
+   "20/06/0:88 92/60/12"
+  ],
+  "all_lines": [
+   "175c",
+   "SALSA",
+   "TOUESO",
+   "GSN",
+   "HACENDADO",
+   "SAL&",
+   "HACENDADO",
+   "20/06/0:88 92/60/12",
+   "62720220292274",
+   "ENA"
+  ],
+  "crop_wh": [
+   698,
+   431
+  ],
+  "sharpness": 120.9,
+  "ocr_s": 0.39
+ },
+ "f036.jpg": {
+  "n_lines": 14,
+  "box": [
+   912,
+   563,
+   1618,
+   988
+  ],
+  "level": "date",
+  "lines": [
+   "206/8-382/6/12"
+  ],
+  "all_lines": [
+   "175c",
+   "U03",
+   "SILSR",
+   "CUESO",
+   "OSS",
+   "HACENDADO",
+   "SALOI",
+   "Oaa",
+   "CYQUESI",
+   "ECO",
+   "HACENDADO",
+   "206/8-382/6/12",
+   "627202202722022794",
+   "VENA"
+  ],
+  "crop_wh": [
+   706,
+   425
+  ],
+  "sharpness": 118.1,
+  "ocr_s": 0.42
+ }
+}

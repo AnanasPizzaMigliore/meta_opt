@@ -1,0 +1,351 @@
+{
+ "f000.jpg": {
+  "n_lines": 25,
+  "box": [
+   442,
+   951,
+   579,
+   1197
+  ],
+  "level": "date",
+  "lines": [
+   "01.12.26 R 25",
+   "FECHA CROUCIDRD/CONSUMIR ATÉ"
+  ],
+  "all_lines": [
+   "S",
+   "COSTILLA",
+   "ADOBADADE",
+   "CERDOLBERAY",
+   "mOST",
+   "CODILLO",
+   "SEMICOCIDO",
+   "2.86€",
+   "GLUTEN",
+   "SIN/SEM",
+   "SIN/SEM",
+   "0,388kg",
+   "PESO NETO/LIQUIOO.",
+   "01.12.26 R 25",
+   "FECHA CROUCIDRD/CONSUMIR ATÉ",
+   "8,60 €",
+   "PRECIO/PRECO KILO",
+   "3,34€",
+   "LAGRIMITAS AL LIMÓN",
+   "DELICÍAS LIMÃO",
+   "Bmin",
+   "2min",
+   "10533",
+   "363239",
+   "1235003344"
+  ],
+  "crop_wh": [
+   137,
+   246
+  ],
+  "sharpness": 290.3,
+  "ocr_s": 0.51
+ },
+ "f006.jpg": {
+  "n_lines": 31,
+  "box": [
+   744,
+   748,
+   858,
+   980
+  ],
+  "level": "date",
+  "lines": [
+   "01.12.26 R 25.",
+   "FECHA CROUCTDRD/CONSUMIR ATE"
+  ],
+  "all_lines": [
+   "COSTILLA",
+   "CEXDOLBEAN",
+   "GUANCIALE",
+   "TACO",
+   "CODILLO",
+   "SEMICOCIDO",
+   "",
+   "2.860",
+   "",
+   "SIN/SEM",
+   "GLUTEN",
+   "LACTOSE",
+   "SIN/SEM",
+   "ACTOSA",
+   "8,60 €",
+   "PRECIO/PREÇO KILO",
+   "0,388kg",
+   "PESO NETO/LIQUIDO",
+   "01.12.26 R 25.",
+   "FECHA CROUCTDRD/CONSUMIR ATE",
+   "3,34€",
+   "LAGRIMITAS AL LIMÓN",
+   "DELICÍAS LIMÃO",
+   "105338",
+   "L:363239",
+   "2321235003344",
+   "2min",
+   "4",
+   "SOLOMILLO",
+   "min",
+   "ADOBADO"
+  ],
+  "crop_wh": [
+   114,
+   232
+  ],
+  "sharpness": 239.5,
+  "ocr_s": 0.53
+ },
+ "f012.jpg": {
+  "n_lines": 29,
+  "box": [
+   665,
+   682,
+   793,
+   929
+  ],
+  "level": "date",
+  "lines": [
+   "01.12.26 R25.",
+   "FECHA CADUCIORD/CONSUMIR ATE"
+  ],
+  "all_lines": [
+   "COSTILLA",
+   "GUANCIALE",
+   "TACO",
+   "CODILLO",
+   "",
+   "SEMICOCIDO",
+   ".00",
+   "2.86",
+   "LACTOSOSA",
+   "GLUTEN",
+   "SIN/SEM",
+   "SIN/SEM",
+   "PRECIO/PREÇO KILO",
+   "0,388kg",
+   "PESO NETO/LIQUIDO",
+   "01.12.26 R25.",
+   "FECHA CADUCIORD/CONSUMIR ATE",
+   "3,34€",
+   "P.V.P",
+   "8,60 €",
+   "LAGRIMITAS AL LIMÓN",
+   "DELICÍAS LIMÃO",
+   "E",
+   "L:363239",
+   "2321235003344",
+   "105339",
+   "二",
+   "SOLOMILLO",
+   "ADOBADO"
+  ],
+  "crop_wh": [
+   128,
+   247
+  ],
+  "sharpness": 229.4,
+  "ocr_s": 0.51
+ },
+ "f018.jpg": {
+  "n_lines": 28,
+  "box": [
+   657,
+   663,
+   776,
+   904
+  ],
+  "level": "date",
+  "lines": [
+   "01.12.26 R 25.",
+   "FECHA CROUCIDAD/CONSUMIR ATE"
+  ],
+  "all_lines": [
+   "COSTILLA",
+   "GLLANCIALE",
+   "TACO",
+   "CODILLO",
+   "SEMICOCIDO",
+   "1810",
+   "2.86€",
+   "GLUTEN",
+   "SIN/SEM",
+   "8,60 €",
+   "PRECIO/PREÇO KILO",
+   "0,388kg",
+   "PESO NETO/LIQUIDO:",
+   "01.12.26 R 25.",
+   "FECHA CROUCIDAD/CONSUMIR ATE",
+   "3,34€",
+   "P.V.P",
+   "LAGRIMITAS AL LIMÓN",
+   "DELICÍAS LIMÃO",
+   "8min",
+   "国",
+   "L:363239",
+   "105338",
+   "2321235003344",
+   "4",
+   "5min",
+   "SOLOMMILLO",
+   "ADOHRAOO"
+  ],
+  "crop_wh": [
+   119,
+   241
+  ],
+  "sharpness": 229.0,
+  "ocr_s": 0.51
+ },
+ "f024.jpg": {
+  "n_lines": 31,
+  "box": [
+   626,
+   660,
+   754,
+   910
+  ],
+  "level": "date",
+  "lines": [
+   "01.12.26 R 25",
+   "FECHA CADUCIDRO/CONSUMIR ATÉ:"
+  ],
+  "all_lines": [
+   "COSTILLA",
+   "CERDOLERCT",
+   "GUANCIALE",
+   "TACO",
+   "CODILLO",
+   "UL",
+   "SEMICOCIDO",
+   "TOe",
+   "2.860",
+   "SIN/SEM",
+   "GLUTEN",
+   "SIN/SEM",
+   "LACTOSA",
+   "0,388kg",
+   "PESO NETO/LIQUIDO",
+   "01.12.26 R 25",
+   "FECHA CADUCIDRO/CONSUMIR ATÉ:",
+   "3,34€",
+   "P.V.P",
+   "8,60 €",
+   "PRECIO/PRECO KILO",
+   "LAGRIMITAS AL LIMÓN",
+   "DELICÍAS LIMÃO",
+   "8min",
+   "国",
+   "105330",
+   "L:363239",
+   "2321235003344",
+   "5min",
+   "SOLOMILLO",
+   "ADOBADO"
+  ],
+  "crop_wh": [
+   128,
+   250
+  ],
+  "sharpness": 229.6,
+  "ocr_s": 0.52
+ },
+ "f030.jpg": {
+  "n_lines": 25,
+  "box": [
+   629,
+   645,
+   759,
+   896
+  ],
+  "level": "date",
+  "lines": [
+   "01.12.26 R 25.",
+   "FECHA CAOUCTORD/CONSUMIR ATÉ:"
+  ],
+  "all_lines": [
+   "COSTILLA",
+   "CENDOLBERKT",
+   "ADCRADAN",
+   "GUANCIALE",
+   "TACO",
+   "CODILLO",
+   "SEMICOCIDO",
+   "0",
+   "2.06€",
+   "GLUTEN",
+   "SIN/SEM",
+   "PRECIO/PREÇO KILO.",
+   "0.388kg",
+   "PESO NETO/LIQUIDO:",
+   "01.12.26 R 25.",
+   "FECHA CAOUCTORD/CONSUMIR ATÉ:",
+   "3,34€",
+   "P.V.P",
+   "8,60 €",
+   "LAGRIMITAS AL LIMÓN",
+   "DELICÍAS LIMÃO",
+   "L:363239",
+   "105330",
+   "2321235003344",
+   "5min"
+  ],
+  "crop_wh": [
+   130,
+   251
+  ],
+  "sharpness": 226.9,
+  "ocr_s": 0.47
+ },
+ "f036.jpg": {
+  "n_lines": 26,
+  "box": [
+   628,
+   639,
+   754,
+   886
+  ],
+  "level": "date",
+  "lines": [
+   "01.12.26 R 25.",
+   "FECHA CADUCIORD/CONSUMIR ATE"
+  ],
+  "all_lines": [
+   "COSTILIA",
+   "ADORATIDA",
+   "CEXDOUIRC",
+   "OUANCIALE",
+   "TACO",
+   "CODILLO",
+   "SEMICOCIDO",
+   "2.8G0",
+   "GLUTEN",
+   "SIN/SEM",
+   "SIN/SEM",
+   "PRECIO/PREÇO KILO:",
+   "0,388kg",
+   "PESO NETO/LIQUIDO",
+   "01.12.26 R 25.",
+   "FECHA CADUCIORD/CONSUMIR ATE",
+   "3,34€",
+   "P.V.P",
+   "8,60 €",
+   "LAGRIMITAS AL LIMÓN",
+   "DELICÍAS LIMÃO",
+   "L:363239",
+   "105338",
+   "2321235003344",
+   "5min",
+   "ADIONALO"
+  ],
+  "crop_wh": [
+   126,
+   247
+  ],
+  "sharpness": 227.0,
+  "ocr_s": 0.47
+ }
+}

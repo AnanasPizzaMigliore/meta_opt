@@ -1,0 +1,256 @@
+{
+ "f000.jpg": {
+  "n_lines": 19,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "4,95e",
+   "NEGRO",
+   "85%",
+   "GR",
+   "NEGRO",
+   "NEGRO",
+   "NEGR",
+   "5%",
+   "85%",
+   "85%",
+   "85%",
+   "NNEGGRO",
+   "HACENDADO",
+   "HACENDADO",
+   "CLASSIC",
+   "CIC 3 MN",
+   "HACENDADO",
+   "Energético/F",
+   "1,10c"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 134.9,
+  "ocr_s": 0.45
+ },
+ "f006.jpg": {
+  "n_lines": 20,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "NEGRO",
+   "GR",
+   "NEGRO",
+   "85",
+   "NEGRO",
+   "NEGR",
+   "5%",
+   "%",
+   "85",
+   "85%",
+   "858",
+   "NEGRO",
+   "HACENDADO",
+   "HACENDADO",
+   "CLASSIC",
+   "3X",
+   "3X",
+   "HACENDADO",
+   "Energétics",
+   "1,10c"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 126.6,
+  "ocr_s": 0.46
+ },
+ "f012.jpg": {
+  "n_lines": 19,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "NEGRO",
+   "GR",
+   "NEGRO",
+   "85",
+   "NEGRO",
+   "%",
+   "85%",
+   "85%",
+   "828",
+   "NEGRO",
+   "HACENDADO",
+   "HACENDADO",
+   "CLASSIC",
+   "3X",
+   "3x",
+   "HACENDADO",
+   "Energét",
+   "1,10€",
+   ""
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 125.7,
+  "ocr_s": 0.44
+ },
+ "f018.jpg": {
+  "n_lines": 16,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "NEGRO",
+   "GR",
+   "85",
+   "NEGRO",
+   "WNEGRO",
+   "5%",
+   "85%",
+   "85%",
+   "NEGRO",
+   "HACENDADO",
+   "HACENDADO",
+   "CLASSIC",
+   "四",
+   "HACENDADO",
+   "1,10c",
+   "1"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 130.4,
+  "ocr_s": 0.43
+ },
+ "f024.jpg": {
+  "n_lines": 17,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "NEGRO",
+   "85",
+   "GR",
+   "NEGRO",
+   "NEGRO",
+   "5%",
+   "85%",
+   "85%",
+   "NEGRO",
+   "ENDADO",
+   "HACENDADO",
+   "CLASSIC",
+   "3X",
+   "3X",
+   "HACENDADO",
+   "1,10€",
+   ""
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 131.0,
+  "ocr_s": 0.44
+ },
+ "f030.jpg": {
+  "n_lines": 14,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "NEGRO",
+   "85%",
+   "GR",
+   "NEGRO",
+   "WEGRO",
+   "85",
+   "85%",
+   "NEGRO",
+   "HACENDADO",
+   "HACENDADO",
+   "CLASSIC",
+   "DO2MN",
+   "HACENDADO",
+   "1,10€"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 127.1,
+  "ocr_s": 0.43
+ },
+ "f036.jpg": {
+  "n_lines": 16,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "NEGRO",
+   "85%",
+   "GR",
+   "NEGRO",
+   "NEGRO",
+   "85%",
+   "85",
+   "NEGRO",
+   "ENDADO",
+   "HACENDADO",
+   "CLASSIC",
+   "Nesua",
+   "国",
+   "HACENDADO",
+   "1,10€",
+   "DA区"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 126.9,
+  "ocr_s": 0.42
+ }
+}

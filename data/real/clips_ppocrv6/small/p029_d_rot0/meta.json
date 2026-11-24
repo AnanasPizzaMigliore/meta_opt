@@ -1,0 +1,318 @@
+{
+ "f000.jpg": {
+  "n_lines": 25,
+  "box": [
+   1163,
+   1005,
+   1266,
+   1101
+  ],
+  "level": "digits",
+  "lines": [
+   "0.196kg"
+  ],
+  "all_lines": [
+   "zanelli",
+   "zanelli",
+   "295",
+   "Cabra",
+   "Snack",
+   "QUESO-QUETO",
+   "Srack.",
+   "Fatias",
+   "LIOH",
+   "LHT",
+   "2.90€",
+   "0.196kg",
+   "QUESITOS",
+   "35",
+   "Emmental",
+   "HACENDADO",
+   "800500220",
+   "SOEIS3TO",
+   "ENTBEFINARES",
+   "202",
+   "Gouda",
+   "1.95c",
+   "Gouda",
+   "Gouda",
+   "5009"
+  ],
+  "crop_wh": [
+   103,
+   96
+  ],
+  "sharpness": 339.5,
+  "ocr_s": 0.5
+ },
+ "f006.jpg": {
+  "n_lines": 21,
+  "box": [
+   766,
+   990,
+   890,
+   1092
+  ],
+  "level": "digits",
+  "lines": [
+   "800500220",
+   "MERCADONA"
+  ],
+  "all_lines": [
+   "元",
+   "295",
+   "Cabra",
+   "Snack",
+   "QUESO-QULDO",
+   "Fatias",
+   "Snack",
+   "CUESD·(X",
+   "0.196kg",
+   "IGHT",
+   "MERCADONA",
+   "CA",
+   "HACENDADO",
+   "800500220",
+   "ENTREPINARES",
+   "Emmental",
+   "20",
+   "Gouda",
+   "Gouda",
+   "Gouda",
+   "500g"
+  ],
+  "crop_wh": [
+   124,
+   102
+  ],
+  "sharpness": 273.7,
+  "ocr_s": 0.48
+ },
+ "f012.jpg": {
+  "n_lines": 23,
+  "box": [
+   773,
+   992,
+   902,
+   1098
+  ],
+  "level": "digits",
+  "lines": [
+   "800500220",
+   "MERCADONA"
+  ],
+  "all_lines": [
+   "CHEDOAN",
+   "295c",
+   "Cabra",
+   "Snack",
+   "QUSO-QULIO",
+   "Fatias",
+   "Shack",
+   "0,196kg",
+   "0V/a2n",
+   "C",
+   "IDHT",
+   "MERCADONA",
+   "CA",
+   "800500220",
+   "HACENDADO",
+   "ENTREPINARES",
+   "Emmental",
+   "Emmantal",
+   "907",
+   "Gouda",
+   "Gouda",
+   "Gouda",
+   "500g"
+  ],
+  "crop_wh": [
+   129,
+   106
+  ],
+  "sharpness": 289.8,
+  "ocr_s": 0.48
+ },
+ "f018.jpg": {
+  "n_lines": 25,
+  "box": [
+   770,
+   994,
+   897,
+   1100
+  ],
+  "level": "digits",
+  "lines": [
+   "800500220",
+   "MERCADOHA"
+  ],
+  "all_lines": [
+   "CHEDDA",
+   "VRADO",
+   "295c",
+   "Cabra",
+   "Snack",
+   "QUESO-QUETO",
+   "Fatias",
+   "Shack",
+   "三",
+   "QUESO-C0",
+   "2.90€ ",
+   "uen",
+   "0,196kg",
+   "122",
+   "DH",
+   "MERCADOHA",
+   "CA",
+   "800500220",
+   "HACENDADO",
+   "ENTREPINARES",
+   "Emmental",
+   "205",
+   "Gouda",
+   "Gouda",
+   "500g"
+  ],
+  "crop_wh": [
+   127,
+   106
+  ],
+  "sharpness": 300.4,
+  "ocr_s": 0.49
+ },
+ "f024.jpg": {
+  "n_lines": 24,
+  "box": [
+   931,
+   860,
+   1041,
+   1010
+  ],
+  "level": "digits",
+  "lines": [
+   "0,196kg",
+   "015.00"
+  ],
+  "all_lines": [
+   "CHEDOAR",
+   "UIRADO",
+   "295",
+   "Cabra",
+   "Snack.",
+   "QUESO-QLLIO",
+   "Snack",
+   "2.90€ ",
+   "三",
+   "uon",
+   "0,196kg",
+   "015.00",
+   "UHT.",
+   "800500220",
+   "HACENDADO",
+   "ENTREPINARES",
+   "Emmental",
+   "Emmantal",
+   "1.50",
+   "写",
+   "Couda",
+   "Gouda",
+   "Gouda",
+   "500g"
+  ],
+  "crop_wh": [
+   110,
+   150
+  ],
+  "sharpness": 296.7,
+  "ocr_s": 0.46
+ },
+ "f030.jpg": {
+  "n_lines": 23,
+  "box": [
+   758,
+   1000,
+   887,
+   1106
+  ],
+  "level": "digits",
+  "lines": [
+   "800500220",
+   "MERCADONA"
+  ],
+  "all_lines": [
+   "CURADO",
+   "295",
+   "Cabra",
+   "Snack",
+   "QLUEXO-CEEO",
+   "Sxack.",
+   "2.90€ ",
+   "CAS-",
+   "0.196kg",
+   "0V02/2",
+   "LH",
+   "MERCADONA",
+   "CA",
+   "800500220",
+   "HACENDADO",
+   "ENTREPINARES",
+   "Emmental",
+   "Emmontal",
+   "2002",
+   "Gouda",
+   "Gouda",
+   "Gouda",
+   "500g"
+  ],
+  "crop_wh": [
+   129,
+   106
+  ],
+  "sharpness": 301.5,
+  "ocr_s": 0.48
+ },
+ "f036.jpg": {
+  "n_lines": 23,
+  "box": [
+   943,
+   911,
+   1039,
+   1007
+  ],
+  "level": "date",
+  "lines": [
+   "01/02/2"
+  ],
+  "all_lines": [
+   "SHEDDAR",
+   "CURADO",
+   "295c",
+   "Cabra",
+   "Snack",
+   "Fatias",
+   "QUESO-QUEDO",
+   "Srack",
+   "2.90€",
+   "0,196kg",
+   "01/02/2",
+   "E",
+   "csa",
+   "IH",
+   "800500220",
+   "HACENDADO",
+   "ENTREPINARES",
+   "Emmental",
+   "1.50",
+   "2052",
+   "Gouda",
+   "Gouda",
+   "500g"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 304.0,
+  "ocr_s": 0.45
+ }
+}

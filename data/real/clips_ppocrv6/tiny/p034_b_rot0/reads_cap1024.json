@@ -1,0 +1,72 @@
+{
+ "f000.jpg": {
+  "content": "The expiration date on the package reads 2028-07-24.\n{\"year\": 2028, \"month\": 7, \"day\": 24}",
+  "json": {
+   "year": 2028,
+   "month": 7,
+   "day": 24
+  },
+  "latency_s": 0.32,
+  "gen_tokens": 43
+ },
+ "f006.jpg": {
+  "content": "The expiration date on the package reads 2028-07-24.\n{\"year\": 2028, \"month\": 7, \"day\": 24}",
+  "json": {
+   "year": 2028,
+   "month": 7,
+   "day": 24
+  },
+  "latency_s": 0.26,
+  "gen_tokens": 43
+ },
+ "f012.jpg": {
+  "content": "The expiration date on the package reads 2028-07-24.\n{\"year\": 2028, \"month\": 7, \"day\": 24}",
+  "json": {
+   "year": 2028,
+   "month": 7,
+   "day": 24
+  },
+  "latency_s": 0.26,
+  "gen_tokens": 43
+ },
+ "f018.jpg": {
+  "content": "The expiration date on the package reads 2028-07-24.\n{\"year\": 2028, \"month\": 7, \"day\": 24}",
+  "json": {
+   "year": 2028,
+   "month": 7,
+   "day": 24
+  },
+  "latency_s": 0.28,
+  "gen_tokens": 43
+ },
+ "f024.jpg": {
+  "content": "The expiration date on the package reads 2028-07-24.\n{\"year\": 2028, \"month\": 7, \"day\": 24}",
+  "json": {
+   "year": 2028,
+   "month": 7,
+   "day": 24
+  },
+  "latency_s": 0.27,
+  "gen_tokens": 43
+ },
+ "f030.jpg": {
+  "content": "The expiration date on the package reads 2028-07-24.\n{\"year\": 2028, \"month\": 7, \"day\": 24}",
+  "json": {
+   "year": 2028,
+   "month": 7,
+   "day": 24
+  },
+  "latency_s": 0.28,
+  "gen_tokens": 43
+ },
+ "f036.jpg": {
+  "content": "The expiration date on the package reads 2028-07-24.\n{\"year\": 2028, \"month\": 7, \"day\": 24}",
+  "json": {
+   "year": 2028,
+   "month": 7,
+   "day": 24
+  },
+  "latency_s": 0.28,
+  "gen_tokens": 43
+ }
+}

@@ -1,0 +1,321 @@
+{
+ "f000.jpg": {
+  "n_lines": 10,
+  "box": [
+   582,
+   1176,
+   694,
+   1272
+  ],
+  "level": "digits",
+  "lines": [
+   "800500220"
+  ],
+  "all_lines": [
+   "MAUTA SDE POLD",
+   "99",
+   "POLLD",
+   "ROZ",
+   "280ge",
+   "800500220",
+   "CA",
+   "2",
+   "feny   a)",
+   "L"
+  ],
+  "crop_wh": [
+   112,
+   96
+  ],
+  "sharpness": 252.5,
+  "ocr_s": 0.4
+ },
+ "f006.jpg": {
+  "n_lines": 24,
+  "box": [
+   976,
+   987,
+   1097,
+   1089
+  ],
+  "level": "digits",
+  "lines": [
+   "800500220",
+   "MERCAD"
+  ],
+  "all_lines": [
+   "ALTAS DEPIE",
+   "",
+   "B50",
+   "POLLO",
+   "ARROZ",
+   "创FESCISO",
+   "ARROZ",
+   "280ge",
+   "HSCENAO",
+   "IECALS\"RS",
+   "ARROZ",
+   "ARROZ",
+   "800500220",
+   "MERCAD",
+   "CA",
+   "U",
+   "PLATIS TADCIDMALS LA",
+   "ARROZ",
+   " e",
+   "U",
+   "fapelafuesta",
+   "U1",
+   "ENONRA",
+   "2084C0"
+  ],
+  "crop_wh": [
+   121,
+   102
+  ],
+  "sharpness": 276.0,
+  "ocr_s": 0.49
+ },
+ "f012.jpg": {
+  "n_lines": 25,
+  "box": [
+   977,
+   987,
+   1111,
+   1097
+  ],
+  "level": "digits",
+  "lines": [
+   "800500220",
+   "MERCADONA"
+  ],
+  "all_lines": [
+   "AUTA DE POID",
+   "19",
+   "ARROZ",
+   "CIHSO",
+   "280ge",
+   "ARROZ",
+   "BRC>A6服",
+   "Energético/",
+   "ARROZ",
+   "212 kcal",
+   "803A",
+   "800500220",
+   "MERCADONA",
+   "CA",
+   "ARROZ",
+   "0.8",
+   "Ug",
+   "Polipuou edasrial  acie C Se",
+   "PLATUS TRADIGHINALES SA",
+   "Fabricaio por",
+   "Parce  (ea)",
+   "ARROZ",
+   "22",
+   "Eipule/Espaeta",
+   "62g"
+  ],
+  "crop_wh": [
+   134,
+   110
+  ],
+  "sharpness": 361.7,
+  "ocr_s": 0.49
+ },
+ "f018.jpg": {
+  "n_lines": 28,
+  "box": [
+   929,
+   1008,
+   1108,
+   1182
+  ],
+  "level": "digits",
+  "lines": [
+   "800500220",
+   "MERCADONA",
+   "Fabrcada per."
+  ],
+  "all_lines": [
+   "LLO",
+   "DE",
+   "MUTA D POULD",
+   "280ge",
+   "RACENMARO",
+   "BECIAS-RSN",
+   "Energéticol",
+   "ARROZ",
+   "Energla",
+   "8G3A",
+   "250",
+   "800500220",
+   "MERCADONA",
+   "des guak",
+   "ARROZ",
+   "CA",
+   "0Bg",
+   "22g",
+   "PLATOS TRADICSDRALES SA",
+   "Fabrcada per.",
+   " ul  S",
+   "Puceia   Bual (aencia)",
+   "ARROZ",
+   "2",
+   "22g",
+   "Espofa/Ispecha",
+   "E23",
+   "3加"
+  ],
+  "crop_wh": [
+   179,
+   174
+  ],
+  "sharpness": 371.5,
+  "ocr_s": 0.5
+ },
+ "f024.jpg": {
+  "n_lines": 24,
+  "box": [
+   864,
+   1015,
+   1094,
+   1193
+  ],
+  "level": "digits",
+  "lines": [
+   "2508",
+   "800500220",
+   "MERCADON",
+   "Fabricado por"
+  ],
+  "all_lines": [
+   "OLLO",
+   "B",
+   "ARNOZ",
+   "280ge",
+   "ARROZ",
+   "BPCILS\"NSS",
+   "Energétical",
+   "ARROZ",
+   "Energia",
+   "594 kca",
+   "2508",
+   "800500220",
+   "MERCADON",
+   "ARROZ",
+   "08g",
+   "22g",
+   "Polgoe indesal  inco  S-L",
+   "PLATUS TRADICIONALESSA",
+   "Fabricado por",
+   "Pascela (A U Botal (Walencia)",
+   "ARROZ",
+   "Espeda/Espasha",
+   "22",
+   "62g"
+  ],
+  "crop_wh": [
+   230,
+   178
+  ],
+  "sharpness": 373.2,
+  "ocr_s": 0.47
+ },
+ "f030.jpg": {
+  "n_lines": 27,
+  "box": [
+   850,
+   998,
+   1083,
+   1178
+  ],
+  "level": "digits",
+  "lines": [
+   "2501k",
+   "800500220",
+   "MERCADON",
+   "Febricade por"
+  ],
+  "all_lines": [
+   "TIRAS",
+   "LE5A0",
+   "13",
+   "ANROZ",
+   "280ge",
+   "BC",
+   "Emergética/",
+   "Energia",
+   "ARROZ",
+   "212 kcal",
+   "897k",
+   "594 kcal",
+   "2501k",
+   "800500220",
+   "MERCADON",
+   "dos Quak",
+   "-Satursdes",
+   "ARROZ",
+   "a.8g",
+   "PLATOS TRAICHMULIS SA",
+   "Febricade por",
+   "g el  acte  S",
+   "Purcela   uel (zleaia)",
+   "Espela/Espenla",
+   "ARROZ",
+   "22",
+   "6.29"
+  ],
+  "crop_wh": [
+   233,
+   180
+  ],
+  "sharpness": 370.6,
+  "ocr_s": 0.48
+ },
+ "f036.jpg": {
+  "n_lines": 21,
+  "box": [
+   838,
+   1001,
+   1071,
+   1181
+  ],
+  "level": "digits",
+  "lines": [
+   "2501k",
+   "800500220",
+   "MERCADONA",
+   "Eebricade por"
+  ],
+  "all_lines": [
+   "ARROZ",
+   "280ge",
+   "BECSALBEN",
+   "Energla",
+   "ARROZ",
+   "2501k",
+   "800500220",
+   "MERCADONA",
+   "ARROZ",
+   "0.Sg",
+   "Pollgoe   ",
+   "PLATOS TRADICHUMALES SA",
+   "Eebricade por",
+   "be les cuales",
+   "u2g",
+   "Purata   Bolel (Waleaca)",
+   "87",
+   "Espale/Espente",
+   "ARROZ",
+   "21g",
+   "Ug"
+  ],
+  "crop_wh": [
+   233,
+   180
+  ],
+  "sharpness": 363.5,
+  "ocr_s": 0.44
+ }
+}

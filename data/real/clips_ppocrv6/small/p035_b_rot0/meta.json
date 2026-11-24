@@ -1,0 +1,229 @@
+{
+ "f000.jpg": {
+  "n_lines": 21,
+  "box": [
+   568,
+   897,
+   783,
+   1316
+  ],
+  "level": "date",
+  "lines": [
+   "12.12.2027 21:02"
+  ],
+  "all_lines": [
+   "de revestimenty",
+   "chric all",
+   "RECHEIO",
+   "Noapo",
+   "10%·Ingr",
+   "mentos corantes",
+   "150g",
+   "%%·Ingredlente",
+   "CONTENDO NETO · PESO LIDO·NET WEGHT",
+   "TROLU IBÉRICA SAL",
+   "para niños me",
+   "4000 Patme Nalencie a Spain",
+   "Fabricado pore",
+   "Camot, swes potato, apple",
+   "yrup; sugar, dexdra",
+   "oranca e ama",
+   "Trollis)",
+   "contra o caior e a hu",
+   "L:036261333",
+   "12.12.2027 21:02",
+   "de los cual"
+  ],
+  "crop_wh": [
+   215,
+   419
+  ],
+  "sharpness": 17.6,
+  "ocr_s": 0.47
+ },
+ "f006.jpg": {
+  "n_lines": 8,
+  "box": [
+   858,
+   188,
+   1266,
+   1146
+  ],
+  "level": "date",
+  "lines": [
+   "12.12.2027 21.02",
+   "de preferènc",
+   "Best beftore /Consume"
+  ],
+  "all_lines": [
+   "d•Proteger contra o c",
+   "troilis)",
+   "de preferènc",
+   "12.12.2027 21.02",
+   "Best beftore /Consume",
+   "L:036261333",
+   "away trom heat",
+   "OC"
+  ],
+  "crop_wh": [
+   408,
+   958
+  ],
+  "sharpness": 10.6,
+  "ocr_s": 0.37
+ },
+ "f012.jpg": {
+  "n_lines": 8,
+  "box": [
+   771,
+   24,
+   1213,
+   1128
+  ],
+  "level": "date",
+  "lines": [
+   "12.12.2027 21:02",
+   "imir de preferência",
+   "before/Consume"
+  ],
+  "all_lines": [
+   "teger contra o c",
+   "NET WEIGHT",
+   "imir de preferência",
+   "ollis)",
+   "L:036261333",
+   "12.12.2027 21:02",
+   "before/Consume",
+   "heat"
+  ],
+  "crop_wh": [
+   442,
+   1104
+  ],
+  "sharpness": 6.4,
+  "ocr_s": 0.37
+ },
+ "f018.jpg": {
+  "n_lines": 9,
+  "box": [
+   765,
+   78,
+   1106,
+   1137
+  ],
+  "level": "date",
+  "lines": [
+   "12.12.2027 21:02",
+   "imir de preferência"
+  ],
+  "all_lines": [
+   "O·NETWEIGHT",
+   "(Spain)",
+   "Tactica",
+   "l·Con",
+   "teper contra o c",
+   "imir de preferência",
+   "L:036261333",
+   "12.12.2027 21:02",
+   "trom heat"
+  ],
+  "crop_wh": [
+   341,
+   1059
+  ],
+  "sharpness": 6.4,
+  "ocr_s": 0.37
+ },
+ "f024.jpg": {
+  "n_lines": 9,
+  "box": [
+   766,
+   130,
+   1104,
+   1142
+  ],
+  "level": "date",
+  "lines": [
+   "12.12.2027 21.02",
+   "ir de preferência"
+  ],
+  "all_lines": [
+   "DO·NETWEIGHT",
+   "(Spain)",
+   "Tactica",
+   "I·Ca",
+   "rcontraoc",
+   "ir de preferência",
+   "12.12.2027 21.02",
+   "L:036261333",
+   "way from heat"
+  ],
+  "crop_wh": [
+   338,
+   1012
+  ],
+  "sharpness": 6.4,
+  "ocr_s": 0.37
+ },
+ "f030.jpg": {
+  "n_lines": 9,
+  "box": [
+   742,
+   38,
+   1196,
+   1156
+  ],
+  "level": "date",
+  "lines": [
+   "12.12.2027 21.02",
+   "umir de preferéncia",
+   "enst before /Consume"
+  ],
+  "all_lines": [
+   "O·NETWEIGHT",
+   "Spain)",
+   "Tactica,",
+   "contrao",
+   "umir de preferéncia",
+   "L:036261333",
+   "12.12.2027 21.02",
+   "enst before /Consume",
+   "ay from heat"
+  ],
+  "crop_wh": [
+   454,
+   1118
+  ],
+  "sharpness": 6.4,
+  "ocr_s": 0.36
+ },
+ "f036.jpg": {
+  "n_lines": 7,
+  "box": [
+   762,
+   53,
+   1104,
+   1133
+  ],
+  "level": "date",
+  "lines": [
+   "12.12.2027 21.02",
+   "mir de preferêncka"
+  ],
+  "all_lines": [
+   "鲜",
+   "NET WEIGHT",
+   "rcontraoc",
+   "mir de preferêncka",
+   "L:036261333",
+   "12.12.2027 21.02",
+   "way from heat"
+  ],
+  "crop_wh": [
+   342,
+   1080
+  ],
+  "sharpness": 6.2,
+  "ocr_s": 0.38
+ }
+}

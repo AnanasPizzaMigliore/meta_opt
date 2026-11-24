@@ -1,0 +1,209 @@
+{
+ "f000.jpg": {
+  "n_lines": 8,
+  "box": [
+   484,
+   1013,
+   1076,
+   1534
+  ],
+  "level": "digits",
+  "lines": [
+   "221126",
+   "L320070-382100",
+   "R20M11"
+  ],
+  "all_lines": [
+   "AO0sh",
+   "ICEBERG",
+   "LAVADA",
+   "221126",
+   "L320070-382100",
+   "R20M11",
+   "Origen/Origem:",
+   "España/Espanha"
+  ],
+  "crop_wh": [
+   592,
+   521
+  ],
+  "sharpness": 148.7,
+  "ocr_s": 0.4
+ },
+ "f006.jpg": {
+  "n_lines": 7,
+  "box": [
+   801,
+   690,
+   1571,
+   1310
+  ],
+  "level": "digits",
+  "lines": [
+   "221126",
+   "L320070-382100",
+   "R20M11"
+  ],
+  "all_lines": [
+   "ICEBERG",
+   "LAVADA",
+   "221126",
+   "L320070-382100",
+   "R20M11",
+   "Origen/Origem:",
+   "España/Espanha"
+  ],
+  "crop_wh": [
+   770,
+   620
+  ],
+  "sharpness": 22.9,
+  "ocr_s": 0.41
+ },
+ "f012.jpg": {
+  "n_lines": 6,
+  "box": [
+   696,
+   569,
+   1471,
+   1207
+  ],
+  "level": "digits",
+  "lines": [
+   "221126",
+   "L320070-382100",
+   "R20M11"
+  ],
+  "all_lines": [
+   "VADA",
+   "221126",
+   "L320070-382100",
+   "R20M11",
+   "Origen/Origem:",
+   "Espana/Espanha"
+  ],
+  "crop_wh": [
+   775,
+   638
+  ],
+  "sharpness": 37.5,
+  "ocr_s": 0.4
+ },
+ "f018.jpg": {
+  "n_lines": 7,
+  "box": [
+   662,
+   564,
+   1425,
+   1204
+  ],
+  "level": "digits",
+  "lines": [
+   "221126",
+   "L320070-382100",
+   "R20M11"
+  ],
+  "all_lines": [
+   "ICEBEK",
+   "VADA",
+   "221126",
+   "L320070-382100",
+   "R20M11",
+   "Origen/Origem:",
+   "España/Espanha"
+  ],
+  "crop_wh": [
+   763,
+   640
+  ],
+  "sharpness": 43.7,
+  "ocr_s": 0.41
+ },
+ "f024.jpg": {
+  "n_lines": 6,
+  "box": [
+   640,
+   551,
+   1393,
+   1187
+  ],
+  "level": "digits",
+  "lines": [
+   "221126",
+   "L320070-382100",
+   "R20M11"
+  ],
+  "all_lines": [
+   "VADÀ",
+   "221126",
+   "L320070-382100",
+   "R20M11",
+   "Origen/Origem:",
+   "España/Espanha"
+  ],
+  "crop_wh": [
+   753,
+   636
+  ],
+  "sharpness": 47.2,
+  "ocr_s": 0.4
+ },
+ "f030.jpg": {
+  "n_lines": 6,
+  "box": [
+   625,
+   553,
+   1380,
+   1191
+  ],
+  "level": "digits",
+  "lines": [
+   "221126",
+   "L320070-382100",
+   "R20M11"
+  ],
+  "all_lines": [
+   "AVADA",
+   "221126",
+   "L320070-382100",
+   "R20M11",
+   "Origen/Origem:",
+   "España/Espanha"
+  ],
+  "crop_wh": [
+   755,
+   638
+  ],
+  "sharpness": 49.3,
+  "ocr_s": 0.4
+ },
+ "f036.jpg": {
+  "n_lines": 6,
+  "box": [
+   612,
+   566,
+   1361,
+   1204
+  ],
+  "level": "digits",
+  "lines": [
+   "221126",
+   "L320070-382100",
+   "R20M11"
+  ],
+  "all_lines": [
+   "AVADÁ",
+   "221126",
+   "L320070-382100",
+   "R20M11",
+   "Origen/Origem:",
+   "España/Espanha"
+  ],
+  "crop_wh": [
+   749,
+   638
+  ],
+  "sharpness": 50.0,
+  "ocr_s": 0.4
+ }
+}

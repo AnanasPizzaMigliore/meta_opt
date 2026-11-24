@@ -1,0 +1,326 @@
+{
+ "f000.jpg": {
+  "n_lines": 26,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "car id",
+   "ARACUYÁ",
+   "ACUYÃ",
+   "MARACUYÁ",
+   "ARACUJA",
+   "ACUJA",
+   "MARACUJA",
+   "on azcar",
+   "MA",
+   "ENNDA",
+   "HACENDAD",
+   "HACENDADO",
+   "LATINAMARACUYA",
+   "BÁCENDA",
+   "1,80€",
+   "Flan",
+   "103",
+   "",
+   "MELOCOTUN PESSEGU",
+   "OLCALA",
+   "IN ALmiAR",
+   "ELOCO",
+   "IN",
+   "MELOCOT",
+   "ENALA",
+   "ANANAS"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 166.1,
+  "ocr_s": 1.67
+ },
+ "f006.jpg": {
+  "n_lines": 29,
+  "box": [
+   340,
+   510,
+   454,
+   606
+  ],
+  "level": "digits",
+  "lines": [
+   "0426120",
+   "16-002021"
+  ],
+  "all_lines": [
+   "car guido",
+   "on azcar",
+   "ARACUYÁ",
+   "ACUVA",
+   "MARACUYÁ",
+   "ARACUJA",
+   "ACUJA",
+   "MARACUIA",
+   "品",
+   "0426120",
+   "intM",
+   "16-002021",
+   "JICENDInA",
+   "HACEN",
+   "HACENDADO",
+   "Flan",
+   "GELATINAMABACUYA",
+   "MACERDADOTN",
+   "1,80€",
+   "10130",
+   "Cammn",
+   "ANLLOLUTON PESSEGU",
+   "EMTALIA",
+   "IN ALMEAR",
+   "ELOCO",
+   "MELOCOR",
+   "EN ALA",
+   "SEG",
+   "CALI"
+  ],
+  "crop_wh": [
+   114,
+   96
+  ],
+  "sharpness": 158.9,
+  "ocr_s": 1.77
+ },
+ "f012.jpg": {
+  "n_lines": 26,
+  "box": [
+   356,
+   509,
+   452,
+   605
+  ],
+  "level": "date",
+  "lines": [
+   "18-40.2027"
+  ],
+  "all_lines": [
+   "cargid",
+   "on azcar",
+   "ARACUYÁ",
+   "ACUVÁ",
+   "MARACUYÁ",
+   "RACUJA",
+   "ACUJA",
+   "MARACUJA",
+   "08",
+   "6126126 14 81",
+   "0550",
+   "18-40.2027",
+   "ICENDADA",
+   "HACEND",
+   "HACENDADO",
+   "GELATINAMARACUYA",
+   "MACENDAON",
+   "1,80€",
+   "Flan",
+   "70n3",
+   "MELOCOTON PESSEGO",
+   "IN CALCA",
+   "EN ALMDAR",
+   "ELOCO",
+   "MELOCOT",
+   "EN ALA"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 158.6,
+  "ocr_s": 1.72
+ },
+ "f018.jpg": {
+  "n_lines": 25,
+  "box": [
+   356,
+   510,
+   452,
+   606
+  ],
+  "level": "date",
+  "lines": [
+   "18-00-2027"
+  ],
+  "all_lines": [
+   "caruid",
+   "on azcar",
+   "ARACUYÁ",
+   "ACUYÁ",
+   "MARACUYÁ",
+   "RACUIA",
+   "ACUJA",
+   "MARACUJA",
+   "9130129",
+   "18-00-2027",
+   "TAM",
+   "HACENDADO",
+   "Flan",
+   "GELATINAMARACUYA",
+   "MAINAD ",
+   "1,80€",
+   "",
+   "1013",
+   "MELOCOTUN FESSEGO",
+   "IN ALAGBAR",
+   "ELOCO",
+   "IN",
+   "MELOCO",
+   "EN ALM",
+   "SEG"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 153.4,
+  "ocr_s": 1.7
+ },
+ "f024.jpg": {
+  "n_lines": 25,
+  "box": [
+   333,
+   510,
+   429,
+   606
+  ],
+  "level": "date",
+  "lines": [
+   "19-40-1227"
+  ],
+  "all_lines": [
+   "car uid",
+   "on azcar",
+   "ARACUYÁ",
+   "ACUYÃ",
+   "MARACUYÁ",
+   "ARACUIA",
+   "ACUJA",
+   "MARACUJA",
+   "38",
+   "0130124",
+   "PAM",
+   "19-40-1227",
+   "RCENNDA",
+   "Flan",
+   "HACENDADO",
+   "GELATINAMARACUYA",
+   "1,80€",
+   "",
+   "1010",
+   "MELOCOTON PESSEGO",
+   "IN ALMAR",
+   "ELOCO",
+   "IN",
+   "MELOCOR",
+   "EN ALA"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 148.8,
+  "ocr_s": 1.68
+ },
+ "f030.jpg": {
+  "n_lines": 24,
+  "box": [
+   348,
+   513,
+   444,
+   609
+  ],
+  "level": "date",
+  "lines": [
+   "18-09.2027"
+  ],
+  "all_lines": [
+   "carguido",
+   "on azcar",
+   "ARACUYÁ",
+   "ACUYÃ",
+   "MARACUYA",
+   "ARACUJA",
+   "ACUJA",
+   "MARACUJA",
+   "0120261121",
+   "MM",
+   "18-09.2027",
+   "NJM",
+   "HACENDADO",
+   "Flan",
+   "GELATINAMARACUYA",
+   "1,80€",
+   "n",
+   "MELOCOTON PESSEGO",
+   "ENCAA",
+   "INALMIDAR",
+   "ELOCO",
+   "ENA",
+   "MELOCOR",
+   "ENALM"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 150.0,
+  "ocr_s": 1.69
+ },
+ "f036.jpg": {
+  "n_lines": 23,
+  "box": [
+   337,
+   514,
+   433,
+   610
+  ],
+  "level": "date",
+  "lines": [
+   "16.00-0027"
+  ],
+  "all_lines": [
+   "carguido",
+   "on azcar",
+   "ARACUYÁ",
+   "ACUYÃ",
+   "MARACUYÁ",
+   "RACUJA",
+   "ACUJA",
+   "MARACUJA",
+   "0126120",
+   "AUM",
+   "16.00-0027",
+   "CENNIA",
+   "HACENDADO",
+   "Flan",
+   "GELATINAMARACUYA",
+   "1,80€",
+   "",
+   "MELOCOTON PESSEGO",
+   "En GLIA",
+   "EN AU MAR",
+   "ELOCO",
+   "MELOCOT",
+   "ENALA"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 147.7,
+  "ocr_s": 1.66
+ }
+}

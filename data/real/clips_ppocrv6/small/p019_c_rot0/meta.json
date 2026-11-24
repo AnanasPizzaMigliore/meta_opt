@@ -1,0 +1,266 @@
+{
+ "f000.jpg": {
+  "n_lines": 18,
+  "box": [
+   767,
+   499,
+   863,
+   595
+  ],
+  "level": "digits",
+  "lines": [
+   "1780"
+  ],
+  "all_lines": [
+   "Flan",
+   "HACENDADO",
+   "HACENDADO",
+   "MAICUYA",
+   "EREOA",
+   "CEREA",
+   "1780",
+   "180k",
+   "INENDADO",
+   "GELATINA  SABOR",
+   "ILACENDADO",
+   "CEREA",
+   "180€",
+   "MELOCOTÓN",
+   "EN ALMIBAR",
+   "6 x 840 G.",
+   "1,95c",
+   "IIACENDADO"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 307.1,
+  "ocr_s": 0.43
+ },
+ "f006.jpg": {
+  "n_lines": 16,
+  "box": [
+   124,
+   1174,
+   409,
+   1380
+  ],
+  "level": "digits",
+  "lines": [
+   "6 x 840 G."
+  ],
+  "all_lines": [
+   "Flan",
+   "FIACENDADO",
+   "HACENDADO",
+   "REOA",
+   "CEREA",
+   "180c",
+   "INENDADO",
+   "HACENDADO",
+   "HACENDADO",
+   "CEREOA",
+   "180€",
+   "MELOCOTÓN",
+   "EN ALMÍBAR",
+   "6 x 840 G.",
+   "1,95c",
+   "DADO"
+  ],
+  "crop_wh": [
+   285,
+   206
+  ],
+  "sharpness": 282.8,
+  "ocr_s": 0.42
+ },
+ "f012.jpg": {
+  "n_lines": 13,
+  "box": [
+   92,
+   1184,
+   386,
+   1398
+  ],
+  "level": "digits",
+  "lines": [
+   "6 x 840 G."
+  ],
+  "all_lines": [
+   "Flan",
+   "FACENDADO",
+   "HACENDADO",
+   "CEREA",
+   "1.80",
+   "WIINDADO",
+   "CENDADO",
+   "CEREOA",
+   "EN ALMIBAR",
+   "HACCOIN",
+   "HIACENDADO",
+   "6 x 840 G.",
+   "1,95c"
+  ],
+  "crop_wh": [
+   294,
+   214
+  ],
+  "sharpness": 277.5,
+  "ocr_s": 0.42
+ },
+ "f018.jpg": {
+  "n_lines": 17,
+  "box": [
+   77,
+   1197,
+   373,
+   1413
+  ],
+  "level": "digits",
+  "lines": [
+   "6 x 840 G."
+  ],
+  "all_lines": [
+   "Flan",
+   "HACENDADO",
+   "HACENDADO",
+   "SMOTTHIE",
+   "A",
+   "CEREA",
+   "10x",
+   "1.80",
+   "CEREOA",
+   "NDADO",
+   "MELOCOTÓN",
+   "EN ALMÍBAR",
+   "HUA",
+   "SIASB",
+   "HACENDADO",
+   "1,95e",
+   "6 x 840 G."
+  ],
+  "crop_wh": [
+   296,
+   216
+  ],
+  "sharpness": 266.2,
+  "ocr_s": 0.44
+ },
+ "f024.jpg": {
+  "n_lines": 19,
+  "box": [
+   74,
+   1206,
+   377,
+   1428
+  ],
+  "level": "digits",
+  "lines": [
+   "6 x 840 G."
+  ],
+  "all_lines": [
+   "Flan",
+   "NACENDADO",
+   "EC",
+   "HACENDADO",
+   "A",
+   "CEREA",
+   "10x",
+   "TAS.",
+   "180c",
+   "WAINDADO",
+   "CEREA",
+   "HACENDADO",
+   "NDADO",
+   "EN ALMÍBAR",
+   "SS",
+   "FIACENDA",
+   "DADO",
+   "1,95c",
+   "6 x 840 G."
+  ],
+  "crop_wh": [
+   303,
+   222
+  ],
+  "sharpness": 263.7,
+  "ocr_s": 0.43
+ },
+ "f030.jpg": {
+  "n_lines": 17,
+  "box": [
+   59,
+   1218,
+   367,
+   1446
+  ],
+  "level": "digits",
+  "lines": [
+   "6 x 840 G."
+  ],
+  "all_lines": [
+   "Flan",
+   "HACENDADO",
+   "EAE",
+   "HACENDADO",
+   "2,10",
+   "CEREA",
+   "10x",
+   "HAENDADO",
+   "CEREOA",
+   "HACENDADO",
+   "ADO",
+   "MELOCOTON",
+   "EN ALMIBAR",
+   "镇",
+   "IIACENDADO",
+   "1,95c",
+   "6 x 840 G."
+  ],
+  "crop_wh": [
+   308,
+   228
+  ],
+  "sharpness": 264.9,
+  "ocr_s": 0.42
+ },
+ "f036.jpg": {
+  "n_lines": 17,
+  "box": [
+   64,
+   1222,
+   367,
+   1444
+  ],
+  "level": "digits",
+  "lines": [
+   "6 x 840 G."
+  ],
+  "all_lines": [
+   "Flan",
+   "HACENDADO",
+   "XA",
+   "HACENDADO",
+   "2,10",
+   "CEREA",
+   "10x",
+   "1.80c",
+   "WARNDADO",
+   "CEREOA",
+   "HACENDADO",
+   "DADO",
+   "MELOCOTÓN",
+   "EN ALMÍBAR",
+   "SSV",
+   "1,95c",
+   "6 x 840 G."
+  ],
+  "crop_wh": [
+   303,
+   222
+  ],
+  "sharpness": 264.5,
+  "ocr_s": 0.41
+ }
+}

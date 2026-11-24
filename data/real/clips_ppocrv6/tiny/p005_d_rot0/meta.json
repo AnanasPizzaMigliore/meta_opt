@@ -1,0 +1,313 @@
+{
+ "f000.jpg": {
+  "n_lines": 21,
+  "box": [
+   734,
+   313,
+   850,
+   409
+  ],
+  "level": "digits",
+  "lines": [
+   "A0 (64Tx 1180 ine"
+  ],
+  "all_lines": [
+   "Virmha",
+   "SHUC1as",
+   "Kitchen",
+   "C1liou",
+   "iUR(O0",
+   "buntu®",
+   "oACIA",
+   "KANGARO0S",
+   "eurusirEREoaren",
+   "A0 (64Tx 1180 ine",
+   "N (isAovne)",
+   "OMI4I",
+   "Boe (Tay g/1A",
+   "ORD",
+   "I qoae",
+   "lookne 1or",
+   "BARCELONM",
+   "iou to",
+   "cleon up",
+   "ho e a",
+   "PERTH"
+  ],
+  "crop_wh": [
+   116,
+   96
+  ],
+  "sharpness": 78.2,
+  "ocr_s": 0.24
+ },
+ "f006.jpg": {
+  "n_lines": 20,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "uEtE",
+   "kitchen",
+   "u1sD",
+   "ubuntue",
+   "19EESS",
+   "DRACLA",
+   "KANGAR003",
+   "MeupUanI0ScPETIEYA",
+   "IOm",
+   "A1",
+   "491o",
+   "ae (ay egIic",
+   "1 goa t",
+   "BAPCELONA",
+   "loeking 1or",
+   "o son ta",
+   "eleas up",
+   "tho a t",
+   "PERTH",
+   "PosLGT10"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 77.7,
+  "ocr_s": 0.24
+ },
+ "f012.jpg": {
+  "n_lines": 23,
+  "box": [
+   1273,
+   80,
+   1381,
+   176
+  ],
+  "level": "digits",
+  "lines": [
+   "1615程"
+  ],
+  "all_lines": [
+   "A",
+   "1615程",
+   "JDACALES",
+   "kitchen",
+   "€109",
+   "ubuntu®",
+   "ORACILA",
+   "euEveiepserioAN",
+   "0O",
+   "ANGARO0S",
+   "umate",
+   "A0 (t1,10",
+   "ANRrofen",
+   "XFORD",
+   "an(170y g/00",
+   "t qos fe",
+   "BARCELONA",
+   "lockiusg 1e",
+   "a siga to",
+   "hran up",
+   "tha o t",
+   "PERTH",
+   "CLTSA"
+  ],
+  "crop_wh": [
+   108,
+   96
+  ],
+  "sharpness": 76.2,
+  "ocr_s": 0.25
+ },
+ "f018.jpg": {
+  "n_lines": 26,
+  "box": [
+   1325,
+   174,
+   1458,
+   270
+  ],
+  "level": "digits",
+  "lines": [
+   "110om0"
+  ],
+  "all_lines": [
+   "Knm te",
+   "Cadl",
+   "UICIRAN",
+   "Kitchen.",
+   "CURN",
+   "110om0",
+   "ubuntu°",
+   "DRACIA",
+   "reLgle7hienro0系1s",
+   "KANCARO0S",
+   "F",
+   "TAmfa",
+   "A0(41:PR",
+   "N (4USA Eaphn",
+   "AI D4 k6AI",
+   "OXFORD",
+   "Oarap (tey 14og/p",
+   "eortamtp +Nonbe y apelds",
+   "It yos t4",
+   "BARCELONA",
+   "loakng ton",
+   " sipto",
+   "cleas ap",
+   "the a d",
+   "PERTH",
+   "CERot"
+  ],
+  "crop_wh": [
+   133,
+   96
+  ],
+  "sharpness": 82.7,
+  "ocr_s": 0.24
+ },
+ "f024.jpg": {
+  "n_lines": 25,
+  "box": [
+   795,
+   275,
+   915,
+   371
+  ],
+  "level": "digits",
+  "lines": [
+   "A1 ( 4051En",
+   "A0 (641x11D"
+  ],
+  "all_lines": [
+   "cnD.",
+   "CoLl",
+   "UCITINE",
+   "Kitchen",
+   "(HER0",
+   "4RwRt",
+   "DRACILA",
+   "ubuntu°",
+   "PImussfostreprpyprsRcI",
+   "KANCAR003",
+   "N",
+   "A1 ( 4051En",
+   "A0 (641x11D",
+   "ANAE Mn",
+   "Ganan (2ay teigr1Da)",
+   "CNPRarerde Nmtrs T Ioas",
+   "It qod'n",
+   "BARCELOHA",
+   "loaking 1on",
+   "euga to",
+   "cleas up",
+   "tha od",
+   "alosx1. sder",
+   "-d ",
+   "PERTH"
+  ],
+  "crop_wh": [
+   120,
+   96
+  ],
+  "sharpness": 86.2,
+  "ocr_s": 0.26
+ },
+ "f030.jpg": {
+  "n_lines": 23,
+  "box": [
+   782,
+   294,
+   946,
+   390
+  ],
+  "level": "digits",
+  "lines": [
+   "A2 (26 1 50po)",
+   "(20y 140g 180e"
+  ],
+  "all_lines": [
+   "nD",
+   "CoL",
+   "Suabas",
+   "Kitchen",
+   "C109",
+   "AreUHIE",
+   "ORACILA",
+   "ubuntu°",
+   "PraupNSSTrEITLLRD",
+   "1om",
+   "KANCAROOS",
+   "Trmala",
+   "AI MMXC41",
+   "A2 (26 1 50po)",
+   "(20y 140g 180e",
+   "eperamaelo Neemursy celda",
+   "lt qou'oe",
+   "looking 1oa",
+   "BARCELONA",
+   "osge to",
+   "clean up",
+   "tha o ati",
+   "PERTH"
+  ],
+  "crop_wh": [
+   164,
+   96
+  ],
+  "sharpness": 88.1,
+  "ocr_s": 0.26
+ },
+ "f036.jpg": {
+  "n_lines": 26,
+  "box": [
+   1287,
+   144,
+   1390,
+   240
+  ],
+  "level": "digits",
+  "lines": [
+   "6116869"
+  ],
+  "all_lines": [
+   "FomDo",
+   "Castl",
+   "SI C1ane",
+   "Kitchen",
+   "6116869",
+   "UHOIS",
+   "DRACILA",
+   "ubuntu°",
+   "repuwelrpsuyA",
+   "Om",
+   "KANGARO0S",
+   "PC",
+   "tamafe",
+   "A AI1a EN",
+   "A (420 1Sofhe)",
+   "Omae (12oy 140/1tog",
+   "FO:ID",
+   "Depaneta +NeToe y aiCe",
+   "It qoa'ne",
+   "look.ng 1on",
+   "BMRCELONM",
+   "a yos to",
+   "cleaa up",
+   "the a d",
+   "aaxLn les",
+   "PERTH"
+  ],
+  "crop_wh": [
+   103,
+   96
+  ],
+  "sharpness": 89.7,
+  "ocr_s": 0.26
+ }
+}

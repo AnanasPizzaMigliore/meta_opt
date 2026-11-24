@@ -1,0 +1,174 @@
+{
+ "f000.jpg": {
+  "n_lines": 5,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Whambra",
+   "CIONAL",
+   "AMSTEL",
+   "CERVEZA",
+   "Radle"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 31.1,
+  "ocr_s": 1.21
+ },
+ "f006.jpg": {
+  "n_lines": 5,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "thambra",
+   "SIDICIONAL",
+   "AMSTEL",
+   "CERVEZA",
+   "Radl"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 29.7,
+  "ocr_s": 1.2
+ },
+ "f012.jpg": {
+  "n_lines": 6,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "0",
+   "thambra",
+   "iON",
+   "AMSTEL",
+   "CERYEZA",
+   "Raulle"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 29.6,
+  "ocr_s": 1.22
+ },
+ "f018.jpg": {
+  "n_lines": 6,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "王国",
+   "U",
+   "hambra",
+   "SADICIONAL",
+   "AMSTEL",
+   "CERVEZA"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 27.4,
+  "ocr_s": 1.2
+ },
+ "f024.jpg": {
+  "n_lines": 7,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "里",
+   "0",
+   "hambra",
+   "BAICIONAL",
+   "AMSTEL",
+   "1",
+   "CERVEZA"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 26.7,
+  "ocr_s": 1.24
+ },
+ "f030.jpg": {
+  "n_lines": 6,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "U",
+   "善",
+   "thambra",
+   "IADICIONAL",
+   "AMSTEL",
+   "CERVE"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 25.3,
+  "ocr_s": 1.2
+ },
+ "f036.jpg": {
+  "n_lines": 4,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "国",
+   "0",
+   "hambra",
+   "TIRICIONAL"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 24.0,
+  "ocr_s": 1.19
+ }
+}

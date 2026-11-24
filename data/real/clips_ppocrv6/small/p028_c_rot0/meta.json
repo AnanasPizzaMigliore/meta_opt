@@ -1,0 +1,261 @@
+{
+ "f000.jpg": {
+  "n_lines": 26,
+  "box": [
+   979,
+   1054,
+   1075,
+   1150
+  ],
+  "level": "digits",
+  "lines": [
+   "1005"
+  ],
+  "all_lines": [
+   "EMMENTAL",
+   "GRATINAR",
+   "HATH",
+   "HACENDADO",
+   "GRANA",
+   "PADANO",
+   "DAM",
+   "1.90c",
+   "HACENDADO",
+   "GRANA",
+   "PADANO",
+   "4",
+   "QUES",
+   "QUEL",
+   "1005",
+   "QUESO",
+   "200g",
+   "RTILY",
+   "QUEU",
+   "QUESOS",
+   "ABRINPOR AQUI",
+   "QUEIJOS",
+   "4",
+   "QUESOS",
+   "QUEIJOS",
+   "Gouda"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 311.8,
+  "ocr_s": 0.51
+ },
+ "f006.jpg": {
+  "n_lines": 14,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "MACENDADO",
+   "GRANA",
+   "PADANO",
+   "FACENDADO",
+   "GRANA",
+   "PADANO",
+   "QUESOS",
+   "QUEIJOS",
+   "QUESO",
+   "QUESOS",
+   "QUEIJOS",
+   "SCENDAGO",
+   "WACENDADO",
+   "Gouda"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 166.3,
+  "ocr_s": 0.43
+ },
+ "f012.jpg": {
+  "n_lines": 17,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "TLACENDADO",
+   "AIR",
+   "GRANA",
+   "HACENDADO",
+   "GRANA",
+   "PADANO",
+   "1.90c",
+   "QUESOS",
+   "ABRIR POR AQUI",
+   "QUEIJOS",
+   "UESOS",
+   "UEIJOS",
+   "HACENOADO",
+   "ACENDADO",
+   "Coud",
+   "Couda",
+   "Gouda"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 244.5,
+  "ocr_s": 0.44
+ },
+ "f018.jpg": {
+  "n_lines": 17,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "HACENDADO",
+   "GRANA",
+   "HACENDADO",
+   "GRANA",
+   "1.90e",
+   "PADANO",
+   "A",
+   "QUESOS",
+   "ABRIR PORAQUI",
+   "QUEIJOS",
+   "ESOS",
+   "JEIJOS",
+   "HMCINDAD",
+   "CENDADO",
+   "Gouda",
+   "Couda",
+   "Gouda"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 250.7,
+  "ocr_s": 0.46
+ },
+ "f024.jpg": {
+  "n_lines": 16,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "HACENDADO",
+   "KIR",
+   "GRANA",
+   "HACENDADO",
+   "GRANA",
+   "190",
+   "PADANO",
+   "QUESOS",
+   "ABRIRPOR AQUI",
+   "QUEIJOS",
+   "ESOS",
+   "DEIJOS",
+   "HATNOID",
+   "Goud",
+   "Gouda",
+   "Couda"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 252.2,
+  "ocr_s": 0.46
+ },
+ "f030.jpg": {
+  "n_lines": 17,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "HACENDADO",
+   "CIAL",
+   "GRANA",
+   "PADANO",
+   "HACENDADO",
+   "GRANA",
+   "1.90c",
+   "PADANO",
+   "QUESOS",
+   "ABRIR POR AQUI",
+   "QUEIJOS",
+   "ESOS",
+   "EIJOS",
+   "HACENSADO",
+   "ACENDADO",
+   "Gouda",
+   "Gouda"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 253.5,
+  "ocr_s": 0.45
+ },
+ "f036.jpg": {
+  "n_lines": 17,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "HACENDADO",
+   "GRANA",
+   "9",
+   "HACENDADO",
+   "GRANA",
+   "1,90c",
+   "PADANO",
+   "QUESOS",
+   "ABRIR POR AQUI",
+   "QUEIJOS",
+   "ESOS",
+   "DEIJOS",
+   "HACENDADO",
+   "CENDADO",
+   "Gouda",
+   "Couda",
+   "Gouda"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 254.5,
+  "ocr_s": 0.43
+ }
+}

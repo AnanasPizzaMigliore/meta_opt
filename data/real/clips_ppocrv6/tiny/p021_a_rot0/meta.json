@@ -1,0 +1,273 @@
+{
+ "f000.jpg": {
+  "n_lines": 12,
+  "box": [
+   451,
+   1027,
+   564,
+   1216
+  ],
+  "level": "date",
+  "lines": [
+   "25.11.26 R22"
+  ],
+  "all_lines": [
+   "MEDIO MAGRET",
+   "HIGADOS",
+   "POLlo",
+   "TiuD",
+   "PoLLo",
+   "POLLO",
+   "O MET",
+   "25.11.26 R22",
+   "FLCNN LRIUE IDRO",
+   "0.315kg",
+   "7.50€",
+   "2,36€"
+  ],
+  "crop_wh": [
+   113,
+   189
+  ],
+  "sharpness": 244.1,
+  "ocr_s": 0.22
+ },
+ "f006.jpg": {
+  "n_lines": 16,
+  "box": [
+   835,
+   778,
+   936,
+   965
+  ],
+  "level": "date",
+  "lines": [
+   "25.11.26 R22"
+  ],
+  "all_lines": [
+   "POLLo",
+   "MOLLEJAS",
+   "POLLO",
+   "TuaOn",
+   "HcAoOs",
+   "POLO",
+   "0.315kg",
+   "PISO NEP",
+   "25.11.26 R22",
+   "FICHN CROUC TOAD",
+   "TAQUITOS",
+   "7.50 €",
+   "2,36€",
+   "POLLO",
+   "DE",
+   "258E"
+  ],
+  "crop_wh": [
+   101,
+   187
+  ],
+  "sharpness": 225.8,
+  "ocr_s": 0.22
+ },
+ "f012.jpg": {
+  "n_lines": 20,
+  "box": [
+   821,
+   733,
+   995,
+   945
+  ],
+  "level": "digits",
+  "lines": [
+   "0.315kg",
+   "25.1126 R22"
+  ],
+  "all_lines": [
+   "Pou",
+   "POLLo",
+   "MOLLEJAS",
+   "POLLO",
+   "funontn",
+   "HGADCs",
+   "POuO",
+   "0.315kg",
+   "PISO NEIP",
+   "25.1126 R22",
+   "FLCHA CRDUCI0RO",
+   "7.50 €",
+   "PSLCIR KIR",
+   "TAQUITOS",
+   "2,36€",
+   "POLLO",
+   "POLLO",
+   "m",
+   "2",
+   "58E"
+  ],
+  "crop_wh": [
+   174,
+   212
+  ],
+  "sharpness": 218.5,
+  "ocr_s": 0.24
+ },
+ "f018.jpg": {
+  "n_lines": 19,
+  "box": [
+   835,
+   750,
+   936,
+   936
+  ],
+  "level": "date",
+  "lines": [
+   "25.11.26 R22"
+  ],
+  "all_lines": [
+   "POLLO",
+   "MOLLEJAS",
+   "POLLO",
+   "Mam n",
+   "NOAD05",
+   "PO.1O",
+   "0.315kg",
+   "PISO NEIP",
+   "25.11.26 R22",
+   "FLCHR CROUCIORD",
+   "TAQUITOS",
+   "7.50 €",
+   "PFLCII KIIP",
+   "2,36€",
+   "POLLO",
+   "731/564002361",
+   "DE",
+   "POLLO",
+   "258E"
+  ],
+  "crop_wh": [
+   101,
+   186
+  ],
+  "sharpness": 217.3,
+  "ocr_s": 0.24
+ },
+ "f024.jpg": {
+  "n_lines": 17,
+  "box": [
+   769,
+   730,
+   943,
+   942
+  ],
+  "level": "digits",
+  "lines": [
+   "0.315kg",
+   "25.1126 R22"
+  ],
+  "all_lines": [
+   "POLL.o",
+   "MOLLEJAS",
+   "POLLO",
+   "manm",
+   "MIDADOS",
+   "POLLO",
+   "0.315kg",
+   "PISO NEIR",
+   "25.1126 R22",
+   "FLCHR CRDUCITORD",
+   "TAQUITOS",
+   "PSLCIO KIID",
+   "2,36€",
+   "POLLO",
+   "m",
+   "POLLO",
+   "58€"
+  ],
+  "crop_wh": [
+   174,
+   212
+  ],
+  "sharpness": 214.5,
+  "ocr_s": 0.23
+ },
+ "f030.jpg": {
+  "n_lines": 18,
+  "box": [
+   761,
+   729,
+   933,
+   941
+  ],
+  "level": "digits",
+  "lines": [
+   "0.315kg",
+   "25.1126 R22"
+  ],
+  "all_lines": [
+   "POLO",
+   "MOLLEJAS",
+   "POLO",
+   "MOGADOS",
+   "SLILOU",
+   "POUO",
+   "0.315kg",
+   "PSO NEIH",
+   "25.1126 R22",
+   "FICHB CROUCIDRO",
+   "TAQUITOS DE",
+   "7.50 €",
+   "PFLCI KIIP",
+   "2,36€",
+   "PVP",
+   "POLLO",
+   "POLLO",
+   "2596"
+  ],
+  "crop_wh": [
+   172,
+   212
+  ],
+  "sharpness": 214.3,
+  "ocr_s": 0.23
+ },
+ "f036.jpg": {
+  "n_lines": 19,
+  "box": [
+   810,
+   718,
+   906,
+   857
+  ],
+  "level": "date",
+  "lines": [
+   "25.11.26"
+  ],
+  "all_lines": [
+   "POLLO",
+   "MDLLEJAS",
+   "POLLO",
+   "HOADOs",
+   "TnmnB",
+   "POLO",
+   "0.315kg",
+   "PI SO NEIT",
+   "25.11.26",
+   "FICHA CRDUC IDRD",
+   "7.50",
+   "PLCI KIP",
+   "2,36€",
+   "o",
+   "R22",
+   "POLLO",
+   "M",
+   "POLLO",
+   "5R"
+  ],
+  "crop_wh": [
+   96,
+   139
+  ],
+  "sharpness": 210.8,
+  "ocr_s": 0.24
+ }
+}

@@ -1,0 +1,197 @@
+{
+ "f000.jpg": {
+  "n_lines": 18,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "2.00e",
+   "FERRERO",
+   "FERRPO",
+   "ROCHER",
+   "FURPPO",
+   "12",
+   "FERRRO",
+   "ROCHER",
+   "HOURO",
+   "Cocolizze",
+   "0OL",
+   "FERRERO",
+   "ROCHER",
+   "ROYA",
+   "MIN",
+   "300",
+   "6,35c",
+   "240c"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 77.5,
+  "ocr_s": 0.23
+ },
+ "f006.jpg": {
+  "n_lines": 7,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "ocolixse",
+   "",
+   "12",
+   "Cocolizze",
+   "0oe",
+   "MINY",
+   "300"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 94.6,
+  "ocr_s": 0.23
+ },
+ "f012.jpg": {
+  "n_lines": 5,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "oliZxe",
+   "12",
+   "ocolizxe ",
+   "MII",
+   "3.00"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 95.8,
+  "ocr_s": 0.22
+ },
+ "f018.jpg": {
+  "n_lines": 8,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "",
+   "12",
+   "ocolixze ",
+   "OC",
+   "2Z0Z",
+   "I",
+   "300",
+   "op oue copap"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 95.3,
+  "ocr_s": 0.22
+ },
+ "f024.jpg": {
+  "n_lines": 8,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "LZXE",
+   "",
+   "12",
+   "2",
+   "ocolixze",
+   "2Z0Z",
+   "MIRT",
+   "3.00e"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 94.1,
+  "ocr_s": 0.21
+ },
+ "f030.jpg": {
+  "n_lines": 7,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Los, Cv0e",
+   "AXXE",
+   "",
+   "12",
+   "colizze",
+   "MIA",
+   "300"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 95.1,
+  "ocr_s": 0.21
+ },
+ "f036.jpg": {
+  "n_lines": 9,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "an C00",
+   "L足xee",
+   "",
+   "12",
+   "colizze",
+   "O0",
+   "220Z",
+   "MLT",
+   "300"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 94.8,
+  "ocr_s": 0.24
+ }
+}

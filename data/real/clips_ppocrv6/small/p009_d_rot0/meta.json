@@ -1,0 +1,253 @@
+{
+ "f000.jpg": {
+  "n_lines": 16,
+  "box": [
+   374,
+   787,
+   580,
+   984
+  ],
+  "level": "digits",
+  "lines": [
+   "11300",
+   "5101"
+  ],
+  "all_lines": [
+   "1.10c",
+   "ARLOR",
+   "OUESO",
+   "HACENDADO",
+   "SALe!",
+   "COQUEBO",
+   "FACENDADO",
+   "1,65€",
+   "11300",
+   "5101",
+   "ENASEIA 5",
+   "OS",
+   "Wraps",
+   "NAO",
+   "OUNIDA",
+   "XL"
+  ],
+  "crop_wh": [
+   206,
+   197
+  ],
+  "sharpness": 180.4,
+  "ocr_s": 0.42
+ },
+ "f006.jpg": {
+  "n_lines": 17,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "110",
+   "ORLBA",
+   "OESO",
+   "HACENDADO",
+   "SALBA",
+   "TYQUE3O",
+   "FACENDADO",
+   "1,65€",
+   "电",
+   "51",
+   "ENAAVEIA",
+   "FOIAS",
+   "Wraps",
+   "NAL",
+   "NAO",
+   "BUNIDA",
+   "XL"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 180.1,
+  "ocr_s": 0.44
+ },
+ "f012.jpg": {
+  "n_lines": 14,
+  "box": [
+   193,
+   817,
+   601,
+   1019
+  ],
+  "level": "digits",
+  "lines": [
+   "ENA SAVEIA 510%0"
+  ],
+  "all_lines": [
+   "LIOd",
+   "SILOR",
+   "OUESO",
+   "HACENDADO",
+   "BALCA",
+   "HACENDADO",
+   "1,65€",
+   "910",
+   "ENA SAVEIA 510%0",
+   "",
+   "Wraps",
+   "NAO",
+   "SUNIDA",
+   "nOXL"
+  ],
+  "crop_wh": [
+   408,
+   202
+  ],
+  "sharpness": 179.7,
+  "ocr_s": 0.42
+ },
+ "f018.jpg": {
+  "n_lines": 14,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "1,10el",
+   "LUS",
+   "HACENDADO",
+   "SALSK",
+   "HACENDADO",
+   "1,65€",
+   "TREIB",
+   "ENA SAVEIA 510",
+   "",
+   "Wraps",
+   "VAL",
+   "NAO",
+   "BUNIDA",
+   "XL"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 179.8,
+  "ocr_s": 0.42
+ },
+ "f024.jpg": {
+  "n_lines": 17,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "1,75c",
+   "LO",
+   "SALOR",
+   "NESO",
+   "HACENDADO",
+   "OTQUESI",
+   "HACENDADO",
+   "1,65€",
+   "0BU",
+   "ENA AVEIA 510N",
+   "PGES",
+   "Wraps",
+   "ACENDA",
+   "NAC",
+   "NAO",
+   "UNIDA",
+   "XL"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 181.6,
+  "ocr_s": 0.43
+ },
+ "f030.jpg": {
+  "n_lines": 15,
+  "box": [
+   182,
+   829,
+   587,
+   1033
+  ],
+  "level": "digits",
+  "lines": [
+   "ENA AVEIA 5100"
+  ],
+  "all_lines": [
+   "1,75c",
+   "L10d",
+   "NESO",
+   "HACENDADO",
+   "SALR",
+   "HACENDADO",
+   "1,65€",
+   "CUCOND",
+   "ENA AVEIA 5100",
+   "M8A22H",
+   "Wraps",
+   "NAC",
+   "NAU",
+   "SUNIDA",
+   "XL"
+  ],
+  "crop_wh": [
+   405,
+   204
+  ],
+  "sharpness": 182.7,
+  "ocr_s": 0.44
+ },
+ "f036.jpg": {
+  "n_lines": 16,
+  "box": [
+   411,
+   843,
+   573,
+   968
+  ],
+  "level": "digits",
+  "lines": [
+   "510%0"
+  ],
+  "all_lines": [
+   "L10c",
+   "ARLER",
+   "OUESO",
+   "HACENDADO",
+   "CALSA",
+   "TOYQUESI",
+   "HACENDADO",
+   "1,65€",
+   "OOMOIU",
+   "510%0",
+   "ENAAVEIA5",
+   "汽服品",
+   "Wraps",
+   "NAO",
+   "GUNIDA",
+   "OXL"
+  ],
+  "crop_wh": [
+   162,
+   125
+  ],
+  "sharpness": 182.3,
+  "ocr_s": 0.44
+ }
+}

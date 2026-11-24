@@ -1,0 +1,364 @@
+{
+ "f000.jpg": {
+  "n_lines": 32,
+  "box": [
+   1153,
+   943,
+   1559,
+   1381
+  ],
+  "level": "digits",
+  "lines": [
+   "28-092029",
+   "61454"
+  ],
+  "all_lines": [
+   "",
+   "C",
+   "Burritos",
+   "ens",
+   "Fajitas",
+   "SAZONAOOATEMPERO",
+   "BilaX",
+   "EXLOAA",
+   "NeyD",
+   "政",
+   "tex",
+   "mex",
+   "TO ",
+   "相",
+   "ROX",
+   "VILIVESON",
+   "ENCENDADO",
+   "POGANTES",
+   "CLYOLAIAE",
+   "1,2",
+   "30c",
+   "0,90€",
+   "O\"pop",
+   "ume",
+   "Tampa",
+   "28-092029",
+   "10TOP",
+   "RTILLAS",
+   "61454",
+   "10",
+   "n",
+   "AV"
+  ],
+  "crop_wh": [
+   406,
+   438
+  ],
+  "sharpness": 121.2,
+  "ocr_s": 1.85
+ },
+ "f006.jpg": {
+  "n_lines": 30,
+  "box": [
+   1158,
+   547,
+   1488,
+   881
+  ],
+  "level": "date",
+  "lines": [
+   "28-09-2029"
+  ],
+  "all_lines": [
+   "urvitos",
+   "BAD",
+   "SAZONADOR TEMPERO",
+   "Fajitas",
+   "Tampa",
+   "tex",
+   "mex",
+   "&OX",
+   "EACINDADO",
+   "28-09-2029",
+   "Oc",
+   "0,90€",
+   "261454",
+   "TE1D",
+   "AS",
+   "EIA5",
+   "6 TORTILLAS",
+   "AVENA/AVEIA",
+   "JJ",
+   "",
+   "12",
+   "12",
+   "MINI",
+   "MINI",
+   "RTILLBS",
+   "TRIGO",
+   "MINI",
+   "12TORTLLAS",
+   "TOR",
+   "MINI"
+  ],
+  "crop_wh": [
+   330,
+   334
+  ],
+  "sharpness": 66.7,
+  "ocr_s": 1.7
+ },
+ "f012.jpg": {
+  "n_lines": 31,
+  "box": [
+   1169,
+   549,
+   1501,
+   884
+  ],
+  "level": "date",
+  "lines": [
+   "28-09-2029"
+  ],
+  "all_lines": [
+   "2.000",
+   "",
+   "Evitos",
+   "Fajitas",
+   "SAZONADOR TEMZUA",
+   "O\"pop",
+   "Tampa",
+   "RCTS",
+   "tex",
+   "mex",
+   "KOX",
+   "LACENDADO",
+   "28-09-2029",
+   "e",
+   "0,90€",
+   "61454",
+   "DE",
+   "51",
+   "6 TORTILLAS ",
+   "AVENA AVEIA 5",
+   "12",
+   "12",
+   "MINI",
+   "MINI",
+   "RTILLA",
+   "miGos",
+   "MINI",
+   "KO",
+   "12TORTULLAS",
+   "TORT",
+   "MINI"
+  ],
+  "crop_wh": [
+   332,
+   335
+  ],
+  "sharpness": 68.7,
+  "ocr_s": 1.71
+ },
+ "f018.jpg": {
+  "n_lines": 30,
+  "box": [
+   1176,
+   536,
+   1511,
+   874
+  ],
+  "level": "date",
+  "lines": [
+   "28-09-2029"
+  ],
+  "all_lines": [
+   "2.000",
+   "WaIT",
+   "O\"pop",
+   "upritos",
+   "Fajitas",
+   "TADONADOR TEMPERO",
+   "Tampa",
+   "tex",
+   "mex",
+   "ROX",
+   "HACENSADO",
+   "28-09-2029",
+   "Oc",
+   "0,90€",
+   "26154",
+   "51",
+   "6 TORTILLAS",
+   "AVENA/AVEIA 5",
+   "12",
+   "12",
+   "MINI",
+   "MINI",
+   "EI",
+   "RTILLA",
+   "TRIGO",
+   "MONY",
+   "12",
+   "TORTILLAS",
+   "TOR",
+   "TOMINI"
+  ],
+  "crop_wh": [
+   335,
+   338
+  ],
+  "sharpness": 66.9,
+  "ocr_s": 1.7
+ },
+ "f024.jpg": {
+  "n_lines": 33,
+  "box": [
+   1183,
+   512,
+   1536,
+   868
+  ],
+  "level": "date",
+  "lines": [
+   "28-099-2029"
+  ],
+  "all_lines": [
+   "2000",
+   "10X",
+   "O\"pop",
+   "C-fome",
+   "TARYIT",
+   "upritos",
+   "Fajitas",
+   "TAZONADOR TEMPERO",
+   "Tampa",
+   "80",
+   "tex",
+   "mex",
+   "RGX",
+   "HICLNAN",
+   "28-099-2029",
+   "261454",
+   "0€",
+   "0,90€",
+   "6 TORTILLAS",
+   "AVENA/AVEIA 5",
+   "12",
+   "12",
+   "MINI",
+   "MINI",
+   "CHT",
+   "CAR",
+   "RTILLA",
+   "TRIGAA",
+   "MINI",
+   "12",
+   "TORTILLAS",
+   "TOR",
+   "TOMINI"
+  ],
+  "crop_wh": [
+   353,
+   356
+  ],
+  "sharpness": 65.1,
+  "ocr_s": 1.75
+ },
+ "f030.jpg": {
+  "n_lines": 29,
+  "box": [
+   1185,
+   510,
+   1539,
+   864
+  ],
+  "level": "date",
+  "lines": [
+   "28-09-2029"
+  ],
+  "all_lines": [
+   "2.050",
+   "iRAn",
+   "0\"pop\"",
+   "uLvitos",
+   "10112",
+   "SAZGNADOR TEMPEAO",
+   "Tampa",
+   "Fajitas",
+   "tex",
+   "mex",
+   "KOx",
+   "INESAO",
+   "28-09-2029",
+   "1454",
+   "Oc",
+   "0,90c",
+   "6 TORTILLAS",
+   "AVENA/AVEIA 5",
+   "12",
+   "12",
+   "福",
+   "MINI",
+   "MINI",
+   "RTILLA",
+   "RICO",
+   "MOINT",
+   "12",
+   "TORTILLAS",
+   "TOR"
+  ],
+  "crop_wh": [
+   354,
+   354
+  ],
+  "sharpness": 64.0,
+  "ocr_s": 1.66
+ },
+ "f036.jpg": {
+  "n_lines": 29,
+  "box": [
+   1197,
+   500,
+   1549,
+   857
+  ],
+  "level": "date",
+  "lines": [
+   "28-09-2029"
+  ],
+  "all_lines": [
+   "2,050",
+   "R",
+   "0\"pop",
+   "SAZONADOS TEMPERO",
+   "Tampa",
+   "cvitos",
+   "Fajitas",
+   "tex",
+   "mex",
+   "&6x",
+   "RONAN",
+   "28-09-2029",
+   "261454",
+   "c",
+   "0,90€",
+   "me",
+   "6 TORTILLAS",
+   "AVENA/AVEIA 5",
+   "12",
+   "12",
+   "",
+   "MINI",
+   "MINI",
+   "RTILLAS",
+   "GIGO",
+   "MINT",
+   "12",
+   "TORTILLAS",
+   "TOR"
+  ],
+  "crop_wh": [
+   352,
+   357
+  ],
+  "sharpness": 62.0,
+  "ocr_s": 1.66
+ }
+}

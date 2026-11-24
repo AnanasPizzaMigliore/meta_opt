@@ -1,0 +1,348 @@
+{
+ "f000.jpg": {
+  "n_lines": 29,
+  "box": [
+   1038,
+   1113,
+   1162,
+   1209
+  ],
+  "level": "date",
+  "lines": [
+   "18:1803-2027"
+  ],
+  "all_lines": [
+   "AMAN",
+   "MACARRON PENIE",
+   "RAYADO RIGATE",
+   "CLASSICA",
+   "CLASICA",
+   "CLÁSSICA",
+   "0.85c",
+   "HELICESESP",
+   " R",
+   "SESPIR",
+   "HÉLICES",
+   "Soos aeg",
+   "CLASINA",
+   "LICESESPIR",
+   "CLASSICA",
+   "HÉLICESESPIRA",
+   "1,20cl",
+   "01mi",
+   "1kg",
+   "L036273172000",
+   "18:1803-2027",
+   "0.85c",
+   "SSICA",
+   "0",
+   "SPAGHETTI",
+   "0-10 min",
+   "SPAGHETTI",
+   "",
+   "PACH"
+  ],
+  "crop_wh": [
+   124,
+   96
+  ],
+  "sharpness": 212.5,
+  "ocr_s": 1.65
+ },
+ "f006.jpg": {
+  "n_lines": 20,
+  "box": [
+   921,
+   887,
+   1045,
+   983
+  ],
+  "level": "date",
+  "lines": [
+   "18:18 03-2029"
+  ],
+  "all_lines": [
+   "",
+   "MACARRONVERINE",
+   "RAYADO",
+   "CLASSICA",
+   "CLÁSSICA",
+   "0,85c",
+   "HÉLICESES",
+   "ESPIM",
+   "HÉLICES",
+   "LICESESPIR",
+   "1kg",
+   "8-0m",
+   "CLASSICA",
+   "L036273172000",
+   "18:18 03-2029",
+   "LICESESPIRA",
+   "1,20cl",
+   "0.85c",
+   "SPAGHETTI",
+   "TTI"
+  ],
+  "crop_wh": [
+   124,
+   96
+  ],
+  "sharpness": 184.6,
+  "ocr_s": 1.49
+ },
+ "f012.jpg": {
+  "n_lines": 31,
+  "box": [
+   940,
+   865,
+   1066,
+   961
+  ],
+  "level": "date",
+  "lines": [
+   "18:18 03-2028"
+  ],
+  "all_lines": [
+   "AMHANDO",
+   "MACAR",
+   "MACARRON PENE",
+   "RAY",
+   "RAYADO RISATE",
+   "MACARRON",
+   "RAYADO",
+   "D",
+   "CLASSICA",
+   "CLÁSSICA",
+   "0.85",
+   "0.85c",
+   "pentuter Ésacas de",
+   "HÉLICESESP",
+   "HÉLICES ESPIRA",
+   "1kg",
+   "",
+   "LICESESPIR",
+   "Sesume de preíoancia die",
+   "d Éle Algue",
+   "iteukeeylome",
+   "L036273172000",
+   "18:18 03-2028",
+   "H",
+   "CLASSICA",
+   "ELICESESPIRA",
+   "1,20cl",
+   "0.85c",
+   "SPACHETTI",
+   "8-10-",
+   "TTI"
+  ],
+  "crop_wh": [
+   126,
+   96
+  ],
+  "sharpness": 207.7,
+  "ocr_s": 1.68
+ },
+ "f018.jpg": {
+  "n_lines": 29,
+  "box": [
+   945,
+   877,
+   1069,
+   973
+  ],
+  "level": "date",
+  "lines": [
+   "18:18 03-2028"
+  ],
+  "all_lines": [
+   "ARMANDO",
+   "MACAR",
+   "MACARDON PENNE",
+   "AAY",
+   "RAYADO DIGATE",
+   "MACARRO",
+   "RAYADO",
+   "CLÁSSICA",
+   "CLÁSSICA",
+   "0.85€",
+   " de taiga duro iglaten",
+   "HELICESESA",
+   "CLASOIC",
+   "HÉLICES ESPIRA",
+   "001",
+   "1kgtx",
+   "LICESESPIR",
+   "",
+   "(ba/Lte",
+   "L036273172000",
+   "18:18 03-2028",
+   "CLASSICA",
+   "ELICESESPIR",
+   "1,20c",
+   "州",
+   "0.85c",
+   "SPAGHETTI",
+   "0",
+   "TTI"
+  ],
+  "crop_wh": [
+   124,
+   96
+  ],
+  "sharpness": 209.5,
+  "ocr_s": 1.66
+ },
+ "f024.jpg": {
+  "n_lines": 28,
+  "box": [
+   947,
+   865,
+   1073,
+   961
+  ],
+  "level": "date",
+  "lines": [
+   "18:18 03-2028"
+  ],
+  "all_lines": [
+   "PASTA ITAIANA",
+   "ARMANDO",
+   "MACAR",
+   "MACARRON PEINE",
+   "RAY",
+   "RAYADO DIGATT",
+   "RAYADO",
+   "CLASSICA",
+   "CLÁSSICA",
+   "QUBSAM",
+   "0.85c",
+   "HÉLICESES",
+   "HÉLICES ESPIRA",
+   "CLASJ",
+   "1kgz",
+   "LICESESPIR",
+   "d",
+   "L036273172000",
+   "18:18 03-2028",
+   "CLASSICA",
+   "ELICESESPIR",
+   "1,20c",
+   "办",
+   "0.85c",
+   "HELICE",
+   "SPAGHETTI",
+   "B0",
+   "TTI"
+  ],
+  "crop_wh": [
+   126,
+   96
+  ],
+  "sharpness": 209.6,
+  "ocr_s": 1.69
+ },
+ "f030.jpg": {
+  "n_lines": 31,
+  "box": [
+   961,
+   858,
+   1087,
+   954
+  ],
+  "level": "date",
+  "lines": [
+   "18:18 03-2028"
+  ],
+  "all_lines": [
+   "ARMNO",
+   "MACAR",
+   "MACARRONPERNE",
+   "RAY",
+   "RAYADO IGAT",
+   "MACARRON",
+   "RAYADO",
+   "CLÁSSICA",
+   "CLÁSSICA",
+   "0.85c",
+   "decoter vestiígins de avas",
+   "d rip du (pleéee",
+   "HELICESES",
+   "HÉLICES ESPIRA",
+   "CLASICA",
+   "1kgzz",
+   "",
+   "LICESESPIR",
+   "L036273172000",
+   "18:18 03-2028",
+   "CLASSICA",
+   "ELICESESPIRA",
+   "1,20c",
+   "C",
+   "MACOOA",
+   "和",
+   "0.85c",
+   "ELICE",
+   "SPACHETTI",
+   "8-10mh",
+   "ETTI"
+  ],
+  "crop_wh": [
+   126,
+   96
+  ],
+  "sharpness": 208.0,
+  "ocr_s": 1.77
+ },
+ "f036.jpg": {
+  "n_lines": 31,
+  "box": [
+   973,
+   861,
+   1099,
+   957
+  ],
+  "level": "date",
+  "lines": [
+   "18:18 03-2028"
+  ],
+  "all_lines": [
+   "AMAO",
+   "MACADR",
+   "MACARRON PENNE",
+   "RAYADO RIGATE",
+   "CLASSICA",
+   "CLÁSSICA",
+   "um",
+   "085",
+   "Qassa AN",
+   "SUPERIOR",
+   "0.85c",
+   "PALSTS",
+   "lia trigo ouo rglated)",
+   "HÉLICESES",
+   "HÉLICES ESPIRI-H",
+   "CLASON",
+   "1kgt",
+   "LICESESPIR",
+   "L036273172000",
+   "18:18 03-2028",
+   "0-i1 aa",
+   "CLASSICA",
+   "HÉLICESESPIRA",
+   "120c",
+   "HAAN",
+   "0.85c",
+   "HELICE",
+   "SPAGHETTI",
+   "8-10",
+   "SPARAS",
+   "HETTI"
+  ],
+  "crop_wh": [
+   126,
+   96
+  ],
+  "sharpness": 209.3,
+  "ocr_s": 1.77
+ }
+}

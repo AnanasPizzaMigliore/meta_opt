@@ -1,0 +1,215 @@
+{
+ "f000.jpg": {
+  "n_lines": 15,
+  "box": [
+   493,
+   551,
+   727,
+   1095
+  ],
+  "level": "date",
+  "lines": [
+   "01.12.26 R 25.",
+   "FECHA CAOUCTDAO/CONSUMIR "
+  ],
+  "all_lines": [
+   "LACTOS",
+   "GLUTEN",
+   "3,34€",
+   "8,60 €",
+   "0,388kg",
+   "PRECIO/PRECO KILO",
+   "PESO NETO/LIQUIDO",
+   "01.12.26 R 25.",
+   "FECHA CAOUCTDAO/CONSUMIR ",
+   "LAGRIMITAS AL LIMÓN",
+   "DELICÍAS LIMÃO",
+   "8 min",
+   "L:363239",
+   "2321235003344",
+   "5min"
+  ],
+  "crop_wh": [
+   234,
+   544
+  ],
+  "sharpness": 32.5,
+  "ocr_s": 0.42
+ },
+ "f006.jpg": {
+  "n_lines": 15,
+  "box": [
+   1026,
+   307,
+   1294,
+   885
+  ],
+  "level": "date",
+  "lines": [
+   "01.12.26 R 25",
+   "FECHA CROUCIDRO/CONSUMIR"
+  ],
+  "all_lines": [
+   "QUANCIALE",
+   "TACO",
+   "GLUTEN",
+   "3,34€",
+   "8,60 €",
+   "PRECIO/PRECO KILO",
+   "0,388kg",
+   "PESO NETO/LIQUIDO",
+   "01.12.26 R 25",
+   "FECHA CROUCIDRO/CONSUMIR",
+   "LAGRIMITAS AL LIMÓN",
+   "DELICÍAS LIMÃO",
+   "L:363239",
+   "2321235003344",
+   "5330"
+  ],
+  "crop_wh": [
+   268,
+   578
+  ],
+  "sharpness": 39.4,
+  "ocr_s": 0.42
+ },
+ "f012.jpg": {
+  "n_lines": 16,
+  "box": [
+   990,
+   262,
+   1250,
+   890
+  ],
+  "level": "date",
+  "lines": [
+   "01.12.26 R 25.",
+   "FECHA CAOUCIORO/CONSUMIR ATE"
+  ],
+  "all_lines": [
+   "GUANCIALE",
+   "GLUTEN",
+   "TACO",
+   "SIN/SEM",
+   "3,34€",
+   "8,60 €",
+   "PRECIO/PRECO KILO",
+   "0,388kg",
+   "PESO NETO/LIQUIDO",
+   "01.12.26 R 25.",
+   "FECHA CAOUCIORO/CONSUMIR ATE",
+   "LAGRIMITAS AL LIMÓN",
+   "DELICÍAS LIMÃO",
+   "L:363239",
+   "2321235003344",
+   "5338"
+  ],
+  "crop_wh": [
+   260,
+   628
+  ],
+  "sharpness": 36.0,
+  "ocr_s": 0.43
+ },
+ "f018.jpg": {
+  "n_lines": 18,
+  "box": [
+   957,
+   167,
+   1227,
+   777
+  ],
+  "level": "date",
+  "lines": [
+   "01.12.26 R 25",
+   "FECHA CAOUCIDAO/CONSUMIR"
+  ],
+  "all_lines": [
+   "GLUTEN",
+   "CTOSE",
+   "SIN/SEM",
+   "CTOSA",
+   "3.34€",
+   "8,60 €",
+   "PRECIO/PRECO KILO",
+   "0.388kg",
+   "GUANCIAU",
+   "PESO NETO/LIQUIDO",
+   "01.12.26 R 25",
+   "FECHA CAOUCIDAO/CONSUMIR",
+   "TACO",
+   "LAGRIMITAS AL LIMÓN",
+   "DELICÍAS LIMÃO",
+   "L:363239",
+   "2321235003344",
+   "05330"
+  ],
+  "crop_wh": [
+   270,
+   610
+  ],
+  "sharpness": 26.2,
+  "ocr_s": 0.45
+ },
+ "f024.jpg": {
+  "n_lines": 2,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "SLIMÃO",
+   "回"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 8.8,
+  "ocr_s": 0.33
+ },
+ "f030.jpg": {
+  "n_lines": 1,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   ""
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 7.8,
+  "ocr_s": 0.33
+ },
+ "f036.jpg": {
+  "n_lines": 1,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "1"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 6.1,
+  "ocr_s": 0.32
+ }
+}

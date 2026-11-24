@@ -1,0 +1,271 @@
+{
+ "f000.jpg": {
+  "n_lines": 13,
+  "box": [
+   1090,
+   728,
+   1282,
+   945
+  ],
+  "level": "digits",
+  "lines": [
+   "14,80€",
+   "0,509kg",
+   "FECHA DE CADUCIDAD:"
+  ],
+  "all_lines": [
+   "7,53€",
+   "P.V.P.",
+   "14,80€",
+   "PRECIO KILO:",
+   "0,509kg",
+   "PESO NETO:",
+   "FECHA DE CADUCIDAD:",
+   "ANOJO",
+   "MORCILLO/",
+   "JARRETE",
+   "2313741007534",
+   "JARRETE/MGRCILLC",
+   "MANOS"
+  ],
+  "crop_wh": [
+   192,
+   217
+  ],
+  "sharpness": 294.8,
+  "ocr_s": 0.41
+ },
+ "f006.jpg": {
+  "n_lines": 14,
+  "box": [
+   869,
+   637,
+   965,
+   826
+  ],
+  "level": "date",
+  "lines": [
+   "24.11.26 R21",
+   "FECHA DE CADUCIDAD:"
+  ],
+  "all_lines": [
+   "P.V.P.",
+   "PRECIO KILO:",
+   "0,509kg",
+   "7,53€",
+   "PESO NETO:",
+   "24.11.26 R21",
+   "FECHA DE CADUCIDAD:",
+   "ANOJO",
+   "MORCILLO/",
+   "JARRETE",
+   "2313741007534",
+   "99",
+   "MANOS",
+   "买吧"
+  ],
+  "crop_wh": [
+   96,
+   189
+  ],
+  "sharpness": 266.9,
+  "ocr_s": 0.41
+ },
+ "f012.jpg": {
+  "n_lines": 17,
+  "box": [
+   918,
+   705,
+   1014,
+   891
+  ],
+  "level": "date",
+  "lines": [
+   "24.11.26 R21",
+   "FECHA DE CADUCIDAD:"
+  ],
+  "all_lines": [
+   "NKiS",
+   "yoC",
+   "P.V.P.",
+   "14,80€",
+   "PRECIO KILO:",
+   "0,509kg",
+   "7,53€",
+   "PESO NETO:",
+   "24.11.26 R21",
+   "FECHA DE CADUCIDAD:",
+   "ANOJO",
+   "MORCILLO/",
+   "JARRETE",
+   "ARREGLOS",
+   "VACUNO",
+   "2313741007534",
+   "MANOS"
+  ],
+  "crop_wh": [
+   96,
+   186
+  ],
+  "sharpness": 282.8,
+  "ocr_s": 0.43
+ },
+ "f018.jpg": {
+  "n_lines": 20,
+  "box": [
+   932,
+   697,
+   1028,
+   885
+  ],
+  "level": "date",
+  "lines": [
+   "24.11.26 R21",
+   "FECHA DE CADUCIDAD:"
+  ],
+  "all_lines": [
+   "M",
+   "P.V.P.",
+   "14,80€",
+   "PRECIO KILO:",
+   "0,509kg",
+   "7,53€",
+   "PESO NETO:",
+   "24.11.26 R21",
+   "FECHA DE CADUCIDAD:",
+   "AÑOJO",
+   "MORCILLO/",
+   "JARRETE",
+   "VACUNO",
+   "ARREGLOS",
+   "2313741007534",
+   "111",
+   "IS",
+   "77",
+   "MANOS",
+   "酒山"
+  ],
+  "crop_wh": [
+   96,
+   188
+  ],
+  "sharpness": 286.8,
+  "ocr_s": 0.46
+ },
+ "f024.jpg": {
+  "n_lines": 16,
+  "box": [
+   929,
+   703,
+   1025,
+   890
+  ],
+  "level": "date",
+  "lines": [
+   "24.11.26 R21",
+   "FECHA DE CADUCIDAD:"
+  ],
+  "all_lines": [
+   "P.V.P.",
+   "14,80€",
+   "PRECIO KILO:",
+   "0,509kg",
+   "PESO NETO:",
+   "24.11.26 R21",
+   "FECHA DE CADUCIDAD:",
+   "7,53€",
+   "AÑOJO",
+   "MORCILLO/",
+   "JARRETE",
+   "REGLOS",
+   "2313741007534",
+   "",
+   "MANOS",
+   "酒"
+  ],
+  "crop_wh": [
+   96,
+   187
+  ],
+  "sharpness": 283.5,
+  "ocr_s": 0.43
+ },
+ "f030.jpg": {
+  "n_lines": 17,
+  "box": [
+   864,
+   685,
+   1062,
+   911
+  ],
+  "level": "digits",
+  "lines": [
+   "14,80€",
+   "0,509kg",
+   "FECHA DE CADUCIDAD:"
+  ],
+  "all_lines": [
+   "Pild",
+   "CNo",
+   "P.V.P.",
+   "14,80€",
+   "PRECIO KILO:",
+   "0,509kg",
+   "7,53€",
+   "PESO NETO:",
+   "FECHA DE CADUCIDAD:",
+   "ANOJO",
+   "MORCILLO/",
+   "JARRETE",
+   "RREGLOS",
+   "2313741007534",
+   "2119",
+   "MANOS",
+   "涮"
+  ],
+  "crop_wh": [
+   198,
+   226
+  ],
+  "sharpness": 282.4,
+  "ocr_s": 0.44
+ },
+ "f036.jpg": {
+  "n_lines": 16,
+  "box": [
+   948,
+   701,
+   1044,
+   889
+  ],
+  "level": "date",
+  "lines": [
+   "24.11.26 R21",
+   "FECHA DE CADUCIDAD:"
+  ],
+  "all_lines": [
+   "miA",
+   "P.V.P.",
+   "14,80€",
+   "PRECIO KILO:",
+   "0,509kg",
+   "PESO NETO:",
+   "24.11.26 R21",
+   "FECHA DE CADUCIDAD:",
+   "7,53€",
+   "AÑOJO",
+   "MORCILLO/",
+   "JARRETE",
+   "2313741007534",
+   "1991",
+   "97",
+   "MANOS"
+  ],
+  "crop_wh": [
+   96,
+   188
+  ],
+  "sharpness": 279.8,
+  "ocr_s": 0.43
+ }
+}

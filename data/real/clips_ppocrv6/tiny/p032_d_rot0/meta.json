@@ -1,0 +1,339 @@
+{
+ "f000.jpg": {
+  "n_lines": 22,
+  "box": [
+   1488,
+   351,
+   1584,
+   447
+  ],
+  "level": "date",
+  "lines": [
+   "1-15"
+  ],
+  "all_lines": [
+   "180c",
+   "E",
+   "2订",
+   "AN",
+   "TIRAS",
+   "CLARE",
+   "TT",
+   "1-15",
+   "TFIS",
+   "LOMO1OMB0",
+   "TIRAS",
+   "OLLO",
+   "POLLO",
+   "ARROZ",
+   "FRAN",
+   "99",
+   "9",
+   "DE PESCADO",
+   "DE PEIXE",
+   "HACENDADO",
+   "280ge",
+   "2.50."
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 292.8,
+  "ocr_s": 0.27
+ },
+ "f006.jpg": {
+  "n_lines": 28,
+  "box": [
+   739,
+   999,
+   878,
+   1095
+  ],
+  "level": "date",
+  "lines": [
+   "30/11/202b"
+  ],
+  "all_lines": [
+   "TIRAS",
+   "",
+   "2a5e",
+   "rnS",
+   "LOMOLOMB0",
+   "E",
+   "ARROZ",
+   "TIRAS",
+   "TIRAS",
+   "2OLLO",
+   "POLLO",
+   "DE PESCADO",
+   "FRANOO",
+   "FRANCO",
+   "DE PEIXE",
+   "99",
+   "99",
+   "XDAR0R",
+   "utoageon ile",
+   "RRUZ",
+   "HACENDADO",
+   "ARPOZ",
+   "ARROZ",
+   "30/11/202b",
+   "280ge",
+   "316J52 R27",
+   "H0",
+   "2,50"
+  ],
+  "crop_wh": [
+   139,
+   96
+  ],
+  "sharpness": 350.1,
+  "ocr_s": 0.26
+ },
+ "f012.jpg": {
+  "n_lines": 28,
+  "box": [
+   716,
+   977,
+   858,
+   1073
+  ],
+  "level": "date",
+  "lines": [
+   "30/11/2026"
+  ],
+  "all_lines": [
+   "275",
+   "TIRAS",
+   "3",
+   "F",
+   "",
+   "E-ao",
+   "rRs",
+   "LOMO10MB0",
+   "O15",
+   "ARROZ",
+   "DE PESCADO",
+   "2OLL0",
+   "POLLO",
+   "FRANGO",
+   "TRANCA",
+   "DE PEIXE",
+   "01",
+   "ARRDZ",
+   "0",
+   "ARROZ",
+   "HACENDADO",
+   "ARROZ",
+   "30/11/2026",
+   "280ge",
+   "316J52 R27",
+   "ARPOZ",
+   "D",
+   "2,50"
+  ],
+  "crop_wh": [
+   142,
+   96
+  ],
+  "sharpness": 357.6,
+  "ocr_s": 0.27
+ },
+ "f018.jpg": {
+  "n_lines": 25,
+  "box": [
+   707,
+   976,
+   851,
+   1072
+  ],
+  "level": "date",
+  "lines": [
+   "30/11/202b"
+  ],
+  "all_lines": [
+   "275",
+   "TIRAS",
+   "可",
+   ".ao",
+   "Pis",
+   "LOMO1ONRO",
+   "COSTL",
+   "ARROZ",
+   "TIRAS",
+   "2OLLO",
+   "POLLO",
+   "DE PESCADO",
+   "FRANG0",
+   "DE PEIXE",
+   "9",
+   "0",
+   "KRROZ",
+   "HACENDADO",
+   "ARROZ",
+   "30/11/202b",
+   "280ge",
+   "316JS2 R27",
+   "ARROZ",
+   "30",
+   "2.50"
+  ],
+  "crop_wh": [
+   144,
+   96
+  ],
+  "sharpness": 358.8,
+  "ocr_s": 0.26
+ },
+ "f024.jpg": {
+  "n_lines": 34,
+  "box": [
+   699,
+   981,
+   847,
+   1077
+  ],
+  "level": "date",
+  "lines": [
+   "30/11/202b"
+  ],
+  "all_lines": [
+   "275",
+   "TIRAS",
+   "",
+   "NS0E",
+   "RAS",
+   "09N",
+   "e",
+   "TRS",
+   "LOMO1OMBO",
+   "OOEIAS",
+   "BARBACL4",
+   "ARROZ",
+   "TIRAS",
+   "TIRAS",
+   "TOLLD",
+   "POLLO",
+   "DE PESCADO",
+   "FRANOO",
+   "FRANCO",
+   "DE PEIXE",
+   "包",
+   "啡",
+   "0",
+   "oadh",
+   "RRROZ",
+   "HACENDADO",
+   "ARPOZ",
+   "30/11/202b",
+   "280ge",
+   "316J52R27",
+   "ARRDZ",
+   "G",
+   "D",
+   "2,50."
+  ],
+  "crop_wh": [
+   148,
+   96
+  ],
+  "sharpness": 358.5,
+  "ocr_s": 0.27
+ },
+ "f030.jpg": {
+  "n_lines": 24,
+  "box": [
+   1230,
+   385,
+   1397,
+   481
+  ],
+  "level": "digits",
+  "lines": [
+   "LOMO1O160"
+  ],
+  "all_lines": [
+   "25",
+   "TIRAS",
+   "",
+   "N",
+   "De",
+   "TRAS",
+   "LOMO1O160",
+   "TIRAS",
+   "TIRAS",
+   "ARROZ",
+   "2OLLO",
+   "POLLO",
+   "FRANGO",
+   "FRANCO",
+   "DE PESCADO",
+   "DE PEIXE",
+   "99",
+   "MRROZ",
+   "HACENDADO",
+   "ARROZ",
+   "280ge",
+   "ARROZ",
+   "0",
+   "2.50."
+  ],
+  "crop_wh": [
+   167,
+   96
+  ],
+  "sharpness": 355.9,
+  "ocr_s": 0.24
+ },
+ "f036.jpg": {
+  "n_lines": 29,
+  "box": [
+   694,
+   989,
+   841,
+   1085
+  ],
+  "level": "date",
+  "lines": [
+   "30/11/2026"
+  ],
+  "all_lines": [
+   "TTRAS",
+   "",
+   "2",
+   "ED",
+   "RLS",
+   "LOMOTOMBo",
+   "6OTIA",
+   "BAPB0O",
+   "TIRAS",
+   "TIRAS",
+   "ARROZ",
+   "TOLLO",
+   "POLLO",
+   "DE PESCADO",
+   "FRANGO",
+   "FRANCO",
+   "DE PEIXE",
+   "99",
+   "PL",
+   "RPROZ",
+   "HACENDADO",
+   "ARROZ",
+   "30/11/2026",
+   "280ge",
+   "316JseRe7",
+   "ARRO7",
+   "百",
+   "H",
+   "2,50"
+  ],
+  "crop_wh": [
+   147,
+   96
+  ],
+  "sharpness": 358.9,
+  "ocr_s": 0.26
+ }
+}

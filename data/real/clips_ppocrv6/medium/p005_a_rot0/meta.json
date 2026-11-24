@@ -1,0 +1,216 @@
+{
+ "f000.jpg": {
+  "n_lines": 10,
+  "box": [
+   533,
+   697,
+   629,
+   793
+  ],
+  "level": "digits",
+  "lines": [
+   "1000"
+  ],
+  "all_lines": [
+   "hambra",
+   "RONAL",
+   "AMSTEL",
+   "CLRVEZA",
+   "Radle",
+   "Ast",
+   "1000",
+   "Nahon",
+   "fu  St A.e % vail / a 0,0% obj.",
+   "URES"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 50.2,
+  "ocr_s": 1.33
+ },
+ "f006.jpg": {
+  "n_lines": 10,
+  "box": [
+   554,
+   694,
+   650,
+   790
+  ],
+  "level": "digits",
+  "lines": [
+   "1000"
+  ],
+  "all_lines": [
+   "hambra",
+   "OYAL",
+   "AMSTEL",
+   "CERVIZA",
+   "Radto",
+   "tast",
+   "1000",
+   "Nahor",
+   "Éa   ic.  % m An. G, ciy.",
+   "NOURES"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 51.1,
+  "ocr_s": 1.28
+ },
+ "f012.jpg": {
+  "n_lines": 12,
+  "box": [
+   569,
+   685,
+   665,
+   781
+  ],
+  "level": "digits",
+  "lines": [
+   "1000"
+  ],
+  "all_lines": [
+   "hambra",
+   "NCIONAL",
+   "AMSTEL",
+   "CERVERA",
+   "Radl",
+   "1000",
+   "naho",
+   "f   A A ve   oy",
+   "0",
+   "NOURBS",
+   "31",
+   "IRIP"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 50.2,
+  "ocr_s": 1.36
+ },
+ "f018.jpg": {
+  "n_lines": 7,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "thambra",
+   "INCPIAL",
+   "AMSTEL",
+   "CLIVEZA",
+   "Nahos",
+   "",
+   "AOORES"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 50.4,
+  "ocr_s": 1.2
+ },
+ "f024.jpg": {
+  "n_lines": 8,
+  "box": [
+   577,
+   703,
+   673,
+   799
+  ],
+  "level": "digits",
+  "lines": [
+   "1000"
+  ],
+  "all_lines": [
+   "hambra",
+   "SAIOCIONAL",
+   "AMSTEL",
+   "CANVEZA",
+   "Radl",
+   "1000",
+   "Naho",
+   "%0% "
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 51.1,
+  "ocr_s": 1.26
+ },
+ "f030.jpg": {
+  "n_lines": 12,
+  "box": [
+   575,
+   702,
+   671,
+   798
+  ],
+  "level": "digits",
+  "lines": [
+   "1000"
+  ],
+  "all_lines": [
+   "ambra",
+   "AMSTEL",
+   "DEDVEZA",
+   "Radl",
+   "AN",
+   "PAUEA",
+   "m",
+   "1000",
+   "Naho",
+   " d D d. 0. v A 0. ",
+   "A",
+   "MOURES"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 50.5,
+  "ocr_s": 1.39
+ },
+ "f036.jpg": {
+  "n_lines": 10,
+  "box": [
+   574,
+   707,
+   670,
+   803
+  ],
+  "level": "digits",
+  "lines": [
+   "1800"
+  ],
+  "all_lines": [
+   "thambra",
+   "INDICIONAL",
+   "AMSTEL",
+   "CLAVIZA",
+   "Radle",
+   "1800",
+   "Naho",
+   "(uti e t  t v A0. 0.0 o",
+   "0",
+   "ACURES"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 50.6,
+  "ocr_s": 1.33
+ }
+}

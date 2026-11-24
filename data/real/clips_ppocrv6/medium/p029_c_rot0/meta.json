@@ -1,0 +1,297 @@
+{
+ "f000.jpg": {
+  "n_lines": 24,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "zanelli",
+   "CHEDDAR",
+   "CURADO",
+   "SDAN",
+   "zanelli",
+   "2.95",
+   "Snack",
+   "QUESO-QUETO",
+   "Saack",
+   "QUESD-QCT2",
+   "on",
+   "QUESITOS",
+   "LIGHT",
+   "QUESITOS",
+   "Emmental",
+   "1.50c",
+   "GUESITOS",
+   "Gouda",
+   "Gouda",
+   "1,95c",
+   "Gouda",
+   "Gouda",
+   "500g",
+   "puda"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 301.0,
+  "ocr_s": 1.6
+ },
+ "f006.jpg": {
+  "n_lines": 23,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "HEDDAR",
+   "EURADO",
+   "zanell",
+   "295",
+   "Snack",
+   "QUESO-QUEDO",
+   "Saacka",
+   "LIOH",
+   "QLEXON(U)",
+   "LGHT",
+   "300",
+   "UESITOS",
+   "Emmental",
+   "1.50c",
+   "UESITOS",
+   "Gouda",
+   "Couda",
+   "P",
+   "Gouda",
+   "Gouda",
+   "500g",
+   "Gouda",
+   "500g"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 262.5,
+  "ocr_s": 1.58
+ },
+ "f012.jpg": {
+  "n_lines": 22,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "CHEDDAR",
+   "URADO",
+   "zanelli",
+   "295",
+   "Snack",
+   "QUESO·CUEDO",
+   "Snack",
+   "L10in",
+   "CCEND-CUETO",
+   "YOn0g",
+   "LUGHT",
+   "ITOS",
+   "Emmental",
+   "1,50c",
+   "GUESITOS",
+   "Gouda",
+   "Coud",
+   "Gouda",
+   "Gouda",
+   "500g",
+   "Gouda",
+   "500g"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 269.4,
+  "ocr_s": 1.65
+ },
+ "f018.jpg": {
+  "n_lines": 24,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "JEAK",
+   "SHEDOAR",
+   "\"URADO",
+   "zanel",
+   "295",
+   "Snack",
+   "QUESO-QUIIO",
+   "Snaok",
+   "LON",
+   "CUZNO-QUUTO",
+   "LUGHT",
+   "300",
+   "ITOS",
+   "Emmental",
+   "150",
+   "CUESITOS",
+   "Couda",
+   "Couda",
+   "7",
+   "Gouda",
+   "Gouda",
+   "500g",
+   "Gouda",
+   "500g"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 262.3,
+  "ocr_s": 1.71
+ },
+ "f024.jpg": {
+  "n_lines": 23,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "zanelli",
+   "SEDaAr",
+   "URADO",
+   "SaaN",
+   "zanelli",
+   "295",
+   "Snack",
+   "QUEXO·QUTO",
+   "Saack",
+   "QUESO-010",
+   "LGHT",
+   "300",
+   "ESITOS",
+   "Emmental",
+   "GUESITOS",
+   "Gouda",
+   "Gouda",
+   "95c",
+   "Gouda",
+   "Gouda",
+   "500g",
+   "Gouda",
+   "500g"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 265.1,
+  "ocr_s": 1.63
+ },
+ "f030.jpg": {
+  "n_lines": 23,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "CHEDDAR",
+   "CZIRADO",
+   "C",
+   "zanelli",
+   "295",
+   "Snack",
+   "QUESO-QUTO",
+   "Shack",
+   "QUXO-UTO",
+   "UIOT",
+   "LIGHT",
+   "QUESITOS",
+   "Emmental",
+   "1.50c",
+   "GUESITOS",
+   "Gouda",
+   "Gou",
+   "1.95c",
+   "Gouda",
+   "Gouda",
+   "500g",
+   "Gouda",
+   "500g"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 260.7,
+  "ocr_s": 1.58
+ },
+ "f036.jpg": {
+  "n_lines": 23,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "",
+   "CHEDGAL",
+   "URADO",
+   "CUBAD",
+   "295",
+   "Snack",
+   "QUESO-QUED",
+   "Shack",
+   "Len",
+   "CLUENO-",
+   "LUIGHT",
+   "QUESITOS",
+   "Emmental",
+   "1.50c",
+   "OUESITOS",
+   "Gouda",
+   "Col",
+   "1,95c",
+   "Gouda",
+   "Gouda",
+   "500g",
+   "Gouda",
+   "500g"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 260.7,
+  "ocr_s": 1.58
+ }
+}

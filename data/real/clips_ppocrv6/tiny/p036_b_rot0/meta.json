@@ -1,0 +1,167 @@
+{
+ "f000.jpg": {
+  "n_lines": 7,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "北",
+   "HACENDADO",
+   "a6oSL",
+   "b0I S",
+   "0",
+   "6",
+   "SueIC"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 45.6,
+  "ocr_s": 0.22
+ },
+ "f006.jpg": {
+  "n_lines": 7,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "买",
+   "18E",
+   "6",
+   "C",
+   "D",
+   "",
+   "RE"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 43.2,
+  "ocr_s": 0.23
+ },
+ "f012.jpg": {
+  "n_lines": 3,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "经",
+   "IE",
+   "e200n"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 45.8,
+  "ocr_s": 0.21
+ },
+ "f018.jpg": {
+  "n_lines": 3,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "H",
+   "FO",
+   "42Oc"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 46.7,
+  "ocr_s": 0.21
+ },
+ "f024.jpg": {
+  "n_lines": 5,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "经经",
+   "",
+   "8",
+   "8",
+   "420e"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 46.6,
+  "ocr_s": 0.2
+ },
+ "f030.jpg": {
+  "n_lines": 2,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "经费",
+   "8"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 45.5,
+  "ocr_s": 0.21
+ },
+ "f036.jpg": {
+  "n_lines": 3,
+  "box": [
+   1304,
+   521,
+   1705,
+   1074
+  ],
+  "level": "digits",
+  "lines": [
+   "22025%7"
+  ],
+  "all_lines": [
+   "北",
+   "22025%7",
+   "asueIO"
+  ],
+  "crop_wh": [
+   401,
+   553
+  ],
+  "sharpness": 57.4,
+  "ocr_s": 0.22
+ }
+}

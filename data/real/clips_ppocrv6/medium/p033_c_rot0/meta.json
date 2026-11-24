@@ -1,0 +1,342 @@
+{
+ "f000.jpg": {
+  "n_lines": 26,
+  "box": [
+   506,
+   1425,
+   695,
+   1543
+  ],
+  "level": "date",
+  "lines": [
+   "8-10 min"
+  ],
+  "all_lines": [
+   "MACARION PENINE",
+   "SPAGHETTI FINO",
+   "RAYADO",
+   "RIGATE",
+   "SPACHETTI FINO",
+   "CLÁSSICA",
+   "CLASSICA",
+   "0,85",
+   "0,85€",
+   "HÉLICES",
+   "LICESESPIR",
+   "HÉLICES",
+   "ocA TRIDo DURD",
+   "ESPIRAIS",
+   "CLAS",
+   "CLASSICA",
+   "BODURO",
+   "1,20c",
+   "PA.HETTI",
+   "0.85c",
+   "MACAEN",
+   "和",
+   "1,20cl",
+   "8-10 min",
+   "SPACH",
+   "1kge"
+  ],
+  "crop_wh": [
+   189,
+   118
+  ],
+  "sharpness": 131.9,
+  "ocr_s": 1.65
+ },
+ "f006.jpg": {
+  "n_lines": 33,
+  "box": [
+   834,
+   1171,
+   998,
+   1267
+  ],
+  "level": "date",
+  "lines": [
+   "8-10 min"
+  ],
+  "all_lines": [
+   "SPACHETTI FINO",
+   "RAYADO",
+   "CLÁSSICA",
+   "SPACHETTI FINO",
+   "CLÁSSICA",
+   "SPAGHITTIFINO",
+   "0,85€",
+   "FaN",
+   "0.85€",
+   "LE",
+   "DLATRIGODURO",
+   "1oc",
+   "LICESESPIR",
+   "ESPIRAIS",
+   "HELIC",
+   "HÉLICES",
+   "HELICES",
+   "100%SÊHOM TRIGO DURO",
+   "SPAPHETTI",
+   "1l min",
+   "CLASSICA",
+   "1,20c",
+   "1,20€l",
+   "Sanay",
+   "SPAGHETTI",
+   "8-10 min",
+   "SPAGHETTI",
+   "1kge",
+   "8-10",
+   "8-10m",
+   "14",
+   "1kg",
+   "HACENDAD"
+  ],
+  "crop_wh": [
+   164,
+   96
+  ],
+  "sharpness": 168.4,
+  "ocr_s": 1.83
+ },
+ "f012.jpg": {
+  "n_lines": 29,
+  "box": [
+   815,
+   1062,
+   983,
+   1158
+  ],
+  "level": "date",
+  "lines": [
+   "8-10 min"
+  ],
+  "all_lines": [
+   "RAYADO",
+   "CLÁSSICA",
+   "SPAGHETTI FINO",
+   "-4",
+   "CLÁSSICA",
+   "SPACHETMFUND",
+   "0,85",
+   "",
+   "0,85c",
+   "OLATRIGODURO",
+   "LICESESPIR",
+   "ESPIRAIS",
+   "HELICES",
+   "HÉLICES",
+   "100%SÊMOLATRIGO DURO",
+   "SPAPHETTI",
+   "11 min",
+   "CLASSICA",
+   "1.20c",
+   "1,20€l",
+   "VranuD",
+   "8-10 min",
+   "1kge",
+   "TI",
+   "SPAGHETTI",
+   "SPAGI",
+   "0-10m",
+   "1kg!",
+   "HACENDAD"
+  ],
+  "crop_wh": [
+   168,
+   96
+  ],
+  "sharpness": 155.1,
+  "ocr_s": 1.77
+ },
+ "f018.jpg": {
+  "n_lines": 29,
+  "box": [
+   785,
+   957,
+   963,
+   1053
+  ],
+  "level": "date",
+  "lines": [
+   "8-10 min"
+  ],
+  "all_lines": [
+   "MACA",
+   "RAYADU",
+   "CLÁSSICA",
+   "BUm",
+   "10",
+   "CLÁSSICA",
+   "SPACHETAN",
+   "0,8",
+   "0.85c",
+   "firamton",
+   "D",
+   "HGODURO",
+   "SPAHETTI",
+   "CLATRIGO DURO",
+   "LICESESPIR",
+   "HÉLICES",
+   "HELICES",
+   "ESPIRAIS",
+   "$-7",
+   "11 min",
+   "CLASSICA",
+   "1,20c",
+   "8-10 min",
+   "1",
+   "1kge",
+   "Vilao",
+   "SPACHETTI",
+   "-10min",
+   "1kgl"
+  ],
+  "crop_wh": [
+   178,
+   96
+  ],
+  "sharpness": 145.8,
+  "ocr_s": 1.7
+ },
+ "f024.jpg": {
+  "n_lines": 25,
+  "box": [
+   774,
+   953,
+   950,
+   1049
+  ],
+  "level": "date",
+  "lines": [
+   "8-10 min"
+  ],
+  "all_lines": [
+   "MACASODAPETILE",
+   "RAYADJ RIGATE",
+   "CLÁSSICA",
+   "CLÁSSICA",
+   "SPACHITIFN",
+   "BACTIDAO",
+   "0,8",
+   "0,85€",
+   "Fhiremion",
+   "RIGODURO",
+   "SPAGHETTI",
+   "LATRIGO DUGO",
+   "LICESESPIR",
+   "HELICES",
+   "ESPIRAIS",
+   "HÉLICES",
+   "11 min",
+   "CLASSICA",
+   "1,20c",
+   "8-10 min",
+   "1kge",
+   "Vinaxame",
+   "SPACHETTI",
+   "-10 min",
+   "1kg"
+  ],
+  "crop_wh": [
+   176,
+   96
+  ],
+  "sharpness": 144.3,
+  "ocr_s": 1.66
+ },
+ "f030.jpg": {
+  "n_lines": 27,
+  "box": [
+   770,
+   966,
+   946,
+   1062
+  ],
+  "level": "date",
+  "lines": [
+   "8-10 min"
+  ],
+  "all_lines": [
+   "MACANTION PEIE",
+   "RAYADO RIGATE",
+   "CLÁSSICA",
+   "CLÁSSICA",
+   "SPAGHETTIPONG",
+   "BAGTETARO",
+   "0,8",
+   "0.85€",
+   "N",
+   "Toaia",
+   "RIGODURO",
+   "SPAGHETTI",
+   "LA TRIGO BURO",
+   "LICESESPIR",
+   "HELICES",
+   "HÉLICES",
+   "ESPIRAIS",
+   "11 min",
+   "CLASSICA",
+   "1,20c",
+   "8-10 min",
+   "1",
+   "1kge",
+   "Tun",
+   "SPAGHETTI",
+   "B-10min",
+   "ikg"
+  ],
+  "crop_wh": [
+   176,
+   96
+  ],
+  "sharpness": 146.1,
+  "ocr_s": 1.71
+ },
+ "f036.jpg": {
+  "n_lines": 24,
+  "box": [
+   765,
+   955,
+   944,
+   1051
+  ],
+  "level": "date",
+  "lines": [
+   "8-10 min"
+  ],
+  "all_lines": [
+   "CLÁSSICA",
+   "CLÁSSICA",
+   "SPAGHE F",
+   "0,8",
+   "0.85c",
+   "Chimminn",
+   "RIGODURO",
+   "SPAGHETTI",
+   "HO",
+   "OLA TRIGO DURO",
+   "LICESESPIR",
+   "HÉLICES",
+   "HÉLICES",
+   "ESPIRAIS",
+   "11raln",
+   "CLASSICA",
+   "1,20e",
+   "8-10 min",
+   "1kge",
+   "B6p",
+   "TI",
+   "SPAGHETTI",
+   "0-10mi",
+   "1kg"
+  ],
+  "crop_wh": [
+   179,
+   96
+  ],
+  "sharpness": 145.1,
+  "ocr_s": 1.64
+ }
+}

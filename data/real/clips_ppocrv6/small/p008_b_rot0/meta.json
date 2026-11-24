@@ -1,0 +1,324 @@
+{
+ "f000.jpg": {
+  "n_lines": 23,
+  "box": [
+   1161,
+   1040,
+   1493,
+   1373
+  ],
+  "level": "digits",
+  "lines": [
+   "92842 1454"
+  ],
+  "all_lines": [
+   "ASITURAFCL",
+   "MATOO",
+   "Burritos",
+   "pen",
+   "Fajitas",
+   "SAZONAOOA TEMPERO",
+   "WON",
+   "mex",
+   "AS",
+   "问版",
+   "ROX",
+   "BNCIENDANO",
+   ",30c",
+   "0,90c",
+   "10",
+   "TOP",
+   "RTILLAS",
+   "92842 1454",
+   "TaIGO",
+   "10",
+   "n",
+   "TO",
+   "AV"
+  ],
+  "crop_wh": [
+   332,
+   333
+  ],
+  "sharpness": 121.2,
+  "ocr_s": 0.47
+ },
+ "f006.jpg": {
+  "n_lines": 25,
+  "box": [
+   1098,
+   547,
+   1554,
+   1013
+  ],
+  "level": "digits",
+  "lines": [
+   "L26028 21454"
+  ],
+  "all_lines": [
+   "ILTET",
+   "rvitos",
+   "Fajitas",
+   "SAZONADOR TEMPERO",
+   "tex",
+   "mex",
+   "ROX",
+   "BNCINDADO",
+   "0,90€",
+   "Oc",
+   "L26028 21454",
+   "JELD",
+   "dod.13",
+   "6 TORTILLAS",
+   "AVENA/AVEIA",
+   "12",
+   "12",
+   "MINI",
+   "MINI",
+   "RTILLES",
+   "RIGO",
+   "IMINI",
+   "12TORTULLAS",
+   "TINI",
+   "TOR"
+  ],
+  "crop_wh": [
+   456,
+   466
+  ],
+  "sharpness": 66.7,
+  "ocr_s": 0.47
+ },
+ "f012.jpg": {
+  "n_lines": 29,
+  "box": [
+   1114,
+   532,
+   1560,
+   1009
+  ],
+  "level": "digits",
+  "lines": [
+   "289--029",
+   "L26028 21454"
+  ],
+  "all_lines": [
+   "vn",
+   "SAZONADOR TEMAURD",
+   "rvitos",
+   "Fajitas",
+   "tex",
+   "mex",
+   "GX",
+   "TALENGDO",
+   "289--029",
+   "0,90€",
+   "L26028 21454",
+   "le",
+   "D",
+   "51",
+   "dod.13",
+   "6 TORTILLAS",
+   "AVENA AVEIA 5",
+   "12",
+   "MINI",
+   "MINI",
+   "RTILLAS",
+   "DRIGO",
+   "MINI",
+   "FOCL",
+   "12",
+   "TOPTILLAS",
+   "TORT",
+   "MINI",
+   "10"
+  ],
+  "crop_wh": [
+   446,
+   477
+  ],
+  "sharpness": 68.7,
+  "ocr_s": 0.5
+ },
+ "f018.jpg": {
+  "n_lines": 25,
+  "box": [
+   1118,
+   515,
+   1576,
+   1009
+  ],
+  "level": "digits",
+  "lines": [
+   "280--029",
+   "L6028 221454"
+  ],
+  "all_lines": [
+   "uoritos",
+   "TADONADOR TEMPAAO",
+   "Fajitas",
+   "tex",
+   "mex",
+   "ROX",
+   "HACENBALD",
+   "280--029",
+   "Oc",
+   "0,90€",
+   "L6028 221454",
+   "dod.13",
+   "6 TORTILLAS",
+   "AVENA AVEIA 5",
+   "12",
+   "MINI",
+   "MINI",
+   "RTILLA",
+   "RIGD",
+   "NONY",
+   "12",
+   "TORTILLAS",
+   "TOR",
+   "MINI",
+   "10"
+  ],
+  "crop_wh": [
+   458,
+   494
+  ],
+  "sharpness": 66.9,
+  "ocr_s": 0.47
+ },
+ "f024.jpg": {
+  "n_lines": 24,
+  "box": [
+   1189,
+   540,
+   1505,
+   862
+  ],
+  "level": "date",
+  "lines": [
+   "86-09-029"
+  ],
+  "all_lines": [
+   "Yeme",
+   "uritos",
+   "Fajitas",
+   "TAZONADOR TEMPERO",
+   "tex",
+   "mex",
+   "AGX",
+   "HRONAN",
+   "86-09-029",
+   "L6028 221454",
+   "0€",
+   "0,90c",
+   "6 TORTILLAS",
+   "AVENA/AVEIA 5",
+   "12",
+   "MINI",
+   "MINI",
+   "RTILLA",
+   "TRIGD",
+   "MINT",
+   "12",
+   "TORTILLAS",
+   "TOR",
+   "MINI"
+  ],
+  "crop_wh": [
+   316,
+   322
+  ],
+  "sharpness": 65.1,
+  "ocr_s": 0.47
+ },
+ "f030.jpg": {
+  "n_lines": 22,
+  "box": [
+   1125,
+   485,
+   1609,
+   999
+  ],
+  "level": "digits",
+  "lines": [
+   "289-029",
+   "L2608 221454"
+  ],
+  "all_lines": [
+   "urvitos",
+   "Fajitas",
+   "SAZGNACOR TENPEAO",
+   "tex",
+   "mex",
+   "OX",
+   "LEB",
+   "289-029",
+   "L2608 221454",
+   "0,90c",
+   "6 TORTILLAS",
+   "AVENA AVEIA 5",
+   "12",
+   "12",
+   "MINI",
+   "MINI",
+   "RTILLA",
+   "TRIGO",
+   "NNT",
+   "12",
+   "TORTILLAS",
+   "TOR"
+  ],
+  "crop_wh": [
+   484,
+   514
+  ],
+  "sharpness": 64.0,
+  "ocr_s": 0.46
+ },
+ "f036.jpg": {
+  "n_lines": 23,
+  "box": [
+   1138,
+   486,
+   1610,
+   989
+  ],
+  "level": "digits",
+  "lines": [
+   "2809--029",
+   "L2608 221454"
+  ],
+  "all_lines": [
+   "critos",
+   "Fajitas",
+   "BAZONADOS TEMPERO",
+   "tex",
+   "mex",
+   "ROX",
+   "HONAO",
+   "2809--029",
+   "L2608 221454",
+   "0,90c",
+   "ID",
+   "6 TORTILLAS",
+   "AVENA/AVEIA 5",
+   "12",
+   "12",
+   "MINI",
+   "MINI",
+   "PTILLAS",
+   "SRIGO",
+   "NINT",
+   "12",
+   "TORTILLAS",
+   "TOR"
+  ],
+  "crop_wh": [
+   472,
+   503
+  ],
+  "sharpness": 62.0,
+  "ocr_s": 0.47
+ }
+}

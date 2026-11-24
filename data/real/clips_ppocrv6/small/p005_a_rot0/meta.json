@@ -1,0 +1,189 @@
+{
+ "f000.jpg": {
+  "n_lines": 7,
+  "box": [
+   533,
+   697,
+   629,
+   793
+  ],
+  "level": "digits",
+  "lines": [
+   "1080"
+  ],
+  "all_lines": [
+   "AMSTEL",
+   "CLRVELA",
+   "m",
+   "1080",
+   "Nahor",
+   "2",
+   "鸿"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 50.2,
+  "ocr_s": 0.4
+ },
+ "f006.jpg": {
+  "n_lines": 7,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "hambra",
+   "AMSTEL",
+   "CERVIZA",
+   "Radto",
+   "Naho",
+   "0",
+   "R.ES"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 51.1,
+  "ocr_s": 0.39
+ },
+ "f012.jpg": {
+  "n_lines": 8,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "hambra",
+   "AMSTEL",
+   "CERVERA",
+   "m",
+   "TE0O",
+   "Mahoo",
+   "d",
+   "RBS"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 50.2,
+  "ocr_s": 0.41
+ },
+ "f018.jpg": {
+  "n_lines": 7,
+  "box": [
+   570,
+   687,
+   666,
+   783
+  ],
+  "level": "digits",
+  "lines": [
+   "1080"
+  ],
+  "all_lines": [
+   "hambra",
+   "AMSTEL",
+   "CARVEZA",
+   "Kiudlo",
+   "m",
+   "1080",
+   "Naho"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 50.4,
+  "ocr_s": 0.4
+ },
+ "f024.jpg": {
+  "n_lines": 6,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "hambra",
+   "AMSTEL",
+   "CLIVEZA",
+   "Radle",
+   "Naho",
+   "C"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 51.1,
+  "ocr_s": 0.39
+ },
+ "f030.jpg": {
+  "n_lines": 8,
+  "box": [
+   521,
+   771,
+   725,
+   867
+  ],
+  "level": "digits",
+  "lines": [
+   "ate e 3Dd Ac. 0.0% val/AL 0,0% ot",
+   "ate e 3Dd Ac. 0.0% val/AL 0,0% ot"
+  ],
+  "all_lines": [
+   "ambra",
+   "AMSTEL",
+   "BOYEZA",
+   "m",
+   "10R0",
+   "Naho",
+   "ate e 3Dd Ac. 0.0% val/AL 0,0% ot",
+   "0"
+  ],
+  "crop_wh": [
+   204,
+   96
+  ],
+  "sharpness": 50.5,
+  "ocr_s": 0.4
+ },
+ "f036.jpg": {
+  "n_lines": 4,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "hambra",
+   "AMSTEL",
+   "CLIVEZA",
+   "Naho"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 50.6,
+  "ocr_s": 0.39
+ }
+}

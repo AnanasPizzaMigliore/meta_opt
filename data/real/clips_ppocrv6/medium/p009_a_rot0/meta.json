@@ -1,0 +1,286 @@
+{
+ "f000.jpg": {
+  "n_lines": 19,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "1,75c",
+   "SALSA",
+   "QUESO",
+   "HACENDADO",
+   "SALE!",
+   "LOR",
+   "YQUESI",
+   "HACENDADO",
+   "SADE QUESO",
+   "1,65€",
+   "mo ",
+   "VENA AVEIA 510%",
+   "Wraps",
+   "朋佳用20",
+   "E",
+   "51%",
+   "NAU",
+   "SDE",
+   "A 51%"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 196.3,
+  "ocr_s": 1.54
+ },
+ "f006.jpg": {
+  "n_lines": 18,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "SALEA",
+   "QUESO",
+   "HACENDADO",
+   "LSA",
+   "SALS!",
+   "IESO",
+   "YQUESI",
+   "HACENDADO",
+   "1,65€",
+   " ",
+   "VENA VEIA 510%",
+   "Wraps",
+   "LAS DE",
+   "EIA 51%",
+   "raps",
+   "NAU",
+   "RTILLAS DE",
+   "A/AVEIA 51%"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 184.5,
+  "ocr_s": 1.59
+ },
+ "f012.jpg": {
+  "n_lines": 23,
+  "box": [
+   415,
+   798,
+   818,
+   994
+  ],
+  "level": "digits",
+  "lines": [
+   "VENAVEIA 5100"
+  ],
+  "all_lines": [
+   "SILSA",
+   "",
+   "QUESO",
+   "用",
+   "HACENDADO",
+   "US",
+   "SALO",
+   "LEA",
+   "IESO",
+   "QYQUESN",
+   "HACENDADO",
+   "SALSADEQUESO",
+   "1,65€",
+   "1",
+   "VENAVEIA 5100",
+   "Wraps",
+   "LAS DE",
+   "EIA 51%",
+   "aps",
+   "NAU",
+   "RTILLAS DE",
+   "A/AVEIA 51%",
+   "CL"
+  ],
+  "crop_wh": [
+   403,
+   196
+  ],
+  "sharpness": 192.1,
+  "ocr_s": 1.64
+ },
+ "f018.jpg": {
+  "n_lines": 19,
+  "box": [
+   404,
+   812,
+   809,
+   1009
+  ],
+  "level": "digits",
+  "lines": [
+   "VENA AVEIA 5100"
+  ],
+  "all_lines": [
+   "BILBA",
+   "QUESO",
+   "HACENDADO",
+   "SALOA",
+   "ESO",
+   "OYQUESI",
+   "HACENDADO",
+   "1,65€",
+   "5",
+   "VENA AVEIA 5100",
+   "湖",
+   "Wraps",
+   "AS DE",
+   "EIA 51%",
+   "aps",
+   "NAUY",
+   "TILLAS DE",
+   "/AVEIA 51%",
+   "CL"
+  ],
+  "crop_wh": [
+   405,
+   197
+  ],
+  "sharpness": 191.8,
+  "ocr_s": 1.58
+ },
+ "f024.jpg": {
+  "n_lines": 24,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "BALSR",
+   "Eva gee",
+   "",
+   "gaexa",
+   "QUESO",
+   "HACENDADO",
+   "VM1O",
+   "LOA",
+   "SALe!",
+   "IESO",
+   "OYQUESI",
+   "HACENDADO",
+   "SALSADEQUESO",
+   "1,65€",
+   " 59",
+   "VENA AVEIA 510",
+   "Wraps",
+   "AS DE",
+   "EIA 51%",
+   "aps",
+   "NAU",
+   "TILLAS DE",
+   "/AVEIA 51%",
+   "L"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 192.0,
+  "ocr_s": 1.71
+ },
+ "f030.jpg": {
+  "n_lines": 21,
+  "box": [
+   589,
+   796,
+   811,
+   896
+  ],
+  "level": "digits",
+  "lines": [
+   "o5.893"
+  ],
+  "all_lines": [
+   "SALOA",
+   "QUESO",
+   "HACENDADO",
+   "3ALO",
+   "3O",
+   "LOP",
+   "IESO",
+   "IQUES",
+   "HACENDADO",
+   "SALSADEOUESO",
+   "1,65€",
+   "o5.893",
+   "VENA AVEIA 510%",
+   "潮門",
+   "Wraps",
+   "AS DE",
+   "IA 51%",
+   "ps",
+   "NAU",
+   "TILLAS DE",
+   "AVEIA 51%"
+  ],
+  "crop_wh": [
+   222,
+   100
+  ],
+  "sharpness": 190.7,
+  "ocr_s": 1.61
+ },
+ "f036.jpg": {
+  "n_lines": 19,
+  "box": [
+   378,
+   829,
+   792,
+   1032
+  ],
+  "level": "digits",
+  "lines": [
+   "VENA AVEIA 5100"
+  ],
+  "all_lines": [
+   "SALOA",
+   "GUESO",
+   "20",
+   "HACENDADO",
+   "LOA",
+   "SALOA",
+   "QYQUESI",
+   "HACENDADO",
+   "1,65€",
+   "me , ",
+   "VENA AVEIA 5100",
+   "",
+   "Wraps",
+   "S DE",
+   "A51%",
+   "os",
+   "NAU",
+   "ILLAS DE",
+   "AVEIA 51%"
+  ],
+  "crop_wh": [
+   414,
+   203
+  ],
+  "sharpness": 192.6,
+  "ocr_s": 1.58
+ }
+}

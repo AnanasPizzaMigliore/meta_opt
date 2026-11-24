@@ -1,0 +1,284 @@
+{
+ "f000.jpg": {
+  "n_lines": 20,
+  "box": [
+   1477,
+   45,
+   1618,
+   169
+  ],
+  "level": "digits",
+  "lines": [
+   "1100"
+  ],
+  "all_lines": [
+   "1100",
+   "BALER",
+   "QUESO",
+   "HACENDADO",
+   "SALEN",
+   "GOQUESO",
+   "FLACENDADO",
+   "COSHIS",
+   "1,65€",
+   "",
+   "VENAVFIA 51",
+   "",
+   "Wraps",
+   "RACEYOADO",
+   "NAO",
+   "NAC",
+   "S",
+   "US",
+   "GUNIDA",
+   "XL"
+  ],
+  "crop_wh": [
+   141,
+   124
+  ],
+  "sharpness": 180.4,
+  "ocr_s": 1.52
+ },
+ "f006.jpg": {
+  "n_lines": 21,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "1,75c",
+   "110.",
+   "ORLOA",
+   "QUE30",
+   "HACENDADO",
+   "SALSA",
+   "AQUESO",
+   "HACENDADO",
+   "CSAHES",
+   "1,65€",
+   "",
+   "510",
+   "VENA AVEIA 5",
+   "T高888",
+   "Wraps",
+   "RACESDIDO",
+   "BIVAL",
+   "NAO",
+   "NMC",
+   "BUNIDA",
+   "XL"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 180.1,
+  "ocr_s": 1.57
+ },
+ "f012.jpg": {
+  "n_lines": 18,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "uod",
+   "SILOA",
+   "OUESO",
+   "HACENDADO",
+   "BALGA",
+   "GYQUESO",
+   "HACENDADO",
+   "GSAS",
+   "1,65€",
+   "110",
+   "VENA AVEIA 51",
+   "",
+   "Wraps",
+   "HACENDADO",
+   "NAO",
+   "NAC",
+   "UNIDA",
+   "noXL"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 179.7,
+  "ocr_s": 1.5
+ },
+ "f018.jpg": {
+  "n_lines": 21,
+  "box": [
+   702,
+   889,
+   893,
+   1002
+  ],
+  "level": "date",
+  "lines": [
+   "40/61/01 83 92/60/02"
+  ],
+  "all_lines": [
+   "1,10l",
+   "CALOR",
+   "QUESO",
+   "HACENDADO",
+   "SALOI",
+   "QUESI",
+   "HACENDADO",
+   "CSneS",
+   "1,65€",
+   "",
+   "ENAAVFIA 510",
+   "40/61/01 83 92/60/02",
+   "1628 1827 0925506279",
+   "Wraps",
+   "HACESOADO",
+   "BUVAL",
+   "NAC",
+   "NAC",
+   "S",
+   "UNIDA",
+   "XL"
+  ],
+  "crop_wh": [
+   191,
+   113
+  ],
+  "sharpness": 179.8,
+  "ocr_s": 1.57
+ },
+ "f024.jpg": {
+  "n_lines": 18,
+  "box": [
+   164,
+   831,
+   582,
+   1040
+  ],
+  "level": "digits",
+  "lines": [
+   "ENAAVEIA 5100"
+  ],
+  "all_lines": [
+   "1,75c",
+   "ood",
+   "BALOA",
+   "ONESO",
+   "U语",
+   "HACENDADO",
+   "SALSA",
+   "OTQUESO",
+   "HACENDADO",
+   "1,65€",
+   "STBU",
+   "ENAAVEIA 5100",
+   "Wraps",
+   "HACENDADO",
+   "NAC",
+   "NAC",
+   "UNIDA",
+   "XL"
+  ],
+  "crop_wh": [
+   418,
+   209
+  ],
+  "sharpness": 181.6,
+  "ocr_s": 1.51
+ },
+ "f030.jpg": {
+  "n_lines": 21,
+  "box": [
+   137,
+   821,
+   593,
+   1047
+  ],
+  "level": "digits",
+  "lines": [
+   "VENAAVFIA 5100"
+  ],
+  "all_lines": [
+   "1,75c",
+   "110J",
+   "2LSA",
+   "OOUESO",
+   "HACENDADO",
+   "SALS",
+   "TYQUESI",
+   "HACENDADO",
+   "CSHIPS",
+   "1,65€",
+   "",
+   "VENAAVFIA 5100",
+   "門品",
+   "Wraps",
+   "HACENDADO",
+   "TINAC",
+   "NAG",
+   "NAC",
+   "S",
+   "UNIDA",
+   "XL"
+  ],
+  "crop_wh": [
+   456,
+   226
+  ],
+  "sharpness": 182.7,
+  "ocr_s": 1.57
+ },
+ "f036.jpg": {
+  "n_lines": 20,
+  "box": [
+   1470,
+   51,
+   1633,
+   194
+  ],
+  "level": "digits",
+  "lines": [
+   "1101l"
+  ],
+  "all_lines": [
+   "1,75c",
+   "1101l",
+   "SRGER",
+   "QUERO",
+   "HACENDADO",
+   "SALSA",
+   "QYQUESO",
+   "HACENDADO",
+   "1,65€",
+   "ENAVFIA 51",
+   "20108970位",
+   "164 1822 062S50E175",
+   "Wraps",
+   "HACEYDADO",
+   "VAC",
+   "NAG",
+   "AS",
+   "NAC",
+   "UNIDA",
+   "oXL"
+  ],
+  "crop_wh": [
+   163,
+   143
+  ],
+  "sharpness": 182.3,
+  "ocr_s": 1.56
+ }
+}

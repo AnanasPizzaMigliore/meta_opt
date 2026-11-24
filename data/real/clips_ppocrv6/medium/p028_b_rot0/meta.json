@@ -1,0 +1,271 @@
+{
+ "f000.jpg": {
+  "n_lines": 33,
+  "box": [
+   0,
+   492,
+   991,
+   1728
+  ],
+  "level": "date",
+  "lines": [
+   ":077B 08.02.27",
+   "refrigeración y consumir antes de 3 días. Envasado en atmósfera proectora",
+   "produto em refrigeração e consumir no prazo"
+  ],
+  "all_lines": [
+   "(E-1603)",
+   "ctico.coagulante",
+   "vaca",
+   "E-160a)). 20% Queijo Gouda (leite de vaca pasteurizado, sal, fermentos",
+   "MEZCLADE4 QUESOSRALLADOS",
+   "cticos, coagulante microbiano), 5% Queijo curado (leite devaca, cabra e",
+   "Intiaglomerante (amido). Isento de glúten.",
+   "velha pasteurizado, coagulante microbiano, sal, conservante (E-202))",
+   "Conservaren frioentre 0Cy8C Unavezabirto,conservarelproductoen",
+   "refrigeración y consumir antes de 3 días. Envasado en atmósfera proectora",
+   "produto em refrigeração e consumir no prazo",
+   "atmosfera protetora",
+   "INGREDIENTES",
+   "entemente antes da",
+   "referência antesde",
+   "CONSERVACIÓN/CONSERVAÇÃO",
+   ":077B 08.02.27",
+   "Valor",
+   "Energético/Energia 354 kcal",
+   "Grasas/Lipidos",
+   "de las cuales/dos quais:",
+   "dias. Embalado em",
+   "Hidratos de Carbono",
+   "-Saturadas/Saturados",
+   "de los cuales/dos quais:",
+   "Proteinas",
+   "-Azúcares/Acucares",
+   "Peso Neto/Liquião",
+   "is",
+   "100g",
+   "200",
+   "1470J",
+   "M"
+  ],
+  "crop_wh": [
+   991,
+   1236
+  ],
+  "sharpness": 94.2,
+  "ocr_s": 2.22
+ },
+ "f006.jpg": {
+  "n_lines": 14,
+  "box": [
+   699,
+   274,
+   1572,
+   652
+  ],
+  "level": "date",
+  "lines": [
+   "08.02.27",
+   "Lote/Consumir preferentem"
+  ],
+  "all_lines": [
+   "NA",
+   "Conservar no",
+   "atmosferaprotetora.",
+   "ntes del:",
+   "Lote/Consumir preferentem",
+   "08.02.27",
+   "65052-31423:0778",
+   "JESOS",
+   "UEIJOS",
+   "QUESERIA LAPUENTE",
+   "Fabricado per",
+   "Pol ind Heras part",
+   "Espaia Esparha",
+   "39792 Hemas (Carnal"
+  ],
+  "crop_wh": [
+   873,
+   378
+  ],
+  "sharpness": 30.0,
+  "ocr_s": 1.46
+ },
+ "f012.jpg": {
+  "n_lines": 10,
+  "box": [
+   1267,
+   1414,
+   1728,
+   1728
+  ],
+  "level": "digits",
+  "lines": [
+   "800500220",
+   "39792 Heras (Cant",
+   "Fabricado pr"
+  ],
+  "all_lines": [
+   "Antlaglomerant",
+   "produto em ref",
+   "atmosfera protetora",
+   "CONSERVACION",
+   "Fabricado pr",
+   "800500220",
+   "QUESERIA LAPUENTE",
+   "Pol. Ind Heras. part",
+   "Espute Espanha",
+   "39792 Heras (Cant"
+  ],
+  "crop_wh": [
+   461,
+   314
+  ],
+  "sharpness": 21.5,
+  "ocr_s": 1.41
+ },
+ "f018.jpg": {
+  "n_lines": 14,
+  "box": [
+   1215,
+   1357,
+   1728,
+   1728
+  ],
+  "level": "digits",
+  "lines": [
+   "800500220",
+   "39790 Heras (Caman",
+   "MERCADONA",
+   "Fabricado per"
+  ],
+  "all_lines": [
+   "ovelma pasteurizade",
+   "produto em refrigere",
+   "atmosfera protetora",
+   "CONSERVACIÓN/CON",
+   "ESOS",
+   "JEU",
+   "1",
+   "MERCADONA",
+   "Fabricado per",
+   "800500220",
+   "QUESERIA LAFUENTES",
+   "Pol Ind Heras, parc. I",
+   "Espaia Espanha",
+   "39790 Heras (Caman"
+  ],
+  "crop_wh": [
+   513,
+   371
+  ],
+  "sharpness": 20.1,
+  "ocr_s": 1.48
+ },
+ "f024.jpg": {
+  "n_lines": 12,
+  "box": [
+   1169,
+   1339,
+   1728,
+   1728
+  ],
+  "level": "digits",
+  "lines": [
+   "800500220",
+   "39792 Heras (Cantabe",
+   "MERCADONA",
+   "Fabricado por"
+  ],
+  "all_lines": [
+   "hosfera protetora",
+   "CONSERVACIÓN/CONSERVAC",
+   "QUESO",
+   "ou",
+   "",
+   "MERCADONA",
+   "Fabricado por",
+   "800500220",
+   "QUESERIA LAFUENTE",
+   "Pol. Ind Heras parc. 3",
+   "39792 Heras (Cantabe",
+   "EspariaEspanha"
+  ],
+  "crop_wh": [
+   559,
+   389
+  ],
+  "sharpness": 22.0,
+  "ocr_s": 1.42
+ },
+ "f030.jpg": {
+  "n_lines": 11,
+  "box": [
+   1147,
+   1330,
+   1728,
+   1728
+  ],
+  "level": "digits",
+  "lines": [
+   "800500220",
+   "39792 Heras (Cantabm",
+   "MERCADONA",
+   "Fabricado per"
+  ],
+  "all_lines": [
+   "E-160a)).20%",
+   "atmosfera protetora.",
+   "CONSERVACIÓN/CONSERVAÇÃO",
+   "L0",
+   "MERCADONA",
+   "Fabricado per",
+   "800500220",
+   "QUESERIA LAFUENTE SA",
+   "Pol. Ind Heras, pac. 10",
+   "39792 Heras (Cantabm",
+   "Esputa Espanha"
+  ],
+  "crop_wh": [
+   581,
+   398
+  ],
+  "sharpness": 20.0,
+  "ocr_s": 1.42
+ },
+ "f036.jpg": {
+  "n_lines": 11,
+  "box": [
+   1131,
+   1314,
+   1728,
+   1728
+  ],
+  "level": "digits",
+  "lines": [
+   "800500220",
+   "39792 Heras (Cantabra",
+   "MERCADONA",
+   "Fabricado per"
+  ],
+  "all_lines": [
+   "160a)).20%",
+   "atmosfera protetora.",
+   "CONSERVACIÓN/CONSERVAÇÃO",
+   "LEJuentn",
+   "MERCADONA",
+   "Fabricado per",
+   "800500220",
+   "QUESERIA LAFUENTE SA",
+   "Pol. Ind Heras, parc 30",
+   "39792 Heras (Cantabra",
+   "España Enpanha"
+  ],
+  "crop_wh": [
+   597,
+   414
+  ],
+  "sharpness": 19.7,
+  "ocr_s": 1.44
+ }
+}

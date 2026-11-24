@@ -1,0 +1,297 @@
+{
+ "f000.jpg": {
+  "n_lines": 16,
+  "box": [
+   745,
+   1283,
+   1145,
+   1497
+  ],
+  "level": "digits",
+  "lines": [
+   "30/1l/202b",
+   "3lbJ52 R27"
+  ],
+  "all_lines": [
+   "DE PESCADO",
+   "DE PEIXE",
+   "OAeiaerel in",
+   "DRertiara pdiak",
+   "ORiaretlhyh",
+   "ORiera prlak",
+   "eaetquea",
+   "OWESVECAUCOES",
+   " Emvase apto pen micoondan No rtinrel fi ars de aleax Eite cortedo",
+   "del emere con las paredes No utlzar el grl",
+   "Embalagem para micro-ondas. Nto retire o fme antes de aquecer Evite o",
+   "contato do recipiente com as paredes Nto utkar grnll",
+   "HACENDADO",
+   "30/1l/202b",
+   "3lbJ52 R27",
+   "280ge"
+  ],
+  "crop_wh": [
+   400,
+   214
+  ],
+  "sharpness": 56.1,
+  "ocr_s": 0.25
+ },
+ "f006.jpg": {
+  "n_lines": 21,
+  "box": [
+   1047,
+   1212,
+   1477,
+   1337
+  ],
+  "level": "date",
+  "lines": [
+   "30/11/2026"
+  ],
+  "all_lines": [
+   "OMbima potenda",
+   "OPertorefim",
+   "Colocarenelcentro.",
+   "OArtueapaliak",
+   "Potncia máima.",
+   "Coloque no centre.",
+   "ORdiardinyh",
+   "ORemovet.",
+   "etparta",
+   "DMeet",
+   "Oirtiaro pelck",
+   "eadliqurta",
+   "fCAUCOES",
+   "C Enee apto pan micpendas No rtin ed tinarte de calentax Evite contacto",
+   "emez cea las predr No ikar dgl",
+   "OEmbalogem pan mice-cndas. Nho rtire o filme antes de oquecet Evite o",
+   "eto do ropiestr cam an pards kio uuiar grn",
+   "HACENDADO",
+   "30/11/2026",
+   "280ge",
+   "316J52 R27"
+  ],
+  "crop_wh": [
+   430,
+   125
+  ],
+  "sharpness": 40.0,
+  "ocr_s": 0.28
+ },
+ "f012.jpg": {
+  "n_lines": 22,
+  "box": [
+   1066,
+   1223,
+   1521,
+   1354
+  ],
+  "level": "date",
+  "lines": [
+   "30/11/2026"
+  ],
+  "all_lines": [
+   "2min.",
+   "Mbima potencia.",
+   "OPeiereitin",
+   "Colocarenel centra.",
+   "OAertuarapelate",
+   "OPoténca mtxima",
+   "Coloqueno centro.",
+   "Oiiareitihyh",
+   "GRemover",
+   "etourta",
+   "OMeet",
+   "Qietar a pdinta",
+   "eh eigura",
+   "ESPRECAUCOES",
+   "ise agto pan miopandas No retinr edfin antx de caientar Évite contacto",
+   "de emrsx cae ls paredx No tlinrd gl",
+   "OEmbalagem pan miop-ondas Klo retire o flme antes de aquecet Evite o",
+   "contato do eoigitnte can as paredes. Nto utikar grl",
+   "HACENDADO",
+   "30/11/2026",
+   "280ge",
+   "316J52 R27"
+  ],
+  "crop_wh": [
+   455,
+   131
+  ],
+  "sharpness": 37.5,
+  "ocr_s": 0.26
+ },
+ "f018.jpg": {
+  "n_lines": 23,
+  "box": [
+   1052,
+   1196,
+   1517,
+   1328
+  ],
+  "level": "date",
+  "lines": [
+   "30/11/2026"
+  ],
+  "all_lines": [
+   "2min",
+   "OMbinma potenca.",
+   "OPeriaareiih",
+   "Colocar enelcentro.",
+   "Oietuarapeioak",
+   "OPotncia máima.",
+   "Coloque no cento.",
+   "Oidinrdifinybh",
+   "ORemover",
+   "doua",
+   "OMaet",
+   "Qirtara peliata",
+   "eietgura",
+   "NCIUO0",
+   "DNES/PRECAUCOES",
+   "C Enusr agto pan micpondz. No rtinr el fin antes de calentac Evite contacto",
+   "or eerex can lis paredes. lo ullar ed gil",
+   "Oimbalagem paa mico ondas Nto retire o fime antes de aquecet Evite o",
+   "trato do ecgierte can as paredes No tiizar grl",
+   "HACENDADO",
+   "30/11/2026",
+   "280ge",
+   "3lbJ52 R27"
+  ],
+  "crop_wh": [
+   465,
+   132
+  ],
+  "sharpness": 36.8,
+  "ocr_s": 0.28
+ },
+ "f024.jpg": {
+  "n_lines": 21,
+  "box": [
+   1057,
+   1226,
+   1525,
+   1352
+  ],
+  "level": "date",
+  "lines": [
+   "30/11/2026"
+  ],
+  "all_lines": [
+   "2min.",
+   "OMáima potenca.",
+   "OAarioaredim",
+   "Calocaren elcentro.",
+   "Oietaapeliak",
+   "OPattncia mdima",
+   "Coloque no centro",
+   "Oietardthyh",
+   "ORemove.",
+   "OR",
+   "OMeer",
+   "Oiete a peliok",
+   "eaetourta",
+   "Eee agto pan mo pondr No rtiered fin amtes de calentar Évite contacto",
+   "del enrz can las paredes No utiiar d gnl",
+   "Oimbalagem para migo-ondas. Nto retire o flme antes de aquecer Evite o",
+   "patto do recpiente cam as parrdes Nio utikzar grl",
+   "HACENDADO",
+   "30/11/2026",
+   "280ge",
+   "316J52 R27"
+  ],
+  "crop_wh": [
+   468,
+   126
+  ],
+  "sharpness": 35.1,
+  "ocr_s": 0.29
+ },
+ "f030.jpg": {
+  "n_lines": 23,
+  "box": [
+   1085,
+   1232,
+   1566,
+   1360
+  ],
+  "level": "date",
+  "lines": [
+   "30/11/202b"
+  ],
+  "all_lines": [
+   "0 2mia.",
+   "EMáima potenca",
+   "GAeioardfilm",
+   "Colocarenelcentro.",
+   "OPotincamiina",
+   "QPertura peliata",
+   "Coloque no centro.",
+   "F",
+   "Oieinrdfinyba",
+   "ORemovet",
+   "etqura",
+   "OMeer",
+   "Oitar a pelata",
+   "cadou",
+   "VPRECAUCOES",
+   "O inex apte pan micnandis No rtned fn antes de alentar Évite contedo",
+   "del emre can las pardrs. No utilar el grl",
+   "Oinbalagen pan mioo-ondrs Nto rtire o flme antes de aquecer Evite o",
+   "contato do eoigiente cen as paredes Nto utlzar gnl",
+   "HACENDADO",
+   "30/11/202b",
+   "280ge",
+   "316Js2 R27"
+  ],
+  "crop_wh": [
+   481,
+   128
+  ],
+  "sharpness": 33.0,
+  "ocr_s": 0.26
+ },
+ "f036.jpg": {
+  "n_lines": 20,
+  "box": [
+   1072,
+   1195,
+   1580,
+   1398
+  ],
+  "level": "digits",
+  "lines": [
+   "30/1l/202b",
+   "31bJ52 R27"
+  ],
+  "all_lines": [
+   "O Miima potencia",
+   "OPerioarelfim",
+   "Colocarenel centa",
+   "OPotència mdima",
+   "QAertuarapeliala",
+   "Coloqve nocento.",
+   "Qietrdfinyh",
+   "ORemovet",
+   "OMeet",
+   "Oieinra pelialk",
+   "eaetguda",
+   "ES/PRECAUCOES",
+   "O Enese agto pan miopends lo rtinr elftn ants de alentar Evite contado",
+   "dal eoex cse lias paredes. No ailar el gl",
+   "OEmbalagem pae miop-ondas. Nto retire o filme antes de aquecer Evite o",
+   "caatate do recigierte con as paredes Nlo utar grll",
+   "HACENDADO",
+   "30/1l/202b",
+   "280ge",
+   "31bJ52 R27"
+  ],
+  "crop_wh": [
+   508,
+   203
+  ],
+  "sharpness": 34.7,
+  "ocr_s": 0.27
+ }
+}

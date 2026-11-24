@@ -1,0 +1,239 @@
+{
+ "f000.jpg": {
+  "n_lines": 7,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "DO",
+   "3.90c",
+   "BUGGER",
+   "2,80",
+   "MEAT",
+   "3,20€",
+   "6,00"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 122.4,
+  "ocr_s": 0.37
+ },
+ "f006.jpg": {
+  "n_lines": 15,
+  "box": [
+   1220,
+   911,
+   1531,
+   1460
+  ],
+  "level": "date",
+  "lines": [
+   "26-6-21",
+   "FECHADOTE"
+  ],
+  "all_lines": [
+   "FECHCDLCLOTE",
+   "266 -21",
+   "04401",
+   "CONSALOTE",
+   "VACUNO",
+   "BOVINO",
+   "BUGEI",
+   "MAT",
+   "0401",
+   "26-6-21",
+   "FECHADOTE",
+   "CONSIRALTE",
+   "2",
+   "91E100",
+   "0111"
+  ],
+  "crop_wh": [
+   311,
+   549
+  ],
+  "sharpness": 17.1,
+  "ocr_s": 0.44
+ },
+ "f012.jpg": {
+  "n_lines": 12,
+  "box": [
+   1300,
+   882,
+   1660,
+   1489
+  ],
+  "level": "date",
+  "lines": [
+   "26-6-21",
+   "FECHA DDOTE"
+  ],
+  "all_lines": [
+   "FECCACALO",
+   "266 -2",
+   "CONSELOTLE",
+   "0069038",
+   "VACUNO",
+   "BOVINO",
+   "BUER",
+   "MAT",
+   "04401",
+   "26-6-21",
+   "FECHA DDOTE",
+   "CONSRALOTE"
+  ],
+  "crop_wh": [
+   360,
+   607
+  ],
+  "sharpness": 13.4,
+  "ocr_s": 0.42
+ },
+ "f018.jpg": {
+  "n_lines": 11,
+  "box": [
+   1404,
+   0,
+   1728,
+   1491
+  ],
+  "level": "digits",
+  "lines": [
+   "266--2",
+   "04401",
+   "26--21",
+   "FECHAADADADL"
+  ],
+  "all_lines": [
+   "FECHAADADADL",
+   "266--2",
+   "CONSEOTE",
+   "VACUNO",
+   "BOVINO",
+   "BUER",
+   "MAT",
+   "04401",
+   "26--21",
+   "FECH DLOTE",
+   "CONSR AMLTE"
+  ],
+  "crop_wh": [
+   324,
+   1491
+  ],
+  "sharpness": 12.2,
+  "ocr_s": 0.4
+ },
+ "f024.jpg": {
+  "n_lines": 12,
+  "box": [
+   1290,
+   911,
+   1643,
+   1519
+  ],
+  "level": "date",
+  "lines": [
+   "26-6-21",
+   "FECHA DOTE"
+  ],
+  "all_lines": [
+   "FCHAHCDDLO",
+   "266 -21",
+   "040",
+   "CONSEROTE",
+   "VACUNO",
+   "BOVINO",
+   "BUER",
+   "MAT",
+   "044601",
+   "26-6-21",
+   "FECHA DOTE",
+   "CONSRALOTE"
+  ],
+  "crop_wh": [
+   353,
+   608
+  ],
+  "sharpness": 13.7,
+  "ocr_s": 0.4
+ },
+ "f030.jpg": {
+  "n_lines": 13,
+  "box": [
+   1215,
+   0,
+   1728,
+   1515
+  ],
+  "level": "digits",
+  "lines": [
+   "266 -21",
+   "04401",
+   "04401",
+   "26--21",
+   "FECHA CLLOTE"
+  ],
+  "all_lines": [
+   "ECHADDL/O1",
+   "266 -21",
+   "04401",
+   "CONOTE",
+   "VACUNO",
+   "BOVINO",
+   "BUER",
+   "MAT",
+   "04401",
+   "26--21",
+   "FECHA CLLOTE",
+   "Vros",
+   "CONSRAOTE"
+  ],
+  "crop_wh": [
+   513,
+   1515
+  ],
+  "sharpness": 15.0,
+  "ocr_s": 0.42
+ },
+ "f036.jpg": {
+  "n_lines": 12,
+  "box": [
+   1376,
+   934,
+   1555,
+   1408
+  ],
+  "level": "date",
+  "lines": [
+   "26-6-21"
+  ],
+  "all_lines": [
+   "FECHACOCDLOTE",
+   "266 -21",
+   "04401",
+   "CONSERIOTE",
+   "VACUNO",
+   "BOVINO",
+   "BUER",
+   "MAT",
+   "044601",
+   "26-6-21",
+   "FCHDA DDOTE",
+   "CONSR ALOTE"
+  ],
+  "crop_wh": [
+   179,
+   474
+  ],
+  "sharpness": 15.2,
+  "ocr_s": 0.4
+ }
+}

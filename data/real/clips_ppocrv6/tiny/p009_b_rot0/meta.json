@@ -1,0 +1,223 @@
+{
+ "f000.jpg": {
+  "n_lines": 11,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "SLOA",
+   "nUE80",
+   "S2RAA",
+   "",
+   "HACENDADO",
+   "oaMON",
+   "HACENDADO",
+   "QUESO",
+   "1,65",
+   "1unO 5.8",
+   "ENA"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 127.5,
+  "ocr_s": 0.22
+ },
+ "f006.jpg": {
+  "n_lines": 16,
+  "box": [
+   933,
+   606,
+   1648,
+   1114
+  ],
+  "level": "digits",
+  "lines": [
+   "1231402:8892/60402：",
+   "6话 1E22 0s2520229"
+  ],
+  "all_lines": [
+   "175e",
+   "9RLSA",
+   "QUEsO",
+   "HACENDADO",
+   "CNIO",
+   "O2S",
+   "ESO",
+   "",
+   "HACENDADO",
+   "街",
+   "QUESC",
+   "1,65",
+   "1231402:8892/60402：",
+   "58",
+   "6话 1E22 0s2520229",
+   "ENAY"
+  ],
+  "crop_wh": [
+   715,
+   508
+  ],
+  "sharpness": 127.0,
+  "ocr_s": 0.25
+ },
+ "f012.jpg": {
+  "n_lines": 11,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "1.75e",
+   "PRLOR",
+   "QUE80",
+   "HACENDADO",
+   "tccRMIOeN",
+   "SRLSA",
+   "cy'aUEsU",
+   "HACENDADO",
+   "ALEOUESO",
+   "1,65",
+   "EN"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 127.8,
+  "ocr_s": 0.22
+ },
+ "f018.jpg": {
+  "n_lines": 9,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "75e",
+   "ALOA",
+   "UEsO",
+   "HACENDADO",
+   "cYoUEsi",
+   "FC0",
+   "要G3",
+   "HACENDADO",
+   "ENA"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 122.7,
+  "ocr_s": 0.22
+ },
+ "f024.jpg": {
+  "n_lines": 11,
+  "box": [
+   1026,
+   595,
+   1634,
+   1065
+  ],
+  "level": "digits",
+  "lines": [
+   "8892/60402",
+   "122 02520229"
+  ],
+  "all_lines": [
+   "175e",
+   "1S",
+   "BL8A",
+   "CUE3O",
+   "HACENDADO",
+   "PS9",
+   "8892/60402",
+   "HACENDADO",
+   "AOEOUeto",
+   "122 02520229",
+   "ENA"
+  ],
+  "crop_wh": [
+   608,
+   470
+  ],
+  "sharpness": 122.1,
+  "ocr_s": 0.21
+ },
+ "f030.jpg": {
+  "n_lines": 9,
+  "box": [
+   1027,
+   597,
+   1594,
+   953
+  ],
+  "level": "date",
+  "lines": [
+   "102:88 92/60/0E："
+  ],
+  "all_lines": [
+   "175e",
+   "CRLBA",
+   "qUE80",
+   "HACENDADO",
+   "HACENDADO",
+   "102:88 92/60/0E：",
+   "20s2G202229",
+   "BAOLQUESO",
+   "ENA"
+  ],
+  "crop_wh": [
+   567,
+   356
+  ],
+  "sharpness": 120.9,
+  "ocr_s": 0.2
+ },
+ "f036.jpg": {
+  "n_lines": 11,
+  "box": [
+   925,
+   614,
+   1651,
+   1069
+  ],
+  "level": "digits",
+  "lines": [
+   "62 1E22 0s2SE0229"
+  ],
+  "all_lines": [
+   "175e",
+   "AL3R",
+   "CUESO",
+   "CG",
+   "HACENDADO",
+   "e2",
+   "C",
+   "CU聘S",
+   "HACENDADO",
+   "62 1E22 0s2SE0229",
+   "ENA"
+  ],
+  "crop_wh": [
+   726,
+   455
+  ],
+  "sharpness": 118.1,
+  "ocr_s": 0.23
+ }
+}

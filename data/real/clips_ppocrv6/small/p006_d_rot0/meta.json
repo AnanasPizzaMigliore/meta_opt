@@ -1,0 +1,336 @@
+{
+ "f000.jpg": {
+  "n_lines": 27,
+  "box": [
+   756,
+   944,
+   860,
+   1073
+  ],
+  "level": "digits",
+  "lines": [
+   "3192A0",
+   "14:43"
+  ],
+  "all_lines": [
+   "amelo",
+   "Imelo",
+   "SAZONAOOR TEMPERD",
+   "10x",
+   "Burritos",
+   "Fajitas",
+   "SAZONADOR TEMPERO",
+   "tex",
+   "mex",
+   "Pipocas Caramelo",
+   "HACENDADO",
+   "1,50c",
+   "1,15€",
+   "EEman",
+   "120g",
+   "HACENDADO",
+   "am127",
+   "3192A0",
+   "Franca Frana",
+   "14:43",
+   "10",
+   "TORTHLA",
+   "RTILLAS",
+   "TRIGO",
+   "TORTILLAS",
+   "TRIG",
+   "10"
+  ],
+  "crop_wh": [
+   104,
+   129
+  ],
+  "sharpness": 251.0,
+  "ocr_s": 0.52
+ },
+ "f006.jpg": {
+  "n_lines": 22,
+  "box": [
+   783,
+   912,
+   879,
+   1008
+  ],
+  "level": "digits",
+  "lines": [
+   "231/27"
+  ],
+  "all_lines": [
+   "smelo",
+   "imelo",
+   "SAZONADOR TENPERO",
+   "10x",
+   "Burritos",
+   "SAZONADOR·TEMPERO",
+   "Fajitas",
+   "tex",
+   "mex",
+   "Pipocas Caramelo",
+   "HACENDADO",
+   "1,50c",
+   "1,15€",
+   "120g",
+   "231/27",
+   "Peancta França",
+   "10",
+   "TORTHLA",
+   "TILLAS",
+   "TRIGO",
+   "TORTILLAS",
+   "TRIG"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 248.6,
+  "ocr_s": 0.47
+ },
+ "f012.jpg": {
+  "n_lines": 29,
+  "box": [
+   813,
+   912,
+   909,
+   1008
+  ],
+  "level": "date",
+  "lines": [
+   "01/27"
+  ],
+  "all_lines": [
+   "Imelo",
+   "amelo",
+   "SAZONADOR TEMPERO",
+   "10x",
+   "Burritos",
+   "SAZONADOR·TEMPERO",
+   "Fajitas",
+   "tex",
+   "mex",
+   "s Pipocas Caramelo",
+   "HACENDADO",
+   "1,50c",
+   "40",
+   "1,15€",
+   "120g",
+   "FEOR",
+   "SATEENVASADO",
+   "01/27",
+   "DATA DE ENBALAGEM",
+   "3192A0",
+   "Fvancia Prana",
+   "14:43",
+   "10",
+   "TORTHLA",
+   "TILLAS",
+   "TRIGO",
+   "TORTILLA",
+   "TORTI",
+   "10"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 248.8,
+  "ocr_s": 0.51
+ },
+ "f018.jpg": {
+  "n_lines": 27,
+  "box": [
+   902,
+   683,
+   1049,
+   826
+  ],
+  "level": "digits",
+  "lines": [
+   "8O050D"
+  ],
+  "all_lines": [
+   "smelo",
+   "melo",
+   "SAZONADOR TEMPERO",
+   "10x",
+   "Burritos",
+   "SAZONADOR TEMPÉRO",
+   "Fajitas",
+   "tex",
+   "mex",
+   "s Pipocas Caramelo",
+   "HACENDADO",
+   "8O050D",
+   "1,50c",
+   "1,15€",
+   "120g",
+   "Eeatlen",
+   "HACE",
+   "4",
+   "H1/21",
+   "Francia França",
+   "14:43",
+   "10",
+   "TORTHLA",
+   "TILLAS",
+   "RIGO",
+   "TORTILL",
+   "TRI"
+  ],
+  "crop_wh": [
+   147,
+   143
+  ],
+  "sharpness": 248.6,
+  "ocr_s": 0.5
+ },
+ "f024.jpg": {
+  "n_lines": 27,
+  "box": [
+   811,
+   932,
+   911,
+   1058
+  ],
+  "level": "digits",
+  "lines": [
+   "3102A0",
+   "14:43"
+  ],
+  "all_lines": [
+   "amelo",
+   "melo",
+   "Burritos",
+   "SAZONADOR·TEMFERO",
+   "SAZONADOR TEMPERO",
+   "Faiitas",
+   "tex",
+   "mex",
+   "sPipocas Caramelo",
+   "HACENDADO",
+   "1,50c",
+   "1,15€",
+   "120g",
+   "ireil",
+   "HACEM",
+   "M",
+   "/27",
+   "CATA DE EMBALAGEM",
+   "3102A0",
+   "Franca/ Fcarça",
+   "14:43",
+   "10",
+   "TORTHLA",
+   "TILLAS",
+   "RIGO",
+   "TORTILLA",
+   "TRIC"
+  ],
+  "crop_wh": [
+   100,
+   126
+  ],
+  "sharpness": 248.6,
+  "ocr_s": 0.5
+ },
+ "f030.jpg": {
+  "n_lines": 28,
+  "box": [
+   809,
+   910,
+   905,
+   1006
+  ],
+  "level": "date",
+  "lines": [
+   "11-01/27"
+  ],
+  "all_lines": [
+   "amelo",
+   "Imelo",
+   "TTAEWY",
+   "Burritos",
+   "SAZONADOR TEMPERO",
+   "10x",
+   "Faiitas",
+   "SAZONADOR-TEMPERO",
+   "SABOR",
+   "tex",
+   "mex",
+   "as Pipocas Caramelo",
+   "HACENDADO",
+   "1,50c",
+   "1,15e",
+   "120g",
+   "EEApe",
+   "HACEND",
+   "3192A0",
+   "11-01/27",
+   "FoarcialPrarça",
+   "14:43",
+   "10",
+   "TORTILA",
+   "TILLAS",
+   "RIGO",
+   "TORTILLA",
+   "TRI"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 247.1,
+  "ocr_s": 0.5
+ },
+ "f036.jpg": {
+  "n_lines": 25,
+  "box": [
+   815,
+   909,
+   911,
+   1005
+  ],
+  "level": "date",
+  "lines": [
+   "1/27"
+  ],
+  "all_lines": [
+   "smelo",
+   "Imelo",
+   "Burritos",
+   "SAZONADOR TEMFERO",
+   "Faiitas",
+   "SAZONADOR TEMPERO",
+   "tex",
+   "mex",
+   "s Pipocas Caramelo",
+   "HACENDADO",
+   "1,50c",
+   "1,15€",
+   "120g",
+   "M",
+   "1/27",
+   "A03192A0",
+   "Francia (frsnça",
+   "ORIGEN ORGEMS",
+   "14:43",
+   "10",
+   "TORTHLA",
+   "ILLAS",
+   "RIGO",
+   "TORTILLA",
+   "TRJ"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 247.3,
+  "ocr_s": 0.49
+ }
+}

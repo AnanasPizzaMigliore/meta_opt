@@ -1,0 +1,258 @@
+{
+ "f000.jpg": {
+  "n_lines": 17,
+  "box": [
+   909,
+   518,
+   1728,
+   1616
+  ],
+  "level": "digits",
+  "lines": [
+   "0,509kg",
+   "26R21",
+   "2313741007534",
+   "FECHA DE CADUCIDAD"
+  ],
+  "all_lines": [
+   "0,509kg",
+   "PESO NETO:",
+   "24.",
+   "FECHA DE CADUCIDAD",
+   "ANOJO",
+   "PRECIO KILO:",
+   "P.V.P",
+   "7,53€",
+   "80€",
+   "26R21",
+   "JARRETE",
+   "2313741007534",
+   "口",
+   "IARRETE/MCRCZLC",
+   "MANOS",
+   "P877",
+   "营题"
+  ],
+  "crop_wh": [
+   819,
+   1098
+  ],
+  "sharpness": 144.8,
+  "ocr_s": 0.24
+ },
+ "f006.jpg": {
+  "n_lines": 13,
+  "box": [
+   404,
+   439,
+   1166,
+   1593
+  ],
+  "level": "digits",
+  "lines": [
+   "0,509kg",
+   "26R21",
+   "2313741007534"
+  ],
+  "all_lines": [
+   "0,509kg",
+   "PESO NETO:",
+   "PRECIO",
+   "P.V.P",
+   "7,53€",
+   "MORCILLOI",
+   "0",
+   "JARRETE",
+   "26R21",
+   "2313741007534",
+   "口",
+   "个",
+   "MANOS"
+  ],
+  "crop_wh": [
+   762,
+   1154
+  ],
+  "sharpness": 37.9,
+  "ocr_s": 0.23
+ },
+ "f012.jpg": {
+  "n_lines": 13,
+  "box": [
+   552,
+   432,
+   1138,
+   1556
+  ],
+  "level": "digits",
+  "lines": [
+   "0,509kg",
+   "2313741007534"
+  ],
+  "all_lines": [
+   "0,509kg",
+   "PESO NETO:",
+   "PRECIO",
+   "P.V.P",
+   "7,53€",
+   "MORCILLOI",
+   "KILO",
+   ".26",
+   "JARRETE",
+   "R21",
+   "2313741007534",
+   "口",
+   "MANOS"
+  ],
+  "crop_wh": [
+   586,
+   1124
+  ],
+  "sharpness": 54.7,
+  "ocr_s": 0.22
+ },
+ "f018.jpg": {
+  "n_lines": 16,
+  "box": [
+   570,
+   456,
+   1145,
+   1563
+  ],
+  "level": "digits",
+  "lines": [
+   "0,509kg",
+   "2313741007534"
+  ],
+  "all_lines": [
+   "0,509kg",
+   "PESO NETO:",
+   "PRECIO KILO:",
+   "P.V.P",
+   "7,53€",
+   "CO",
+   "MORCILLOI",
+   "0€",
+   "JARRETE",
+   ".26",
+   "R21",
+   "2313741007534",
+   "",
+   "大",
+   "ORcLLC",
+   "MANOS"
+  ],
+  "crop_wh": [
+   575,
+   1107
+  ],
+  "sharpness": 56.4,
+  "ocr_s": 0.23
+ },
+ "f024.jpg": {
+  "n_lines": 11,
+  "box": [
+   543,
+   387,
+   1333,
+   1577
+  ],
+  "level": "digits",
+  "lines": [
+   "0,509kg",
+   "26 R21",
+   "2313741007534"
+  ],
+  "all_lines": [
+   "0,509kg",
+   "PESO NETO:",
+   "24.",
+   "P.V.P",
+   "7,53€",
+   "MORCILLOI",
+   "JARRETE",
+   "26 R21",
+   "2313741007534",
+   "cEcuC",
+   "MANOS"
+  ],
+  "crop_wh": [
+   790,
+   1190
+  ],
+  "sharpness": 59.2,
+  "ocr_s": 0.22
+ },
+ "f030.jpg": {
+  "n_lines": 13,
+  "box": [
+   533,
+   402,
+   1318,
+   1595
+  ],
+  "level": "digits",
+  "lines": [
+   "0,509kg",
+   ".26 R21",
+   "2313741007534"
+  ],
+  "all_lines": [
+   "0,509kg",
+   "PESO NETO:",
+   "PRECIO KILO",
+   "P.V.P",
+   "7,53€",
+   "CO",
+   "MORCILLOI",
+   "JARRETE",
+   ".26 R21",
+   "2313741007534",
+   "口",
+   "大",
+   "MANOS"
+  ],
+  "crop_wh": [
+   785,
+   1193
+  ],
+  "sharpness": 56.2,
+  "ocr_s": 0.23
+ },
+ "f036.jpg": {
+  "n_lines": 14,
+  "box": [
+   559,
+   447,
+   1163,
+   1590
+  ],
+  "level": "digits",
+  "lines": [
+   "0,509kg",
+   "2313741007534"
+  ],
+  "all_lines": [
+   "0,509kg",
+   "PESO NETO:",
+   "7,53€",
+   "Co",
+   "MORCILLOI",
+   "0€",
+   "JARRETE",
+   "26",
+   "R21",
+   "2313741007534",
+   "口",
+   "品",
+   "CRCaLC",
+   "MANOS"
+  ],
+  "crop_wh": [
+   604,
+   1143
+  ],
+  "sharpness": 54.5,
+  "ocr_s": 0.23
+ }
+}

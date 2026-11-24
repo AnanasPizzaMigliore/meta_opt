@@ -1,0 +1,280 @@
+{
+ "f000.jpg": {
+  "n_lines": 20,
+  "box": [
+   249,
+   412,
+   345,
+   508
+  ],
+  "level": "digits",
+  "lines": [
+   "0x910"
+  ],
+  "all_lines": [
+   "SILSI",
+   "GUESO",
+   "HACENDADO",
+   "0x910",
+   "OYQUES",
+   "HACENDADO",
+   "1,65€",
+   "1008B080B",
+   "510%0",
+   "ENAYUEIA",
+   "PRINGLES",
+   "Wraps",
+   "A",
+   "ORIGINAL",
+   "NAU",
+   "6 TORTILLAS",
+   "AVENA/AVEIP",
+   "K",
+   "1,85c",
+   "XI"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 207.0,
+  "ocr_s": 0.47
+ },
+ "f006.jpg": {
+  "n_lines": 22,
+  "box": [
+   478,
+   695,
+   649,
+   831
+  ],
+  "level": "digits",
+  "lines": [
+   "510%0"
+  ],
+  "all_lines": [
+   "SALBA",
+   "GUEBO",
+   "HACENDADO",
+   "SALe",
+   "ESO",
+   "TQUESI",
+   "HACENDADO",
+   "SALSA DE QUEGO",
+   "1,65€",
+   "vUO 59U 电B",
+   "510%0",
+   "PRINGLES",
+   "ENAYEIA",
+   "Wraps",
+   "A",
+   "ORIGINAL",
+   "NAU",
+   "6 TORTILLAS",
+   "AVENA/AVEIA",
+   "图",
+   "010",
+   "XL"
+  ],
+  "crop_wh": [
+   171,
+   136
+  ],
+  "sharpness": 208.7,
+  "ocr_s": 0.51
+ },
+ "f012.jpg": {
+  "n_lines": 21,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "SALSAN",
+   "QUESO",
+   "HACENDADO",
+   "O",
+   "OALS",
+   "QYQUESI",
+   "HACENDADO",
+   "1,65€",
+   " 0",
+   "PRINGLES",
+   "ENA YEIA 510%",
+   "Wraps",
+   "ORIGINAL",
+   "AN",
+   "NAU",
+   "6 TORTILLAS",
+   "AVENA/AVEIA",
+   "国",
+   "园",
+   "1.85",
+   "XI"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 212.8,
+  "ocr_s": 0.47
+ },
+ "f018.jpg": {
+  "n_lines": 18,
+  "box": [
+   401,
+   682,
+   649,
+   798
+  ],
+  "level": "digits",
+  "lines": [
+   "10 5.8 D"
+  ],
+  "all_lines": [
+   "SALER",
+   "QUESO",
+   "HACENDADO",
+   "",
+   "SAL!",
+   "ESO",
+   "HACENDADO",
+   "1,65€",
+   "10 5.8 D",
+   "510%",
+   "PRINGLES",
+   "ENAXVEIA",
+   "Wraps",
+   "ORIGINAL",
+   "A",
+   "6 TORTILLAS",
+   "AVENAIAVEI",
+   "图"
+  ],
+  "crop_wh": [
+   248,
+   116
+  ],
+  "sharpness": 212.6,
+  "ocr_s": 0.46
+ },
+ "f024.jpg": {
+  "n_lines": 19,
+  "box": [
+   390,
+   677,
+   667,
+   895
+  ],
+  "level": "digits",
+  "lines": [
+   "4o503108170",
+   "510%0"
+  ],
+  "all_lines": [
+   "OALER",
+   "QUESO",
+   "HACENDADO",
+   "",
+   "SALS",
+   "emaio",
+   "HACENDADO",
+   "BALSA DE QUESO",
+   "1,65€",
+   "4o503108170",
+   "PRINGLES",
+   "510%0",
+   "ENAYVEIA",
+   "Wraps",
+   "ORIGINAL",
+   "S",
+   "6 TORTILLAS",
+   "图",
+   "XL"
+  ],
+  "crop_wh": [
+   277,
+   218
+  ],
+  "sharpness": 213.7,
+  "ocr_s": 0.46
+ },
+ "f030.jpg": {
+  "n_lines": 15,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "SALSA",
+   "QUESO",
+   "HACENDADO",
+   "饭室",
+   "HACENDADO",
+   "SALSA DE QUESO",
+   "1,65€",
+   "UT58",
+   "PRINGLES",
+   "ENAYVEIA 510%",
+   "ORIGINAL",
+   "Wraps",
+   "AL",
+   "NAU",
+   "6 TORTILLAS"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 214.7,
+  "ocr_s": 0.42
+ },
+ "f036.jpg": {
+  "n_lines": 19,
+  "box": [
+   461,
+   758,
+   630,
+   892
+  ],
+  "level": "digits",
+  "lines": [
+   "510%0"
+  ],
+  "all_lines": [
+   "OALSA",
+   "QUESO",
+   "HACENDADO",
+   "",
+   "SHe!",
+   "ESO",
+   "CYQUES",
+   "FACENDADO",
+   "1,65€",
+   "PRINGLES",
+   "510%0",
+   "ENAAVEIA",
+   "ORIGINAL",
+   "Wraps",
+   "AD",
+   "EI",
+   "6 TORTILLAS",
+   "Z",
+   "XI"
+  ],
+  "crop_wh": [
+   169,
+   134
+  ],
+  "sharpness": 213.6,
+  "ocr_s": 0.44
+ }
+}

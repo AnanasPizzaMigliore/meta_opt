@@ -1,0 +1,322 @@
+{
+ "f000.jpg": {
+  "n_lines": 22,
+  "box": [
+   539,
+   1070,
+   696,
+   1166
+  ],
+  "level": "date",
+  "lines": [
+   "30/11/2026"
+  ],
+  "all_lines": [
+   "1,80c",
+   "275",
+   "TIRAS",
+   "A",
+   "作",
+   "TIRAS",
+   "B",
+   "LOMOLOMBO",
+   "TIRAS",
+   "TIRAS",
+   "POLLO",
+   "TOLLO",
+   "FRANGO",
+   "ARROZ",
+   "FRANGO",
+   "DE PESCADO",
+   "DE PEIXE",
+   "HACENDADO",
+   "30/11/2026",
+   "280ge",
+   "316J52 R27",
+   "a"
+  ],
+  "crop_wh": [
+   157,
+   96
+  ],
+  "sharpness": 292.8,
+  "ocr_s": 0.47
+ },
+ "f006.jpg": {
+  "n_lines": 25,
+  "box": [
+   739,
+   999,
+   877,
+   1095
+  ],
+  "level": "date",
+  "lines": [
+   "30/11/2026"
+  ],
+  "all_lines": [
+   "TIRAS",
+   "MITAS DE ROLD",
+   "ASTHASDERIAN",
+   "B.1",
+   "TIRAS",
+   "LOMOLOMBO",
+   "ARROZ",
+   "TIRAS",
+   "TIRAS",
+   "ROLLO",
+   "POLLO",
+   "DE PESCADO",
+   "FRANGO",
+   "FRANCO",
+   "DE PEIXE",
+   "ARRUZ",
+   "ARROZ",
+   "HACENDADO",
+   "ARROZ",
+   "ARROZ",
+   "30/11/2026",
+   "280ge",
+   "316J52 R27",
+   "山",
+   "2,50"
+  ],
+  "crop_wh": [
+   138,
+   96
+  ],
+  "sharpness": 350.1,
+  "ocr_s": 0.5
+ },
+ "f012.jpg": {
+  "n_lines": 26,
+  "box": [
+   715,
+   976,
+   858,
+   1072
+  ],
+  "level": "date",
+  "lines": [
+   "30/11/2026"
+  ],
+  "all_lines": [
+   "275",
+   "TIRAS",
+   "MUTA DE POUO",
+   "CLENAASDEAN",
+   "6BC",
+   "TIRAS",
+   "LOMOLOMBO",
+   "ARROZ",
+   "TIRAS",
+   "TIRAS",
+   "DE PESCADO",
+   "POLLO",
+   "POLLO",
+   "FRANGO",
+   "FRANIGO",
+   "DE PEIXE",
+   "ARROZ",
+   "ARROZ",
+   "HACENDADO",
+   "ARROZ",
+   "30/11/2026",
+   "280ge",
+   "316J52 R27",
+   "ARROZ",
+   "D",
+   "2,50,"
+  ],
+  "crop_wh": [
+   143,
+   96
+  ],
+  "sharpness": 357.6,
+  "ocr_s": 0.49
+ },
+ "f018.jpg": {
+  "n_lines": 23,
+  "box": [
+   706,
+   976,
+   851,
+   1072
+  ],
+  "level": "date",
+  "lines": [
+   "30/11/2026"
+  ],
+  "all_lines": [
+   "TIRAS",
+   "QUTAS D POLD",
+   ".0",
+   "MRAS",
+   "LOMOLONBO",
+   "ARROZ",
+   "TIRAS",
+   "TIRAS",
+   "POLLO",
+   "POLLO",
+   "DE PESCADO",
+   "FRANGO",
+   "FRANCO",
+   "DE PEIXE",
+   "ARROZ",
+   "ARROZ",
+   "HACENDADO",
+   "ARROZ",
+   "30/11/2026",
+   "280ge",
+   "316J52 R27",
+   "ARROZ",
+   "2,50"
+  ],
+  "crop_wh": [
+   145,
+   96
+  ],
+  "sharpness": 358.8,
+  "ocr_s": 0.47
+ },
+ "f024.jpg": {
+  "n_lines": 25,
+  "box": [
+   699,
+   982,
+   846,
+   1078
+  ],
+  "level": "date",
+  "lines": [
+   "30/11/2026"
+  ],
+  "all_lines": [
+   "TIRAS",
+   "NUTIA DE POLO",
+   "B",
+   "TIRAS",
+   "LOMOLOMBO",
+   "COSTLIAS",
+   "BARBACUA",
+   "ARROZ",
+   "TIRAS",
+   "TIRAS",
+   "ROLLO",
+   "POLLO",
+   "DE PESCADO",
+   "FRANGO",
+   "FRANCO",
+   "DE PEIXE",
+   "ARROZ",
+   "ARROZ",
+   "HACENDADO",
+   "ARROZ",
+   "30/11/2026",
+   "280ge",
+   "316J52 R27",
+   "ARROZ",
+   "2,50."
+  ],
+  "crop_wh": [
+   147,
+   96
+  ],
+  "sharpness": 358.5,
+  "ocr_s": 0.49
+ },
+ "f030.jpg": {
+  "n_lines": 27,
+  "box": [
+   696,
+   989,
+   840,
+   1085
+  ],
+  "level": "date",
+  "lines": [
+   "30/11/2026"
+  ],
+  "all_lines": [
+   "TIRAS",
+   "TASDE POLLO",
+   "HAS DEFTAN",
+   "ED",
+   "TIRAS",
+   "LOMOLOMBO",
+   "ARRACO",
+   "TIRAS",
+   "TIRAS",
+   "ARROZ",
+   "POLLO",
+   "POLLO",
+   "FRANGO",
+   "FRANGO",
+   "DE PESCADO",
+   "DE PEIXE",
+   "ARROZ",
+   "clu",
+   "ARROZ",
+   "HACENDADO",
+   "ARROZ",
+   "30/11/2026",
+   "280ge",
+   "316J52 R27",
+   "ARROZ",
+   "10",
+   "2.50"
+  ],
+  "crop_wh": [
+   144,
+   96
+  ],
+  "sharpness": 355.9,
+  "ocr_s": 0.5
+ },
+ "f036.jpg": {
+  "n_lines": 25,
+  "box": [
+   694,
+   989,
+   839,
+   1085
+  ],
+  "level": "date",
+  "lines": [
+   "30/11/2026"
+  ],
+  "all_lines": [
+   "TIRAS",
+   "MUTA DE  POLS",
+   "MAUIMASDERID",
+   "ER",
+   "TIRAS",
+   "LOMOLOMBO",
+   "TIRAS",
+   "ARROZ",
+   "TIRAS",
+   "TOLLO",
+   "POLLO",
+   "DE PESCADO",
+   "FRANGO",
+   "FRANCO",
+   "DE PEIXE",
+   "ARROZ",
+   "ARROZ",
+   "HACENDADO",
+   "ARROZ",
+   "30/11/2026",
+   "280ge",
+   "316J52 R27",
+   "ARROZ",
+   "D",
+   "2,50"
+  ],
+  "crop_wh": [
+   145,
+   96
+  ],
+  "sharpness": 358.9,
+  "ocr_s": 0.48
+ }
+}

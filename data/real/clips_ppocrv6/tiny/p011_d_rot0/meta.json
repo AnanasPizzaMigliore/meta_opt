@@ -1,0 +1,268 @@
+{
+ "f000.jpg": {
+  "n_lines": 15,
+  "box": [
+   474,
+   1218,
+   615,
+   1326
+  ],
+  "level": "digits",
+  "lines": [
+   "840500220",
+   "KRCADON"
+  ],
+  "all_lines": [
+   "HACERNDADO",
+   "0.85.",
+   "0",
+   "HACENDADO",
+   "云",
+   "B",
+   "ssaa",
+   "C.Pret: Wver",
+   "T144258383",
+   "E54",
+   "0313",
+   "O",
+   "KRCADON",
+   "840500220",
+   "100ge"
+  ],
+  "crop_wh": [
+   141,
+   108
+  ],
+  "sharpness": 168.9,
+  "ocr_s": 0.23
+ },
+ "f006.jpg": {
+  "n_lines": 16,
+  "box": [
+   791,
+   1034,
+   887,
+   1130
+  ],
+  "level": "date",
+  "lines": [
+   "06-13"
+  ],
+  "all_lines": [
+   "0.85.",
+   "HACENDADO",
+   "市",
+   "cks",
+   "C.Pref: werr",
+   "F.Fab:",
+   "CR112a",
+   "T14425883",
+   "06-13",
+   "0",
+   "E54",
+   "",
+   "8",
+   "600500220",
+   "leatoPo Eqadr",
+   "100ge"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 153.4,
+  "ocr_s": 0.22
+ },
+ "f012.jpg": {
+  "n_lines": 16,
+  "box": [
+   797,
+   990,
+   914,
+   1086
+  ],
+  "level": "digits",
+  "lines": [
+   "T144258383",
+   "00:13"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "0,85e",
+   "HACEANDADO",
+   "cks",
+   "210",
+   "C.Prel: ",
+   "CH1U29",
+   "239",
+   "FFat:",
+   "T144258383",
+   "E54",
+   "00:13",
+   "A",
+   "",
+   "asPse liquds",
+   "100ge"
+  ],
+  "crop_wh": [
+   117,
+   96
+  ],
+  "sharpness": 178.1,
+  "ocr_s": 0.23
+ },
+ "f018.jpg": {
+  "n_lines": 19,
+  "box": [
+   586,
+   925,
+   682,
+   1021
+  ],
+  "level": "digits",
+  "lines": [
+   "2260"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "0.85o",
+   "09",
+   "RACEADO",
+   "E",
+   "2260",
+   "239",
+   "30",
+   "091128",
+   "F.Fab.",
+   "T144258383",
+   "E54",
+   "08:13",
+   " csoprsepih da kz.",
+   "Q",
+   "i",
+   "800500220",
+   "hsePea kpdr",
+   "100ge"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 178.8,
+  "ocr_s": 0.24
+ },
+ "f024.jpg": {
+  "n_lines": 17,
+  "box": [
+   790,
+   984,
+   907,
+   1080
+  ],
+  "level": "digits",
+  "lines": [
+   "T144258383",
+   "08:13"
+  ],
+  "all_lines": [
+   "HACERNDADO",
+   "0,85c",
+   "09c",
+   "HACENDADO",
+   "",
+   "",
+   "Le",
+   "C.Pref: WPezr",
+   "T144258383",
+   "08:13",
+   "E54",
+   "eproplo dez",
+   "Ci",
+   "B402001",
+   "ey",
+   "800500220",
+   "100ge"
+  ],
+  "crop_wh": [
+   117,
+   96
+  ],
+  "sharpness": 182.2,
+  "ocr_s": 0.23
+ },
+ "f030.jpg": {
+  "n_lines": 16,
+  "box": [
+   783,
+   986,
+   914,
+   1104
+  ],
+  "level": "digits",
+  "lines": [
+   "OS11/25",
+   "T144258383",
+   "08:13"
+  ],
+  "all_lines": [
+   "0.85c",
+   "HACENDADO",
+   "cks",
+   "1S",
+   "TA",
+   "能",
+   "",
+   "OS11/25",
+   "F.Fab",
+   "T144258383",
+   "E54",
+   "08:13",
+   "tyischgilo do b lez",
+   "ci",
+   "中",
+   "100ge"
+  ],
+  "crop_wh": [
+   131,
+   118
+  ],
+  "sharpness": 179.3,
+  "ocr_s": 0.23
+ },
+ "f036.jpg": {
+  "n_lines": 13,
+  "box": [
+   793,
+   976,
+   920,
+   1092
+  ],
+  "level": "digits",
+  "lines": [
+   "091120",
+   "T14425838]",
+   "06:13"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "0.85.",
+   "HACEADAIDO",
+   "cks",
+   "C.Prel: vert",
+   "091120",
+   "F.Fab:",
+   "T14425838]",
+   "E54",
+   "06:13",
+   "07",
+   "800500220",
+   "100ge"
+  ],
+  "crop_wh": [
+   127,
+   116
+  ],
+  "sharpness": 179.0,
+  "ocr_s": 0.23
+ }
+}

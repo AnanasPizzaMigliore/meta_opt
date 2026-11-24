@@ -1,0 +1,253 @@
+{
+ "f000.jpg": {
+  "n_lines": 20,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "EMMENTA1",
+   "GRATINAR",
+   "NanANNH",
+   "EIAL",
+   "RACENDADO",
+   "GRANA",
+   "PADANO",
+   "1.90c",
+   "HACENDADO",
+   "GRANA",
+   "PADANO",
+   "QUES",
+   "QUEL",
+   "QUESOS",
+   "AR pOR Aqu2",
+   "4",
+   "QUEIJOS",
+   "QUESOS",
+   "QUEIJOS",
+   "Couds"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 311.8,
+  "ocr_s": 0.24
+ },
+ "f006.jpg": {
+  "n_lines": 13,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "KACENDADO",
+   "AR",
+   "GRANA",
+   "PADANO",
+   "R4CENDADO",
+   "GRANA",
+   "PADANO",
+   "又",
+   "ABRIRPOR AQUl",
+   "QUESO",
+   "QUEsOS",
+   "QUEIJOS",
+   "TSDITO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 166.3,
+  "ocr_s": 0.24
+ },
+ "f012.jpg": {
+  "n_lines": 16,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "ACENDADO",
+   "ZIAL",
+   "A",
+   "GRANA",
+   "PADANO",
+   "HACENDADO",
+   "GRANA",
+   "PADANO",
+   "190",
+   "又",
+   "QUESOS",
+   "ABRIR PORAQUl",
+   "UUA",
+   "UESOS",
+   "UEJOS",
+   "RCIN0O"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 244.5,
+  "ocr_s": 0.23
+ },
+ "f018.jpg": {
+  "n_lines": 18,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "2IAL",
+   "ACENDADQ",
+   "",
+   "GRANA",
+   "8",
+   "PADANO",
+   "HACENDADO",
+   "GRANA",
+   "PADANO",
+   "190e",
+   "X",
+   "ABRIR PORAQU",
+   "QUESOS",
+   "QUEIJOS",
+   "ESOS",
+   "JEIJOS",
+   "RCINDAD",
+   "Goud"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 250.7,
+  "ocr_s": 0.23
+ },
+ "f024.jpg": {
+  "n_lines": 17,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "AAL",
+   "HACENDADO",
+   "GRANA",
+   "PADANO",
+   "HACENDADO",
+   "GRANA",
+   "190c",
+   "PADANO",
+   "X",
+   "ABRIRPORAQUI",
+   "QUESOS",
+   "ESOS",
+   "DEJOS",
+   "程化1",
+   "HACTDRDN",
+   "couda",
+   "Couda"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 252.2,
+  "ocr_s": 0.23
+ },
+ "f030.jpg": {
+  "n_lines": 17,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "AIAL",
+   "IACEADADQ",
+   "E",
+   "GRANA",
+   "1",
+   "PADANO",
+   "HACENDADO",
+   "GRANA",
+   "1.90",
+   "PADANO",
+   "又",
+   "ADR换POR AQU",
+   "ESOS",
+   "JEJOS",
+   "HKEADADO",
+   "Gouda",
+   "Gouda"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 253.5,
+  "ocr_s": 0.21
+ },
+ "f036.jpg": {
+  "n_lines": 17,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "AIAL",
+   "IACENDADO",
+   "GRANA",
+   "PADANO",
+   "8",
+   "HACENDADO",
+   "GRANA",
+   "190c",
+   "PADANO",
+   "又",
+   "-- ABRIR PORAQUH",
+   "ESOS",
+   "JEJOS",
+   "豆",
+   "HCEADADO",
+   "Couda",
+   "Gouda"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 254.5,
+  "ocr_s": 0.23
+ }
+}

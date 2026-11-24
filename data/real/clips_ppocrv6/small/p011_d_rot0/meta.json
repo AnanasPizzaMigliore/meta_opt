@@ -1,0 +1,286 @@
+{
+ "f000.jpg": {
+  "n_lines": 21,
+  "box": [
+   470,
+   1209,
+   619,
+   1329
+  ],
+  "level": "digits",
+  "lines": [
+   "800500220",
+   "NERCADONA"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "0.85c",
+   "HACENDADO",
+   "Vegetais",
+   "TEOPSAE",
+   "269",
+   "235",
+   "6460",
+   "535",
+   "C.Pref: wwer",
+   "F.Fab: 291128",
+   "AFZRA",
+   "T144258383",
+   "SUNVACIÓICORSEVACAO",
+   "iga lr  ptegte de la az",
+   " ",
+   "",
+   "NERCADONA",
+   "800500220",
+   " Pro fpa",
+   "100ge"
+  ],
+  "crop_wh": [
+   149,
+   120
+  ],
+  "sharpness": 168.9,
+  "ocr_s": 0.45
+ },
+ "f006.jpg": {
+  "n_lines": 19,
+  "box": [
+   527,
+   1155,
+   687,
+   1275
+  ],
+  "level": "digits",
+  "lines": [
+   "800500220",
+   "MERCADONA"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "0.85c",
+   "贴",
+   "Sticks",
+   "Vegetais",
+   "2150",
+   "25",
+   "3",
+   "239",
+   "C.Pref: wwrzr",
+   "239",
+   "F.Fab: C5120",
+   "T14425838)",
+   "SRVACIOCONSEÇÃO",
+   "rt i de z",
+   "MERCADONA",
+   "800500220",
+   "Ae rtb/Peso ligutdor",
+   "100ge"
+  ],
+  "crop_wh": [
+   160,
+   120
+  ],
+  "sharpness": 153.4,
+  "ocr_s": 0.47
+ },
+ "f012.jpg": {
+  "n_lines": 19,
+  "box": [
+   784,
+   968,
+   919,
+   1086
+  ],
+  "level": "digits",
+  "lines": [
+   "F.Fab: 051u2s",
+   "T144258383",
+   "09:13"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "0,85c",
+   "HACENDADO",
+   "egetais",
+   ".2.4g",
+   "230",
+   "55",
+   "C.Pref:wez",
+   "F.Fab: 051u2s",
+   "T144258383",
+   "09:13",
+   "E54",
+   "TERVACHÓN/CONSTEVAÇÃO",
+   "ega e   prirgio de  ",
+   "bpr to apvagib da b",
+   "Gi",
+   "800500220",
+   "t/Peseliuds:",
+   "100ge"
+  ],
+  "crop_wh": [
+   135,
+   118
+  ],
+  "sharpness": 178.1,
+  "ocr_s": 0.46
+ },
+ "f018.jpg": {
+  "n_lines": 17,
+  "box": [
+   784,
+   985,
+   920,
+   1103
+  ],
+  "level": "digits",
+  "lines": [
+   "F.Fab: 05/1129",
+   "T144258383",
+   "06:13"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "0.85c",
+   "09",
+   "HACENDADO",
+   "egetais",
+   "250",
+   "",
+   "C.Pref:wwezt",
+   "F.Fab: 05/1129",
+   "T144258383",
+   "06:13",
+   "E54",
+   "ZRVACION/CONGERVAÇÃO",
+   "CA",
+   "800500220",
+   "Pes net:/Pesa liquder",
+   "100ge"
+  ],
+  "crop_wh": [
+   136,
+   118
+  ],
+  "sharpness": 178.8,
+  "ocr_s": 0.45
+ },
+ "f024.jpg": {
+  "n_lines": 16,
+  "box": [
+   561,
+   949,
+   723,
+   1249
+  ],
+  "level": "digits",
+  "lines": [
+   "5555",
+   "800500220",
+   "MERCADONA"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "0,85c",
+   "HACENDADO",
+   "Vegetais",
+   ".226g",
+   "5555",
+   "C.Pref:0sezr",
+   "F.Fab: 09/1125",
+   "T144258383",
+   "E54 08:13",
+   "SERVACIÓN/CONSERYAÇÃO",
+   "MERCADONA",
+   "800500220",
+   "th/Peso liqides:",
+   "100ge",
+   "MEX"
+  ],
+  "crop_wh": [
+   162,
+   300
+  ],
+  "sharpness": 182.2,
+  "ocr_s": 0.45
+ },
+ "f030.jpg": {
+  "n_lines": 14,
+  "box": [
+   578,
+   934,
+   703,
+   1102
+  ],
+  "level": "digits",
+  "lines": [
+   ".73.50",
+   "5555"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "0.85c",
+   "HACENDADO",
+   ".73.50",
+   "230",
+   "5555",
+   "C.Pref:Ne",
+   "F.Fab: 09125",
+   "T144258383",
+   "08:13",
+   "ga l y o do b le",
+   "",
+   "Io ub Peso Boulda",
+   "100ge"
+  ],
+  "crop_wh": [
+   125,
+   168
+  ],
+  "sharpness": 179.3,
+  "ocr_s": 0.44
+ },
+ "f036.jpg": {
+  "n_lines": 22,
+  "box": [
+   789,
+   978,
+   913,
+   1074
+  ],
+  "level": "date",
+  "lines": [
+   "F.Fab: 09/11/28"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "0.85c",
+   "HACENDADO",
+   "Sticks",
+   "egetais",
+   "2359",
+   "25",
+   "55",
+   "C.Pref:ez",
+   "F.Fab: 09/11/28",
+   "T144258383",
+   "06:13",
+   "M252A",
+   "E54",
+   "SERVACRÓN CONSERVAÇÃO",
+   "bpr le yrgt de b z",
+   "tr  a prtagito do lo",
+   "G7",
+   "MERCADONA",
+   "800500220",
+   "nteoe ligede",
+   "100ge"
+  ],
+  "crop_wh": [
+   124,
+   96
+  ],
+  "sharpness": 179.0,
+  "ocr_s": 0.49
+ }
+}

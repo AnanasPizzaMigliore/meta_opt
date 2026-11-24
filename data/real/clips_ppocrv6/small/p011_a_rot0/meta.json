@@ -1,0 +1,305 @@
+{
+ "f000.jpg": {
+  "n_lines": 18,
+  "box": [
+   703,
+   1126,
+   845,
+   1246
+  ],
+  "level": "date",
+  "lines": [
+   "F.Fab: 0/11/2s"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "HACENDADO",
+   "HACEN",
+   "0.85c",
+   "HT",
+   "HACENDADO",
+   "Stcks",
+   "226g",
+   "C Pref: osvarzr",
+   "5558",
+   "F.Fab: 0/11/2s",
+   "T144258383",
+   "08:13",
+   "E54",
+   " y poo de e ee",
+   "800500220",
+   "Po lqulh",
+   "00ge"
+  ],
+  "crop_wh": [
+   142,
+   120
+  ],
+  "sharpness": 176.5,
+  "ocr_s": 0.41
+ },
+ "f006.jpg": {
+  "n_lines": 20,
+  "box": [
+   823,
+   932,
+   919,
+   1028
+  ],
+  "level": "date",
+  "lines": [
+   "tadiata, 7-15"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "0.85c",
+   "HACEND",
+   "",
+   "TUTOHRSAR",
+   "tadiata, 7-15",
+   "23.60",
+   "250",
+   "6560",
+   "5",
+   "F.Fab: 001125",
+   "T144258383",
+   "06:13",
+   "ERVACIÓN/CONSERVAÇÃO",
+   "igr fesca seco y proingido de la lez",
+   "begr feses seo e protegido da kz",
+   "",
+   "8020",
+   "xPeso ",
+   "100ge"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 184.5,
+  "ocr_s": 0.44
+ },
+ "f012.jpg": {
+  "n_lines": 21,
+  "box": [
+   861,
+   1013,
+   1001,
+   1125
+  ],
+  "level": "date",
+  "lines": [
+   "F.Fab: 11/26"
+  ],
+  "all_lines": [
+   "0,85c",
+   "FACEND",
+   "49纸",
+   "TIDHSAL",
+   "adiczia -15",
+   "(aeéou Eapehe/tspaha",
+   "por 160g",
+   "23.5g",
+   "260",
+   "5355",
+   "C.Pref: 0svazr",
+   "F.Fab: 11/26",
+   "T144258383",
+   "E54 06:13",
+   "ERVACIÓN/CONSERVAÇÃO",
+   "hga lesn secey poegido de l  lkz.",
+   "Iepar fesea seco e protegido da loz.",
+   "",
+   "MERCADONA",
+   "ho stoyPeso lqulido:",
+   "00ge"
+  ],
+  "crop_wh": [
+   140,
+   112
+  ],
+  "sharpness": 181.8,
+  "ocr_s": 0.45
+ },
+ "f018.jpg": {
+  "n_lines": 18,
+  "box": [
+   888,
+   1027,
+   1021,
+   1134
+  ],
+  "level": "date",
+  "lines": [
+   "F.Fab: 09/11/25"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "0.85c",
+   "HACEND",
+   "W",
+   "y3/430 kcal",
+   "23,69",
+   "535",
+   "C.Pref wvazr",
+   "F.Fab: 09/11/25",
+   "T144258383",
+   "E54",
+   "ENVACIÓN/CONSERVAÇÃO",
+   "laya bess seco y prolegido de a ikz",
+   "lagur freso seco e protepido da kz",
+   "",
+   "MERCADONA",
+   "oPeso da",
+   "100ge"
+  ],
+  "crop_wh": [
+   133,
+   107
+  ],
+  "sharpness": 183.1,
+  "ocr_s": 0.44
+ },
+ "f024.jpg": {
+  "n_lines": 23,
+  "box": [
+   879,
+   952,
+   975,
+   1048
+  ],
+  "level": "date",
+  "lines": [
+   ",7-15"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "0.85c",
+   "RACENDAD",
+   "detais",
+   "CHESAE",
+   ",7-15",
+   "(Barcub EspalaEeta",
+   "23.6g",
+   "250",
+   "—23",
+   "C.Pref:wwvzer",
+   "—239",
+   "F.Fab: 0911/28",
+   "T144258383",
+   "06.13",
+   "ES4",
+   "VACIÓN/CONSERVAÇÃO",
+   "kepa hea sey pstegido de la faz",
+   "haga lea eco e protagido do laz.",
+   "MERCADONA",
+   "800500220",
+   "Peso ligder",
+   "100ge"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 188.7,
+  "ocr_s": 0.46
+ },
+ "f030.jpg": {
+  "n_lines": 26,
+  "box": [
+   689,
+   1246,
+   862,
+   1384
+  ],
+  "level": "digits",
+  "lines": [
+   "800500220",
+   "MERCADONA"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "0.85c",
+   "HACENDAD",
+   "TUTOP1AL",
+   "brdor .15",
+   "por Tu0g",
+   "(Bac Epdaata",
+   "",
+   "2368",
+   "250",
+   "65.69",
+   "",
+   "C.Pref:zz",
+   "239",
+   "F.Fab: 0s11ne",
+   "T144258383",
+   "06:13",
+   "E54",
+   "EVACIÓN/CONSERVAÇÃO",
+   "a h sy prutgio de  lz.",
+   "hagr frsca seco e protegdo da ka.",
+   "L",
+   "MERCADONA",
+   "800500220",
+   " wtorPesoipidor",
+   "100ge"
+  ],
+  "crop_wh": [
+   173,
+   138
+  ],
+  "sharpness": 189.8,
+  "ocr_s": 0.47
+ },
+ "f036.jpg": {
+  "n_lines": 28,
+  "box": [
+   900,
+   907,
+   1088,
+   1170
+  ],
+  "level": "date",
+  "lines": [
+   "Indistia 7-15",
+   "F.Fab: 09/11/28"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "0.85c",
+   "HACENDAD",
+   "cesteno o avena).",
+   "Podo conter leite e pro",
+   "Indistia 7-15",
+   "08635 SerntEcie",
+   "por 100g",
+   "(Barce ly/Espa",
+   "23,60",
+   "2.5g",
+   "6560",
+   "230",
+   "C.Pref: ez",
+   "330",
+   "F.Fab: 09/11/28",
+   "230",
+   "T144258383",
+   "06:13",
+   "RVACIÓN/CONSERVAÇÃO",
+   "a    de  z",
+   "bpr t so e protago da z",
+   "Q",
+   "Gi",
+   "402001\"014512",
+   "22A",
+   "h peaPeo Migulda:",
+   "100ge"
+  ],
+  "crop_wh": [
+   188,
+   263
+  ],
+  "sharpness": 197.3,
+  "ocr_s": 0.48
+ }
+}

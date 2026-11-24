@@ -1,0 +1,297 @@
+{
+ "f000.jpg": {
+  "n_lines": 27,
+  "box": [
+   926,
+   1138,
+   1060,
+   1361
+  ],
+  "level": "date",
+  "lines": [
+   "08/12"
+  ],
+  "all_lines": [
+   "X",
+   "Vienna",
+   "0",
+   "Castle",
+   "185日0",
+   "HUCLEHDN",
+   "we tst age",
+   "ubuntu°",
+   "NUTRI-SCORE",
+   "UNIDADES",
+   "KANGARO03",
+   "n",
+   "XFORD",
+   "BARCELONA",
+   "F",
+   "suellasene",
+   "TURRÓN",
+   "De Rexn he",
+   "FLAN",
+   "luevosde",
+   "TEA04-2s",
+   "ERTH",
+   "145h3) 2=30",
+   "SPECIAL",
+   "FHKM",
+   "m",
+   "08/12"
+  ],
+  "crop_wh": [
+   134,
+   223
+  ],
+  "sharpness": 103.3,
+  "ocr_s": 0.27
+ },
+ "f006.jpg": {
+  "n_lines": 23,
+  "box": [
+   134,
+   684,
+   264,
+   780
+  ],
+  "level": "digits",
+  "lines": [
+   "4E:30 3s"
+  ],
+  "all_lines": [
+   "Vienna",
+   "Var e",
+   "COshl",
+   "NUTRI-SCORE",
+   "teripage",
+   "ubuntu®",
+   "KANGAR00S",
+   "PEE",
+   "OXFORD",
+   "BARCELONA",
+   "TURRÓN",
+   "FLAN",
+   "uevosde",
+   "0-为",
+   "",
+   "0",
+   "1O72 tosteip",
+   "ERTH",
+   "SPECIAL",
+   "23",
+   "4E:30 3s",
+   "2",
+   "2"
+  ],
+  "crop_wh": [
+   130,
+   96
+  ],
+  "sharpness": 105.1,
+  "ocr_s": 0.25
+ },
+ "f012.jpg": {
+  "n_lines": 21,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Vioana",
+   "Viws Do",
+   "CaUAL.",
+   "SCORE",
+   "Prntertet pese",
+   "ubuntu°",
+   "KANGARO0S",
+   "prn",
+   "OXFORD",
+   "sueltasene",
+   "BARCELONA",
+   "TURRÓN",
+   "S",
+   "Huevos de",
+   "FLAN",
+   "TX7-",
+   "SPECIAL",
+   "MSTD hastetcape",
+   "PERTH",
+   "0",
+   ""
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 103.6,
+  "ocr_s": 0.25
+ },
+ "f018.jpg": {
+  "n_lines": 25,
+  "box": [
+   991,
+   883,
+   1140,
+   1130
+  ],
+  "level": "date",
+  "lines": [
+   "08/12"
+  ],
+  "all_lines": [
+   "Vienna",
+   "Vioa Do",
+   "Castals",
+   "TURRÓN",
+   "lellas enel",
+   "S",
+   "Peixer test peye",
+   "FLAN",
+   "ubuntu®",
+   "hueuosde",
+   "KANGAR003",
+   "n",
+   "SPECIAL",
+   "OXFORD",
+   "BARCELONA",
+   "DE",
+   "1e0.3D1153",
+   "l167-070-",
+   "Ad",
+   "y B10Ostr",
+   "PERTH",
+   "11",
+   "22T",
+   "R28",
+   "08/12"
+  ],
+  "crop_wh": [
+   149,
+   247
+  ],
+  "sharpness": 91.3,
+  "ocr_s": 0.26
+ },
+ "f024.jpg": {
+  "n_lines": 21,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "文",
+   "Viemna",
+   "Vimi",
+   "TURRÓN",
+   "Cabls",
+   "FLAN",
+   "lasen",
+   "euosde",
+   "Pmser cest poge",
+   "ubuntu®",
+   "SPECIAL",
+   "KANGAR00S",
+   "XFORD",
+   "BARCELONA",
+   "0",
+   "m",
+   "oLHa21.1 hed",
+   "MI70o",
+   "E19 Pontaezip",
+   "PERTH",
+   "CINDniD"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 86.5,
+  "ocr_s": 0.27
+ },
+ "f030.jpg": {
+  "n_lines": 18,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "X",
+   "Vienne",
+   "TURRÓN",
+   "Va D.",
+   "FLAN",
+   "Caal",
+   "asenel",
+   "Pra tee poe",
+   "SPECIAL",
+   "ubuntu°",
+   "KANGAR00S",
+   "OXFORD",
+   "C",
+   "BARCELONA",
+   "eRox 1.J irches",
+   "e0 PoatacriA",
+   "PERTH",
+   "rnD"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 85.0,
+  "ocr_s": 0.25
+ },
+ "f036.jpg": {
+  "n_lines": 21,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Vienna",
+   "ueltasene",
+   "TURRÓN",
+   "Wiaa De",
+   "FLAN",
+   "Castaln",
+   "ueuosde",
+   "Pitertest pgt",
+   "SPECIAL",
+   "ubuntu°",
+   "KANGARO03",
+   "OXFOHD",
+   "BARCELONA",
+   "0",
+   "m",
+   "小",
+   "n:6制:3J",
+   "PERTH",
+   "1c8)",
+   "2sal",
+   "0m"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 86.6,
+  "ocr_s": 0.26
+ }
+}

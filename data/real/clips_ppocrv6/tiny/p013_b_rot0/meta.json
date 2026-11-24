@@ -1,0 +1,363 @@
+{
+ "f000.jpg": {
+  "n_lines": 33,
+  "box": [
+   775,
+   116,
+   1499,
+   756
+  ],
+  "level": "digits",
+  "lines": [
+   "800500220",
+   "GSEAA: 211654",
+   "MERCADONA",
+   "abricado en/Produzido em:"
+  ],
+  "all_lines": [
+   "nores de 5a",
+   "os quas",
+   "1,65",
+   "s/Saturados",
+   "20g",
+   "aturadas/",
+   "saturados",
+   "18g",
+   "turadas/",
+   "10g",
+   "turados",
+   "",
+   "le Carbono",
+   "6.5g",
+   "es/dos quais",
+   "11",
+   "ares/Acicares",
+   "MERCADONA",
+   "25g",
+   "800500220",
+   "花",
+   "abricado en/Produzido em:",
+   "Nonte. C/ Barranco, 20",
+   "458 mg(65",
+   "GSEAA: 211654",
+   "400g",
+   "1.30e",
+   "L000198",
+   "ECHA DE ENVA",
+   "ATA DE EMBALK",
+   "23:14",
+   "28",
+   "ONIORIGEM"
+  ],
+  "crop_wh": [
+   724,
+   640
+  ],
+  "sharpness": 38.2,
+  "ocr_s": 0.26
+ },
+ "f006.jpg": {
+  "n_lines": 45,
+  "box": [
+   1264,
+   43,
+   1728,
+   569
+  ],
+  "level": "digits",
+  "lines": [
+   "SEAA:21165",
+   "6469Beniparelt,v",
+   "MERCADONA"
+  ],
+  "all_lines": [
+   "de las cuaie",
+   "20g",
+   "-Saturadas/Saturdl",
+   "consumido pot",
+   "-Monoinsaturadas/",
+   "1Bg",
+   "Monoinsaturados",
+   "-Polinsaturadas/",
+   "10g",
+   "Polinsaturados",
+   "6.5g",
+   "CH",
+   "Hidratos de Carbono",
+   "HLENDID0",
+   "11e",
+   "de los cuales/dos quais",
+   "-Azúcares/Acúcares",
+   "259",
+   "Cacahuete",
+   "MERCADONA",
+   "acahue",
+   "09",
+   "nendo",
+   "amendoiin",
+   "220mg(59%",
+   "458 mg (659",
+   "encia",
+   "SEAA:21165",
+   "6469Beniparelt,v",
+   "(Epaña/Espanha).",
+   "Peoeto 400",
+   "Uquldo",
+   "HACENDADO",
+   "2,75e",
+   "小IE",
+   "0s/0221",
+   "L000198 2708L0",
+   "FECHA DE ENVASADO:",
+   "DATA DE EMBALAGEM",
+   "23:14 C3",
+   "11n1/26",
+   "ORIGEN:/ ORIGEM.",
+   "CHNA",
+   "8",
+   "480000340313"
+  ],
+  "crop_wh": [
+   464,
+   526
+  ],
+  "sharpness": 83.7,
+  "ocr_s": 0.28
+ },
+ "f012.jpg": {
+  "n_lines": 26,
+  "box": [
+   722,
+   752,
+   1205,
+   1112
+  ],
+  "level": "digits",
+  "lines": [
+   "0s0227",
+   "LO001982768L0",
+   "23:14 3",
+   "11n1/26",
+   "FECHA DE ENVASADO"
+  ],
+  "all_lines": [
+   "259",
+   "MERCI",
+   "80050",
+   "IACENDADO",
+   "fahiaton/Pod",
+   "220mg(58%",
+   "Cacahuete",
+   "WPOZAOCASA",
+   "458mg(65%",
+   "ahu",
+   "Ploo Note ",
+   "amendonn",
+   "6i6sBenipare",
+   "(Epaia/tspan",
+   "400",
+   "HACENDADO",
+   "2,75€",
+   "0s0227",
+   "LO001982768L0",
+   "FECHA DE ENVASADO",
+   "DATA DE EMBALAGEM",
+   "23:14 3",
+   "11n1/26",
+   "ORGEN/ ORIGEM",
+   "CHNA",
+   "8"
+  ],
+  "crop_wh": [
+   483,
+   360
+  ],
+  "sharpness": 58.8,
+  "ocr_s": 0.25
+ },
+ "f018.jpg": {
+  "n_lines": 26,
+  "box": [
+   713,
+   805,
+   1187,
+   1109
+  ],
+  "level": "digits",
+  "lines": [
+   "LO00198 2758L0",
+   "23:14 C3",
+   "11n1/26",
+   "FECHA DE ENVASADO"
+  ],
+  "all_lines": [
+   "8005",
+   "fatiasm/Pod",
+   "220mg(59%",
+   "LACENDADO",
+   "MPOKACOCASA",
+   "458 mg (659",
+   "PulomoNone.",
+   "ics Benipam",
+   "eno",
+   "arnendoin",
+   "Epad/Epan",
+   "gde proteinas'",
+   "400",
+   "Pero leto",
+   "HACENDADO",
+   "2,75c",
+   "oS2T",
+   "LO00198 2758L0",
+   "FECHA DE ENVASADO",
+   "DATA DE EMBALAGEM",
+   "23:14 C3",
+   "11n1/26",
+   "OROEN/ORIGEM",
+   "CHNA",
+   "8",
+   "-80000340313"
+  ],
+  "crop_wh": [
+   474,
+   304
+  ],
+  "sharpness": 55.2,
+  "ocr_s": 0.25
+ },
+ "f024.jpg": {
+  "n_lines": 22,
+  "box": [
+   652,
+   806,
+   1158,
+   1129
+  ],
+  "level": "digits",
+  "lines": [
+   "LO00198 2788L9",
+   "23:14 69",
+   "11n1/26",
+   "FECHA DE ENVASADO"
+  ],
+  "all_lines": [
+   "hbiadben/P",
+   "220mg",
+   "MPORACOCA",
+   "Poo Non",
+   "RACTNDNDYO",
+   "169 Benip",
+   "dacahuet",
+   "Espsta/E",
+   "inen",
+   "400g",
+   "149CP",
+   "HACENDADO",
+   "2,7",
+   "ounam",
+   "LO00198 2788L9",
+   "FECHA DE ENVASADO",
+   "DATA DE EMBALAGEM",
+   "23:14 69",
+   "11n1/26",
+   "ORGENORIGEM",
+   "CHINA",
+   "8"
+  ],
+  "crop_wh": [
+   506,
+   323
+  ],
+  "sharpness": 39.6,
+  "ocr_s": 0.24
+ },
+ "f030.jpg": {
+  "n_lines": 22,
+  "box": [
+   637,
+   800,
+   1149,
+   1114
+  ],
+  "level": "digits",
+  "lines": [
+   "LO00198 278LA",
+   "23:14 9",
+   "FECHA DE ENVASADO"
+  ],
+  "all_lines": [
+   "fettatoenwP",
+   "DMPOICOC",
+   "P",
+   "Poigono Nor",
+   "HACENDADO",
+   "6469 Benp",
+   "(Espana/E",
+   "Gacahue",
+   "amne",
+   "4009",
+   "n0",
+   "14902R",
+   "HACENDADO",
+   "ose2m",
+   "LO00198 278LA",
+   "FECHA DE ENVASADO",
+   "DATA DE EMBALAGEM",
+   "23:14 9",
+   "Wn1/26",
+   "ORGEN/ORIGEM",
+   "CHNA",
+   "8"
+  ],
+  "crop_wh": [
+   512,
+   314
+  ],
+  "sharpness": 36.3,
+  "ocr_s": 0.25
+ },
+ "f036.jpg": {
+  "n_lines": 21,
+  "box": [
+   633,
+   806,
+   1143,
+   1114
+  ],
+  "level": "digits",
+  "lines": [
+   "LO0019827",
+   "23:149",
+   "FECHA DE EN"
+  ],
+  "all_lines": [
+   "abtcdae",
+   "MPORIACOC",
+   "PRlgono Nor",
+   "5469 Bent",
+   "IACENDADO",
+   "Epafawt",
+   "dacah",
+   "400g",
+   "aImE",
+   "4o",
+   "HACENDADO",
+   "2",
+   "0sra27",
+   "LO0019827",
+   "FECHA DE EN",
+   "DATA DE EMBALAGEM",
+   "23:149",
+   "n1t/26",
+   "ORGENJORIGEM",
+   "CHINA",
+   "8"
+  ],
+  "crop_wh": [
+   510,
+   308
+  ],
+  "sharpness": 34.4,
+  "ocr_s": 0.24
+ }
+}

@@ -1,0 +1,357 @@
+{
+ "f000.jpg": {
+  "n_lines": 32,
+  "box": [
+   927,
+   583,
+   1728,
+   1482
+  ],
+  "level": "date",
+  "lines": [
+   "02/05/27",
+   "03/11/26",
+   "46469 Benipaell (Valencia). España/E",
+   "Fabricado en/Produzido em: RGSEAA 20",
+   "Consumie de preteéncia antes de /Le (",
+   "FECHA DE ENVASADO"
+  ],
+  "all_lines": [
+   "Carbono",
+   "de los cuales/dos qua",
+   "Azúcares/",
+   "Açúcares",
+   "Fibra alimentaria/",
+   "Fibra",
+   "Proteínas",
+   "9,8",
+   "Sal",
+   "1,9",
+   "Contiene 3 unidades de 90 g/",
+   "Contem 3 unidades de 90 g",
+   "IMPORTACO CASA PONS. S.A.U.",
+   "Poligono Norte, C/ Barranco, 20",
+   "46469 Benipaell (Valencia). España/E",
+   "Fabricado en/Produzido em: RGSEAA 20",
+   "Coui reetemete ates d/L (",
+   "Consumie de preteéncia antes de /Le (",
+   "2",
+   "02/05/27",
+   "L000197 9056C0",
+   "FECHA DE ENVASADO",
+   "DATA DE EMBALAGEM:",
+   "03/11/26",
+   "ORIGEN:/ORIGEM:",
+   "08:58",
+   "C",
+   "ESPANA/ESPANHA",
+   "848000034822",
+   "MITAS",
+   "CAS",
+   "IONDAS"
+  ],
+  "crop_wh": [
+   801,
+   899
+  ],
+  "sharpness": 40.3,
+  "ocr_s": 1.95
+ },
+ "f006.jpg": {
+  "n_lines": 25,
+  "box": [
+   591,
+   249,
+   1728,
+   1238
+  ],
+  "level": "date",
+  "lines": [
+   "02/05/27",
+   "03/11/26",
+   "46469 Benipamell (Valencia). Espada/Espanha",
+   "Fabricado en/Produzido em: RGSEAA 20.42552/V",
+   "Consumie preementemente antes det Lte (Dii)",
+   "Consume de peeca antes de /Lote (DuuÉS/A)",
+   "FECHA DE ENVASADO"
+  ],
+  "all_lines": [
+   "Proteinas",
+   "9,8g",
+   "Sal",
+   "1",
+   "Contiene 3 unidades de 90 g/",
+   "1.79",
+   "Contem 3 unidades de 90 g",
+   "IMPORTACO CASA PONS, S.A.U.",
+   "Poligono Norte, C/ Barmanco, 20",
+   "46469 Benipamell (Valencia). Espada/Espanha",
+   "Fabricado en/Produzido em: RGSEAA 20.42552/V",
+   "Consumie preementemente antes det Lte (Dii)",
+   "Consume de peeca antes de /Lote (DuuÉS/A)",
+   "4800\"3",
+   "02/05/27",
+   "L000197 9056C0",
+   "FECHA DE ENVASADO",
+   "DATA DE EMBALAGEM:",
+   "03/11/26",
+   "08:58",
+   "ORIGENJORIGEM:",
+   "C",
+   "ESPANA/ESPANHA",
+   "8",
+   "3"
+  ],
+  "crop_wh": [
+   1137,
+   989
+  ],
+  "sharpness": 21.1,
+  "ocr_s": 1.88
+ },
+ "f012.jpg": {
+  "n_lines": 25,
+  "box": [
+   638,
+   327,
+   1728,
+   1251
+  ],
+  "level": "date",
+  "lines": [
+   "02/05/27",
+   "03/11/26",
+   "Fabricado en/Produzido em: RGSEAA 20.4255 2/V",
+   "FECHA DE ENVASADO"
+  ],
+  "all_lines": [
+   "Proteinas",
+   "9,8g",
+   "Sal",
+   "8.8g",
+   "1,9g",
+   "T,7g",
+   "Contiene 3 unidades de 90 g/",
+   "Contem 3 unidades de 90 g",
+   "IMPORTACO CASA PONS, S.A.U",
+   "Poligono Norte, C/ Bamanco, 20",
+   "46469 Benigamell (alencia). España/Espanha",
+   "Fabricado en/Produzido em: RGSEAA 20.4255 2/V",
+   "Consme preeetemete ates det /Le (D)",
+   "Comsum de grelecia antes de /Lote (DA/MÉ S/A)",
+   "480000\"3",
+   "02/05/27",
+   "L000197 9056C0",
+   "FECHA DE ENVASADO",
+   "DATA DE EMBALAGEM",
+   "03/11/26",
+   "08:58",
+   "ORIGEN:JORIGEM:",
+   "ESPANA/ESPANHA",
+   "8",
+   "3x"
+  ],
+  "crop_wh": [
+   1090,
+   924
+  ],
+  "sharpness": 25.4,
+  "ocr_s": 1.87
+ },
+ "f018.jpg": {
+  "n_lines": 25,
+  "box": [
+   638,
+   314,
+   1728,
+   1242
+  ],
+  "level": "date",
+  "lines": [
+   "02/05/27",
+   "03/11/26",
+   "Fabricado en/Produzido em: RGSEAA 20.42552/Y",
+   "Consume reetemente ates det/L (DI/MS/A)",
+   "FECHA DE ENVASADO"
+  ],
+  "all_lines": [
+   "Proteinas",
+   "9,8g",
+   "Sal",
+   "8.8g",
+   "1,9g",
+   "Contiene 3 unidades de 90 g/",
+   "1,7g",
+   "Contem 3 unidades de 90 g",
+   "IMPORTACO CASA PONS, S.A.U.",
+   "Poligono Norte, C/ Barmanco, 20",
+   "46469 Benipamell (alencia). España/Espanha",
+   "Fabricado en/Produzido em: RGSEAA 20.42552/Y",
+   "Consume reetemente ates det/L (DI/MS/A)",
+   "Consue de peia ates d /Le (D/MÉ S/A)",
+   "48000038",
+   "02/05/27",
+   "L000197 9056C0",
+   "FECHA DE ENVASADO",
+   "DATA DE EMBALAGEM:",
+   "03/11/26",
+   "08:58",
+   "ORIGEN:/ORIGEM:",
+   "ESPANA/ESPANHA",
+   "8",
+   "3"
+  ],
+  "crop_wh": [
+   1090,
+   928
+  ],
+  "sharpness": 25.4,
+  "ocr_s": 1.83
+ },
+ "f024.jpg": {
+  "n_lines": 27,
+  "box": [
+   645,
+   288,
+   1728,
+   1276
+  ],
+  "level": "date",
+  "lines": [
+   "02/05/27",
+   "03/11/26",
+   "46469 Benipamel (Valencia). España/Espanha",
+   "Fabricado en/Produzido em: RGSEAA 20.42552/V",
+   "Consumie de preeéecia ates de./Lete (D/MÉS/A)",
+   "FECHA DE ENVASADO"
+  ],
+  "all_lines": [
+   "7,99",
+   "Proteinas",
+   "9,8g",
+   "Sal",
+   "8,8g",
+   "1,9g",
+   "Contiene 3 unidades de 90 g/",
+   "1,7g",
+   "Contem 3 unidades de 90 g",
+   "IMPORTACO CASA PONS, S.AU.",
+   "Poligono Norte, C/ Baranco, 20",
+   "46469 Benipamel (Valencia). España/Espanha",
+   "Fabricado en/Produzido em: RGSEAA 20.42552/V",
+   "Comsumir preetemene ates dt/Le (DA/MS/AC)",
+   "Consumie de preeéecia ates de./Lete (D/MÉS/A)",
+   "480082",
+   "02/05/27",
+   "L000197 9056C0",
+   "FECHA DE ENVASADO",
+   "DATA DE EMBALAGEM:",
+   "03/11/26",
+   "08:58",
+   "ORIGEN:/ORIGEM:",
+   "C",
+   "ESPANA/ESPANHA",
+   "8",
+   "3"
+  ],
+  "crop_wh": [
+   1083,
+   988
+  ],
+  "sharpness": 28.3,
+  "ocr_s": 1.87
+ },
+ "f030.jpg": {
+  "n_lines": 22,
+  "box": [
+   616,
+   208,
+   1728,
+   1232
+  ],
+  "level": "date",
+  "lines": [
+   "02/05/27",
+   "03/11/26",
+   "46469 Benipamell (Valencia). España/Espanha",
+   "Fabricado en/Produzido em: RGSEAA 20.42552/V",
+   "Consume de preeia ates de /Le (D/ÉSA)",
+   "FECHA DE ENVASADO"
+  ],
+  "all_lines": [
+   "9,8g",
+   "Sal",
+   "1,9g",
+   "Contiene 3 unidades de 90 g/",
+   "Contem 3 unidades de 90 g",
+   "IMPORTACO CASA PONS, S.A.U.",
+   "Poligono Norte, C/ Barranco, 20",
+   "46469 Benipamell (Valencia). España/Espanha",
+   "Fabricado en/Produzido em: RGSEAA 20.42552/V",
+   "Consui preentemete ame d L (DI/S/A)",
+   "Consume de preeia ates de /Le (D/ÉSA)",
+   "48000034",
+   "02/05/27",
+   "L000197 9056C0",
+   "FECHA DE ENVASADO",
+   "DATA DE EMBALAGEM",
+   "03/11/26",
+   "08:58",
+   "ORIGENJORIGEM:",
+   "C",
+   "ESPANA/ESPANHA",
+   "R"
+  ],
+  "crop_wh": [
+   1112,
+   1024
+  ],
+  "sharpness": 23.9,
+  "ocr_s": 1.7
+ },
+ "f036.jpg": {
+  "n_lines": 19,
+  "box": [
+   608,
+   28,
+   1728,
+   1082
+  ],
+  "level": "date",
+  "lines": [
+   "02/05/27",
+   "03/11/26",
+   "45469 Beniparell (Valencia). España/Espanha",
+   "Fabricado en/Produzido em: RGSEAA 20.42552/V",
+   "Consume de prefendncia antes de /Lote: (DA/MÉS/ANO)",
+   "FECHA DE ENVASADO:"
+  ],
+  "all_lines": [
+   "Contem 3 unidades de 90 g.",
+   "unidades de 90 g/",
+   "IMPORTACO CASA PONS, S.A.U.",
+   "Poligono Norte, C/ Barranco, 20",
+   "45469 Beniparell (Valencia). España/Espanha",
+   "Fabricado en/Produzido em: RGSEAA 20.42552/V",
+   "Consuie peeemee e d/L: (D/)",
+   "Consume de prefendncia antes de /Lote: (DA/MÉS/ANO)",
+   "48003",
+   "02/05/27",
+   "L000197 9056C0",
+   "FECHA DE ENVASADO:",
+   "DATA DE EMBALAGEM:",
+   "03/11/26",
+   "08:58",
+   "ORIGEN:/ORIGEM:",
+   "C",
+   "ESPANA/ESPANHA",
+   "8"
+  ],
+  "crop_wh": [
+   1120,
+   1054
+  ],
+  "sharpness": 26.8,
+  "ocr_s": 1.7
+ }
+}

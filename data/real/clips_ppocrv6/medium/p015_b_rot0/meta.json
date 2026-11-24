@@ -1,0 +1,220 @@
+{
+ "f000.jpg": {
+  "n_lines": 13,
+  "box": [
+   1226,
+   1055,
+   1542,
+   1203
+  ],
+  "level": "date",
+  "lines": [
+   "09/11/41"
+  ],
+  "all_lines": [
+   "3.2mg",
+   "110mg",
+   "490 mg",
+   "Corume prteeee ",
+   "Cosme d peleta  le ",
+   "n",
+   "10",
+   "E1",
+   "DATA",
+   "09/11/41",
+   "EN/1",
+   "USA",
+   "80000"
+  ],
+  "crop_wh": [
+   316,
+   148
+  ],
+  "sharpness": 11.1,
+  "ocr_s": 1.44
+ },
+ "f006.jpg": {
+  "n_lines": 8,
+  "box": [
+   1539,
+   1010,
+   1728,
+   1174
+  ],
+  "level": "date",
+  "lines": [
+   "09/11"
+  ],
+  "all_lines": [
+   "Consumin pre",
+   "Consume de",
+   "1EC0",
+   "24A",
+   "09/11",
+   "",
+   "054",
+   "1480086190"
+  ],
+  "crop_wh": [
+   189,
+   164
+  ],
+  "sharpness": 7.8,
+  "ocr_s": 1.39
+ },
+ "f012.jpg": {
+  "n_lines": 11,
+  "box": [
+   1322,
+   439,
+   1728,
+   1201
+  ],
+  "level": "date",
+  "lines": [
+   "09/11/261",
+   "Consume preferentem",
+   "Consume de preteré c"
+  ],
+  "all_lines": [
+   "1",
+   "Consume preferentem",
+   "Consume de preteré c",
+   "N",
+   "1001587",
+   "PECHAN(",
+   "DAT",
+   "09/11/261",
+   "GRIGEN 081",
+   "USI",
+   "48008619g"
+  ],
+  "crop_wh": [
+   406,
+   762
+  ],
+  "sharpness": 8.1,
+  "ocr_s": 1.43
+ },
+ "f018.jpg": {
+  "n_lines": 14,
+  "box": [
+   1202,
+   392,
+   1728,
+   1211
+  ],
+  "level": "digits",
+  "lines": [
+   "1019427V",
+   "01411",
+   "Corsume preferenteme  at"
+  ],
+  "all_lines": [
+   "11",
+   "4",
+   "2",
+   "Corsume preferenteme  at",
+   "Crsme do pretertc ca ate",
+   "ve",
+   "1019427V",
+   "FEX1",
+   "DATA DE",
+   "01411",
+   "ONIGEN/ORINT",
+   "USA",
+   "8",
+   "480086190"
+  ],
+  "crop_wh": [
+   526,
+   819
+  ],
+  "sharpness": 9.6,
+  "ocr_s": 1.47
+ },
+ "f024.jpg": {
+  "n_lines": 9,
+  "box": [
+   1372,
+   749,
+   1728,
+   1157
+  ],
+  "level": "digits",
+  "lines": [
+   "100119",
+   "091141"
+  ],
+  "all_lines": [
+   "0",
+   "100119",
+   "PECAK IN",
+   "DATA",
+   "091141",
+   "",
+   "USA",
+   "8",
+   "48000861900"
+  ],
+  "crop_wh": [
+   356,
+   408
+  ],
+  "sharpness": 7.3,
+  "ocr_s": 1.32
+ },
+ "f030.jpg": {
+  "n_lines": 2,
+  "box": [
+   1247,
+   1141,
+   1701,
+   1728
+  ],
+  "level": "digits",
+  "lines": [
+   "848086190"
+  ],
+  "all_lines": [
+   "8",
+   "848086190"
+  ],
+  "crop_wh": [
+   454,
+   587
+  ],
+  "sharpness": 9.5,
+  "ocr_s": 1.15
+ },
+ "f036.jpg": {
+  "n_lines": 9,
+  "box": [
+   1548,
+   898,
+   1728,
+   1058
+  ],
+  "level": "date",
+  "lines": [
+   "01/11"
+  ],
+  "all_lines": [
+   "Consumir p",
+   "Consumien ",
+   "TEO",
+   "DATA",
+   "01/11",
+   "ORIGEN",
+   "USA",
+   "8",
+   "480006190"
+  ],
+  "crop_wh": [
+   180,
+   160
+  ],
+  "sharpness": 6.9,
+  "ocr_s": 1.28
+ }
+}

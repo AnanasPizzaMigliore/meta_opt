@@ -1,0 +1,276 @@
+{
+ "f000.jpg": {
+  "n_lines": 15,
+  "box": [
+   436,
+   1039,
+   536,
+   1201
+  ],
+  "level": "digits",
+  "lines": [
+   "1520UV5a",
+   "800500220"
+  ],
+  "all_lines": [
+   "MEDIO MAGRET",
+   "POL10",
+   "MOLLEJAS",
+   "DADO",
+   "POLLO",
+   "poLLO",
+   "TuaIe",
+   "ARld",
+   "Potto",
+   "POLLO",
+   "POLLO",
+   "lote",
+   "1520UV5a",
+   "263239",
+   "800500220"
+  ],
+  "crop_wh": [
+   100,
+   162
+  ],
+  "sharpness": 275.1,
+  "ocr_s": 0.23
+ },
+ "f006.jpg": {
+  "n_lines": 17,
+  "box": [
+   879,
+   755,
+   975,
+   851
+  ],
+  "level": "date",
+  "lines": [
+   "1-11"
+  ],
+  "all_lines": [
+   "MOLLEJAS",
+   "POLLO",
+   "TnmuiE",
+   "POLLO",
+   "1-11",
+   "1220n",
+   "Peso Neto:0.315kg",
+   "Lote",
+   "80050220",
+   "263239",
+   "n",
+   "",
+   "natur",
+   "TROUIT",
+   "POLL",
+   "TAauTOs",
+   "PDLLO"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 258.9,
+  "ocr_s": 0.23
+ },
+ "f012.jpg": {
+  "n_lines": 14,
+  "box": [
+   810,
+   643,
+   985,
+   809
+  ],
+  "level": "digits",
+  "lines": [
+   "1220n",
+   "263239"
+  ],
+  "all_lines": [
+   "MOLLEJAS",
+   "POLLO",
+   "TmnnD",
+   "Rcuo",
+   "Aid",
+   "141",
+   "1220n",
+   "Lote",
+   "263239",
+   "AiCO",
+   "TAaUITOS DE",
+   "POLLO",
+   "",
+   "us"
+  ],
+  "crop_wh": [
+   175,
+   166
+  ],
+  "sharpness": 256.2,
+  "ocr_s": 0.23
+ },
+ "f018.jpg": {
+  "n_lines": 17,
+  "box": [
+   804,
+   700,
+   900,
+   800
+  ],
+  "level": "digits",
+  "lines": [
+   "263239"
+  ],
+  "all_lines": [
+   "MOLLEJAS",
+   "POLLO",
+   "Oum馆",
+   "VoLO",
+   "144",
+   "122n",
+   "lote",
+   "R",
+   "263239",
+   "AXD",
+   "64",
+   "TEP",
+   "15",
+   "C",
+   "TAOUITOS DE",
+   "PQLLO",
+   "2锅"
+  ],
+  "crop_wh": [
+   96,
+   100
+  ],
+  "sharpness": 256.1,
+  "ocr_s": 0.23
+ },
+ "f024.jpg": {
+  "n_lines": 18,
+  "box": [
+   804,
+   641,
+   983,
+   814
+  ],
+  "level": "digits",
+  "lines": [
+   "1220n",
+   "263239"
+  ],
+  "all_lines": [
+   "MOLLEJAS",
+   "POLLO",
+   "TRNm",
+   "S00",
+   "1220n",
+   "Peso",
+   "La",
+   "263239",
+   "E",
+   "CRT",
+   "Neto:0.315kg",
+   "WC",
+   "EEI",
+   "2",
+   "natur",
+   "POLLO",
+   "1",
+   "iMHE"
+  ],
+  "crop_wh": [
+   179,
+   173
+  ],
+  "sharpness": 257.2,
+  "ocr_s": 0.24
+ },
+ "f030.jpg": {
+  "n_lines": 21,
+  "box": [
+   792,
+   640,
+   971,
+   812
+  ],
+  "level": "digits",
+  "lines": [
+   "1220n",
+   "263239"
+  ],
+  "all_lines": [
+   "MOLLEJAS",
+   "POLLO",
+   "no n",
+   "FOUS",
+   "hao",
+   "111",
+   "1220n",
+   "2",
+   "Lote",
+   "34",
+   "a0",
+   "263239",
+   "6e",
+   "O",
+   "e",
+   "",
+   "natur",
+   "TRaUITOs",
+   "POLL0",
+   "2.5a",
+   "EUHE"
+  ],
+  "crop_wh": [
+   179,
+   172
+  ],
+  "sharpness": 257.3,
+  "ocr_s": 0.23
+ },
+ "f036.jpg": {
+  "n_lines": 20,
+  "box": [
+   763,
+   653,
+   900,
+   890
+  ],
+  "level": "digits",
+  "lines": [
+   "Peso Neto:0.315kg",
+   "263239"
+  ],
+  "all_lines": [
+   "MOLLEJAS",
+   "POLO",
+   "muum",
+   "pOuD",
+   "ASTS",
+   "122un",
+   "INe",
+   "Peso Neto:0.315kg",
+   "114",
+   "263239",
+   "CAIN",
+   "5",
+   "a",
+   "5",
+   "natur",
+   "PoLL",
+   "TAaUITOS DE",
+   "POLLO",
+   "L0",
+   "Ey"
+  ],
+  "crop_wh": [
+   137,
+   237
+  ],
+  "sharpness": 258.5,
+  "ocr_s": 0.24
+ }
+}

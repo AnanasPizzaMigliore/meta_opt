@@ -1,0 +1,179 @@
+{
+ "f000.jpg": {
+  "n_lines": 8,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "米",
+   "HACENDADO",
+   "150ge",
+   "at ansun  se",
+   "ap saue eouaad",
+   "ouaayad junsueg",
+   "420c",
+   "rane"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 45.6,
+  "ocr_s": 0.38
+ },
+ "f006.jpg": {
+  "n_lines": 2,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "米",
+   "REK"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 43.2,
+  "ocr_s": 0.34
+ },
+ "f012.jpg": {
+  "n_lines": 5,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "SO",
+   "ar  / p se",
+   "ap saue eouqua ad",
+   "soayad nunue",
+   "420€"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 45.8,
+  "ocr_s": 0.36
+ },
+ "f018.jpg": {
+  "n_lines": 5,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "PS30",
+   "aer atunsue / p sae",
+   "ap sae ead",
+   "FO",
+   "4.20c"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 46.7,
+  "ocr_s": 0.35
+ },
+ "f024.jpg": {
+  "n_lines": 8,
+  "box": [
+   1568,
+   599,
+   1728,
+   1028
+  ],
+  "level": "date",
+  "lines": [
+   "2022"
+  ],
+  "all_lines": [
+   "3",
+   "NO",
+   "2022",
+   "pusuopio.sgand qunsucg",
+   "ap aiun / o se",
+   "39 same touqayad",
+   "0€",
+   "4204"
+  ],
+  "crop_wh": [
+   160,
+   429
+  ],
+  "sharpness": 46.6,
+  "ocr_s": 0.39
+ },
+ "f030.jpg": {
+  "n_lines": 3,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "PE",
+   "1",
+   "420€"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 45.5,
+  "ocr_s": 0.35
+ },
+ "f036.jpg": {
+  "n_lines": 9,
+  "box": [
+   1300,
+   503,
+   1706,
+   1075
+  ],
+  "level": "digits",
+  "lines": [
+   "2202"
+  ],
+  "all_lines": [
+   "150ge",
+   "PESLUIDO",
+   "PES NETO",
+   "2202",
+   "a us  sie",
+   "ap saue touaad",
+   "cnmr",
+   "OXOH",
+   "Xo"
+  ],
+  "crop_wh": [
+   406,
+   572
+  ],
+  "sharpness": 57.4,
+  "ocr_s": 0.4
+ }
+}

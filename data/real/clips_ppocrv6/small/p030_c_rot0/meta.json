@@ -1,0 +1,360 @@
+{
+ "f000.jpg": {
+  "n_lines": 25,
+  "box": [
+   190,
+   337,
+   286,
+   433
+  ],
+  "level": "digits",
+  "lines": [
+   "3005"
+  ],
+  "all_lines": [
+   "3005",
+   "mnnat",
+   "VILLA",
+   "CAMERT",
+   "JOBLE",
+   "CR PK ICUA",
+   "2409",
+   "manat",
+   "Marcillat",
+   "CAMEMBERT",
+   "CAMERT",
+   "HACENDADO",
+   "QUESO CABRA",
+   "PIMENTON",
+   "2,10€",
+   "Ond  e ana",
+   "OUESER R  CENO",
+   "CON  DERA",
+   "Bubybel",
+   "OUE O O ADO",
+   "NOBLE",
+   "VIILA",
+   "BOENSAL",
+   "LiVaca que",
+   "品"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 435.8,
+  "ocr_s": 0.5
+ },
+ "f006.jpg": {
+  "n_lines": 27,
+  "box": [
+   126,
+   517,
+   240,
+   624
+  ],
+  "level": "digits",
+  "lines": [
+   "2409"
+  ],
+  "all_lines": [
+   "205",
+   "manat",
+   "中",
+   "CAMERT",
+   "VILLA",
+   "OBLE",
+   "PIPHONTION SIE LA VERA",
+   "2409",
+   "mant",
+   "Marcilat",
+   "CAMEMBERT",
+   "CAMERT",
+   "HACENDADO",
+   "nd l t l na",
+   "2,10€",
+   "OUESR A  MENO",
+   "8.75",
+   "CON  ERA",
+   "CHnmg",
+   "OUE  O ADO",
+   "NOBLE",
+   "VILA",
+   "品",
+   "BOO ENSAL",
+   "jechypa",
+   "Semcurab",
+   "Babybel"
+  ],
+  "crop_wh": [
+   114,
+   107
+  ],
+  "sharpness": 451.9,
+  "ocr_s": 0.5
+ },
+ "f012.jpg": {
+  "n_lines": 30,
+  "box": [
+   117,
+   527,
+   233,
+   635
+  ],
+  "level": "digits",
+  "lines": [
+   "2405"
+  ],
+  "all_lines": [
+   "22",
+   "中",
+   "mcent",
+   "CAMERT",
+   "OBLE",
+   "CLAD",
+   "2405",
+   "manat",
+   "Marcillat",
+   "t e40g",
+   "CAMEMBERT",
+   "0",
+   "CAMERT",
+   "HACENDADO",
+   "CAERA",
+   "TON",
+   "Cnrde e   aia",
+   "OUESR RA  CENO",
+   "2,10€",
+   "CON   ERA",
+   "875",
+   "OUE  O ADO",
+   "3期",
+   "NOBLE",
+   "Babybet",
+   "VIILA",
+   "品",
+   "Vacaqu",
+   "BUO EN SAL",
+   "Babybel"
+  ],
+  "crop_wh": [
+   116,
+   108
+  ],
+  "sharpness": 452.0,
+  "ocr_s": 0.51
+ },
+ "f018.jpg": {
+  "n_lines": 32,
+  "box": [
+   100,
+   527,
+   218,
+   637
+  ],
+  "level": "digits",
+  "lines": [
+   "2405"
+  ],
+  "all_lines": [
+   "2",
+   "时",
+   "mrnc",
+   "VILLA",
+   "CAMERT",
+   "OBLE",
+   "ae",
+   "2405",
+   "ccnat",
+   "Marcillat",
+   "CAMEMBERT",
+   "CAMERT",
+   "HACENDADO",
+   "OCABRA",
+   "NTON",
+   "Orde e  e na",
+   "OUESR GAO CENO",
+   "2,10€",
+   "CON ERA",
+   "OUEA AO O ADO",
+   "8.75€",
+   "GTLAU",
+   "NOLE",
+   "VIILA",
+   "品",
+   "BYO EN SAL",
+   "207",
+   "OON",
+   "VOON",
+   "DAS",
+   "PACK",
+   "abybel"
+  ],
+  "crop_wh": [
+   118,
+   110
+  ],
+  "sharpness": 453.4,
+  "ocr_s": 0.54
+ },
+ "f024.jpg": {
+  "n_lines": 32,
+  "box": [
+   100,
+   534,
+   213,
+   638
+  ],
+  "level": "digits",
+  "lines": [
+   "2409"
+  ],
+  "all_lines": [
+   "240D",
+   "中",
+   "mnct",
+   "CAMRT",
+   "VILLA",
+   "OBLE",
+   "",
+   "2409",
+   "mcnact",
+   "Marcillat",
+   "CAMEMBERT",
+   "CAMERT",
+   "品",
+   "HACENDADO",
+   "OCABRA",
+   "NTON",
+   "Ord  e  na",
+   "OUESERRO O CENO",
+   "2,10€",
+   "CONN  ERA",
+   "OUE AO O ADO",
+   "8750",
+   "HOVO",
+   "NOBLE",
+   "VILA",
+   "Subybel",
+   "品",
+   "BO ENSE",
+   "echhca",
+   "OAS",
+   "PACK",
+   "bybel"
+  ],
+  "crop_wh": [
+   113,
+   104
+  ],
+  "sharpness": 457.2,
+  "ocr_s": 0.52
+ },
+ "f030.jpg": {
+  "n_lines": 31,
+  "box": [
+   88,
+   538,
+   205,
+   644
+  ],
+  "level": "digits",
+  "lines": [
+   "2409"
+  ],
+  "all_lines": [
+   "50%",
+   "中",
+   "mnat",
+   "CAMERHT",
+   "VILLA",
+   "OBLE",
+   "a",
+   "2409",
+   "Jnct",
+   "Marcilat",
+   "CAMEMBERT",
+   "CAMERT",
+   "HACENDADO",
+   "SO CABRA",
+   "NTON",
+   "Dned e   na",
+   "OUES  G CENO",
+   "2,10€",
+   "CON  ERA",
+   "OUE AO O ADO",
+   "15875",
+   "3UEG",
+   "NOLE",
+   "Bubybel",
+   "VLA",
+   "品",
+   "SUD EN SAL",
+   "OAS",
+   "PACK",
+   "bybel",
+   "nal"
+  ],
+  "crop_wh": [
+   117,
+   106
+  ],
+  "sharpness": 457.4,
+  "ocr_s": 0.53
+ },
+ "f036.jpg": {
+  "n_lines": 34,
+  "box": [
+   257,
+   283,
+   353,
+   379
+  ],
+  "level": "digits",
+  "lines": [
+   "6002"
+  ],
+  "all_lines": [
+   "6002",
+   "mnc",
+   "VILLA",
+   "CAMMEERT",
+   "OBLE",
+   "NOLE",
+   "2409",
+   "mnanaet",
+   "Marcillat",
+   "CAMEMBERT",
+   "CAMERT",
+   "HACENDADO",
+   "ESOCABRA",
+   "NENTON",
+   "Crued ce te  pna",
+   "OUES CO  CENO",
+   "2,10€",
+   "CON   ERA",
+   "OUE AO MO ADO",
+   "8750",
+   "100118",
+   "NOLE",
+   "Babybel",
+   "VILA",
+   "品",
+   "LaVoca qi",
+   "BO EN SA",
+   "ONNON",
+   "Jechqet",
+   "DAS",
+   "PACK",
+   "Seunctid",
+   "mawd",
+   "bybel"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 457.3,
+  "ocr_s": 0.52
+ }
+}

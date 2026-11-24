@@ -1,0 +1,219 @@
+{
+ "f000.jpg": {
+  "n_lines": 12,
+  "box": [
+   857,
+   1091,
+   953,
+   1187
+  ],
+  "level": "digits",
+  "lines": [
+   "25a/41/0/2t"
+  ],
+  "all_lines": [
+   "*",
+   "HACENDADO",
+   "150g",
+   "6",
+   "Coay rrred",
+   "s de",
+   "ap saue nouíajad",
+   "e200",
+   "25a/41/0/2t",
+   "4.20c",
+   "€",
+   "OH0O"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 45.6,
+  "ocr_s": 1.47
+ },
+ "f006.jpg": {
+  "n_lines": 6,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "€",
+   "头",
+   "é sát taçá",
+   "200",
+   "FER",
+   "ROC"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 43.2,
+  "ocr_s": 1.33
+ },
+ "f012.jpg": {
+  "n_lines": 9,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "HE",
+   "mes / sse",
+   "Coryd reom",
+   "ap saíe nouíuayaud",
+   "e200p",
+   "n",
+   "420c",
+   "0€",
+   "000"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 45.8,
+  "ocr_s": 1.4
+ },
+ "f018.jpg": {
+  "n_lines": 9,
+  "box": [
+   854,
+   1066,
+   950,
+   1162
+  ],
+  "level": "digits",
+  "lines": [
+   "/2094/0/0"
+  ],
+  "all_lines": [
+   "rés e",
+   "ap saput toujuajaud",
+   "Canayad ppnr.eem",
+   "e200",
+   "FE",
+   "RO",
+   "/2094/0/0",
+   "420c",
+   "€"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 46.7,
+  "ocr_s": 1.4
+ },
+ "f024.jpg": {
+  "n_lines": 12,
+  "box": [
+   1562,
+   595,
+   1728,
+   1189
+  ],
+  "level": "date",
+  "lines": [
+   "10/2027"
+  ],
+  "all_lines": [
+   "PsoLTOD",
+   "IR",
+   "ROd",
+   "10/2027",
+   "ssure",
+   "cuppue.ayaid aunsuce",
+   "aę sapíe toupuaya.d",
+   "e200",
+   "Det /naté dl cee",
+   "420c",
+   "50€",
+   "ooue"
+  ],
+  "crop_wh": [
+   166,
+   594
+  ],
+  "sharpness": 46.6,
+  "ocr_s": 1.47
+ },
+ "f030.jpg": {
+  "n_lines": 12,
+  "box": [
+   1589,
+   599,
+   1728,
+   1168
+  ],
+  "level": "date",
+  "lines": [
+   "10/2027"
+  ],
+  "all_lines": [
+   "PSNLTOD",
+   "H133",
+   "KOUI",
+   "10/2027",
+   "mes ume",
+   "Comrereereree",
+   "ap sagut acujuayaud",
+   "e200",
+   "R",
+   "VAmWRAUD",
+   "4.20€",
+   "obue"
+  ],
+  "crop_wh": [
+   139,
+   569
+  ],
+  "sharpness": 45.5,
+  "ocr_s": 1.46
+ },
+ "f036.jpg": {
+  "n_lines": 14,
+  "box": [
+   877,
+   894,
+   973,
+   990
+  ],
+  "level": "digits",
+  "lines": [
+   "e2000"
+  ],
+  "all_lines": [
+   "*",
+   "€",
+   "PESLUIDO",
+   "150g",
+   "ESTO",
+   "/202",
+   "6",
+   "Coente",
+   "s   e",
+   "preer s e",
+   "12",
+   "e2000",
+   "000H0",
+   "福"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 57.4,
+  "ocr_s": 1.48
+ }
+}

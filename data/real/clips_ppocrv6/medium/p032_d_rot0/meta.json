@@ -1,0 +1,357 @@
+{
+ "f000.jpg": {
+  "n_lines": 25,
+  "box": [
+   543,
+   1070,
+   695,
+   1166
+  ],
+  "level": "date",
+  "lines": [
+   "30/11/2026"
+  ],
+  "all_lines": [
+   "1,80€",
+   "CLARAS",
+   "275",
+   "TIRAS",
+   "TIRAS",
+   "LOMOLOMBO",
+   "CORTNA",
+   "GATSADDA",
+   "TIRAS",
+   "TIRAS",
+   "POLLO",
+   "TOLLO",
+   "FRANGO",
+   "ARROZ",
+   "FRANGO",
+   "99",
+   "DE PESCADO",
+   "DE PEIXE",
+   "HACENDADO",
+   "30/11/2026",
+   "G",
+   "280ge",
+   "31bJ52 R27",
+   "7",
+   "2.50."
+  ],
+  "crop_wh": [
+   152,
+   96
+  ],
+  "sharpness": 292.8,
+  "ocr_s": 1.55
+ },
+ "f006.jpg": {
+  "n_lines": 32,
+  "box": [
+   739,
+   999,
+   879,
+   1095
+  ],
+  "level": "date",
+  "lines": [
+   "30/11/2026"
+  ],
+  "all_lines": [
+   "275",
+   "TIRAS",
+   "ANUTAS DE POLOT",
+   "NRENLAS DUE CERNG",
+   "ASTWHAS DEFTIANE",
+   "TIRAS",
+   "LOMOLOMBO",
+   "COTILAS",
+   "KUPBACM",
+   "ARROZ",
+   "TIRAS",
+   "TIRAS",
+   "POLLO",
+   "POLLO",
+   "DE PESCADO",
+   "FRANGO",
+   "FRANCO",
+   "DE PEIXE",
+   "99",
+   "ARRO",
+   "ARROZ",
+   "DEPESCADO",
+   "en decla Evil coracta",
+   "GSGNAO-PEO",
+   "ARROZ",
+   "HACENDADO",
+   "ARROZ",
+   "ARROZ",
+   "30/11/2026",
+   "280ge",
+   "316J52 R27",
+   "2,50"
+  ],
+  "crop_wh": [
+   140,
+   96
+  ],
+  "sharpness": 350.1,
+  "ocr_s": 1.72
+ },
+ "f012.jpg": {
+  "n_lines": 32,
+  "box": [
+   715,
+   977,
+   859,
+   1073
+  ],
+  "level": "date",
+  "lines": [
+   "30/11/2026"
+  ],
+  "all_lines": [
+   "275",
+   "TIRAS",
+   "INATAS DE POLIET",
+   "ASINHAS DE PIANRS",
+   "TIRAS",
+   "LOMOLOMBO",
+   "CONTILLAS",
+   "CARSAA",
+   "ARROZ",
+   "TIRAS",
+   "TIRAS",
+   "Apnny",
+   "DEPESCADO",
+   "POLLO",
+   "POLLO",
+   "FRANGO",
+   "FRANGO",
+   "DE PEIXE",
+   "99",
+   "ARNOZ",
+   "PESSIADO",
+   "PO",
+   "NecaSC/PECai",
+   "1",
+   "ARROZ",
+   "HACENDADO",
+   "ARROZ",
+   "30/11/2026",
+   "280ge",
+   "316J52 R27",
+   "ARROZ",
+   "2,50."
+  ],
+  "crop_wh": [
+   144,
+   96
+  ],
+  "sharpness": 357.6,
+  "ocr_s": 1.73
+ },
+ "f018.jpg": {
+  "n_lines": 33,
+  "box": [
+   706,
+   976,
+   851,
+   1072
+  ],
+  "level": "date",
+  "lines": [
+   "30/11/2026"
+  ],
+  "all_lines": [
+   "275",
+   "TIRAS",
+   "INUTAS DE POLICE",
+   "GRNTLAS N CERROT",
+   "ASINHASDE FIANE",
+   "DO",
+   "MPAS",
+   "LOMOLOMBO",
+   "COSTLLAS",
+   "DAPSACDA",
+   "TIRAS",
+   "ARROZ",
+   "TIRAS",
+   "TIRAS",
+   "20LLO",
+   "POLLO",
+   "DE PESCADO",
+   "FRANGO",
+   "FRANCO",
+   "DE PEIXE",
+   "99",
+   "99",
+   "ARROZ",
+   "20350100",
+   "ECA",
+   "ARROZ",
+   "HACENDADO",
+   "ARROZ",
+   "30/11/2026",
+   "280ge",
+   "316J52 R27",
+   "ARROZ",
+   "2,50"
+  ],
+  "crop_wh": [
+   145,
+   96
+  ],
+  "sharpness": 358.8,
+  "ocr_s": 1.7
+ },
+ "f024.jpg": {
+  "n_lines": 29,
+  "box": [
+   701,
+   981,
+   846,
+   1077
+  ],
+  "level": "date",
+  "lines": [
+   "30/11/2026"
+  ],
+  "all_lines": [
+   "275",
+   "TIRAS",
+   "TIRAS",
+   "INUTAS DE POLIGE",
+   "ASITHAS DEE TANR",
+   "TIRAS",
+   "LOMOLOMBO",
+   "COSTLIAS",
+   "BARBACOA",
+   "ARROZ",
+   "TIRAS",
+   "TIRAS",
+   "POLLO",
+   "POLLO",
+   "DE PESCADO",
+   "FRANGO",
+   "FRANCO",
+   "DE PEIXE",
+   "99",
+   "ARROZ",
+   "ma pi de sat fríe s",
+   "ARROZ",
+   "HACENDADO",
+   "ARROZ",
+   "30/11/2026",
+   "280ge",
+   "316J52 R27",
+   "ARROZ",
+   "2,50"
+  ],
+  "crop_wh": [
+   145,
+   96
+  ],
+  "sharpness": 358.5,
+  "ocr_s": 1.63
+ },
+ "f030.jpg": {
+  "n_lines": 27,
+  "box": [
+   699,
+   989,
+   840,
+   1085
+  ],
+  "level": "date",
+  "lines": [
+   "30/11/2026"
+  ],
+  "all_lines": [
+   "275",
+   "TIRAS",
+   "ITAS DE POLION",
+   "STNNASDE FAS",
+   "TIRAS",
+   "LOMOLOMBO",
+   "COITILIAS",
+   "BanAGo",
+   "TIRAS",
+   "TIRAS",
+   "ARROZ",
+   "POLLO",
+   "POLLO",
+   "FRANGO",
+   "FRANGO",
+   "DE PESCADO",
+   "DE PEIXE",
+   "ARROZ",
+   "IEPISCAOD",
+   "ARROZ",
+   "HACENDADO",
+   "ARROZ",
+   "30/11/2026",
+   "280ge",
+   "316J52 R27",
+   "ARR07",
+   "2.50"
+  ],
+  "crop_wh": [
+   141,
+   96
+  ],
+  "sharpness": 355.9,
+  "ocr_s": 1.61
+ },
+ "f036.jpg": {
+  "n_lines": 30,
+  "box": [
+   696,
+   989,
+   838,
+   1085
+  ],
+  "level": "date",
+  "lines": [
+   "30/11/2026"
+  ],
+  "all_lines": [
+   "275",
+   "TIRAS",
+   "LRac",
+   "INTAS DE POLITH",
+   "ASINHAS DERAS",
+   "TIRAS",
+   "LOMOLOMBO",
+   "COSTLIAS",
+   "MARBACOA",
+   "YOLLD",
+   "ARROZ",
+   "TIRAS",
+   "TIRAS",
+   "TOLLO",
+   "POLLO",
+   "DEPESCADO",
+   "FRANGO",
+   "FRANCO",
+   "DE PEIXE",
+   "ARROZ",
+   "DUCDAAKEN",
+   "ARROZ",
+   "HACENDADO",
+   "ARROZ",
+   "30/11/2026",
+   "280ge",
+   "316J52 827",
+   "ARROZ",
+   "G",
+   "2,50"
+  ],
+  "crop_wh": [
+   142,
+   96
+  ],
+  "sharpness": 358.9,
+  "ocr_s": 1.74
+ }
+}

@@ -1,0 +1,223 @@
+{
+ "f000.jpg": {
+  "n_lines": 13,
+  "box": [
+   999,
+   531,
+   1343,
+   1425
+  ],
+  "level": "date",
+  "lines": [
+   "01/12/2026 R28"
+  ],
+  "all_lines": [
+   "150g",
+   "Sugerencia de pres",
+   "Sugestão de aprese",
+   "0",
+   "CEISO",
+   "ESCO",
+   "VICA",
+   "01/12/2026 R28",
+   "Burrato",
+   "20c",
+   "NATURN",
+   "URAL",
+   "NATURAL"
+  ],
+  "crop_wh": [
+   344,
+   894
+  ],
+  "sharpness": 52.1,
+  "ocr_s": 0.44
+ },
+ "f006.jpg": {
+  "n_lines": 10,
+  "box": [
+   1092,
+   241,
+   1502,
+   1254
+  ],
+  "level": "date",
+  "lines": [
+   "01/12/2026 R28"
+  ],
+  "all_lines": [
+   "01/12/2026 R28",
+   "Burrata",
+   "20c",
+   "NATURAL",
+   "NATURAL",
+   "",
+   "NATURAL",
+   "URAL",
+   "NAIURAL",
+   "NATURAL"
+  ],
+  "crop_wh": [
+   410,
+   1013
+  ],
+  "sharpness": 57.7,
+  "ocr_s": 0.4
+ },
+ "f012.jpg": {
+  "n_lines": 9,
+  "box": [
+   1039,
+   284,
+   1435,
+   1285
+  ],
+  "level": "date",
+  "lines": [
+   "01/12/2026 R28 "
+  ],
+  "all_lines": [
+   "01/12/2026 R28 ",
+   "urrata",
+   "S",
+   "KORCDS",
+   "NATURAL",
+   "NATURAL",
+   "RRG",
+   "NATURAL",
+   "NATURAL"
+  ],
+  "crop_wh": [
+   396,
+   1001
+  ],
+  "sharpness": 46.6,
+  "ocr_s": 0.41
+ },
+ "f018.jpg": {
+  "n_lines": 11,
+  "box": [
+   1042,
+   199,
+   1450,
+   1247
+  ],
+  "level": "date",
+  "lines": [
+   "01/12/2026 R28"
+  ],
+  "all_lines": [
+   "01/12/2026 R28",
+   "Burrata",
+   "20c",
+   "WMO",
+   "NATURAL",
+   "NATURAL",
+   "DRS",
+   "NATURAL",
+   "URAL",
+   "NATURAL",
+   "URAL"
+  ],
+  "crop_wh": [
+   408,
+   1048
+  ],
+  "sharpness": 49.4,
+  "ocr_s": 0.41
+ },
+ "f024.jpg": {
+  "n_lines": 10,
+  "box": [
+   1032,
+   259,
+   1421,
+   1277
+  ],
+  "level": "date",
+  "lines": [
+   "01/12/2026 R28"
+  ],
+  "all_lines": [
+   "01/12/2026 R28",
+   "usrata",
+   "20c",
+   "(RURGO",
+   "NATURAL",
+   "NATURAL",
+   "ROS",
+   "NATURAL",
+   "URAL",
+   "NATURAL"
+  ],
+  "crop_wh": [
+   389,
+   1018
+  ],
+  "sharpness": 45.7,
+  "ocr_s": 0.39
+ },
+ "f030.jpg": {
+  "n_lines": 11,
+  "box": [
+   1011,
+   296,
+   1377,
+   1279
+  ],
+  "level": "date",
+  "lines": [
+   "01/12/2026 R28"
+  ],
+  "all_lines": [
+   "01/12/2026 R28",
+   "uktata",
+   "20c",
+   "8ASY",
+   "NATURAL",
+   "NATURAL",
+   "服O",
+   "NATURAL",
+   "URAL",
+   "NATURAL",
+   "ORAL"
+  ],
+  "crop_wh": [
+   366,
+   983
+  ],
+  "sharpness": 44.7,
+  "ocr_s": 0.42
+ },
+ "f036.jpg": {
+  "n_lines": 10,
+  "box": [
+   1004,
+   308,
+   1368,
+   1274
+  ],
+  "level": "date",
+  "lines": [
+   "01/12/2026 R28"
+  ],
+  "all_lines": [
+   "01/12/2026 R28",
+   "urrata",
+   "S",
+   "NATURAL",
+   "NATURAL",
+   "NIOS",
+   "NATURAL",
+   "URAL",
+   "URAL",
+   "HATURAL"
+  ],
+  "crop_wh": [
+   364,
+   966
+  ],
+  "sharpness": 46.9,
+  "ocr_s": 0.41
+ }
+}

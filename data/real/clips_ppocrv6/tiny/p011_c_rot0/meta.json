@@ -1,0 +1,181 @@
+{
+ "f000.jpg": {
+  "n_lines": 10,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "HACENDADO",
+   "HACENDAD",
+   "0.85e",
+   "1",
+   "IU",
+   "090.",
+   "HACENDADO",
+   "Sticks",
+   "100g",
+   "HACENDADO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 117.5,
+  "ocr_s": 0.22
+ },
+ "f006.jpg": {
+  "n_lines": 3,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Sticks",
+   "100p",
+   "HACENDADO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 119.4,
+  "ocr_s": 0.21
+ },
+ "f012.jpg": {
+  "n_lines": 6,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "0,85e",
+   "Sticks",
+   "ACE",
+   "egetais",
+   "100!",
+   "HACENDADO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 123.1,
+  "ocr_s": 0.21
+ },
+ "f018.jpg": {
+  "n_lines": 7,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "0,85c",
+   "Sticks",
+   "HACEN",
+   "legetais",
+   "4o",
+   "100!",
+   "HACENDADO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 120.6,
+  "ocr_s": 0.21
+ },
+ "f024.jpg": {
+  "n_lines": 5,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "0,85e",
+   "Sticks",
+   "HACENDADO",
+   "100!",
+   "HACENDADO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 118.2,
+  "ocr_s": 0.21
+ },
+ "f030.jpg": {
+  "n_lines": 7,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "0,85c",
+   "EAREL",
+   "Sticks",
+   "legetais",
+   "HACEADADO",
+   "1O0!",
+   "HACENDADO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 119.5,
+  "ocr_s": 0.21
+ },
+ "f036.jpg": {
+  "n_lines": 8,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "0,85s",
+   "山o1e",
+   "Sticks",
+   "egetais",
+   "HACENDADO",
+   "es",
+   "10g",
+   "HACENDADO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 113.2,
+  "ocr_s": 0.21
+ }
+}

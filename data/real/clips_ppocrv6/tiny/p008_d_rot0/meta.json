@@ -1,0 +1,335 @@
+{
+ "f000.jpg": {
+  "n_lines": 29,
+  "box": [
+   1004,
+   962,
+   1195,
+   1058
+  ],
+  "level": "digits",
+  "lines": [
+   "JROME27.50 E"
+  ],
+  "all_lines": [
+   "2,65c",
+   "ADOR",
+   "rritos",
+   "Fajitas",
+   "SAZONADOR TEMPIRO",
+   "学",
+   "5Ae",
+   "tex",
+   "2",
+   "mex",
+   "HACENDDO",
+   "HACENDADO",
+   "1,65e",
+   "AZONADOAFAIA",
+   "JROME27.50 E",
+   "0,90c",
+   "SD",
+   "De",
+   "Car 0",
+   "VENAAVEA 5I",
+   "wirges",
+   "6TORTL",
+   "AVENA AVE",
+   "HO",
+   "HACY0O",
+   "ORTILLAS",
+   "TRIGO",
+   "TOD",
+   "1,85"
+  ],
+  "crop_wh": [
+   191,
+   96
+  ],
+  "sharpness": 224.7,
+  "ocr_s": 0.25
+ },
+ "f006.jpg": {
+  "n_lines": 26,
+  "box": [
+   1027,
+   400,
+   1278,
+   496
+  ],
+  "level": "digits",
+  "lines": [
+   "5899路62"
+  ],
+  "all_lines": [
+   "DT ADI7OC",
+   "5899路62",
+   "m",
+   "a2 ABCrr",
+   "颜a",
+   "帆",
+   "12ABEITOIGT'ABEESLL",
+   "1,25",
+   "HACENDADO",
+   "1,65€",
+   "URTILLAS DE",
+   "LSORNL27 50 IHGN",
+   "VENAAVEIA51%",
+   "Wraps",
+   "6 TORTILLASDE",
+   "1.8s",
+   "AVENAVAVEIA ST",
+   "LTILAS",
+   "MAIz/MILHO CDDN",
+   "1,85.",
+   "TRIGO",
+   "ORTILLAS",
+   "TORTIELASeaXE",
+   "TOR2IZ",
+   "MINI",
+   "1.60"
+  ],
+  "crop_wh": [
+   251,
+   96
+  ],
+  "sharpness": 225.2,
+  "ocr_s": 0.27
+ },
+ "f012.jpg": {
+  "n_lines": 27,
+  "box": [
+   538,
+   329,
+   1360,
+   952
+  ],
+  "level": "digits",
+  "lines": [
+   "625油20C狂人2",
+   "t2ADPAs2750:T限路78"
+  ],
+  "all_lines": [
+   "2AEEITO",
+   "My",
+   "625油20C狂人2",
+   "AAarracE",
+   "AIa",
+   "VETRAFACL",
+   "2 ALERTOICTABLENL",
+   "12 ABIERTOICSS",
+   "1,25e",
+   "HACENDADO",
+   "1,65e",
+   "URTILLAS DE",
+   "t2ADPAs2750:T限路78",
+   "AVENAAYEIA 51%",
+   "Wraps",
+   "6 TORTILLAS DE",
+   "AVEHAIAVEA S",
+   "1.85",
+   "CTLAS",
+   "E",
+   "1,85",
+   "RTILLAS",
+   "TRIGO",
+   "TORTILLASRGoXI",
+   "MINI",
+   "TORTTLL",
+   "105"
+  ],
+  "crop_wh": [
+   822,
+   623
+  ],
+  "sharpness": 226.6,
+  "ocr_s": 0.26
+ },
+ "f018.jpg": {
+  "n_lines": 25,
+  "box": [
+   560,
+   319,
+   1574,
+   960
+  ],
+  "level": "digits",
+  "lines": [
+   "迎4.9狂62意迎y803",
+   "LOPNE27601窗限"
+  ],
+  "all_lines": [
+   "CRTUBAFCL 网i",
+   "Pp2 ASERTOIS",
+   "橱国",
+   "迎4.9狂62意迎y803",
+   "iC 2AO",
+   "rpl",
+   "I2 ALEITOICARETTEN",
+   "1,25:",
+   "HACENDADO",
+   "1,65€",
+   "TURTILLAS DE",
+   "LOPNE27601窗限",
+   "VENA AVEIA 51%",
+   "Wraps",
+   "6 TORTLLASDE",
+   "1.85",
+   "AVENANAVEA SHO",
+   "HACEADADO",
+   "LTILAS",
+   "MAÍZ/MILHO",
+   "1,85",
+   "TRIGO",
+   "ORTILLAS",
+   "TORTILEASeoXL",
+   "TORTrCL"
+  ],
+  "crop_wh": [
+   1014,
+   641
+  ],
+  "sharpness": 226.3,
+  "ocr_s": 0.26
+ },
+ "f024.jpg": {
+  "n_lines": 26,
+  "box": [
+   638,
+   768,
+   859,
+   878
+  ],
+  "level": "digits",
+  "lines": [
+   "1cOPA2790 VImO期"
+  ],
+  "all_lines": [
+   "SF",
+   "馆",
+   "n",
+   "AGCRSi",
+   "油会0狂c2",
+   "UDOL",
+   "AaNE",
+   "2ACRTO产AUR",
+   "a 2ARrDS",
+   "1,25:",
+   "HACENDADO",
+   "1,65€",
+   "TURTILLAS DE",
+   "1cOPA2790 VImO期",
+   "VENAAVEIA 51%",
+   "wrapps",
+   "S",
+   "6TORTLLASDE",
+   "1.85",
+   "AVENA AVEIA 5O",
+   "CTiLAS",
+   "1,85c",
+   "TRIGO",
+   "ORTILLAS",
+   "TORTILL",
+   "TOR7XLC"
+  ],
+  "crop_wh": [
+   221,
+   110
+  ],
+  "sharpness": 228.9,
+  "ocr_s": 0.25
+ },
+ "f030.jpg": {
+  "n_lines": 24,
+  "box": [
+   636,
+   777,
+   854,
+   883
+  ],
+  "level": "digits",
+  "lines": [
+   "IALOPNE27 5M EE5"
+  ],
+  "all_lines": [
+   "LGETURARICI",
+   "MEua",
+   " AMGRTOIELK",
+   "AOCERO",
+   "DOS",
+   "O狂C2",
+   "ETe",
+   "J ALRTOICAETEE",
+   "1,25",
+   "HACENDADO",
+   "1,65€",
+   "TURTILLAS DE",
+   "IALOPNE27 5M EE5",
+   "VENAAVEIA 51%",
+   "lraps",
+   "6 TORTLLAS DE",
+   "AVENAAVEA SO",
+   "1.85",
+   "IACENDUDO",
+   "CTILAS",
+   "JDEMAÍz/MILHO",
+   "1.856",
+   "TRIGO",
+   "TORTILLAS"
+  ],
+  "crop_wh": [
+   218,
+   106
+  ],
+  "sharpness": 228.6,
+  "ocr_s": 0.26
+ },
+ "f036.jpg": {
+  "n_lines": 27,
+  "box": [
+   637,
+   786,
+   857,
+   893
+  ],
+  "level": "digits",
+  "lines": [
+   "TAcPND 2750 HEM"
+  ],
+  "all_lines": [
+   "RIO",
+   "AITITURAACL 州E",
+   "EFMY",
+   "CER",
+   "EO",
+   "R2",
+   "ASEaC",
+   "动a时E",
+   "2 AERTOIGIBEE",
+   "1,25.",
+   "HACENDADO",
+   "1,65€",
+   "URTILLAS DE",
+   "TAcPND 2750 HEM",
+   "VENAAVEIA51%",
+   "Wraps",
+   "6TORTLLASDE",
+   "1.85",
+   "AVENAVAVEA S",
+   "CILAS",
+   "1,85%",
+   "TRIGO",
+   "ORTILLAS",
+   "TORTILLESSOOXT",
+   "MINI",
+   "12",
+   "TORTTT"
+  ],
+  "crop_wh": [
+   220,
+   107
+  ],
+  "sharpness": 230.4,
+  "ocr_s": 0.25
+ }
+}

@@ -1,0 +1,264 @@
+{
+ "f000.jpg": {
+  "n_lines": 16,
+  "box": [
+   566,
+   864,
+   722,
+   983
+  ],
+  "level": "digits",
+  "lines": [
+   "5100"
+  ],
+  "all_lines": [
+   "175e",
+   "SALSA",
+   "CUESC",
+   "HACENDADO",
+   "CUOA",
+   "HACENDADO",
+   "1,65€",
+   "tmo sAg. LitttH",
+   "5100",
+   "YVETA",
+   "Wraps",
+   "E",
+   "51%",
+   "S DE",
+   "510/%",
+   "2"
+  ],
+  "crop_wh": [
+   156,
+   119
+  ],
+  "sharpness": 196.3,
+  "ocr_s": 0.23
+ },
+ "f006.jpg": {
+  "n_lines": 18,
+  "box": [
+   434,
+   783,
+   825,
+   971
+  ],
+  "level": "digits",
+  "lines": [
+   "ENAYWEIA 5100"
+  ],
+  "all_lines": [
+   "3ALER",
+   "jEso",
+   "",
+   "HACENDADO",
+   "LOA",
+   "E80",
+   "tLL",
+   "HACENDADO",
+   "n",
+   "1,65€",
+   "unec c Mt8",
+   "ENAYWEIA 5100",
+   "Wraps",
+   "AS DE",
+   "EIA 510%",
+   "raps",
+   "RTILLAS DE",
+   "A/AVEIA 51%o"
+  ],
+  "crop_wh": [
+   391,
+   188
+  ],
+  "sharpness": 184.5,
+  "ocr_s": 0.27
+ },
+ "f012.jpg": {
+  "n_lines": 17,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "SALSR",
+   "oUE3o",
+   "",
+   "HACENDADO",
+   "HACENDADO",
+   "多发",
+   "SALSALECUES",
+   "1,65€",
+   "uT68oLEL",
+   "ENAYAETH",
+   "Wraps",
+   "AS DE",
+   "51%",
+   "EIA",
+   "aps",
+   "RTILLAS DE",
+   "VAVEIA 510%"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 192.1,
+  "ocr_s": 0.24
+ },
+ "f018.jpg": {
+  "n_lines": 17,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "OL3A",
+   "AUE8O",
+   "2U9",
+   "HACENDADO",
+   "F80",
+   "HACENDADO",
+   "1,65€",
+   "Tum ooe BILaeuHa",
+   "ENAAAEI",
+   "E",
+   "Wraps",
+   "DE",
+   "AS",
+   "51%",
+   "aps",
+   "TILLAS DE",
+   "IAVEIA 51%"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 191.8,
+  "ocr_s": 0.26
+ },
+ "f024.jpg": {
+  "n_lines": 16,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "OALOR",
+   "QUE8O",
+   "HACENDADO",
+   "L3R",
+   "E30",
+   "HACENDADO",
+   "1,65€",
+   "tuno s agss BinnOra",
+   "ENAAEIA5",
+   "Wraps",
+   "AS DE",
+   "510%",
+   "EIA",
+   "aps",
+   "TILLAS DE",
+   "IAVEIA 51%"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 192.0,
+  "ocr_s": 0.24
+ },
+ "f030.jpg": {
+  "n_lines": 17,
+  "box": [
+   591,
+   796,
+   811,
+   896
+  ],
+  "level": "digits",
+  "lines": [
+   "unc5893 Bht8"
+  ],
+  "all_lines": [
+   "SALCA",
+   "UE3o",
+   "3出",
+   "P3",
+   "HACENDADO",
+   "E80",
+   "HACENDADO",
+   "福光利",
+   "1,65€",
+   "unc5893 Bht8",
+   "ENAWEIA 5M",
+   "Wraps",
+   "AS DE",
+   "51%0",
+   "as",
+   "TILLAS DE",
+   "AVEIA 510%"
+  ],
+  "crop_wh": [
+   220,
+   100
+  ],
+  "sharpness": 190.7,
+  "ocr_s": 0.24
+ },
+ "f036.jpg": {
+  "n_lines": 20,
+  "box": [
+   595,
+   753,
+   792,
+   890
+  ],
+  "level": "digits",
+  "lines": [
+   "1,656"
+  ],
+  "all_lines": [
+   "8ALOA",
+   "GUE8O",
+   "3",
+   "E",
+   "",
+   "HACENDADO",
+   "terOA",
+   "LOR",
+   "E830",
+   "DA",
+   "HACENDADO",
+   "1,656",
+   "urrc s.cy wtE",
+   "ENAHIE",
+   "Wraps",
+   "DE",
+   "51%",
+   "as",
+   "ILLAS DE",
+   "AVEIA 5100"
+  ],
+  "crop_wh": [
+   197,
+   137
+  ],
+  "sharpness": 192.6,
+  "ocr_s": 0.23
+ }
+}

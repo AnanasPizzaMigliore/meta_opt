@@ -1,0 +1,251 @@
+{
+ "f000.jpg": {
+  "n_lines": 33,
+  "box": [
+   0,
+   491,
+   992,
+   1728
+  ],
+  "level": "date",
+  "lines": [
+   "0778 08.02.27",
+   "refrigeración y consumir antes de 3 dias. Envasado en atmósfera piotedora.",
+   "produto em refrigeração e consumir no prazo"
+  ],
+  "all_lines": [
+   "AT",
+   "45% Queso E",
+   "vaca",
+   "Antia",
+   "coagulante",
+   "0 45%",
+   "ntiaglomerante (amido). Isento de glúten.",
+   "velha pasteurizado, coagulante microbiano, sal, conservante (E-202))",
+   "refrigeración y consumir antes de 3 dias. Envasado en atmósfera piotedora.",
+   "erante (almidón). Sin gluten.",
+   "produto em refrigeração e consumir no prazo",
+   "atmosfera protetora",
+   "INGREDIENTES",
+   "entemente antesd",
+   "referência anter do",
+   "CONSERVACIÓN/CONSERVAÇÃO",
+   "0778 08.02.27",
+   "Valor",
+   "Energético/Energia 354 kcal",
+   "Grasas/Lipidos",
+   "de las cuales/dos quais:",
+   "Hidratos de Carbono",
+   "-Saturadas/Saturados",
+   "de los cuales/dos quais:",
+   "Proteinas",
+   "-Azúcares/Açúcares",
+   "Peso Neto/Liquiço.",
+   "100g",
+   "200",
+   "1470",
+   "28g",
+   "M",
+   "19g"
+  ],
+  "crop_wh": [
+   992,
+   1237
+  ],
+  "sharpness": 94.2,
+  "ocr_s": 0.64
+ },
+ "f006.jpg": {
+  "n_lines": 11,
+  "box": [
+   696,
+   271,
+   1573,
+   657
+  ],
+  "level": "date",
+  "lines": [
+   "08.02.27",
+   "Lote/Consumir preferentem"
+  ],
+  "all_lines": [
+   "NA",
+   "produto em",
+   "Conservar no",
+   "atmosfera",
+   "Ites del:",
+   "Lote/Consumir preferentem",
+   "otetora.",
+   "08.02.27",
+   "65052-31423:0778",
+   "JESOS",
+   "UEIJOS"
+  ],
+  "crop_wh": [
+   877,
+   386
+  ],
+  "sharpness": 30.0,
+  "ocr_s": 0.4
+ },
+ "f012.jpg": {
+  "n_lines": 7,
+  "box": [
+   1606,
+   1457,
+   1728,
+   1728
+  ],
+  "level": "digits",
+  "lines": [
+   "800500220"
+  ],
+  "all_lines": [
+   "Conservar no frige",
+   "produto em",
+   "atmosfera protetora",
+   "CONSERV",
+   "800500220",
+   "i hera",
+   "Hea"
+  ],
+  "crop_wh": [
+   122,
+   271
+  ],
+  "sharpness": 21.5,
+  "ocr_s": 0.37
+ },
+ "f018.jpg": {
+  "n_lines": 9,
+  "box": [
+   1231,
+   1382,
+   1728,
+   1728
+  ],
+  "level": "digits",
+  "lines": [
+   "800500220",
+   "9792 Heras (Ca",
+   "abricado por"
+  ],
+  "all_lines": [
+   "atmiosfera protetora",
+   "P",
+   "ESOS",
+   "JEU",
+   "800500220",
+   "QUESERIALAFUENTE",
+   "abricado por",
+   "Pol Ind Heras, port.",
+   "9792 Heras (Ca"
+  ],
+  "crop_wh": [
+   497,
+   346
+  ],
+  "sharpness": 20.1,
+  "ocr_s": 0.38
+ },
+ "f024.jpg": {
+  "n_lines": 10,
+  "box": [
+   1182,
+   1360,
+   1728,
+   1728
+  ],
+  "level": "digits",
+  "lines": [
+   "800500220",
+   "39792 Heras (Camt",
+   "Fabricado por"
+  ],
+  "all_lines": [
+   "D",
+   "duto em refrigerac",
+   "osfera protetora",
+   "QUESO",
+   "800500220",
+   "Fabricado por",
+   "QUESERALAFUENTES",
+   "Pol Iid Herat parc.3",
+   "39792 Heras (Camt",
+   "Esparia/Espanha"
+  ],
+  "crop_wh": [
+   546,
+   368
+  ],
+  "sharpness": 22.0,
+  "ocr_s": 0.4
+ },
+ "f030.jpg": {
+  "n_lines": 10,
+  "box": [
+   1158,
+   1349,
+   1728,
+   1728
+  ],
+  "level": "digits",
+  "lines": [
+   "800500220",
+   "39792 Heras (Camta",
+   "Fabricado por"
+  ],
+  "all_lines": [
+   "P",
+   "duto em refrigeração",
+   "ostera protetora.",
+   "CONSERV",
+   "800500220",
+   "Fabricado por",
+   "QUESERIALAFUENTE S",
+   "Pol ind Heras, pwic 3",
+   "39792 Heras (Camta",
+   "Espala Espanha"
+  ],
+  "crop_wh": [
+   570,
+   379
+  ],
+  "sharpness": 20.0,
+  "ocr_s": 0.37
+ },
+ "f036.jpg": {
+  "n_lines": 11,
+  "box": [
+   1150,
+   1343,
+   1722,
+   1728
+  ],
+  "level": "digits",
+  "lines": [
+   "800500220",
+   "39792 Heras (Ca",
+   "Fabricado por"
+  ],
+  "all_lines": [
+   "ácticos, coagul",
+   "duto em refrigeração",
+   "sfera protetora",
+   "Minte microbid",
+   "nsumir no prazo de 3 dias. Emb",
+   "Fabricado por",
+   "800500220",
+   "QUESERIALAFUENTESA",
+   "Pol id Heas, part 30",
+   "39792 Heras (Ca",
+   "Espafa Enpanha"
+  ],
+  "crop_wh": [
+   572,
+   385
+  ],
+  "sharpness": 19.7,
+  "ocr_s": 0.39
+ }
+}

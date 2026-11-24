@@ -1,0 +1,368 @@
+{
+ "f000.jpg": {
+  "n_lines": 36,
+  "box": [
+   757,
+   113,
+   1503,
+   760
+  ],
+  "level": "digits",
+  "lines": [
+   "800500220",
+   "RGSEAA:211654",
+   "MERCADONA",
+   "Fabricado en/Produzido em:",
+   "arreltValencia"
+  ],
+  "all_lines": [
+   "9.99",
+   "menores de 5",
+   "os quais",
+   "1,65",
+   "s/Saturados",
+   "produto pelo seu t",
+   "20g",
+   "saturadas/",
+   "saturados",
+   "18g",
+   "turadas/",
+   "10g",
+   "turados",
+   "de Carbono",
+   "6.5g",
+   "es/dos quais:",
+   "11g",
+   "ares/Acucares",
+   "MERCADONA",
+   "/Fibra",
+   "25g",
+   "800500220",
+   "Fabricado en/Produzido em:",
+   "FE",
+   "MPORTACO CASA PONS, S.A.U.",
+   "Nonte C/ Barranco, 20",
+   "arreltValencia",
+   "458mg (65%",
+   "RGSEAA:211654",
+   "400g",
+   "1.30c",
+   "L00019827",
+   "ATA DE EMBALHAM",
+   "23:14",
+   "28",
+   "ENORIGEM"
+  ],
+  "crop_wh": [
+   746,
+   647
+  ],
+  "sharpness": 38.2,
+  "ocr_s": 0.54
+ },
+ "f006.jpg": {
+  "n_lines": 45,
+  "box": [
+   714,
+   820,
+   1086,
+   1040
+  ],
+  "level": "date",
+  "lines": [
+   "09/02/21",
+   "FECHA DE ENVASADO:"
+  ],
+  "all_lines": [
+   "20g",
+   "produto",
+   "Saturada",
+   "consumido par",
+   "-Monoinsaturadas/",
+   "Monoinsaturados",
+   "18g",
+   "10g",
+   "-Poliinsaturadas/",
+   "Polinsaturados",
+   "6.5g",
+   "CA",
+   "Hidratos de Carbono",
+   "HACENDADO",
+   "11g",
+   "de los cuales/dos quais:",
+   "Azúcares/Acúcares",
+   "25g",
+   "Gacahuete",
+   "MERCADONA",
+   "cacahue",
+   "Fibre alimentaria/Fibra",
+   "0g",
+   "800500220",
+   "nendo",
+   "amendoim",
+   "de proteinas",
+   "Fabricado en/Produzido em",
+   "70",
+   "220 mg (59%)",
+   "MPORIACO CASA PONS, S.A.U.",
+   "458 mg (65%)",
+   "Sencia",
+   "46469 Beniparelf Va",
+   "400",
+   "HACENDADO",
+   "2,75€",
+   "09/02/21",
+   "L000198 2758L0",
+   "FECHA DE ENVASADO:",
+   "DATA DE EMBALAGEM:",
+   "23:14 ",
+   "1111/26",
+   "ORIGEN:/ORIGEM.",
+   "CHINA"
+  ],
+  "crop_wh": [
+   372,
+   220
+  ],
+  "sharpness": 83.7,
+  "ocr_s": 0.61
+ },
+ "f012.jpg": {
+  "n_lines": 28,
+  "box": [
+   718,
+   751,
+   1198,
+   1113
+  ],
+  "level": "date",
+  "lines": [
+   "09/02/27",
+   "11/11/26",
+   "FECHA DE ENVASADO"
+  ],
+  "all_lines": [
+   "Azúcares",
+   "259",
+   "MERCA",
+   "80050",
+   "LLACENDADO",
+   "220 mg (59%)",
+   "Fabricade en/Prod",
+   "IMPORTACO CASA",
+   "cahut",
+   "458 mg (65%)",
+   "Polgong Norte C",
+   "endo",
+   "46469 Beniparre",
+   "14",
+   "g de proteinas",
+   "70",
+   "(Espafia/Espan",
+   "400",
+   "HACENDADO",
+   "2,75c",
+   "09/02/27",
+   "LO001982758L0",
+   "FECHA DE ENVASADO",
+   "DATA DE EMBALAGEM",
+   "23:14 09",
+   "11/11/26",
+   "ORIGEN:/ORIGEM.",
+   "CHINA"
+  ],
+  "crop_wh": [
+   480,
+   362
+  ],
+  "sharpness": 58.8,
+  "ocr_s": 0.5
+ },
+ "f018.jpg": {
+  "n_lines": 25,
+  "box": [
+   717,
+   766,
+   1175,
+   1029
+  ],
+  "level": "date",
+  "lines": [
+   "09/02/27",
+   "FECHA DE ENVASADO:"
+  ],
+  "all_lines": [
+   "0g",
+   "8005",
+   "Fabricadeen/Prod",
+   "220 mg (59%)",
+   "TLACENDADO",
+   "MAPORTACO CASA",
+   "458 mg (65%)",
+   "Polgono Norte.",
+   "+PROTE",
+   "cahue",
+   "46469 Beniparre",
+   "endo",
+   "(Espara/Espar",
+   "g de preteinas'",
+   "HACENDADO",
+   "2,75€",
+   "09/02/27",
+   "L0001982758L0",
+   "FECHA DE ENVASADO:",
+   "DATA DE EMBALAGEM",
+   "23:14 C9",
+   "1111/26",
+   "ORIGEN:/ORIGEM",
+   "CHINA",
+   "8"
+  ],
+  "crop_wh": [
+   458,
+   263
+  ],
+  "sharpness": 55.2,
+  "ocr_s": 0.51
+ },
+ "f024.jpg": {
+  "n_lines": 25,
+  "box": [
+   653,
+   760,
+   1148,
+   1048
+  ],
+  "level": "date",
+  "lines": [
+   "09/02/21",
+   "FECHA DE ENVASADO:"
+  ],
+  "all_lines": [
+   "Fabricado en/Pe",
+   "220 mg (59%",
+   "MPORIACO CA",
+   "458mg(65%",
+   "Poligono Nort",
+   "RACTNDADO",
+   "46469 Benip",
+   "dacahue",
+   "(EspaRa/Es",
+   "ahue",
+   "ndo",
+   "amer",
+   "400g",
+   "14",
+   "gde pe",
+   "HACENDADO",
+   "2,7",
+   "09/02/21",
+   "L0001982758L0",
+   "FECHA DE ENVASADO:",
+   "DATA DE EMBALAGEM",
+   "23:14 ",
+   "1011/26",
+   "ORGEN/ORIGEM",
+   "CHINA"
+  ],
+  "crop_wh": [
+   495,
+   288
+  ],
+  "sharpness": 39.6,
+  "ocr_s": 0.51
+ },
+ "f030.jpg": {
+  "n_lines": 24,
+  "box": [
+   1460,
+   0,
+   1728,
+   276
+  ],
+  "level": "digits",
+  "lines": [
+   "46469 Benip",
+   "Fabrcadeen/P"
+  ],
+  "all_lines": [
+   "Fabrcadeen/P",
+   "220 mg (59%)",
+   "WAPORTACO C",
+   "458 mg (65%",
+   "Poligono Nor",
+   "46469 Benip",
+   "HACENDADO",
+   "(Espana/Es",
+   "dacahue",
+   "hue",
+   "ndo",
+   "ame",
+   "PN/ 400 g",
+   "14900",
+   "HACENDADO",
+   "2,7",
+   "090221",
+   "LO001982758L0",
+   "FECHA DE ENVASADO:",
+   "DATA DE EMBALAGEM",
+   "23:14 09",
+   "111/26",
+   "ORGEN/ORIGEM.",
+   "CHINA"
+  ],
+  "crop_wh": [
+   268,
+   276
+  ],
+  "sharpness": 36.3,
+  "ocr_s": 0.49
+ },
+ "f036.jpg": {
+  "n_lines": 22,
+  "box": [
+   612,
+   730,
+   1166,
+   1148
+  ],
+  "level": "digits",
+  "lines": [
+   "04/502/27",
+   "LO00198 2768LD",
+   "23:14 ",
+   "111/26",
+   "FECHA DE ENVASADO"
+  ],
+  "all_lines": [
+   "abicateen",
+   "220 mg (59%",
+   "UMPORTACO C",
+   "458 mg (65%",
+   "Pollgono No",
+   "45469 Benie",
+   "HACENDADO",
+   "(Espaha/E",
+   "dacahun",
+   "ame",
+   "Pro eeo 400 g",
+   "149de",
+   "HACENDADO",
+   "2",
+   "04/502/27",
+   "LO00198 2768LD",
+   "FECHA DE ENVASADO",
+   "DATA DE EMBALAGEM:",
+   "23:14 ",
+   "111/26",
+   "ORGEN:/ORIGEM:",
+   "CHINA"
+  ],
+  "crop_wh": [
+   554,
+   418
+  ],
+  "sharpness": 34.4,
+  "ocr_s": 0.46
+ }
+}

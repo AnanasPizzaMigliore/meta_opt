@@ -1,0 +1,235 @@
+{
+ "f000.jpg": {
+  "n_lines": 14,
+  "box": [
+   0,
+   610,
+   749,
+   1278
+  ],
+  "level": "digits",
+  "lines": [
+   "605628"
+  ],
+  "all_lines": [
+   "lorla",
+   "295",
+   "275e",
+   "N",
+   "605628",
+   "O",
+   "ane",
+   "200g",
+   "2",
+   "185s",
+   "Peso",
+   "MRT",
+   "atatnd",
+   "Oienlor"
+  ],
+  "crop_wh": [
+   749,
+   668
+  ],
+  "sharpness": 152.8,
+  "ocr_s": 0.23
+ },
+ "f006.jpg": {
+  "n_lines": 10,
+  "box": [
+   813,
+   518,
+   1411,
+   944
+  ],
+  "level": "digits",
+  "lines": [
+   "800 500220",
+   "RCADONA"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "RCADONA",
+   "2,30€",
+   "DaY",
+   "Oui",
+   "vai50t",
+   "800 500220",
+   "200g",
+   "Peso",
+   "XiNona"
+  ],
+  "crop_wh": [
+   598,
+   426
+  ],
+  "sharpness": 102.9,
+  "ocr_s": 0.21
+ },
+ "f012.jpg": {
+  "n_lines": 13,
+  "box": [
+   710,
+   519,
+   1313,
+   953
+  ],
+  "level": "digits",
+  "lines": [
+   "800500220",
+   "MERCADONA"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "2,30€",
+   "MERCADONA",
+   "0",
+   "in ao",
+   "to050e",
+   "800500220",
+   "2",
+   "8",
+   "200g",
+   "5",
+   "8",
+   "Peso"
+  ],
+  "crop_wh": [
+   603,
+   434
+  ],
+  "sharpness": 95.6,
+  "ocr_s": 0.22
+ },
+ "f018.jpg": {
+  "n_lines": 8,
+  "box": [
+   640,
+   368,
+   1329,
+   952
+  ],
+  "level": "digits",
+  "lines": [
+   "800500220",
+   "200g1"
+  ],
+  "all_lines": [
+   "HACEADADO",
+   "DONA",
+   "2,30€",
+   "800500220",
+   "iuann",
+   "no150e",
+   "200g1",
+   "Peso"
+  ],
+  "crop_wh": [
+   689,
+   584
+  ],
+  "sharpness": 95.0,
+  "ocr_s": 0.21
+ },
+ "f024.jpg": {
+  "n_lines": 14,
+  "box": [
+   400,
+   678,
+   518,
+   774
+  ],
+  "level": "digits",
+  "lines": [
+   "1we 150e"
+  ],
+  "all_lines": [
+   "RACENDADO",
+   "2,30€",
+   "MERCA",
+   "idumtinn",
+   "1we 150e",
+   "200g",
+   "5",
+   "Peso",
+   "iNOK",
+   "liny",
+   "2,00c",
+   "UrCE",
+   "Crujente",
+   "RRe"
+  ],
+  "crop_wh": [
+   118,
+   96
+  ],
+  "sharpness": 178.5,
+  "ocr_s": 0.22
+ },
+ "f030.jpg": {
+  "n_lines": 10,
+  "box": [
+   371,
+   683,
+   487,
+   779
+  ],
+  "level": "digits",
+  "lines": [
+   "1oli506"
+  ],
+  "all_lines": [
+   "TACENDADO",
+   "2,30€",
+   "TiEEaIL",
+   "1oli506",
+   "200g",
+   "Pesomn",
+   "ixoma",
+   "2,00c",
+   "GFujente",
+   "JEOCute"
+  ],
+  "crop_wh": [
+   116,
+   96
+  ],
+  "sharpness": 169.0,
+  "ocr_s": 0.22
+ },
+ "f036.jpg": {
+  "n_lines": 13,
+  "box": [
+   344,
+   502,
+   1357,
+   834
+  ],
+  "level": "digits",
+  "lines": [
+   "800500220",
+   "1s050c"
+  ],
+  "all_lines": [
+   "ADE SU",
+   "FIG",
+   "HLCEND:DO",
+   "2,30€",
+   "800500220",
+   "Tm",
+   "1s050c",
+   "200g",
+   "Peso",
+   "ixona",
+   "liu",
+   "200c",
+   "Frlente"
+  ],
+  "crop_wh": [
+   1013,
+   332
+  ],
+  "sharpness": 173.7,
+  "ocr_s": 0.23
+ }
+}

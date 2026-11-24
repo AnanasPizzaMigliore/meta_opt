@@ -1,0 +1,182 @@
+{
+ "f000.jpg": {
+  "n_lines": 9,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "3.2mg",
+   "110mg",
+   "490 mg",
+   "95",
+   "ameretareteE",
+   "nw0",
+   "15O1",
+   "trOXINy",
+   "oFICts"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 11.1,
+  "ocr_s": 0.22
+ },
+ "f006.jpg": {
+  "n_lines": 4,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "oe",
+   "IrRN",
+   "18TA",
+   "171"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 7.8,
+  "ocr_s": 0.21
+ },
+ "f012.jpg": {
+  "n_lines": 9,
+  "box": [
+   1424,
+   988,
+   1656,
+   1126
+  ],
+  "level": "digits",
+  "lines": [
+   "01/11A"
+  ],
+  "all_lines": [
+   "",
+   "me preterente",
+   "eprele",
+   "",
+   "rCOHININy",
+   "DITIX",
+   "01/11A",
+   "ORICEN·MI",
+   "88"
+  ],
+  "crop_wh": [
+   232,
+   138
+  ],
+  "sharpness": 8.1,
+  "ocr_s": 0.22
+ },
+ "f018.jpg": {
+  "n_lines": 10,
+  "box": [
+   1457,
+   828,
+   1717,
+   972
+  ],
+  "level": "digits",
+  "lines": [
+   "1m14 22"
+  ],
+  "all_lines": [
+   "1",
+   "1",
+   "e8",
+   "nOY0",
+   "1m14 22",
+   "frOIX INy",
+   "DATAK",
+   "01L1N",
+   "ORIGEN/0",
+   "O0"
+  ],
+  "crop_wh": [
+   260,
+   144
+  ],
+  "sharpness": 9.6,
+  "ocr_s": 0.22
+ },
+ "f024.jpg": {
+  "n_lines": 4,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "1",
+   "eotet",
+   "a1",
+   "001A"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 7.3,
+  "ocr_s": 0.2
+ },
+ "f030.jpg": {
+  "n_lines": 2,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "4",
+   "9"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 9.5,
+  "ocr_s": 0.21
+ },
+ "f036.jpg": {
+  "n_lines": 3,
+  "box": [
+   1213,
+   1213,
+   1458,
+   1539
+  ],
+  "level": "digits",
+  "lines": [
+   "00008y"
+  ],
+  "all_lines": [
+   "C",
+   "1/1n",
+   "00008y"
+  ],
+  "crop_wh": [
+   245,
+   326
+  ],
+  "sharpness": 6.9,
+  "ocr_s": 0.2
+ }
+}

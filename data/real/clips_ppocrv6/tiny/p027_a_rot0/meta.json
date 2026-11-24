@@ -1,0 +1,315 @@
+{
+ "f000.jpg": {
+  "n_lines": 26,
+  "box": [
+   664,
+   1098,
+   818,
+   1301
+  ],
+  "level": "date",
+  "lines": [
+   "09/01/2027"
+  ],
+  "all_lines": [
+   "FIIH",
+   "age",
+   "tese",
+   "2006",
+   "cheess",
+   "chees",
+   "HACOAD0",
+   "GRANA",
+   "PADANO",
+   "otage",
+   "ZSW",
+   "GRANA",
+   "PADANO",
+   "165e",
+   "D",
+   "LC24921",
+   "05 19:38",
+   "GRANA",
+   "PADANO",
+   "GRAN",
+   "PADANO",
+   "09/01/2027",
+   "0",
+   "014155",
+   "PADANO",
+   "240"
+  ],
+  "crop_wh": [
+   154,
+   203
+  ],
+  "sharpness": 260.6,
+  "ocr_s": 0.25
+ },
+ "f006.jpg": {
+  "n_lines": 22,
+  "box": [
+   865,
+   915,
+   1009,
+   1117
+  ],
+  "level": "date",
+  "lines": [
+   "09/01/2027"
+  ],
+  "all_lines": [
+   "23Og",
+   "cheesl",
+   "chees",
+   "RWOINVASU",
+   "HACEDAD0",
+   "GRANA",
+   "PADANO",
+   "ottage",
+   "ottage",
+   "OTO",
+   "PADANO",
+   "LC24921",
+   "05 19:38",
+   "09/01/2027",
+   "014155",
+   "GRANA",
+   "PADANO",
+   "PADANO",
+   "",
+   "GRANA",
+   "240",
+   "QUESO"
+  ],
+  "crop_wh": [
+   144,
+   202
+  ],
+  "sharpness": 241.1,
+  "ocr_s": 0.24
+ },
+ "f012.jpg": {
+  "n_lines": 21,
+  "box": [
+   865,
+   886,
+   1013,
+   1093
+  ],
+  "level": "date",
+  "lines": [
+   "09/01/2027"
+  ],
+  "all_lines": [
+   "1008",
+   "chees",
+   "chees!",
+   "JIACEDADO",
+   "GRANA",
+   "PADANO",
+   "ottage",
+   "otage",
+   "GRANA",
+   "PADANO",
+   "LC24921",
+   "05 19:38",
+   "09/01/2027",
+   "014155",
+   "GRANA",
+   "PADANO",
+   "GRANA",
+   "PADANO",
+   "PADAN",
+   "240",
+   "BOS"
+  ],
+  "crop_wh": [
+   148,
+   207
+  ],
+  "sharpness": 243.6,
+  "ocr_s": 0.23
+ },
+ "f018.jpg": {
+  "n_lines": 22,
+  "box": [
+   834,
+   866,
+   982,
+   1076
+  ],
+  "level": "date",
+  "lines": [
+   "09/01/2027"
+  ],
+  "all_lines": [
+   "Be",
+   "20OE",
+   "chees",
+   "cheess",
+   "e0",
+   "ACEDADO",
+   "GRANA",
+   "PADANO",
+   "ottage",
+   "ottage",
+   "OO",
+   "GRANA",
+   "PADANO",
+   "16",
+   "LC24921",
+   "05 19:38",
+   "09/01/2027",
+   "014155",
+   "GRANA",
+   "PADANO",
+   "GRANA",
+   "PADANO"
+  ],
+  "crop_wh": [
+   148,
+   210
+  ],
+  "sharpness": 239.7,
+  "ocr_s": 0.22
+ },
+ "f024.jpg": {
+  "n_lines": 27,
+  "box": [
+   820,
+   872,
+   970,
+   1083
+  ],
+  "level": "date",
+  "lines": [
+   "09/01/2027"
+  ],
+  "all_lines": [
+   "ese",
+   "2000",
+   "",
+   "cheese",
+   "cheest",
+   "R",
+   "04",
+   "1ACEDADO",
+   "GRANA",
+   "PADANO",
+   "ottage",
+   "oltage",
+   "OEO",
+   "GRANA",
+   "PADANO",
+   "165e",
+   "LC24921",
+   "05 19:38",
+   "09/01/2027",
+   "014155",
+   "E",
+   "GRANA",
+   "AS",
+   "PADANO",
+   "PADANO",
+   "ICTT",
+   "240c"
+  ],
+  "crop_wh": [
+   150,
+   211
+  ],
+  "sharpness": 238.8,
+  "ocr_s": 0.24
+ },
+ "f030.jpg": {
+  "n_lines": 25,
+  "box": [
+   807,
+   871,
+   956,
+   1082
+  ],
+  "level": "date",
+  "lines": [
+   "09/01/2027"
+  ],
+  "all_lines": [
+   "hage",
+   "tse",
+   "200g",
+   "cottag",
+   "cheese",
+   "cheeg",
+   "e0",
+   "HACENDADO",
+   "GRANA",
+   "PADANO",
+   "ottage",
+   "ottage",
+   "FAOTO",
+   "GRANA",
+   "PADANO",
+   "165t",
+   "LC24921",
+   "05 19:38",
+   "09/01/2027",
+   "014155",
+   "GRANA",
+   "PADANO",
+   "PADANO",
+   "尊",
+   "240"
+  ],
+  "crop_wh": [
+   149,
+   211
+  ],
+  "sharpness": 242.7,
+  "ocr_s": 0.24
+ },
+ "f036.jpg": {
+  "n_lines": 23,
+  "box": [
+   810,
+   868,
+   959,
+   1079
+  ],
+  "level": "date",
+  "lines": [
+   "09/01/2027"
+  ],
+  "all_lines": [
+   "Hase",
+   "heese",
+   "2006",
+   "cheesd",
+   "chee",
+   "Oe",
+   "ACEDADO",
+   "GRANA",
+   "PADANO",
+   "ottage",
+   "ottage",
+   "ROXW",
+   "GRANA",
+   "PADANO",
+   "165",
+   "05 19:38",
+   "LC24921",
+   "09/01/2027",
+   "014155",
+   "GRANA",
+   "PADANO",
+   "PADANO",
+   "240"
+  ],
+  "crop_wh": [
+   149,
+   211
+  ],
+  "sharpness": 241.9,
+  "ocr_s": 0.23
+ }
+}

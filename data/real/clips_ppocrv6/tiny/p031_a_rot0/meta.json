@@ -1,0 +1,237 @@
+{
+ "f000.jpg": {
+  "n_lines": 10,
+  "box": [
+   567,
+   1049,
+   878,
+   1368
+  ],
+  "level": "digits",
+  "lines": [
+   "1126",
+   "L320070-382100",
+   "R20M11"
+  ],
+  "all_lines": [
+   "GAS",
+   "S",
+   "ACELGAS",
+   "ICERERG",
+   "LARADA",
+   "1126",
+   "L320070-382100",
+   "R20M11",
+   "Origen/Origem:",
+   "Jb3r"
+  ],
+  "crop_wh": [
+   311,
+   319
+  ],
+  "sharpness": 306.8,
+  "ocr_s": 0.25
+ },
+ "f006.jpg": {
+  "n_lines": 15,
+  "box": [
+   0,
+   1061,
+   177,
+   1210
+  ],
+  "level": "date",
+  "lines": [
+   "23.11.26"
+  ],
+  "all_lines": [
+   "",
+   "YIEND",
+   "GAS",
+   "",
+   "ICERERG",
+   "LANADA",
+   "LCLNDIDO",
+   "Fresk",
+   "EBERG",
+   "AYAuA",
+   "221126",
+   "L320070-382100",
+   "R20M11",
+   "Origen/Origem:",
+   "23.11.26"
+  ],
+  "crop_wh": [
+   177,
+   149
+  ],
+  "sharpness": 249.5,
+  "ocr_s": 0.24
+ },
+ "f012.jpg": {
+  "n_lines": 13,
+  "box": [
+   830,
+   834,
+   1138,
+   1136
+  ],
+  "level": "digits",
+  "lines": [
+   "1126",
+   "L320070-382100",
+   "R20M11"
+  ],
+  "all_lines": [
+   "GAS",
+   "IS",
+   "ICERERG",
+   "LARADA",
+   "1126",
+   "ERG",
+   "PA",
+   "L320070-382100",
+   "R20M11",
+   "Origen/Origem:",
+   "11.26",
+   "2e1",
+   "0.85c"
+  ],
+  "crop_wh": [
+   308,
+   302
+  ],
+  "sharpness": 295.7,
+  "ocr_s": 0.25
+ },
+ "f018.jpg": {
+  "n_lines": 12,
+  "box": [
+   831,
+   914,
+   1118,
+   1160
+  ],
+  "level": "digits",
+  "lines": [
+   "L320070-382100",
+   "R20M11"
+  ],
+  "all_lines": [
+   "AS",
+   "AS",
+   "ICERERG",
+   "LARADA",
+   "ab",
+   "RG",
+   "L320070-382100",
+   "R20M11",
+   "Origen/Origem:",
+   "126",
+   "n",
+   "0.85c"
+  ],
+  "crop_wh": [
+   287,
+   246
+  ],
+  "sharpness": 305.5,
+  "ocr_s": 0.25
+ },
+ "f024.jpg": {
+  "n_lines": 12,
+  "box": [
+   837,
+   916,
+   1122,
+   1167
+  ],
+  "level": "digits",
+  "lines": [
+   "L320070-382100",
+   "R20M11"
+  ],
+  "all_lines": [
+   "GAS",
+   "IS",
+   "ICERERG",
+   "LAADA",
+   "s",
+   "RG",
+   "L320070-382100",
+   "R20M11",
+   "Origen/Origem:",
+   "España/Espanha",
+   "1.26",
+   "0.85c"
+  ],
+  "crop_wh": [
+   285,
+   251
+  ],
+  "sharpness": 300.8,
+  "ocr_s": 0.23
+ },
+ "f030.jpg": {
+  "n_lines": 8,
+  "box": [
+   808,
+   904,
+   1099,
+   1160
+  ],
+  "level": "digits",
+  "lines": [
+   "L320070-382100",
+   "R20M11"
+  ],
+  "all_lines": [
+   "GAS",
+   "IS",
+   "ICERERG",
+   "LARADA",
+   "L320070-382100",
+   "R20M11",
+   "Origen/Origem:",
+   "0.85."
+  ],
+  "crop_wh": [
+   291,
+   256
+  ],
+  "sharpness": 296.8,
+  "ocr_s": 0.22
+ },
+ "f036.jpg": {
+  "n_lines": 9,
+  "box": [
+   788,
+   862,
+   1099,
+   1174
+  ],
+  "level": "digits",
+  "lines": [
+   "1126",
+   "L320070-382100",
+   "R20M11"
+  ],
+  "all_lines": [
+   "GAS",
+   "IS",
+   "ICERERG",
+   "LARADA",
+   "1126",
+   "L320070-382100",
+   "R20M11",
+   "Origen/Origem:",
+   "0,85c"
+  ],
+  "crop_wh": [
+   311,
+   312
+  ],
+  "sharpness": 296.3,
+  "ocr_s": 0.24
+ }
+}

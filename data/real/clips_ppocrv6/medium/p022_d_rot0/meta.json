@@ -1,0 +1,295 @@
+{
+ "f000.jpg": {
+  "n_lines": 15,
+  "box": [
+   1106,
+   821,
+   1219,
+   968
+  ],
+  "level": "digits",
+  "lines": [
+   "0,509kg",
+   "24.11.26R21",
+   "FECHADECADUCIDAD"
+  ],
+  "all_lines": [
+   "7,53€",
+   "P.V.P.",
+   "PRECIO KILO",
+   "0,509kg",
+   "PESO NETO",
+   "24.11.26R21",
+   "FECHADECADUCIDAD",
+   "ASOIO",
+   "MORCILLO/",
+   "JARRETE",
+   "VACUNO",
+   "ARREGLOS",
+   "8.14C",
+   "JARREIE/MORCLLC",
+   "MANOS"
+  ],
+  "crop_wh": [
+   113,
+   147
+  ],
+  "sharpness": 296.9,
+  "ocr_s": 1.5
+ },
+ "f006.jpg": {
+  "n_lines": 19,
+  "box": [
+   853,
+   745,
+   1001,
+   904
+  ],
+  "level": "digits",
+  "lines": [
+   "14,80€",
+   "0,509kg",
+   "24.11.26R21",
+   "FECHA DE CADUCIDAD"
+  ],
+  "all_lines": [
+   "MALA",
+   "20063",
+   "P.V.P.",
+   "14,80€",
+   "PRECIO KILO",
+   "0,509kg",
+   "PESO RITO",
+   "24.11.26R21",
+   "FECHA DE CADUCIDAD",
+   "ANOIO",
+   "7,53€",
+   "MORCILLO/",
+   "JARRETE",
+   "ARREGLOS",
+   "VACUNO",
+   "MANOS",
+   "盛",
+   "!",
+   ""
+  ],
+  "crop_wh": [
+   148,
+   159
+  ],
+  "sharpness": 289.2,
+  "ocr_s": 1.57
+ },
+ "f012.jpg": {
+  "n_lines": 17,
+  "box": [
+   844,
+   739,
+   1028,
+   978
+  ],
+  "level": "digits",
+  "lines": [
+   "14,80€",
+   "0,509kg",
+   "24.11.26R21",
+   "2311741007534",
+   "FECRA DECADUCIDAD"
+  ],
+  "all_lines": [
+   "P.V.P.",
+   "14,80€",
+   "PRECIO KILO",
+   "0,509kg",
+   "PESONETO.",
+   "24.11.26R21",
+   "FECRA DECADUCIDAD",
+   "7,53€",
+   "AROIO",
+   "MORCILLO/",
+   "ARREGLOS",
+   "JARRETE",
+   "VACUNO",
+   "2311741007534",
+   "T",
+   "MANOS",
+   "顾"
+  ],
+  "crop_wh": [
+   184,
+   239
+  ],
+  "sharpness": 300.6,
+  "ocr_s": 1.5
+ },
+ "f018.jpg": {
+  "n_lines": 21,
+  "box": [
+   918,
+   759,
+   1014,
+   892
+  ],
+  "level": "date",
+  "lines": [
+   "24.11.26 R21",
+   "FECHA DIE CADUCIDAD"
+  ],
+  "all_lines": [
+   "FILLA",
+   "18817",
+   "P.V.P.",
+   "14,80€",
+   "PRECIO KILO:",
+   "0,509kg",
+   "PESONETO:",
+   "24.11.26 R21",
+   "FECHA DIE CADUCIDAD",
+   "7,53€",
+   "AROIO",
+   "MORCILLO/",
+   "JARRETE",
+   "ARREGLOS",
+   "m",
+   "VACUNO",
+   "2313741007534",
+   "MANOS",
+   "新",
+   "跟!",
+   ""
+  ],
+  "crop_wh": [
+   96,
+   133
+  ],
+  "sharpness": 302.7,
+  "ocr_s": 1.59
+ },
+ "f024.jpg": {
+  "n_lines": 18,
+  "box": [
+   866,
+   747,
+   1008,
+   901
+  ],
+  "level": "digits",
+  "lines": [
+   "14,90€",
+   "0,509kg",
+   "24.11.26821",
+   "FECHA DE CADUCEDAD"
+  ],
+  "all_lines": [
+   "hU",
+   "山",
+   "P.V.P.",
+   "14,90€",
+   "PRECIO KILO:",
+   "0,509kg",
+   "PETONETO",
+   "24.11.26821",
+   "FECHA DE CADUCEDAD",
+   "7,53€",
+   "ARDX",
+   "MORCILLO/",
+   "JARRETE",
+   "m",
+   "MANOS",
+   "",
+   "",
+   "國"
+  ],
+  "crop_wh": [
+   142,
+   154
+  ],
+  "sharpness": 299.8,
+  "ocr_s": 1.52
+ },
+ "f030.jpg": {
+  "n_lines": 19,
+  "box": [
+   893,
+   763,
+   1006,
+   908
+  ],
+  "level": "digits",
+  "lines": [
+   "0,509kg",
+   "24.11.26821",
+   "FECINA DE CADUCIOAD"
+  ],
+  "all_lines": [
+   "NLa",
+   "e0lo",
+   "P.V.P.",
+   "PRECIO KILD:",
+   "0,509kg",
+   "PESORETO",
+   "24.11.26821",
+   "FECINA DE CADUCIOAD",
+   "7,53€",
+   "AROJO",
+   "MORCILLO/",
+   "JARRETE",
+   "ARREGLOS",
+   "VACUNO",
+   "m",
+   "民",
+   "MANOS",
+   "國",
+   "国"
+  ],
+  "crop_wh": [
+   113,
+   145
+  ],
+  "sharpness": 300.9,
+  "ocr_s": 1.54
+ },
+ "f036.jpg": {
+  "n_lines": 19,
+  "box": [
+   872,
+   765,
+   1010,
+   918
+  ],
+  "level": "digits",
+  "lines": [
+   "14,80€",
+   "0,509kg",
+   "24.11.26821",
+   "FECHA DE CADUCIDAD"
+  ],
+  "all_lines": [
+   "FLA",
+   "MILA",
+   "20000",
+   "P.V.P.",
+   "14,80€",
+   "PRECIO KELO",
+   "0,509kg",
+   "FESO NETO",
+   "24.11.26821",
+   "FECHA DE CADUCIDAD",
+   "7,53€",
+   "AROJO",
+   "MORCILLO/",
+   "JARRETE",
+   "ARREGLOS",
+   "m",
+   "VACUNO",
+   "MANOS",
+   "冠"
+  ],
+  "crop_wh": [
+   138,
+   153
+  ],
+  "sharpness": 302.4,
+  "ocr_s": 1.54
+ }
+}

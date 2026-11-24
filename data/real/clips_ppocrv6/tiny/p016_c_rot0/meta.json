@@ -1,0 +1,303 @@
+{
+ "f000.jpg": {
+  "n_lines": 8,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "",
+   "NEGRO",
+   "85%",
+   "17E",
+   "NEGR",
+   "72",
+   "hacsR",
+   "AsUCAR"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 81.6,
+  "ocr_s": 0.21
+ },
+ "f006.jpg": {
+  "n_lines": 20,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Stev",
+   "295.",
+   "NEKCE",
+   "295e",
+   "NEGRO",
+   "205",
+   "85%",
+   "AEÚCAR",
+   "MORENO",
+   "HACENDADO",
+   "CMRET",
+   "15",
+   "NEGR",
+   "NEGP",
+   "72",
+   "AuCs",
+   "3A",
+   "EKENDU",
+   "m09",
+   "AsUCAR"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 186.8,
+  "ocr_s": 0.23
+ },
+ "f012.jpg": {
+  "n_lines": 28,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "HACENDADO",
+   "Steva",
+   "Stevla",
+   "295.",
+   "麻KLOU",
+   "295e",
+   "NEGRO",
+   "205",
+   "85%",
+   "45an",
+   "AÚCAR",
+   "MORENO",
+   "R",
+   "VO",
+   "HACENDADO",
+   "115",
+   "Crunchy",
+   "MELk",
+   "NEGR",
+   "NEGRO",
+   "729",
+   "tiCAR",
+   "72%0",
+   "YDU",
+   "BENDDO",
+   "209",
+   "HACENDADO",
+   "AEUCAR"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 206.8,
+  "ocr_s": 0.26
+ },
+ "f018.jpg": {
+  "n_lines": 29,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "HACEDNDO",
+   "Stevia",
+   "Stevla",
+   "Stevla",
+   "295:",
+   "EMDO",
+   "295e",
+   "NEGRO",
+   "285",
+   "85%",
+   "250",
+   "A:UCAR",
+   "MORENO",
+   "KS",
+   "V",
+   "A3ÓCAR",
+   "HACENDADO",
+   "15",
+   "Crunchy",
+   "MiLk",
+   "NEGR",
+   "NEGRO",
+   "729",
+   "Avisie",
+   "72%",
+   "ENDD",
+   "09",
+   "HACENDADO",
+   "AEUCAR"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 216.9,
+  "ocr_s": 0.25
+ },
+ "f024.jpg": {
+  "n_lines": 27,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "HACENDNDO",
+   "Stevia",
+   "Stovia",
+   "Stevia",
+   "295.",
+   "295c",
+   "NEGRO",
+   "205",
+   "85%",
+   "50",
+   "AÚCAR",
+   "MORENO",
+   "VO",
+   "ACUCART",
+   "HACENDADO",
+   "3",
+   "16.",
+   "Crunchy",
+   "MiLk",
+   "NEGR",
+   "NEGRO",
+   "72",
+   "Avcse",
+   "ENDADO",
+   "009",
+   "HACENDADO",
+   "AzUCAR"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 217.1,
+  "ocr_s": 0.25
+ },
+ "f030.jpg": {
+  "n_lines": 28,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Eriritol",
+   "HACENDNDO",
+   "Stevia",
+   "Stevia",
+   "Stevia",
+   "295:",
+   "RKTR0",
+   "295c",
+   "NEGRO",
+   "205",
+   "85%",
+   "A:ÚCAR",
+   "MORENO",
+   "AUCAR",
+   "HACENDADO",
+   "5",
+   "CHAREy",
+   "NEGR",
+   "NEGRO",
+   "729",
+   "E0",
+   "Aoise",
+   "72%",
+   "190",
+   "BINDD",
+   "304",
+   "HACENDADO",
+   "AsUCAR"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 223.0,
+  "ocr_s": 0.25
+ },
+ "f036.jpg": {
+  "n_lines": 28,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "HACNONDO",
+   "Stevia",
+   "Stevia",
+   "295.",
+   "U",
+   "295",
+   "NEGRO",
+   "205",
+   "长",
+   "85%",
+   "AÚCAR",
+   "MORENO",
+   "NO",
+   "A3UCAK",
+   "HACENDADO",
+   "1Se",
+   "Crunchy",
+   "MiLk",
+   "NEGRI",
+   "NEGRO",
+   "72",
+   "Aaicr",
+   "72%",
+   "190",
+   "LLADADO",
+   "3A9",
+   "HACENDADO",
+   "AsUCAR"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 221.8,
+  "ocr_s": 0.25
+ }
+}

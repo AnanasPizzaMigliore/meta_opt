@@ -1,0 +1,337 @@
+{
+ "f000.jpg": {
+  "n_lines": 30,
+  "box": [
+   664,
+   1089,
+   816,
+   1298
+  ],
+  "level": "date",
+  "lines": [
+   "09/01/2027"
+  ],
+  "all_lines": [
+   "Hage",
+   "tese",
+   "cottage",
+   "cottag",
+   "cheese",
+   "chees",
+   "otta",
+   "HACENOADO",
+   "GRANA",
+   "PADANO",
+   "ottage",
+   "MATVCO",
+   "GRANA",
+   "PADANO",
+   "1.65",
+   "LC24921",
+   "05 19:38",
+   "GRANA",
+   "AEY",
+   "PADANO",
+   "apaituslade",
+   "GRANA",
+   "09/01/2027",
+   "PADANO",
+   "URAIVAS",
+   "014155",
+   "PADANO",
+   "GRANA",
+   "PADANO",
+   "2.40c"
+  ],
+  "crop_wh": [
+   152,
+   209
+  ],
+  "sharpness": 260.6,
+  "ocr_s": 0.52
+ },
+ "f006.jpg": {
+  "n_lines": 26,
+  "box": [
+   868,
+   916,
+   1005,
+   1113
+  ],
+  "level": "date",
+  "lines": [
+   "09/01/2027"
+  ],
+  "all_lines": [
+   "peese",
+   "cottage",
+   "cottag",
+   "cheese",
+   "chees!",
+   "HACENDADO",
+   "GRANA",
+   "PADANO",
+   "ottage",
+   "ottage",
+   "GRANA",
+   "PADANO",
+   "05 19:38",
+   "LC24921",
+   "09/01/2027",
+   "014155",
+   "GRANA",
+   "PADANO",
+   "GHANA",
+   "PADANO",
+   "SADT",
+   "GRANA",
+   "PADANO",
+   "240c",
+   "ADOS",
+   "QUESO"
+  ],
+  "crop_wh": [
+   137,
+   197
+  ],
+  "sharpness": 241.1,
+  "ocr_s": 0.51
+ },
+ "f012.jpg": {
+  "n_lines": 25,
+  "box": [
+   868,
+   884,
+   1010,
+   1091
+  ],
+  "level": "date",
+  "lines": [
+   "09/01/2027"
+  ],
+  "all_lines": [
+   "hese",
+   "cottage",
+   "cottag",
+   "cheese",
+   "cheese",
+   "HACENDADO",
+   "GRANA",
+   "PADANO",
+   "ottage",
+   "ottage",
+   "TSO",
+   "GRANA",
+   "PADANO",
+   "05 19:38",
+   "LC24921",
+   "09/01/2027",
+   "014155",
+   "Fuptolade",
+   "GRANA",
+   "PADANO",
+   "GRANA",
+   "PADANO",
+   "240c",
+   "Bava",
+   "DADO"
+  ],
+  "crop_wh": [
+   142,
+   207
+  ],
+  "sharpness": 243.6,
+  "ocr_s": 0.48
+ },
+ "f018.jpg": {
+  "n_lines": 26,
+  "box": [
+   837,
+   868,
+   980,
+   1074
+  ],
+  "level": "date",
+  "lines": [
+   "09/01/2027"
+  ],
+  "all_lines": [
+   "eese",
+   "cottage",
+   "cottag",
+   "cheese",
+   "chees",
+   "EINE",
+   "MACENDADO",
+   "GRANA",
+   "PADANO",
+   ".ottage",
+   "ottage",
+   "O0O",
+   "GRANA",
+   "PADANO",
+   "05 19:38",
+   "LC24921",
+   "09/01/2027",
+   "014155",
+   "Vayptlada",
+   "GRANA",
+   "PADANO",
+   "GRANA",
+   "PADANO",
+   "GRANA",
+   "PADANO",
+   "2.40"
+  ],
+  "crop_wh": [
+   143,
+   206
+  ],
+  "sharpness": 239.7,
+  "ocr_s": 0.45
+ },
+ "f024.jpg": {
+  "n_lines": 27,
+  "box": [
+   823,
+   871,
+   967,
+   1081
+  ],
+  "level": "date",
+  "lines": [
+   "09/01/2027"
+  ],
+  "all_lines": [
+   "peese",
+   "cottage",
+   "cottag",
+   "cheese",
+   "chees!",
+   "厦",
+   "HACENDADO",
+   "GRANA",
+   "PADANO",
+   "ottage",
+   "ottage",
+   "GRANA",
+   "PADANO",
+   "1,65c",
+   "LC24921",
+   "05 19:38",
+   "09/01/2027",
+   "014155",
+   "Tiypthulads",
+   "GRANA",
+   "欧",
+   "PADANO",
+   "GRANA",
+   "PADANO",
+   "AD",
+   "2.40c",
+   "QUESO"
+  ],
+  "crop_wh": [
+   144,
+   210
+  ],
+  "sharpness": 238.8,
+  "ocr_s": 0.51
+ },
+ "f030.jpg": {
+  "n_lines": 26,
+  "box": [
+   806,
+   867,
+   954,
+   1081
+  ],
+  "level": "date",
+  "lines": [
+   "09/01/2027"
+  ],
+  "all_lines": [
+   "pese",
+   "cottage",
+   "cottag",
+   "cheese",
+   "chees",
+   "HACENDADO",
+   "GRANA",
+   "PADANO",
+   "cottage",
+   "ottage",
+   "FOXAO",
+   "GRANA",
+   "PADANO",
+   "1.65c",
+   "LC24921",
+   "05 19:38",
+   "09/01/2027",
+   "014155",
+   "GRANA",
+   "S",
+   "PADANO",
+   "GRANA",
+   "PADANO",
+   "240c",
+   "QUESO",
+   "J0"
+  ],
+  "crop_wh": [
+   148,
+   214
+  ],
+  "sharpness": 242.7,
+  "ocr_s": 0.47
+ },
+ "f036.jpg": {
+  "n_lines": 28,
+  "box": [
+   813,
+   868,
+   957,
+   1075
+  ],
+  "level": "date",
+  "lines": [
+   "09/01/2027"
+  ],
+  "all_lines": [
+   "dage",
+   "bese",
+   "2006",
+   "cottage",
+   "cottag",
+   "cheese",
+   "chees",
+   "HACENDADO",
+   "GRANA",
+   "PADANO",
+   "ottage",
+   "ottage",
+   "GRANA",
+   "PADANO",
+   "165c",
+   "05 19:38",
+   "LC24921",
+   "09/01/2027",
+   "014155",
+   "M",
+   "GRANA",
+   "PADANO",
+   "GRANA",
+   "PADANO",
+   "GRANA",
+   "PADANO",
+   "240c",
+   "QUESO"
+  ],
+  "crop_wh": [
+   144,
+   207
+  ],
+  "sharpness": 241.9,
+  "ocr_s": 0.48
+ }
+}

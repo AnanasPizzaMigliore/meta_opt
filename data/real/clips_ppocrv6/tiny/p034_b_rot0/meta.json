@@ -1,0 +1,303 @@
+{
+ "f000.jpg": {
+  "n_lines": 50,
+  "box": [
+   0,
+   206,
+   1531,
+   1657
+  ],
+  "level": "date",
+  "lines": [
+   "Energético/Energia 347 kcal",
+   "24/07/2028",
+   "Fabricado por",
+   "NG IMPORT EXPORT CORPORATION",
+   "pOrtado pOC MERCADONA SA",
+   "MERCADONA"
+  ],
+  "all_lines": [
+   "AGARRUN NGNNRAT",
+   "RUESO CP",
+   "dIEL",
+   "SDEARA",
+   "DEARROL",
+   "CLASSICA",
+   "TES",
+   "174",
+   "Energético/Energia 347 kcal",
+   "20a1al",
+   "Gras",
+   "nha de arroz.",
+   "0,79",
+   "0.85c",
+   "ioaa",
+   "Celas",
+   "Saturadas/Saturados",
+   "03g",
+   "LONSERVACION",
+   "Hidratos de Carbono",
+   "LONSERVACAO",
+   "799",
+   "Gelosa",
+   "ervar en lugar fresco y seco.",
+   "AzicarcA/Acicares",
+   "11g",
+   "var em local fresco",
+   "13g",
+   "539",
+   "Fabricado por",
+   "0579",
+   "NG IMPORT EXPORT CORPORATION",
+   "a-3. Road No.5, Industrial Zone C.",
+   "1O0% LENTEIASROLAS",
+   "aDec Ward, Dong Thap Province,",
+   "ENILHASIERDULIS",
+   "Peso Netoniquido.",
+   "220-",
+   "(VietnamWietname).",
+   "200ge",
+   "pOrtado pOC MERCADONA SA",
+   "CAlanso Roig Alfonco, s/n",
+   "613s AVa des Sorelhs, Vaiencia",
+   "Espafa/Esparha)",
+   "antes det/",
+   "cà",
+   "MERCADONA",
+   "800500220",
+   "24/07/2028",
+   "31121.009206"
+  ],
+  "crop_wh": [
+   1531,
+   1451
+  ],
+  "sharpness": 59.8,
+  "ocr_s": 0.35
+ },
+ "f006.jpg": {
+  "n_lines": 16,
+  "box": [
+   840,
+   287,
+   1728,
+   1348
+  ],
+  "level": "date",
+  "lines": [
+   "24/07/2028",
+   "mportado por: MERCADON",
+   "Cnoumir preferentemerie antes de"
+  ],
+  "all_lines": [
+   "Fabricado po",
+   "aSIANG IMPORT EXPORT",
+   "C1-3, Road No.5 Indu",
+   "Sa Dec Ward, Dong Thap",
+   "(VietnamWietnam",
+   "0.95o",
+   "mportado por: MERCADON",
+   "CI Alfonso Rcig Alfonsa,",
+   "16135 Abalat dets Sorells,",
+   "(Espafa/Espanhe'",
+   "4S5.9",
+   "Cnoumir preferentemerie antes de",
+   "NoODLES DE",
+   "ARROZ",
+   "24/07/2028",
+   "NAPRRS"
+  ],
+  "crop_wh": [
+   888,
+   1061
+  ],
+  "sharpness": 40.2,
+  "ocr_s": 0.25
+ },
+ "f012.jpg": {
+  "n_lines": 16,
+  "box": [
+   584,
+   295,
+   1620,
+   1266
+  ],
+  "level": "date",
+  "lines": [
+   "24/07/2028",
+   "portado pOC MERCADONA SA",
+   "45135 Albalat dets Sorells, Valencia"
+  ],
+  "all_lines": [
+   "em local fresco e seco.",
+   "Fabricado por",
+   "SANG IMPORT EXPORT CORPORATION",
+   "3-3, Road No.5, Industrial Zone C,",
+   "sDec Ward, Dong Thap Province,",
+   "(Vietnam/Wietname).",
+   "portado pOC MERCADONA SA",
+   "C/ Allonso Roig Allonso, s/n.",
+   "45135 Albalat dets Sorells, Valencia",
+   "(Espafa/Espanha)",
+   "araumir prrferentemeate antes del: /",
+   "SS1O",
+   "laumir de pretertncia antes de",
+   "NG",
+   "24/07/2028",
+   "31121.009206"
+  ],
+  "crop_wh": [
+   1036,
+   971
+  ],
+  "sharpness": 23.5,
+  "ocr_s": 0.28
+ },
+ "f018.jpg": {
+  "n_lines": 13,
+  "box": [
+   532,
+   246,
+   1617,
+   1268
+  ],
+  "level": "date",
+  "lines": [
+   "24/07/2028",
+   "portado poC MERCADONA S.A",
+   "135 Abalat dets Sorells, Valencia"
+  ],
+  "all_lines": [
+   "Fabricado per",
+   "SANG MPORT EXPORT CORPORATION",
+   "Road No.5, Industrial Zone C.",
+   "c Ward, Dong Thap Province,",
+   "(VietramVietname).",
+   "portado poC MERCADONA S.A",
+   ":C Alfonso Roig Alfonso, s/n",
+   "135 Abalat dets Sorells, Valencia",
+   "(Espafia/Esparha)",
+   "armume prrferentemente antes del: /",
+   "asume de preterência antes de",
+   "24/07/2028",
+   "31121.009206"
+  ],
+  "crop_wh": [
+   1085,
+   1022
+  ],
+  "sharpness": 18.0,
+  "ocr_s": 0.28
+ },
+ "f024.jpg": {
+  "n_lines": 13,
+  "box": [
+   499,
+   239,
+   1591,
+   1267
+  ],
+  "level": "date",
+  "lines": [
+   "24/07/2028",
+   "TOortado pOC MERCADONA SA",
+   "135 Albalat deits Sorels, Valencia"
+  ],
+  "all_lines": [
+   "Fabricado por.",
+   "SANG IMPORT EXPORT CORPORATION",
+   "Road No.5, Industrial Zone C,",
+   "c Ward, Dong Thap Province,",
+   "(VietramWietname).",
+   "TOortado pOC MERCADONA SA",
+   "C/ Allonso Roig Allonso, s/n",
+   "135 Albalat deits Sorels, Valencia",
+   "(Espata/Espanha)",
+   "ammi creterentermente antes det./",
+   "mumie de pederéncia antes de",
+   "24/07/2028",
+   "1121.009206"
+  ],
+  "crop_wh": [
+   1092,
+   1028
+  ],
+  "sharpness": 16.3,
+  "ocr_s": 0.26
+ },
+ "f030.jpg": {
+  "n_lines": 13,
+  "box": [
+   454,
+   231,
+   1598,
+   1265
+  ],
+  "level": "date",
+  "lines": [
+   "24/07/2028",
+   "portado pOC MERCADONA SA",
+   "135 Albalat dels Sorells, Valencia",
+   "asumit de prefertncia antes de"
+  ],
+  "all_lines": [
+   "Fabricado por",
+   "SANG IMPORT EXPORT CORPORATION",
+   "Road No.5, Industrial Zone C.",
+   "Ward, Dong Thap Province,",
+   "(Vietnam/Wietname).",
+   "portado pOC MERCADONA SA",
+   "CI Alfonso Roig Alfonso, s/n",
+   "135 Albalat dels Sorells, Valencia",
+   "(Espada/Espanha)",
+   "umit geederentemente antes det: /",
+   "asumit de prefertncia antes de",
+   "24/07/2028",
+   "3:1121.009206"
+  ],
+  "crop_wh": [
+   1144,
+   1034
+  ],
+  "sharpness": 15.8,
+  "ocr_s": 0.27
+ },
+ "f036.jpg": {
+  "n_lines": 15,
+  "box": [
+   623,
+   228,
+   1714,
+   1253
+  ],
+  "level": "date",
+  "lines": [
+   "24/07/2028",
+   "portado pOC MERCADONA S.A",
+   "c135 Albalst dels Sorells, Valencia"
+  ],
+  "all_lines": [
+   "Fabricado por",
+   "SANG IMPORT EXPORT CORPORATION",
+   "Ward, Dong Thap Province,",
+   "(VietnamVietname).",
+   "portado pOC MERCADONA S.A",
+   "CI Alflonso Roig Allonso, s/n",
+   "c135 Albalst dels Sorells, Valencia",
+   "(Espafa/Espanha)",
+   "ami geederentemente antes det /",
+   "aaumir de prelertncia antes de",
+   "NCor",
+   "A",
+   "24/07/2028",
+   "G1121.009206",
+   "882Y"
+  ],
+  "crop_wh": [
+   1091,
+   1025
+  ],
+  "sharpness": 23.8,
+  "ocr_s": 0.26
+ }
+}

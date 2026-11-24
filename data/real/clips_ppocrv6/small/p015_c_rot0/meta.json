@@ -1,0 +1,332 @@
+{
+ "f000.jpg": {
+  "n_lines": 31,
+  "box": [
+   1024,
+   473,
+   1121,
+   569
+  ],
+  "level": "digits",
+  "lines": [
+   "1,464"
+  ],
+  "all_lines": [
+   "SEMILLAS",
+   "SEMENTES",
+   "SISAN",
+   "CENDADO",
+   "LINO dosto",
+   "SEMILLAS",
+   "UNHAÇA dourde",
+   "SEMENTE",
+   "出",
+   "ACENDADO",
+   "LINOO",
+   "HACENDADO",
+   "SEMILLAS",
+   "2,90c",
+   "SEMENTES",
+   "LINO dodo",
+   "出",
+   "2.95c",
+   "L00",
+   "1,464",
+   "B",
+   "HGIO",
+   "MGIO",
+   "",
+   "270",
+   "PISTACHO PISTÁCIO",
+   "TOSTADO",
+   "0% SAL",
+   "AÑADIDA ADICIONADO",
+   "250g",
+   "HIERRO/FERRO"
+  ],
+  "crop_wh": [
+   97,
+   96
+  ],
+  "sharpness": 138.1,
+  "ocr_s": 0.55
+ },
+ "f006.jpg": {
+  "n_lines": 22,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "SEMILLAS",
+   "2,90c",
+   "SEMENTES",
+   "LINO doae",
+   "Larnvo",
+   "UNHACA du",
+   "295c",
+   "146",
+   "F0.0.N",
+   "PISTACHO PISTÁCID",
+   "TOSTADO",
+   "0% SAL",
+   "270",
+   "ANADIDA ADICIONADO",
+   "250g",
+   "GLUTE",
+   "FERRO",
+   "HIERR",
+   "ACENDADO",
+   "2,95c",
+   "PISTACH",
+   "PIST"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 124.8,
+  "ocr_s": 0.48
+ },
+ "f012.jpg": {
+  "n_lines": 28,
+  "box": [
+   826,
+   502,
+   1055,
+   650
+  ],
+  "level": "digits",
+  "lines": [
+   "2.290"
+  ],
+  "all_lines": [
+   "NDRATOSTSPNEL",
+   "JACENDADO",
+   "2,90c",
+   "SEMILLAS",
+   "SEMENTES",
+   "LINO dude",
+   "mpimg",
+   "LINHACA ",
+   "2,95c",
+   "Wo",
+   "2.290",
+   "WE",
+   "PISTACHO PISTÁCIO",
+   "TOSTADO",
+   "0% SAL",
+   "ANADIDA ADICIONADO",
+   "270",
+   "250g",
+   "GLUTE",
+   "HIERR",
+   "FERRO",
+   "CENDADO",
+   "2.95c",
+   "PISTACHO",
+   "PISTACIO",
+   "TOSTADO SAL",
+   "PISTACIO",
+   "TOSTADO SAL"
+  ],
+  "crop_wh": [
+   229,
+   148
+  ],
+  "sharpness": 140.2,
+  "ocr_s": 0.52
+ },
+ "f018.jpg": {
+  "n_lines": 28,
+  "box": [
+   820,
+   480,
+   1047,
+   630
+  ],
+  "level": "date",
+  "lines": [
+   "9.0.91"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "2,90c",
+   "SEMILLAS",
+   "SEMENTES",
+   "LNO dorde",
+   "romD",
+   "UNHACI ",
+   "2.95c",
+   "5",
+   "VASA",
+   "9.0.91",
+   "PISTACHO PISTÁCIO",
+   "TOSTADO",
+   "9% SAL",
+   "",
+   "E",
+   "ANADIDA ADICIONADO",
+   "270",
+   "250g",
+   "GLUTE",
+   "HIERR",
+   "FERRO",
+   "ACENDADO",
+   "PISTACHO",
+   "PISTACIO",
+   "TOSTADO SAL",
+   "PISTÁCIO",
+   "TUSTADO SAL"
+  ],
+  "crop_wh": [
+   227,
+   150
+  ],
+  "sharpness": 144.0,
+  "ocr_s": 0.53
+ },
+ "f024.jpg": {
+  "n_lines": 26,
+  "box": [
+   811,
+   461,
+   1033,
+   613
+  ],
+  "level": "date",
+  "lines": [
+   "9.0.51"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "2,90€",
+   "SEMILLAS",
+   "SEMENTES",
+   "LINO dodo",
+   "SUDE",
+   "UNHACI ",
+   "2.95c",
+   "LAE",
+   "9.0.51",
+   "PISTACHO PISTÁCKO",
+   "TOSTADO",
+   "9% SAL",
+   "ANADIDA ADICIONADO",
+   "250g",
+   "270c",
+   "SEN",
+   "GLUTE",
+   "FERRO",
+   "HIERR",
+   "ICENDADO",
+   "TOSTADO",
+   "PISTACHO",
+   "PISTACIO",
+   "ISTACIO",
+   "TOSTASO SAL"
+  ],
+  "crop_wh": [
+   222,
+   152
+  ],
+  "sharpness": 141.3,
+  "ocr_s": 0.52
+ },
+ "f030.jpg": {
+  "n_lines": 25,
+  "box": [
+   816,
+   470,
+   1033,
+   618
+  ],
+  "level": "date",
+  "lines": [
+   "2.0.91"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "SEMILLAS",
+   "2.90€",
+   "SEMENTES",
+   "LINO dade",
+   "TOE",
+   "LNHAC ",
+   "2,95e",
+   "LAGA",
+   "2.0.91",
+   "PISTACHO PISTÁCN",
+   "TOSTADO",
+   "9%SAL",
+   "2",
+   "ANADIDA ADICIONADO",
+   "250g",
+   "270",
+   "GLUTE",
+   "HIERR",
+   "FERRO",
+   "ACENDADO",
+   "PISTACHO",
+   "TOSTADO SAL",
+   "PISTACIO",
+   "TOSTADO SAL"
+  ],
+  "crop_wh": [
+   217,
+   148
+  ],
+  "sharpness": 143.7,
+  "ocr_s": 0.52
+ },
+ "f036.jpg": {
+  "n_lines": 25,
+  "box": [
+   815,
+   467,
+   1030,
+   619
+  ],
+  "level": "date",
+  "lines": [
+   "9.0.91"
+  ],
+  "all_lines": [
+   "ILACENDADO",
+   "SEMILLAS",
+   "2,90€",
+   "SEMENTES",
+   "LNO doreta",
+   "UNHIC",
+   "ILnnup",
+   "295c",
+   "1Abu",
+   "9.0.91",
+   "PISTACHO PISTÁCN",
+   "TOSTADO",
+   "9% SAL",
+   "22",
+   "ANADIDA ADICIONADO",
+   "250g",
+   "270",
+   "GLUTE",
+   "HIERR",
+   "FERRO",
+   "ACENDADO",
+   "PISTACHO",
+   "PISTACIO",
+   "TOSTADE SAL",
+   "PISTACIO"
+  ],
+  "crop_wh": [
+   215,
+   152
+  ],
+  "sharpness": 144.2,
+  "ocr_s": 0.49
+ }
+}

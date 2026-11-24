@@ -1,0 +1,346 @@
+{
+ "f000.jpg": {
+  "n_lines": 32,
+  "box": [
+   668,
+   1181,
+   1155,
+   1469
+  ],
+  "level": "date",
+  "lines": [
+   "30/11/2026",
+   "Fecha de caducidad (dia/mes/año). Lote",
+   "Consumir até (dia/més/ano) Lote:"
+  ],
+  "all_lines": [
+   "DE PESCADO",
+   "DE PEIXE",
+   "C",
+   "PREPARACIÓN/PREPARAÇÃO",
+   "2",
+   "011",
+   "2m",
+   "Máxima potencia.",
+   "Colocar en el centro.",
+   "Perforar el film.",
+   "Ponencia mádima",
+   "Perturar a pelicula",
+   "Coloque no centro.",
+   "Removet",
+   " Retirar el filmy la",
+   "Mexer",
+   "lup",
+   "etiqueta",
+   "Reticar a pelicula",
+   "e a etiqueta",
+   "PRECAUCIONES/PRECAUÇÕES",
+   "Envase apto para microondas. No retirar el film antes de calentar Evite contacto",
+   "del envase con las paredes. No utilizar el grill",
+   "Embalagem para micro-ondas. Não retire o filme antes de aquecer. Evite o",
+   "contato do recipiente com as paredes. Não utilizar grill",
+   "HACENDADO",
+   "Fecha de caducidad (dia/mes/año). Lote",
+   "Consumir até (dia/més/ano) Lote:",
+   "30/11/2026",
+   "Pese Neto/Liquldo:",
+   "316J52 R27",
+   "280ge"
+  ],
+  "crop_wh": [
+   487,
+   288
+  ],
+  "sharpness": 56.1,
+  "ocr_s": 2.09
+ },
+ "f006.jpg": {
+  "n_lines": 29,
+  "box": [
+   952,
+   1067,
+   1504,
+   1361
+  ],
+  "level": "date",
+  "lines": [
+   "30/11/2026",
+   "Fecha de caducidad (dia/mes/ale). Lote:"
+  ],
+  "all_lines": [
+   "011",
+   "011",
+   "2min",
+   "Máxima potencia.",
+   "Perforar el film.",
+   "Colocaren el centro.",
+   "Perfurar a pelicula.",
+   "Potência máxima.",
+   "Coloque no centro.",
+   "retiar el fimy la",
+   "fLups",
+   "Remover",
+   "etiqueta.",
+   "0",
+   "Mexer",
+   "Retirar a pelicula",
+   "e a etiqueta",
+   "PRECAUCIONES/PRECAUÇÕES",
+   "Emese apto paa microndas No retiar el im antes de calentar Evite contacto",
+   "del emvese con las paredes. No utilizar el grill.",
+   "Embalagem pana micro-ondas. Não retire o filme antes de aquecer Evite o",
+   "contato do recigiente com as paredes. Não utilizar grill.",
+   "HACENDADO",
+   "Fecha de caducidad (dia/mes/ale). Lote:",
+   "Comumin até (dia/mès/ane) Lote:",
+   "Preso irto/liguide",
+   "30/11/2026",
+   "280ge",
+   "316J52 R27"
+  ],
+  "crop_wh": [
+   552,
+   294
+  ],
+  "sharpness": 40.0,
+  "ocr_s": 2.03
+ },
+ "f012.jpg": {
+  "n_lines": 28,
+  "box": [
+   967,
+   1073,
+   1549,
+   1379
+  ],
+  "level": "date",
+  "lines": [
+   "30/11/2026",
+   "Fecha de caducidad (dia/mes/año). Lote:"
+  ],
+  "all_lines": [
+   "011",
+   "2min.",
+   "Máxima potencia.",
+   "Perforar el film.",
+   "Colocaren el centro.",
+   "Perturar a pellicula",
+   "Potência máxima.",
+   "Coloque no centro.",
+   "3",
+   "Oketiar el filmy la",
+   "flups",
+   "Remover",
+   "eniqueta",
+   "Mexer",
+   "Reticar a pelicula",
+   "e a etiqueta",
+   "PRECAUCIONES/PRECAUÇÕES",
+   "Emese apt para microndas No retiar el m antes de calentar Evite contacto",
+   "del emwese con las paredes. No utilizar el grill.",
+   "Embalagem para micro-ondas. Kão retire o filme antes de aquecer. Evite o",
+   "contato do recigiente com as paredes. Não utilizar grill.",
+   "HACENDADO",
+   "Fecha de caducidad (dia/mes/año). Lote:",
+   "Comsami até (dia/més/ano) Lote:",
+   "Pese Srta/Ligulide:",
+   "30/11/2026",
+   "280ge",
+   "316J52 R27"
+  ],
+  "crop_wh": [
+   582,
+   306
+  ],
+  "sharpness": 37.5,
+  "ocr_s": 1.99
+ },
+ "f018.jpg": {
+  "n_lines": 25,
+  "box": [
+   948,
+   1040,
+   1549,
+   1358
+  ],
+  "level": "date",
+  "lines": [
+   "30/11/2026",
+   "Fecha de caducidad (dia/mes/alo). Lote:"
+  ],
+  "all_lines": [
+   "2min.",
+   "Máxima potencia.",
+   "Perforar el film.",
+   "Colocar en el centro.",
+   "Perfurar a pelicula.",
+   "Potência máxima",
+   "Coloque no centro.",
+   "Oketiar d fimy la",
+   "Remover",
+   "etiqueta",
+   "Mexet",
+   "QRetiar a pellicula",
+   "e a etiqueta.",
+   "PRECAUCIONES/PRECAUÇÕES",
+   "Emse apo pa mindes No retar el m aes de calentar Evite contacto",
+   "del emvese con las paredes. No utiizar el grill",
+   "Embalagem pana micro-ondas. Não retire o filme antes de aquecer. Evite o",
+   "contato do recipiente com as paredes. Não utilizar grill.",
+   "HACENDADO",
+   "Fecha de caducidad (dia/mes/alo). Lote:",
+   "Cansumir ané (dia/més/ane) Lote:",
+   "Pese Niets/liguide:",
+   "30/11/2026",
+   "280ge",
+   "316J52 R27"
+  ],
+  "crop_wh": [
+   601,
+   318
+  ],
+  "sharpness": 36.8,
+  "ocr_s": 1.92
+ },
+ "f024.jpg": {
+  "n_lines": 26,
+  "box": [
+   950,
+   1065,
+   1556,
+   1383
+  ],
+  "level": "date",
+  "lines": [
+   "30/11/2026",
+   "Fecha de caducidad (dia/mes/alo). Lote:"
+  ],
+  "all_lines": [
+   "2min.",
+   "Máxima potencia.",
+   "Perforar el film.",
+   "Colocar en el centro.",
+   "Perfurar a pelicula.",
+   "Poténcia máxima",
+   "Coloque no centro.",
+   "Oictiar d timy la",
+   "Remover",
+   "Slp5",
+   "elqueta",
+   "Mexer",
+   "Retiar a pelicula",
+   "ea etiqueta",
+   "PRECAUCIONES/PRECAUÇÕES",
+   "Emese apto para micondas No retiar el fm antes de calentar Evite contacto",
+   "del emwese con las panedes. No utiizar el gril",
+   "Embalagem pana micro-ondas. Não retire o filme antes de aquecer Evite o",
+   "contato do recigiente com as paredes. Não utilizar grill",
+   "HACENDADO",
+   "Fecha de caducidad (dia/mes/alo). Lote:",
+   "Comamir até (dia/mès/ane) Lote:",
+   "Pese Seta/Liguide",
+   "30/11/2026",
+   "280ge",
+   "316J52 R27"
+  ],
+  "crop_wh": [
+   606,
+   318
+  ],
+  "sharpness": 35.1,
+  "ocr_s": 1.9
+ },
+ "f030.jpg": {
+  "n_lines": 25,
+  "box": [
+   975,
+   1069,
+   1596,
+   1389
+  ],
+  "level": "date",
+  "lines": [
+   "30/11/2026",
+   "Fecha de caducidad (dia/mes/alo). Lote:"
+  ],
+  "all_lines": [
+   "2min.",
+   "Máxima potencia",
+   "Perforar el film.",
+   "Colocar en elcentro.",
+   "Potência máxima",
+   "Perfurar a pellicula",
+   "Coloque no centro.",
+   "letiar el fimy la",
+   "Remover",
+   "etiqueta",
+   "Mexer",
+   "Retiar a pelicula",
+   "eaetiqueta",
+   "PRECAUCIONES/PRECAUÇÕES",
+   "Emwese apto pana microondas No retiar el fm antes de calentar Evite contacto",
+   "del emwese con las paredes. No utilizar el grill",
+   "Embalagem para micro-ondas. Não retire o filme antes de aquecer Evite o",
+   "contato do recigiente com as paredes. Não utilizar grill",
+   "HACENDADO",
+   "Fecha de caducidad (dia/mes/alo). Lote:",
+   "Consamir ant (dia/mès/ano) Lote:",
+   "Pese lieta/Liglida",
+   "30/11/2026",
+   "280ge",
+   "316J52 R27"
+  ],
+  "crop_wh": [
+   621,
+   320
+  ],
+  "sharpness": 33.0,
+  "ocr_s": 1.89
+ },
+ "f036.jpg": {
+  "n_lines": 24,
+  "box": [
+   973,
+   1042,
+   1599,
+   1366
+  ],
+  "level": "date",
+  "lines": [
+   "30/11/2026",
+   "Fecha de caducidad (dia/mes/año). Lote:"
+  ],
+  "all_lines": [
+   "Máxima potencia",
+   "Perforar el film.",
+   "Colocar en el centro.",
+   "Potência máxima.",
+   "Perturar a pelicula.",
+   "Coloque no centro.",
+   "③Retiarel filmyla",
+   "Remover",
+   "etiqueta",
+   "Mexer",
+   "Retiar a pelicula",
+   "eaetiqueta",
+   "PRECAUCIONES/PRECAUÇÕES",
+   "Emese apto paa mirndas No retiar el  antes de calentar Evite contacto",
+   "del emvese con las paredes. No utilizar el grill",
+   "Embalagem pana micro-ondas. Não retire o filme antes de aquecer. Evite o",
+   "contato do reciglente com as paredes. Não utilizar grill.",
+   "HACENDADO",
+   "Fecha de caducidad (dia/mes/año). Lote:",
+   "Conumin até (dia/més/ane) Lote:",
+   "Pese Sieta/Liguide:",
+   "30/11/2026",
+   "280ge",
+   "316J52 R27"
+  ],
+  "crop_wh": [
+   626,
+   324
+  ],
+  "sharpness": 34.7,
+  "ocr_s": 1.84
+ }
+}

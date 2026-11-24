@@ -1,0 +1,308 @@
+{
+ "f000.jpg": {
+  "n_lines": 37,
+  "box": [
+   992,
+   1319,
+   1147,
+   1484
+  ],
+  "level": "date",
+  "lines": [
+   "6202-60-82"
+  ],
+  "all_lines": [
+   "TimOL",
+   "2,65e",
+   "281810",
+   "PL",
+   "Burritos",
+   "JATONADOR-7IHPL",
+   "LRUTT",
+   "SAZONADOR TEMPERO",
+   "Fajitas",
+   "量E",
+   "吃营",
+   "tex",
+   "tex",
+   "mex",
+   "mex",
+   "EETURA FACL",
+   "12 AIE17GG",
+   "GX",
+   "HACENDADO",
+   "写2新",
+   "HACENDADO",
+   "1,65e",
+   "SAZCIADORAIA",
+   "1,30e",
+   "0,90€",
+   "FEouLm",
+   "aImD",
+   "Tampa",
+   "6202-60-82",
+   "PSPHE 8260927",
+   "apedes",
+   "RTILLAS",
+   "TRIGO",
+   "dod.13",
+   "10",
+   "TOi",
+   "DE MAÍz/MILHO RC"
+  ],
+  "crop_wh": [
+   155,
+   165
+  ],
+  "sharpness": 217.7,
+  "ocr_s": 0.27
+ },
+ "f006.jpg": {
+  "n_lines": 19,
+  "box": [
+   1026,
+   822,
+   1222,
+   1020
+  ],
+  "level": "date",
+  "lines": [
+   "6202-60-82"
+  ],
+  "all_lines": [
+   "B6249",
+   "12 ASERIC/S",
+   "HACENDADO",
+   "1,25.",
+   "1,656",
+   "TURTLLAS DE",
+   "VENA AVEIA51",
+   "Tamp",
+   "6202-60-82",
+   "TORTLLASDE",
+   "NAAVEA S",
+   "1.85",
+   "PShIHR 8860927",
+   "UTLAS",
+   ".dod, 3",
+   "L2",
+   "RTILLAS",
+   "TRIGO",
+   "16S"
+  ],
+  "crop_wh": [
+   196,
+   198
+  ],
+  "sharpness": 132.5,
+  "ocr_s": 0.23
+ },
+ "f012.jpg": {
+  "n_lines": 21,
+  "box": [
+   1017,
+   818,
+   1223,
+   1025
+  ],
+  "level": "date",
+  "lines": [
+   "6202-60-82"
+  ],
+  "all_lines": [
+   "DERTURATACL 物：a12AETDICCEL",
+   "电王C2辣全0旺C2童四级",
+   "la ManE",
+   "Ma吃",
+   "1O ADCRTOICIABEME",
+   "2ALaN",
+   "HACENDADO",
+   "1,25",
+   "1,65e",
+   "TILAS DE",
+   "EIA51%",
+   "6202-60-82",
+   "SDE",
+   "PSPLH2 8260927",
+   "185",
+   "sedel",
+   "OLAS",
+   "3",
+   "TILLAS",
+   "TRIGO",
+   "1.66"
+  ],
+  "crop_wh": [
+   206,
+   207
+  ],
+  "sharpness": 176.2,
+  "ocr_s": 0.25
+ },
+ "f018.jpg": {
+  "n_lines": 20,
+  "box": [
+   958,
+   259,
+   1587,
+   1015
+  ],
+  "level": "digits",
+  "lines": [
+   "舰会9.9狂C2ny3服OL",
+   "PSP1H2 8260927"
+  ],
+  "all_lines": [
+   "1ID",
+   "",
+   "TASR0",
+   "舰会9.9狂C2ny3服OL",
+   "HOL2AGTO",
+   "Aa宝",
+   "2 ABCTOICPAIEUL",
+   "RLPPl2s",
+   "HACENDADO",
+   "1,25",
+   "1,65€",
+   "1aortt 27o i m",
+   "PSP1H2 8260927",
+   "43DE",
+   "AVEA 5",
+   "1.85",
+   "UTILAS",
+   "RTILLAS",
+   "TRIGO",
+   "1.05"
+  ],
+  "crop_wh": [
+   629,
+   756
+  ],
+  "sharpness": 197.8,
+  "ocr_s": 0.24
+ },
+ "f024.jpg": {
+  "n_lines": 19,
+  "box": [
+   990,
+   839,
+   1144,
+   999
+  ],
+  "level": "date",
+  "lines": [
+   "6202-60-82"
+  ],
+  "all_lines": [
+   "TEH",
+   "特迎全9包狂C2门四金1便c胜",
+   "ATia N",
+   "2 ABERTOIC\"AETELA",
+   "2 AIRTOG",
+   "1,25e",
+   "HACENDADO",
+   "1,65e",
+   "LASDE",
+   "51%",
+   "y2onk2750 国E 0",
+   "6202-60-82",
+   "PStLH2 8260927",
+   "o TORTLLAS DE",
+   "185",
+   "AVENA AVEIA ST",
+   "HACNDADO",
+   "CTILAS",
+   "85"
+  ],
+  "crop_wh": [
+   154,
+   160
+  ],
+  "sharpness": 208.6,
+  "ocr_s": 0.26
+ },
+ "f030.jpg": {
+  "n_lines": 21,
+  "box": [
+   998,
+   858,
+   1153,
+   1019
+  ],
+  "level": "date",
+  "lines": [
+   "6202-60-82"
+  ],
+  "all_lines": [
+   "2S",
+   "",
+   "LCINAC",
+   "C2街热全O9狂C2化四4O旺",
+   "2 AIETa",
+   "动IaN",
+   "12 ABERTOIGASEITS",
+   "",
+   "1,258",
+   "HACENDADO",
+   "ASDE",
+   "1,65e",
+   "\"pop",
+   "51%",
+   "1zOPNe 27.5C ELN",
+   "6202-60-82",
+   "opedel",
+   "URTLLAS DE",
+   "1.85",
+   "AVENAAVEIA SI0",
+   "BTILAS"
+  ],
+  "crop_wh": [
+   155,
+   161
+  ],
+  "sharpness": 219.8,
+  "ocr_s": 0.25
+ },
+ "f036.jpg": {
+  "n_lines": 21,
+  "box": [
+   975,
+   909,
+   1131,
+   1070
+  ],
+  "level": "date",
+  "lines": [
+   "6202-60-82"
+  ],
+  "all_lines": [
+   "288",
+   "ABERTURAFACL州EDRa",
+   "2 ARSRTO",
+   "2店业A09狂C299O旺",
+   "AAa M",
+   "2 ABEKTOI\"ABET岛",
+   "CL 2 AIE",
+   "1,25:",
+   "HACENDADO",
+   "LASDE",
+   "1,65€",
+   "3A51%",
+   "0CPRA2750N明",
+   "6202-60-82",
+   "PPH2 8260927",
+   "ep edel",
+   "crTILLAS OE",
+   "185",
+   "AVENA AVEA StN",
+   "TLAS",
+   "85e"
+  ],
+  "crop_wh": [
+   156,
+   161
+  ],
+  "sharpness": 220.6,
+  "ocr_s": 0.25
+ }
+}

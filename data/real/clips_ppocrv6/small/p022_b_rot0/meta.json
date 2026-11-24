@@ -1,0 +1,264 @@
+{
+ "f000.jpg": {
+  "n_lines": 14,
+  "box": [
+   1420,
+   619,
+   1623,
+   1173
+  ],
+  "level": "date",
+  "lines": [
+   "24.11.26 R21",
+   "FECHA DE CADUCIDAD:"
+  ],
+  "all_lines": [
+   "0,509kg",
+   "PESO NETO:",
+   "24.11.26 R21",
+   "FECHA DE CADUCIDAD:",
+   "ANOJO",
+   "PRECIO KILO:",
+   "4",
+   "P.V.P.",
+   "7,53€",
+   "80€",
+   "JARRETE",
+   "2313741007534",
+   "MANOS",
+   "0058"
+  ],
+  "crop_wh": [
+   203,
+   554
+  ],
+  "sharpness": 144.8,
+  "ocr_s": 0.45
+ },
+ "f006.jpg": {
+  "n_lines": 13,
+  "box": [
+   883,
+   515,
+   1141,
+   1118
+  ],
+  "level": "date",
+  "lines": [
+   "24.11.26 R21",
+   "FECHA DE CADUCIDAD:"
+  ],
+  "all_lines": [
+   "24.11.26 R21",
+   "FECHA DE CADUCIDAD:",
+   "ANOJO",
+   "0,509kg",
+   "PESO NETO:",
+   "PRECIO KILO:",
+   "4",
+   "P.V.P.",
+   "7,53€",
+   "80€",
+   "MORCILLOI",
+   "JARRETE",
+   "2313741007534"
+  ],
+  "crop_wh": [
+   258,
+   603
+  ],
+  "sharpness": 37.9,
+  "ocr_s": 0.43
+ },
+ "f012.jpg": {
+  "n_lines": 14,
+  "box": [
+   1028,
+   481,
+   1278,
+   1105
+  ],
+  "level": "date",
+  "lines": [
+   "24.11.26 R21",
+   "FECHA DE CADUCIDAD:"
+  ],
+  "all_lines": [
+   "24.11.26 R21",
+   "FECHA DE CADUCIDAD:",
+   "ANOJO",
+   "PRECIO KILO:",
+   "0,509kg",
+   "PESO NETO:",
+   "P.V.P.",
+   "7,53€",
+   "80€",
+   "MORCILLOI",
+   "JARRETE",
+   "2313741007534",
+   "MANOS",
+   "路"
+  ],
+  "crop_wh": [
+   250,
+   624
+  ],
+  "sharpness": 54.7,
+  "ocr_s": 0.43
+ },
+ "f018.jpg": {
+  "n_lines": 13,
+  "box": [
+   526,
+   398,
+   1394,
+   1609
+  ],
+  "level": "digits",
+  "lines": [
+   "0,509kg",
+   "14,80€",
+   "26 R21",
+   "2313741007534",
+   "FECHA DE CADUCIDAD:"
+  ],
+  "all_lines": [
+   "FECHA DE CADUCIDAD:",
+   "ANOJO",
+   "PRECIO KILO:",
+   "0,509kg",
+   "PESO NETO:",
+   "14,80€",
+   "P.V.P.",
+   "7,53€",
+   "MORCILLOI",
+   "JARRETE",
+   "26 R21",
+   "2313741007534",
+   "MANOS"
+  ],
+  "crop_wh": [
+   868,
+   1211
+  ],
+  "sharpness": 56.4,
+  "ocr_s": 0.43
+ },
+ "f024.jpg": {
+  "n_lines": 15,
+  "box": [
+   536,
+   372,
+   1404,
+   1587
+  ],
+  "level": "digits",
+  "lines": [
+   "0,509kg",
+   "26 R21",
+   "2313741007534",
+   "FECHA DE CADUCIDAD:"
+  ],
+  "all_lines": [
+   "0,509kg",
+   "PESO NETO:",
+   "FECHA DE CADUCIDAD:",
+   "ANOJO",
+   "PRECIO KILO:",
+   "4,",
+   "P.V.P.",
+   "7,53€",
+   "80€",
+   "MORCILLOI",
+   "JARRETE",
+   "26 R21",
+   "2313741007534",
+   "MANOS",
+   "福"
+  ],
+  "crop_wh": [
+   868,
+   1215
+  ],
+  "sharpness": 59.2,
+  "ocr_s": 0.42
+ },
+ "f030.jpg": {
+  "n_lines": 15,
+  "box": [
+   524,
+   390,
+   1396,
+   1607
+  ],
+  "level": "digits",
+  "lines": [
+   "0,509kg",
+   "26 R21",
+   "2313741007534",
+   "FECHA DE CADUCIDAD:"
+  ],
+  "all_lines": [
+   "PESO NETO:",
+   "24.",
+   "FECHA DE CADUCIDAD:",
+   "ANOJO",
+   "PRECIO KILO:",
+   "0,509kg",
+   "P.V.P.",
+   "4",
+   "7,53€",
+   "80€",
+   "MORCILLOI",
+   "JARRETE",
+   "26 R21",
+   "2313741007534",
+   "MANOS"
+  ],
+  "crop_wh": [
+   872,
+   1217
+  ],
+  "sharpness": 56.2,
+  "ocr_s": 0.43
+ },
+ "f036.jpg": {
+  "n_lines": 15,
+  "box": [
+   515,
+   399,
+   1401,
+   1636
+  ],
+  "level": "digits",
+  "lines": [
+   "0,509kg",
+   "26 R21",
+   "2313741007534",
+   "FECHA DE CADUCIDAD:"
+  ],
+  "all_lines": [
+   "FECHA DE CADUCIDAD:",
+   "ANOJO",
+   "0,509kg",
+   "PESO NETO:",
+   "24.",
+   "PRECIO KILO:",
+   "4,80€",
+   "P.V.P.",
+   "7,53€",
+   "MORCILLOI",
+   "JARRETE",
+   "26 R21",
+   "2313741007534",
+   "MANOS",
+   "魅"
+  ],
+  "crop_wh": [
+   886,
+   1237
+  ],
+  "sharpness": 54.5,
+  "ocr_s": 0.43
+ }
+}

@@ -1,0 +1,339 @@
+{
+ "f000.jpg": {
+  "n_lines": 25,
+  "box": [
+   924,
+   701,
+   1634,
+   1231
+  ],
+  "level": "digits",
+  "lines": [
+   "J260781003",
+   "26078187号"
+  ],
+  "all_lines": [
+   "MONSTER",
+   "1",
+   "ENERGY",
+   "ULTRA VICE",
+   "GLL",
+   "JUICED",
+   "PACK",
+   "MONSTER",
+   "AHORRO",
+   "MANGO LOCO",
+   "SUIGE",
+   "-500-",
+   "JUKC",
+   "MON",
+   "J260781003",
+   "7,08c",
+   "177c189c",
+   "26078187号",
+   "TER",
+   "ZERO",
+   "TER",
+   "ZERO",
+   "ZERO",
+   "7.08c",
+   "ZERO"
+  ],
+  "crop_wh": [
+   710,
+   530
+  ],
+  "sharpness": 129.8,
+  "ocr_s": 0.49
+ },
+ "f006.jpg": {
+  "n_lines": 29,
+  "box": [
+   939,
+   688,
+   1663,
+   1228
+  ],
+  "level": "digits",
+  "lines": [
+   "J260761009",
+   "3260781012"
+  ],
+  "all_lines": [
+   "PO AZUCARA",
+   "IONS",
+   "MONSTER",
+   "1",
+   "ENERGY",
+   "ULTRA VIR",
+   "JUICED",
+   "MONSTER",
+   "PACK",
+   "AHORRO",
+   "MANGO LOCO",
+   "JUICE",
+   "-500-",
+   "JUIC",
+   "MON",
+   "ENERT",
+   "J260761009",
+   "7.08€",
+   "1,77c",
+   "1.89c",
+   "3260781012",
+   "0B",
+   "TER",
+   "ZERO",
+   "TER",
+   "ZERO",
+   "ZERO",
+   "7.08-",
+   "ZERO"
+  ],
+  "crop_wh": [
+   724,
+   540
+  ],
+  "sharpness": 129.0,
+  "ocr_s": 0.51
+ },
+ "f012.jpg": {
+  "n_lines": 25,
+  "box": [
+   934,
+   700,
+   1648,
+   1228
+  ],
+  "level": "digits",
+  "lines": [
+   "32607B1009",
+   "3260781072"
+  ],
+  "all_lines": [
+   "MONSTER",
+   "1m1",
+   "ENERGY",
+   "ULTO",
+   "JUICED",
+   "ZÚCARAC",
+   "MONSTER",
+   "PACK",
+   "AHORRO",
+   "M",
+   "MANGOLOCO",
+   "4",
+   "500-",
+   "JUIC",
+   "电",
+   "MON",
+   "32607B1009",
+   "7,08e",
+   "1.77c 1.89c",
+   "3260781072",
+   "TER",
+   "ZERT",
+   "TER",
+   "ZER",
+   "ZERO"
+  ],
+  "crop_wh": [
+   714,
+   528
+  ],
+  "sharpness": 127.5,
+  "ocr_s": 0.49
+ },
+ "f018.jpg": {
+  "n_lines": 27,
+  "box": [
+   947,
+   697,
+   1658,
+   1221
+  ],
+  "level": "digits",
+  "lines": [
+   "J1607B1009",
+   "326078102号"
+  ],
+  "all_lines": [
+   "RD AZUCARD",
+   "MONSTER",
+   "ENERGY",
+   "ULTRA",
+   "JUICED",
+   "ZÚCARAC",
+   "MONSTER",
+   "PACK",
+   "",
+   "D",
+   "AHORRO",
+   "MANGO LOCO",
+   "-500",
+   "",
+   "JUIC",
+   "MON",
+   "J1607B1009",
+   "7,08€",
+   "1,77c1,89c",
+   "326078102号",
+   "TER",
+   "ZERO",
+   "TER",
+   "ZERC",
+   "ZERO",
+   "7,08c",
+   "ZERO"
+  ],
+  "crop_wh": [
+   711,
+   524
+  ],
+  "sharpness": 130.5,
+  "ocr_s": 0.49
+ },
+ "f024.jpg": {
+  "n_lines": 24,
+  "box": [
+   945,
+   664,
+   1669,
+   1197
+  ],
+  "level": "digits",
+  "lines": [
+   "1260761003",
+   "手280781012"
+  ],
+  "all_lines": [
+   "MONSTER",
+   "",
+   "ENEPR",
+   "JUICED",
+   "ZÚCARIAC",
+   "MONSTER",
+   "PACK",
+   "AHORRO",
+   "MANGOLOCO",
+   "JUIC",
+   "美",
+   "MON",
+   "1260761003",
+   "7,08c",
+   "手280781012",
+   "1.77c.1,89c",
+   "TER",
+   "ZERO",
+   "TER",
+   "ERO",
+   "20",
+   "ZERO",
+   "ZERO",
+   "ZERO"
+  ],
+  "crop_wh": [
+   724,
+   533
+  ],
+  "sharpness": 127.5,
+  "ocr_s": 0.48
+ },
+ "f030.jpg": {
+  "n_lines": 28,
+  "box": [
+   542,
+   616,
+   640,
+   712
+  ],
+  "level": "digits",
+  "lines": [
+   "0151211530"
+  ],
+  "all_lines": [
+   "JUICED",
+   "ZÚCARIAC",
+   "PACK",
+   "MONSTER",
+   "情",
+   "AHORRO",
+   "MANGO LOCO",
+   "-500-",
+   "0151211530",
+   "3160781009",
+   "JUK",
+   "MON",
+   "26781812",
+   "C",
+   "7,08c",
+   "1.77c 1,89s",
+   "O",
+   "TER",
+   "ZER",
+   "ZERO",
+   "TER",
+   "ZERO",
+   "ZERO",
+   "ZERD",
+   "ZERD",
+   "ZERO",
+   "ZERO",
+   "ZERO"
+  ],
+  "crop_wh": [
+   98,
+   96
+  ],
+  "sharpness": 120.6,
+  "ocr_s": 0.5
+ },
+ "f036.jpg": {
+  "n_lines": 26,
+  "box": [
+   1195,
+   450,
+   1728,
+   956
+  ],
+  "level": "digits",
+  "lines": [
+   "3260781009",
+   "1781019"
+  ],
+  "all_lines": [
+   "N",
+   "1m1",
+   "M",
+   "JUICED",
+   "ZÚCARIAC",
+   "MONSTER",
+   "PACK",
+   "AHORRO",
+   "3260781009",
+   "MANGO LOCO",
+   "500",
+   "1781019",
+   "JUK",
+   "MON",
+   "7,08c",
+   "1.77c:189c",
+   "YTER",
+   "ZERO",
+   "TER",
+   "ZERO",
+   "ZERO",
+   "ZERO",
+   "ZERO",
+   "ZERO",
+   "ZER",
+   "ZERO"
+  ],
+  "crop_wh": [
+   533,
+   506
+  ],
+  "sharpness": 116.9,
+  "ocr_s": 0.48
+ }
+}

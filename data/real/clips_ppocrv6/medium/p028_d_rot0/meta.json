@@ -1,0 +1,364 @@
+{
+ "f000.jpg": {
+  "n_lines": 28,
+  "box": [
+   575,
+   1164,
+   679,
+   1278
+  ],
+  "level": "digits",
+  "lines": [
+   "800 500 220"
+  ],
+  "all_lines": [
+   "CIAL",
+   "HACENDADO",
+   "KIR",
+   "GRANA",
+   "PADANO",
+   "HACENDADO",
+   "1,90c",
+   "GRANA",
+   "PADANO",
+   "HACENGADO",
+   "ELJOS",
+   "QVEL",
+   "Risd",
+   "200gf",
+   "200ge",
+   "800 500 220",
+   "4",
+   "ESPECIA",
+   "FUNDID",
+   "Gouds",
+   "1,75c",
+   "ICTAL",
+   "IDIR",
+   "Gouda",
+   "600g",
+   "Gouda",
+   "Couda",
+   "ouda"
+  ],
+  "crop_wh": [
+   104,
+   114
+  ],
+  "sharpness": 370.1,
+  "ocr_s": 1.71
+ },
+ "f006.jpg": {
+  "n_lines": 35,
+  "box": [
+   575,
+   697,
+   1097,
+   1187
+  ],
+  "level": "digits",
+  "lines": [
+   "65052-31423:077808.02.27",
+   "800 500 220",
+   "37792 Hmas (Castabala)",
+   "Fabelcadapri",
+   "CADONA"
+  ],
+  "all_lines": [
+   "RACENDADO",
+   "CIAL",
+   "AIR",
+   "GRANA",
+   "PADANO",
+   "HACENDADO",
+   "GRANA",
+   "PADANO",
+   "1.90",
+   "CESOS",
+   "QUES",
+   "QUEL",
+   "plera protatora",
+   "65052-31423:077808.02.27",
+   "QUESOS",
+   "QUEIJOS",
+   "200g",
+   "800 500 220",
+   "Fol ied Naos part 14",
+   "QUESERIA LAFUENTESA",
+   "Fabelcadapri",
+   "37792 Hmas (Castabala)",
+   "CADONA",
+   "s",
+   "Eoata Espanta",
+   "Ci",
+   "BACZNOADO",
+   "ESPECIA",
+   "FUNDIR",
+   "PIn",
+   "Gooda",
+   "Couda",
+   "Gouda",
+   "Couda",
+   "ouda"
+  ],
+  "crop_wh": [
+   522,
+   490
+  ],
+  "sharpness": 334.5,
+  "ocr_s": 1.83
+ },
+ "f012.jpg": {
+  "n_lines": 28,
+  "box": [
+   551,
+   709,
+   1013,
+   1188
+  ],
+  "level": "digits",
+  "lines": [
+   "65052-31423:0778080227",
+   "29792 Hipras (Castatina)",
+   "Fabnicado por"
+  ],
+  "all_lines": [
+   "2AL",
+   "MACENDADO",
+   "GRANA",
+   "PADANO",
+   "DADANO",
+   "HACENDADO",
+   "GRANA",
+   "PADANO",
+   "1,90c",
+   "CIESOS",
+   "QUES",
+   "65052-31423:0778080227",
+   "QUESOS",
+   "QUEIJOS",
+   "Fol lid Hesots pare. 104",
+   "QUESERIA LAFUDIE SAU",
+   "Fabnicado por",
+   "Espalasa",
+   "29792 Hipras (Castatina)",
+   "BACLADIDO",
+   "rDNC",
+   "1.75c",
+   "ESPECU",
+   "FUNDO",
+   "Couda",
+   "Gouda",
+   "Gouda",
+   "ouda"
+  ],
+  "crop_wh": [
+   462,
+   479
+  ],
+  "sharpness": 349.3,
+  "ocr_s": 1.69
+ },
+ "f018.jpg": {
+  "n_lines": 28,
+  "box": [
+   815,
+   934,
+   1010,
+   1124
+  ],
+  "level": "digits",
+  "lines": [
+   "800500220",
+   "39792 Heras (Cantabma)"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "GRANA",
+   "PADANO",
+   "PADANO",
+   "HACENDADO",
+   "GRANA",
+   "PADANO",
+   "190c",
+   "GUESO CURADO)",
+   "QUES",
+   "QUE",
+   "200ge",
+   "QUESOS",
+   "QUEIJOS",
+   "800500220",
+   "Fel. Ind Heras pare. 004",
+   "QUESERA LAFUNTEEAU",
+   "EspoialEapanta",
+   "39792 Heras (Cantabma)",
+   "RICFADADO",
+   "1.75c",
+   "ESPEÇI",
+   "FUNDIG",
+   "Goud",
+   "Gouda",
+   "Gouda",
+   "500g",
+   "ouda"
+  ],
+  "crop_wh": [
+   195,
+   190
+  ],
+  "sharpness": 350.9,
+  "ocr_s": 1.69
+ },
+ "f024.jpg": {
+  "n_lines": 29,
+  "box": [
+   800,
+   943,
+   1003,
+   1131
+  ],
+  "level": "digits",
+  "lines": [
+   "800500220",
+   "36792 Heras (Cantabri)",
+   "Expaha'Eapasha"
+  ],
+  "all_lines": [
+   "100",
+   "JLACENDADO",
+   "2AL",
+   "GRANA",
+   "PADANO",
+   "FLACENDADO",
+   "GRANA",
+   "PADANO",
+   "1.90",
+   "CIESOS",
+   "( QUESO CURADO)",
+   "QUES",
+   "QUE",
+   "QUESOS",
+   "QUEIJOS",
+   "800500220",
+   "Fol led Heras, paec 304",
+   "QUESERÍA LAFUNTE, SA",
+   "Expaha'Eapasha",
+   "36792 Heras (Cantabri)",
+   "BACENDUNO",
+   "1,75c",
+   "ESPEÇU",
+   "FUNDa",
+   "Coud",
+   "500",
+   "Gouda",
+   "Gouda",
+   "ouda"
+  ],
+  "crop_wh": [
+   203,
+   188
+  ],
+  "sharpness": 352.2,
+  "ocr_s": 1.68
+ },
+ "f030.jpg": {
+  "n_lines": 28,
+  "box": [
+   530,
+   695,
+   1002,
+   1176
+  ],
+  "level": "digits",
+  "lines": [
+   "65052-31423:07780802.27",
+   "36792 Neras (Cantabra)",
+   "Fabricado por"
+  ],
+  "all_lines": [
+   "HACEMADO",
+   "CIAL",
+   "AiR",
+   "GRANA",
+   "PADANO",
+   "HACENDADO",
+   "GRANA",
+   "PADANO",
+   "190",
+   "CESos",
+   "QUES",
+   "QLE",
+   "65052-31423:07780802.27",
+   "200ge",
+   "QUESOS",
+   "QUEIJOS",
+   "QUE SERA LAFUENTEA",
+   "Fabricado por",
+   "36792 Neras (Cantabra)",
+   "Fol lid Heas, parc. 204",
+   "Espalie Espanita",
+   "1.75c",
+   "ESPECI",
+   "FUND",
+   "Goud",
+   "Gouda",
+   "Couda",
+   "ouda"
+  ],
+  "crop_wh": [
+   472,
+   481
+  ],
+  "sharpness": 354.0,
+  "ocr_s": 1.69
+ },
+ "f036.jpg": {
+  "n_lines": 28,
+  "box": [
+   689,
+   763,
+   797,
+   864
+  ],
+  "level": "date",
+  "lines": [
+   "08.02.27"
+  ],
+  "all_lines": [
+   "RACENDADO",
+   "2AL",
+   "PADANO",
+   "GRANA",
+   "RACENDADO",
+   "GRANA",
+   "PADANO",
+   "1,90",
+   "CIESOS",
+   "QIE",
+   "08.02.27",
+   "65052-31423:077B",
+   "QUESOS",
+   "QUEIJOS",
+   "800500220",
+   "QUESERA LAFUENTE CA",
+   "EspolaEspasha",
+   "29 7V2 Henas (Canabra)",
+   "BACENDADO",
+   "1.75c",
+   "ESPECI",
+   "FUND",
+   "SIA",
+   "Gouda",
+   "Couda",
+   "Gouda",
+   "500",
+   "nuda"
+  ],
+  "crop_wh": [
+   108,
+   101
+  ],
+  "sharpness": 349.7,
+  "ocr_s": 1.69
+ }
+}

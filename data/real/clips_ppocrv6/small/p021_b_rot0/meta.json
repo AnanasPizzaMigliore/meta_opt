@@ -1,0 +1,230 @@
+{
+ "f000.jpg": {
+  "n_lines": 6,
+  "box": [
+   0,
+   553,
+   406,
+   1016
+  ],
+  "level": "digits",
+  "lines": [
+   "0.315kg",
+   "25.1126"
+  ],
+  "all_lines": [
+   "0.315kg",
+   "25.1126",
+   "TAQUITOS",
+   "POLLO",
+   "R22",
+   "D"
+  ],
+  "crop_wh": [
+   406,
+   463
+  ],
+  "sharpness": 6.9,
+  "ocr_s": 0.37
+ },
+ "f006.jpg": {
+  "n_lines": 10,
+  "box": [
+   966,
+   254,
+   1211,
+   725
+  ],
+  "level": "date",
+  "lines": [
+   "25.11.26 R22",
+   "FICHA CADUCIDAD"
+  ],
+  "all_lines": [
+   "0.315kg",
+   "PE SO NE IP",
+   "25.11.26 R22",
+   "7.50 €",
+   "FICHA CADUCIDAD",
+   "2,36€",
+   "PELCII",
+   "TAQUITOS DE",
+   "POLLO",
+   "731/564002363"
+  ],
+  "crop_wh": [
+   245,
+   471
+  ],
+  "sharpness": 20.4,
+  "ocr_s": 0.39
+ },
+ "f012.jpg": {
+  "n_lines": 11,
+  "box": [
+   930,
+   253,
+   1152,
+   712
+  ],
+  "level": "date",
+  "lines": [
+   "25.11.26 R22",
+   "FELHA CADUCIDAD"
+  ],
+  "all_lines": [
+   "0.315kg",
+   "PISO NEIP",
+   "25.11.26 R22",
+   "FELHA CADUCIDAD",
+   "2,36€",
+   "7.50 €",
+   "PPLCII",
+   "TAQUITOS DE",
+   "POLLO",
+   "OLLO",
+   "731/564002363"
+  ],
+  "crop_wh": [
+   222,
+   459
+  ],
+  "sharpness": 19.0,
+  "ocr_s": 0.4
+ },
+ "f018.jpg": {
+  "n_lines": 11,
+  "box": [
+   902,
+   221,
+   1122,
+   684
+  ],
+  "level": "date",
+  "lines": [
+   "25.11.26 R22",
+   "FELHA CADUCIDAD"
+  ],
+  "all_lines": [
+   "0.315kg",
+   "PI SO NE IP",
+   "25.11.26 R22",
+   "FELHA CADUCIDAD",
+   "7.50 €",
+   "PPLCII",
+   "TAQUITOS DE",
+   "2,36€",
+   "POLLO",
+   "POLLO",
+   "731/564002367"
+  ],
+  "crop_wh": [
+   220,
+   463
+  ],
+  "sharpness": 16.9,
+  "ocr_s": 0.4
+ },
+ "f024.jpg": {
+  "n_lines": 11,
+  "box": [
+   891,
+   161,
+   1136,
+   673
+  ],
+  "level": "date",
+  "lines": [
+   "25.11.26 R22",
+   "FILHA CADUCIDAD"
+  ],
+  "all_lines": [
+   "0.315kg",
+   "25.11.26 R22",
+   "FILHA CADUCIDAD",
+   "7.50 €",
+   "PALCII",
+   "TAQUITOS DE",
+   "2,36€",
+   "ASO NE IP",
+   "KI",
+   "POLLO",
+   "731/564002367"
+  ],
+  "crop_wh": [
+   245,
+   512
+  ],
+  "sharpness": 11.5,
+  "ocr_s": 0.38
+ },
+ "f030.jpg": {
+  "n_lines": 10,
+  "box": [
+   355,
+   36,
+   1267,
+   1163
+  ],
+  "level": "digits",
+  "lines": [
+   "0.315kg",
+   "25.1126 R22",
+   "231/564007363",
+   "FILHA CADUCIDAD"
+  ],
+  "all_lines": [
+   "0.315kg",
+   "25.1126 R22",
+   "FILHA CADUCIDAD",
+   "7.50 €",
+   "PISO NEIP",
+   "TAQUITOS DE",
+   "PPLCII",
+   "2,36€",
+   "POLLO",
+   "231/564007363"
+  ],
+  "crop_wh": [
+   912,
+   1127
+  ],
+  "sharpness": 9.4,
+  "ocr_s": 0.4
+ },
+ "f036.jpg": {
+  "n_lines": 11,
+  "box": [
+   349,
+   11,
+   1273,
+   1153
+  ],
+  "level": "digits",
+  "lines": [
+   "0.315kg",
+   "25.1126 R22",
+   "731/564007363",
+   "FILHA CADUCIDAD"
+  ],
+  "all_lines": [
+   "0.315kg",
+   "25.1126 R22",
+   "FILHA CADUCIDAD",
+   "TAQUITOS DE",
+   "7.50",
+   "PPLCII",
+   "PISO NEIP",
+   "2,36€",
+   "3",
+   "POLLO",
+   "731/564007363"
+  ],
+  "crop_wh": [
+   924,
+   1142
+  ],
+  "sharpness": 9.1,
+  "ocr_s": 0.39
+ }
+}

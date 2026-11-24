@@ -1,0 +1,72 @@
+{
+ "f000.jpg": {
+  "content": "The expiration date on the package reads ????-??-8.\n{\"year\": null, \"month\": null, \"day\": 8}",
+  "json": {
+   "year": null,
+   "month": null,
+   "day": 8
+  },
+  "latency_s": 0.12,
+  "gen_tokens": 32
+ },
+ "f006.jpg": {
+  "content": "The expiration date on the package reads ????-??-8.\n{\"year\": null, \"month\": null, \"day\": 8}",
+  "json": {
+   "year": null,
+   "month": null,
+   "day": 8
+  },
+  "latency_s": 0.12,
+  "gen_tokens": 32
+ },
+ "f012.jpg": {
+  "content": "The expiration date on the package reads ????-??-8.\n{\"year\": null, \"month\": null, \"day\": 8}",
+  "json": {
+   "year": null,
+   "month": null,
+   "day": 8
+  },
+  "latency_s": 0.12,
+  "gen_tokens": 32
+ },
+ "f018.jpg": {
+  "content": "The expiration date on the package reads 10-10.\n{\"year\": 10, \"month\": 10, \"day\": 10}",
+  "json": {
+   "year": 10,
+   "month": 10,
+   "day": 10
+  },
+  "latency_s": 0.13,
+  "gen_tokens": 37
+ },
+ "f024.jpg": {
+  "content": "The expiration date on the package reads 10-8-??.\n{\"year\": 10, \"month\": 8, \"day\": null}",
+  "json": {
+   "year": 10,
+   "month": 8,
+   "day": null
+  },
+  "latency_s": 0.12,
+  "gen_tokens": 35
+ },
+ "f030.jpg": {
+  "content": "The expiration date on the package reads 10-10.\n{\"year\": 10, \"month\": 10, \"day\": 10}",
+  "json": {
+   "year": 10,
+   "month": 10,
+   "day": 10
+  },
+  "latency_s": 0.13,
+  "gen_tokens": 37
+ },
+ "f036.jpg": {
+  "content": "The expiration date on the package reads ????-??-8.\n{\"year\": null, \"month\": null, \"day\": 8}",
+  "json": {
+   "year": null,
+   "month": null,
+   "day": 8
+  },
+  "latency_s": 0.12,
+  "gen_tokens": 32
+ }
+}

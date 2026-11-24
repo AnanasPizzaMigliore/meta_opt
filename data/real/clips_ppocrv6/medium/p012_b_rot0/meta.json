@@ -1,0 +1,370 @@
+{
+ "f000.jpg": {
+  "n_lines": 31,
+  "box": [
+   213,
+   0,
+   1728,
+   1415
+  ],
+  "level": "digits",
+  "lines": [
+   "080751-213130",
+   "3160761009",
+   "3160781012",
+   "ROAZUCADIN"
+  ],
+  "all_lines": [
+   "ROAZUCADIN",
+   "ANSA",
+   "AB",
+   "MONSTER",
+   "ENERGY",
+   "ULTRA VICE",
+   "JUICED",
+   "DAZÚCARIAC",
+   "MONSTER",
+   "PACK",
+   "AHORRO",
+   "CHtROy-JuIpe",
+   "MANGO LOCO",
+   "4",
+   "-500-",
+   "080751-213130",
+   "JUK",
+   "MON",
+   "3160761009",
+   "7,08€",
+   "1.77e 189c",
+   "3160781012",
+   "ZER",
+   "TER",
+   "ZERO",
+   "TER",
+   "ZERO",
+   "ZERO",
+   "7.08",
+   "ZERO",
+   "NEFARA"
+  ],
+  "crop_wh": [
+   1515,
+   1415
+  ],
+  "sharpness": 129.8,
+  "ocr_s": 1.86
+ },
+ "f006.jpg": {
+  "n_lines": 30,
+  "box": [
+   930,
+   669,
+   1687,
+   1241
+  ],
+  "level": "digits",
+  "lines": [
+   "3260761009",
+   "J26078101202"
+  ],
+  "all_lines": [
+   "RO AZUCARN",
+   "KAU",
+   "SNITTRA",
+   "MONSTER",
+   "ENERGY",
+   "ULTRA VIP",
+   "JUICED",
+   "AZÚCARIAQ",
+   "MONSTER",
+   "PACK",
+   "AHORRO",
+   "MANGO LOCO",
+   "-500",
+   "JUIC",
+   "MON",
+   "3260761009",
+   "ENZR",
+   "7,08€",
+   "1,77€",
+   "1,89€",
+   "J26078101202",
+   "ZER",
+   "TER",
+   "ZERO",
+   "TER",
+   "ZERO",
+   "ZERO",
+   "7,08",
+   "ZERO",
+   "BFANRA"
+  ],
+  "crop_wh": [
+   757,
+   572
+  ],
+  "sharpness": 129.0,
+  "ocr_s": 1.82
+ },
+ "f012.jpg": {
+  "n_lines": 25,
+  "box": [
+   923,
+   682,
+   1670,
+   1245
+  ],
+  "level": "digits",
+  "lines": [
+   "326071009",
+   "3260781012"
+  ],
+  "all_lines": [
+   "RO AZUCAGIL",
+   "MONSTER",
+   "ENERGY",
+   "ULTP",
+   "JUICED",
+   "DAZÚCARAC",
+   "MONSTER",
+   "PACK",
+   "AHORRO",
+   "CAERDY- JUICE",
+   "MANGD LOCO",
+   "500",
+   "4",
+   "JUIC",
+   "MON",
+   "326071009",
+   "E",
+   "7,08€",
+   "1.77c 1.89c",
+   "3260781012",
+   "TER",
+   "ZERC",
+   "TER",
+   "ZER",
+   "ZERO"
+  ],
+  "crop_wh": [
+   747,
+   563
+  ],
+  "sharpness": 127.5,
+  "ocr_s": 1.74
+ },
+ "f018.jpg": {
+  "n_lines": 30,
+  "box": [
+   947,
+   680,
+   1672,
+   1225
+  ],
+  "level": "digits",
+  "lines": [
+   "3260761009",
+   "3260782012"
+  ],
+  "all_lines": [
+   "RD AZUCARI",
+   "MONSTER",
+   "ENERG",
+   "ULTRA",
+   "JUICED",
+   "AZÚCARAÇ",
+   "MONSTER",
+   "PACK",
+   "",
+   "1R+LSBAR",
+   "AHORRO",
+   "EEE",
+   "MANGO LOCO",
+   "500",
+   "JUIC",
+   "MON",
+   "3260761009",
+   "ENERGY",
+   "7,08€",
+   "1,77c 1,89c",
+   "3260782012",
+   "5",
+   "TER",
+   "ZERO",
+   "TER",
+   "ZERO",
+   "ZERO",
+   "7,08",
+   "ZERO",
+   "NLFAR"
+  ],
+  "crop_wh": [
+   725,
+   545
+  ],
+  "sharpness": 130.5,
+  "ocr_s": 1.81
+ },
+ "f024.jpg": {
+  "n_lines": 29,
+  "box": [
+   942,
+   645,
+   1688,
+   1205
+  ],
+  "level": "digits",
+  "lines": [
+   "3260761009",
+   "3260761012"
+  ],
+  "all_lines": [
+   "RO AZUCARIL",
+   "JXS3NA",
+   "MONSTER",
+   "ENEPO",
+   "JUICED",
+   "DAZÚCARIAC",
+   "MONSTER",
+   "PACK",
+   "AHORRO",
+   "MANGOLOCO",
+   "4",
+   "=500",
+   "JUIC",
+   "MONS",
+   "3260761009",
+   "KNERGY",
+   "3260761012",
+   "7,08€",
+   "1.77e 1,89c",
+   "0",
+   "TER",
+   "ZERO",
+   "TER",
+   "RO",
+   "ZERO",
+   "ZERO",
+   "7,08",
+   "ZERO",
+   "TRARY"
+  ],
+  "crop_wh": [
+   746,
+   560
+  ],
+  "sharpness": 127.5,
+  "ocr_s": 1.77
+ },
+ "f030.jpg": {
+  "n_lines": 33,
+  "box": [
+   1151,
+   758,
+   1461,
+   896
+  ],
+  "level": "date",
+  "lines": [
+   "10.2028"
+  ],
+  "all_lines": [
+   "AD AZUCARI",
+   "I'MONETER",
+   "JUICED",
+   "ROAZÚCARIAC",
+   "PACK",
+   "OR+LY",
+   "MONSTER",
+   "AHORRO",
+   "MANGO LOCO",
+   "4",
+   "-500-",
+   "3160761009",
+   "JUK",
+   "MON",
+   "10.2028",
+   "LNEAG",
+   "607B1012",
+   "7,08€",
+   "1,77c 1,89€",
+   "5",
+   "ZER",
+   "ZERO",
+   "TER",
+   "TER",
+   "ZER",
+   "ZERO",
+   "ZERO",
+   "ZERO",
+   "ZERD",
+   "ZERO",
+   "ZERO",
+   "ZERO",
+   "ZERO"
+  ],
+  "crop_wh": [
+   310,
+   138
+  ],
+  "sharpness": 120.6,
+  "ocr_s": 1.84
+ },
+ "f036.jpg": {
+  "n_lines": 36,
+  "box": [
+   1334,
+   690,
+   1661,
+   828
+  ],
+  "level": "date",
+  "lines": [
+   "0.2028"
+  ],
+  "all_lines": [
+   "NO AZUCARL",
+   "TAUMING",
+   "SCNI",
+   "M",
+   "JUICED",
+   "DAZÚCARIAC",
+   "MONSTER",
+   "PACK",
+   "AHORRO",
+   "3260781009",
+   "ESLIOY I JUDE",
+   "MANGO LOCO",
+   "4",
+   "500",
+   "40731-21313",
+   "0.2028",
+   "JUK",
+   "7B1012",
+   "MON",
+   "ENERGY",
+   "7,08c",
+   "177€:189c",
+   "ZERD",
+   "TER",
+   "ZERO",
+   "TER",
+   "ZERO",
+   "ZER",
+   "ZERO",
+   "ZERO",
+   "ZERO",
+   "ZERO",
+   "ZER",
+   "ZERO",
+   "ZERO",
+   "NERAVRU"
+  ],
+  "crop_wh": [
+   327,
+   138
+  ],
+  "sharpness": 116.9,
+  "ocr_s": 1.88
+ }
+}

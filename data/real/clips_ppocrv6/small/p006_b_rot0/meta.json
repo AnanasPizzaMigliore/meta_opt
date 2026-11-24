@@ -1,0 +1,323 @@
+{
+ "f000.jpg": {
+  "n_lines": 25,
+  "box": [
+   918,
+   1107,
+   1253,
+   1441
+  ],
+  "level": "date",
+  "lines": [
+   "23/01/27"
+  ],
+  "all_lines": [
+   "CENDADO",
+   "SALGADITAS",
+   "HACENDADO",
+   "184 02001 02272 9",
+   "184 02001 0227",
+   "1,20c",
+   "Imelo",
+   "amelo",
+   "120g",
+   "AURS",
+   "Burritos",
+   "SAZONADOR TEMPERO",
+   "SAZ",
+   "SABOR",
+   "tex",
+   "mex",
+   "aramelo",
+   "HACENDADO",
+   "HACENDADO",
+   "1,15€",
+   "SAZON",
+   "1",
+   "LOU01983192A0",
+   "23/01/27",
+   "14:43"
+  ],
+  "crop_wh": [
+   335,
+   334
+  ],
+  "sharpness": 105.4,
+  "ocr_s": 0.51
+ },
+ "f006.jpg": {
+  "n_lines": 27,
+  "box": [
+   908,
+   1118,
+   1257,
+   1465
+  ],
+  "level": "date",
+  "lines": [
+   "23/01/27"
+  ],
+  "all_lines": [
+   "S",
+   "ALADITAS",
+   "ACENDADO",
+   "ALGADITAS",
+   "HACENDADO",
+   "184 02001 02272 9",
+   "1 84 02001 0227",
+   "1,20c",
+   "imelo",
+   "amelo",
+   "120g",
+   "10x",
+   "ARK",
+   "Burritos",
+   "SAZONADOR TEMPERO",
+   "SA7",
+   "SABOR",
+   "tex",
+   "mex",
+   "aramelo",
+   "HACENDADO",
+   "HACENDADO",
+   "1,15e",
+   "FLRS",
+   "23/01/27",
+   "1480",
+   "14:43"
+  ],
+  "crop_wh": [
+   349,
+   347
+  ],
+  "sharpness": 110.9,
+  "ocr_s": 0.51
+ },
+ "f012.jpg": {
+  "n_lines": 25,
+  "box": [
+   895,
+   1118,
+   1244,
+   1464
+  ],
+  "level": "date",
+  "lines": [
+   "23/01/27"
+  ],
+  "all_lines": [
+   "NDADO",
+   "SALGADITAS",
+   "HACENDADO",
+   "184 02001 02272 9",
+   "1 84 02001 02277",
+   "1,20c",
+   "Imelo",
+   "120g",
+   "smelo",
+   "AGR",
+   "Burritos",
+   "SAZONADOR-TEMPERO",
+   "SAZ",
+   "SABOR",
+   "tex",
+   "mex",
+   "ramelo",
+   "HACENDADO",
+   "HACENDADO",
+   "dek/Lote",
+   "1,15€",
+   "SAZONA",
+   "10",
+   "23/01/27",
+   "14:43"
+  ],
+  "crop_wh": [
+   349,
+   346
+  ],
+  "sharpness": 99.7,
+  "ocr_s": 0.51
+ },
+ "f018.jpg": {
+  "n_lines": 24,
+  "box": [
+   908,
+   1160,
+   1260,
+   1514
+  ],
+  "level": "date",
+  "lines": [
+   "23/01/27"
+  ],
+  "all_lines": [
+   "ALADIIAS",
+   "ENDADO",
+   "HACENDADO",
+   "184 02001 02272 9",
+   "184 02001 022729",
+   "1,20€",
+   "Imelo",
+   "smelo",
+   "120g",
+   "PIEWTON",
+   "A",
+   "Burritos",
+   "SAZONADOR TEMPERO",
+   "SAZON",
+   "SABOR",
+   "tex",
+   "mex",
+   "ramelo",
+   "HACENDADO",
+   "IACENDADO",
+   "1,15€",
+   "10",
+   "23/01/27",
+   "1480"
+  ],
+  "crop_wh": [
+   352,
+   354
+  ],
+  "sharpness": 115.2,
+  "ocr_s": 0.49
+ },
+ "f024.jpg": {
+  "n_lines": 24,
+  "box": [
+   921,
+   1167,
+   1268,
+   1516
+  ],
+  "level": "date",
+  "lines": [
+   "23/01/27"
+  ],
+  "all_lines": [
+   "NDADO",
+   "HACENDADO",
+   "18402001 02272 9",
+   "184 02001 02272",
+   "20",
+   "J",
+   "imelo",
+   "smelo",
+   "120g",
+   "ARS",
+   "Burritos",
+   "SAZONADOR TEMPERO",
+   "SAZON",
+   "tex",
+   "mex",
+   "ramelo",
+   "HACENDADO",
+   "HACENDADO",
+   "1,15€",
+   "SAZONAD",
+   "8",
+   "23/01/27",
+   "8",
+   "MD"
+  ],
+  "crop_wh": [
+   347,
+   349
+  ],
+  "sharpness": 109.5,
+  "ocr_s": 0.5
+ },
+ "f030.jpg": {
+  "n_lines": 23,
+  "box": [
+   140,
+   0,
+   375,
+   92
+  ],
+  "level": "digits",
+  "lines": [
+   "184 02001 02272 9"
+  ],
+  "all_lines": [
+   "NDADO",
+   "SALGADITAS",
+   "HACENDADO",
+   "184 02001 02272 9",
+   "184 02001 02272",
+   "1,20c",
+   "LND",
+   "imelo",
+   "amelo",
+   "120g",
+   "Burritos",
+   "SAZONADOR TEMPERO",
+   "F",
+   "SAZON",
+   "SABOR",
+   "tex",
+   "mex",
+   "ramelo",
+   "HACENDADO",
+   "HACENDADO",
+   "1,15e",
+   "ORUO",
+   "AGEM:"
+  ],
+  "crop_wh": [
+   235,
+   92
+  ],
+  "sharpness": 103.1,
+  "ocr_s": 0.49
+ },
+ "f036.jpg": {
+  "n_lines": 26,
+  "box": [
+   926,
+   1138,
+   1290,
+   1500
+  ],
+  "level": "date",
+  "lines": [
+   "23/01/27"
+  ],
+  "all_lines": [
+   "NDADO",
+   "1088",
+   "SALGADITAS",
+   "HACENDADO",
+   "104 02601 02272 9",
+   "1 04 02001 022729",
+   "1,20",
+   "120",
+   "Imelo",
+   "smelo",
+   "PE",
+   "AUID",
+   "Burritos",
+   "SAZONADOR TEMPERO",
+   "SAZON",
+   "SABOR",
+   "tex",
+   "mex",
+   "ramelo",
+   "HACENDADO",
+   "HACENDADO",
+   "1,15e",
+   "FEB",
+   "23/01/27",
+   "3",
+   "Fra"
+  ],
+  "crop_wh": [
+   364,
+   362
+  ],
+  "sharpness": 101.6,
+  "ocr_s": 0.51
+ }
+}

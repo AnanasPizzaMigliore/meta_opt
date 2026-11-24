@@ -1,0 +1,232 @@
+{
+ "f000.jpg": {
+  "n_lines": 17,
+  "box": [
+   0,
+   430,
+   804,
+   1431
+  ],
+  "level": "digits",
+  "lines": [
+   "0,388kg",
+   "01.1226 R25",
+   "L: 363239",
+   "2321235003344"
+  ],
+  "all_lines": [
+   "8.60",
+   "0,388kg",
+   "PESO NETO/LIQUIDO",
+   "01.1226 R25",
+   "o",
+   "/PRECO",
+   "LAGRIMITASI",
+   "OLO",
+   "DELICÍAS",
+   "L: 363239",
+   "00",
+   "E5",
+   "2321235003344",
+   "SALLIMÓN",
+   "LIMÃO",
+   "新墙",
+   "S"
+  ],
+  "crop_wh": [
+   804,
+   1001
+  ],
+  "sharpness": 32.5,
+  "ocr_s": 0.23
+ },
+ "f006.jpg": {
+  "n_lines": 22,
+  "box": [
+   1017,
+   297,
+   1299,
+   848
+  ],
+  "level": "date",
+  "lines": [
+   "01.12.26 R25.",
+   "FECHA CROUCIDAD/CONSUM"
+  ],
+  "all_lines": [
+   "GUANCIALE",
+   "TACO",
+   "w",
+   "8,60",
+   "PRECIO/PRECO KILO",
+   "0,388kg",
+   "PESO NETO/LIQUIDO",
+   "01.12.26 R25.",
+   "FECHA CROUCIDAD/CONSUM",
+   ",34€",
+   "o",
+   "LAGRIMITAS",
+   "DELICÍAS",
+   "8",
+   "BAR",
+   "L:363239",
+   "2321235003344",
+   "D",
+   "X",
+   "SALLIMÓN",
+   "LIMÃO",
+   "口"
+  ],
+  "crop_wh": [
+   282,
+   551
+  ],
+  "sharpness": 39.4,
+  "ocr_s": 0.24
+ },
+ "f012.jpg": {
+  "n_lines": 21,
+  "box": [
+   984,
+   253,
+   1253,
+   893
+  ],
+  "level": "date",
+  "lines": [
+   "01.12.26 R25",
+   "FECHA CADUCIORD/CONSUMIR ATE"
+  ],
+  "all_lines": [
+   "CUANCIALE",
+   "TACO",
+   "w",
+   "8,60",
+   "PRECIO/PRECO KILO",
+   "0,388kg",
+   "PESO NETO/LIQUTDO",
+   "01.12.26 R25",
+   "FECHA CADUCIORD/CONSUMIR ATE",
+   ",34€",
+   "o",
+   "LAGRIMITAS",
+   "DELICÍAS",
+   "L:363239",
+   "2321235003344",
+   "",
+   "O",
+   "N",
+   "SALLIMÓN",
+   "LIMÃO",
+   "众口"
+  ],
+  "crop_wh": [
+   269,
+   640
+  ],
+  "sharpness": 36.0,
+  "ocr_s": 0.25
+ },
+ "f018.jpg": {
+  "n_lines": 21,
+  "box": [
+   954,
+   162,
+   1232,
+   736
+  ],
+  "level": "date",
+  "lines": [
+   "01.12.26 R25",
+   "FECHR CRDUCIDAO/CONSUM"
+  ],
+  "all_lines": [
+   "w",
+   "8.60",
+   "PRECIO/PREÇO KILO",
+   "0,388kg",
+   "GUANCIALI",
+   "PESO NE TO/LIQUIDO",
+   "01.12.26 R25",
+   "FECHR CRDUCIDAO/CONSUM",
+   "TACO",
+   "34€",
+   "o",
+   "LAGRIMITAS",
+   "DELICÍAS",
+   "L:363239",
+   "2321235003344",
+   "",
+   "ATE",
+   "宝",
+   "SAL LIMÓN",
+   "LIMÃO",
+   "金墙"
+  ],
+  "crop_wh": [
+   278,
+   574
+  ],
+  "sharpness": 26.2,
+  "ocr_s": 0.23
+ },
+ "f024.jpg": {
+  "n_lines": 2,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "路",
+   "a"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 8.8,
+  "ocr_s": 0.2
+ },
+ "f030.jpg": {
+  "n_lines": 0,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 7.8,
+  "ocr_s": 0.19
+ },
+ "f036.jpg": {
+  "n_lines": 1,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "N"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 6.1,
+  "ocr_s": 0.21
+ }
+}

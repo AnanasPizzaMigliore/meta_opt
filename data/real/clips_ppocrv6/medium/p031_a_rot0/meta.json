@@ -1,0 +1,261 @@
+{
+ "f000.jpg": {
+  "n_lines": 14,
+  "box": [
+   534,
+   1041,
+   880,
+   1371
+  ],
+  "level": "digits",
+  "lines": [
+   "221126",
+   "L320070-382100",
+   "R20M11"
+  ],
+  "all_lines": [
+   "GAS",
+   "AS",
+   "ACELGAS",
+   "TIERIT",
+   "TERNA",
+   "YADA",
+   "ICEBERG",
+   "LAVADA",
+   "221126",
+   "L320070-382100",
+   "R20M11",
+   "Origen/Origem:",
+   "España/Espanha",
+   "boc"
+  ],
+  "crop_wh": [
+   346,
+   330
+  ],
+  "sharpness": 306.8,
+  "ocr_s": 1.38
+ },
+ "f006.jpg": {
+  "n_lines": 17,
+  "box": [
+   860,
+   819,
+   1197,
+   1124
+  ],
+  "level": "digits",
+  "lines": [
+   "221126",
+   "L320070-382100",
+   "R20M11"
+  ],
+  "all_lines": [
+   "ACENDAO",
+   "GAS",
+   "AS",
+   "AYDADO",
+   "ICEBERG",
+   "LAVADA",
+   "ACENDADO",
+   "fresh",
+   "EBERG",
+   "AVAUA",
+   "221126",
+   "L320070-382100",
+   "R20M11",
+   "Origen/Origem:",
+   "Espana/Espanha",
+   "231126",
+   "R21M11"
+  ],
+  "crop_wh": [
+   337,
+   305
+  ],
+  "sharpness": 249.5,
+  "ocr_s": 1.55
+ },
+ "f012.jpg": {
+  "n_lines": 17,
+  "box": [
+   799,
+   823,
+   1143,
+   1140
+  ],
+  "level": "digits",
+  "lines": [
+   "221126",
+   "L320070-382100",
+   "R20M11"
+  ],
+  "all_lines": [
+   "E",
+   "NACENDAD",
+   "GAS",
+   "MS",
+   "AYD",
+   "ICEBERG",
+   "LAVADA",
+   "ERG",
+   "221126",
+   "UA",
+   "L320070-382100",
+   "R20M11",
+   "Origen/Origem:",
+   "España/Espanha",
+   "1126",
+   "21M11",
+   "0.85c"
+  ],
+  "crop_wh": [
+   344,
+   317
+  ],
+  "sharpness": 295.7,
+  "ocr_s": 1.48
+ },
+ "f018.jpg": {
+  "n_lines": 16,
+  "box": [
+   789,
+   858,
+   1130,
+   1176
+  ],
+  "level": "digits",
+  "lines": [
+   "221126",
+   "L320070-382100",
+   "R20M11"
+  ],
+  "all_lines": [
+   "WH",
+   "RACENDAC",
+   "GAS",
+   "AS",
+   "ICEBERG",
+   "LAVADA",
+   "eab",
+   "RG",
+   "221126",
+   "A",
+   "L320070-382100",
+   "R20M11",
+   "Origen/Origem:",
+   "España/Espanha",
+   "126",
+   "0.85c"
+  ],
+  "crop_wh": [
+   341,
+   318
+  ],
+  "sharpness": 305.5,
+  "ocr_s": 1.49
+ },
+ "f024.jpg": {
+  "n_lines": 13,
+  "box": [
+   789,
+   857,
+   1135,
+   1179
+  ],
+  "level": "digits",
+  "lines": [
+   "221126",
+   "L320070-382100",
+   "R20M11"
+  ],
+  "all_lines": [
+   "SACENDAS",
+   "GAS",
+   "ICEBERG",
+   "LAVADA",
+   "RG",
+   "221126",
+   "L320070-382100",
+   "R20M11",
+   "Origen/Origem:",
+   "España/Espanha",
+   "126",
+   "M17",
+   "0.85c"
+  ],
+  "crop_wh": [
+   346,
+   322
+  ],
+  "sharpness": 300.8,
+  "ocr_s": 1.46
+ },
+ "f030.jpg": {
+  "n_lines": 11,
+  "box": [
+   762,
+   844,
+   1112,
+   1174
+  ],
+  "level": "digits",
+  "lines": [
+   "221126",
+   "L320070-382100",
+   "R20M11"
+  ],
+  "all_lines": [
+   "GAS",
+   "AYDADO",
+   "ICEBERG",
+   "LAVADA",
+   "221126",
+   "L320070-382100",
+   "R20M11",
+   "Origen/Origem:",
+   "España/Espanha",
+   "26",
+   "0.85€"
+  ],
+  "crop_wh": [
+   350,
+   330
+  ],
+  "sharpness": 296.8,
+  "ocr_s": 1.39
+ },
+ "f036.jpg": {
+  "n_lines": 10,
+  "box": [
+   751,
+   851,
+   1103,
+   1181
+  ],
+  "level": "digits",
+  "lines": [
+   "221126",
+   "L320070-382100",
+   "R20M11"
+  ],
+  "all_lines": [
+   "GAS",
+   "AYDDO",
+   "ICEBERG",
+   "LAVADA",
+   "221126",
+   "L320070-382100",
+   "R20M11",
+   "Origen/Origem:",
+   "España/Espanha",
+   "0.85c"
+  ],
+  "crop_wh": [
+   352,
+   330
+  ],
+  "sharpness": 296.3,
+  "ocr_s": 1.39
+ }
+}

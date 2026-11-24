@@ -1,0 +1,316 @@
+{
+ "f000.jpg": {
+  "n_lines": 22,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "LrL",
+   "Lemerial",
+   "lune",
+   "Mazapán de Soto",
+   "275e",
+   "BCEDO",
+   "3,35€",
+   "2,30€",
+   "'esecake",
+   "liellana",
+   "cahe",
+   "ahe",
+   "198sZ",
+   "Chcesccahe",
+   "LAS",
+   "1",
+   "Checsccale",
+   "200",
+   "Peso200g",
+   "270c",
+   "utndab",
+   "lento"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 281.4,
+  "ocr_s": 0.24
+ },
+ "f006.jpg": {
+  "n_lines": 26,
+  "box": [
+   264,
+   804,
+   390,
+   900
+  ],
+  "level": "digits",
+  "lines": [
+   "10500"
+  ],
+  "all_lines": [
+   "ICENADO",
+   "Tarlo",
+   "lpnerial",
+   "deso",
+   "CILUELN",
+   "Mazapán de Soto",
+   "298",
+   "HACENDADO",
+   "275c",
+   "3,35€",
+   "2,30€",
+   "Rcake",
+   "Aellana",
+   "10500",
+   "CLnmRu",
+   "eake",
+   "Irellana",
+   "7",
+   "LZ03/90",
+   "1989Z",
+   "Checsccake",
+   "N",
+   "Checsccake",
+   "200",
+   "Peso 200g",
+   "270c"
+  ],
+  "crop_wh": [
+   126,
+   96
+  ],
+  "sharpness": 338.8,
+  "ocr_s": 0.25
+ },
+ "f012.jpg": {
+  "n_lines": 25,
+  "box": [
+   934,
+   977,
+   1072,
+   1130
+  ],
+  "level": "digits",
+  "lines": [
+   "1989Z"
+  ],
+  "all_lines": [
+   "lorta",
+   "Lapan",
+   "de soto",
+   "k Tum",
+   "20",
+   "Mazapán de Soto",
+   "HACENDADO",
+   "235",
+   "275e",
+   "3,35€",
+   "4wdh5",
+   "2,30€",
+   "ake",
+   "e U50e",
+   "mlnqcn",
+   "ake",
+   "1orllana",
+   "1989Z",
+   "Checsccake",
+   "18",
+   "Checsccake",
+   "20",
+   "tiu",
+   "270d",
+   "totam"
+  ],
+  "crop_wh": [
+   138,
+   153
+  ],
+  "sharpness": 330.1,
+  "ocr_s": 0.24
+ },
+ "f018.jpg": {
+  "n_lines": 26,
+  "box": [
+   939,
+   961,
+   1077,
+   1116
+  ],
+  "level": "digits",
+  "lines": [
+   "1989Z"
+  ],
+  "all_lines": [
+   "lorla",
+   "de sot",
+   "Mazapán de Soto",
+   "RACENDDO",
+   "235.",
+   "275c",
+   "3,35€",
+   "2,30€",
+   "ake",
+   "en50e",
+   "",
+   "itnnns",
+   "Aucllana",
+   "balke",
+   "lheli",
+   "1",
+   "Airlkaa",
+   "1989Z",
+   "lirle",
+   "Cheesccake",
+   "LSsd",
+   "Peso 200g",
+   "Cheesccake",
+   "20a",
+   "tiu)",
+   "2,70c"
+  ],
+  "crop_wh": [
+   138,
+   155
+  ],
+  "sharpness": 335.0,
+  "ocr_s": 0.26
+ },
+ "f024.jpg": {
+  "n_lines": 20,
+  "box": [
+   995,
+   640,
+   1153,
+   758
+  ],
+  "level": "digits",
+  "lines": [
+   "3,356"
+  ],
+  "all_lines": [
+   "Torta",
+   "Leorrial",
+   "Mazapán de Soto",
+   "LACENDDO",
+   "275c",
+   "3,356",
+   "2,30€",
+   "ke",
+   " u50s",
+   "1",
+   "fuEqu",
+   "Aiellana",
+   "ahe",
+   "L803/90",
+   "Checsecahe",
+   "IAS",
+   "Phecsccale",
+   "200:",
+   "270cd",
+   "HmendLs"
+  ],
+  "crop_wh": [
+   158,
+   118
+  ],
+  "sharpness": 333.6,
+  "ocr_s": 0.24
+ },
+ "f030.jpg": {
+  "n_lines": 20,
+  "box": [
+   952,
+   945,
+   1092,
+   1106
+  ],
+  "level": "digits",
+  "lines": [
+   "1989Z"
+  ],
+  "all_lines": [
+   "GS",
+   "Mazapán de Soto",
+   "HACENIADO",
+   "295",
+   "275c",
+   "3,35c",
+   "2,30€",
+   "EEee",
+   "ke",
+   "TmiU",
+   "hellana",
+   "alic",
+   "7",
+   "1989Z",
+   "lellauna",
+   "Chccsccahe",
+   "Pesa 200g",
+   "hcesecake",
+   "200",
+   "270cl"
+  ],
+  "crop_wh": [
+   140,
+   161
+  ],
+  "sharpness": 336.5,
+  "ocr_s": 0.25
+ },
+ "f036.jpg": {
+  "n_lines": 30,
+  "box": [
+   943,
+   963,
+   1086,
+   1126
+  ],
+  "level": "digits",
+  "lines": [
+   "1989Z"
+  ],
+  "all_lines": [
+   "lorla",
+   "de soo",
+   "an",
+   "Tun",
+   "",
+   "JTEH",
+   "CLTEN",
+   "Mazapán de Soto",
+   "HACENDADO",
+   "2.75c",
+   "3,35c",
+   "16",
+   "2,30€",
+   "ke",
+   "imien",
+   "tetioe",
+   "pale",
+   "FIGURI",
+   "",
+   "LZ0/S0",
+   "1",
+   "1989Z",
+   "tlaa",
+   "Chccsccahe",
+   "ao",
+   "18s",
+   "hecsccake",
+   "200",
+   "270%",
+   "neudeas"
+  ],
+  "crop_wh": [
+   143,
+   163
+  ],
+  "sharpness": 331.0,
+  "ocr_s": 0.24
+ }
+}

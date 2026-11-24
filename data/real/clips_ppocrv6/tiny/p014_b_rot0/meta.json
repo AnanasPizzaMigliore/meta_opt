@@ -1,0 +1,311 @@
+{
+ "f000.jpg": {
+  "n_lines": 26,
+  "box": [
+   926,
+   584,
+   1728,
+   1484
+  ],
+  "level": "date",
+  "lines": [
+   "02/05/27",
+   "03/11/26",
+   "46469 Beniparel (Valencio) Espala/ES",
+   "Fabricado en/Produzido em RGSEAA 20",
+   "FECHA DE ENVASADO"
+  ],
+  "all_lines": [
+   "Carbono",
+   "de los cuales/dos qua",
+   "Azúcares/",
+   "Açúcares",
+   "Fibra alimentaria/",
+   "Fibra",
+   "Proteinas",
+   "9.8",
+   "Sal",
+   "1.9",
+   "Contiene 3 unidades de 90 g/",
+   "Contem 3 unidades de 90 g",
+   "MPORTACO CASA PONS SAU",
+   "Poligono lNorte, C/ Bamanca, 20",
+   "46469 Beniparel (Valencio) Espala/ES",
+   "Fabricado en/Produzido em RGSEAA 20",
+   "387E",
+   "02/05/27",
+   "L0001979056C0",
+   "FECHA DE ENVASADO",
+   "DATADE EMBALAGEM:",
+   "03/11/26",
+   "ORIGEN:/ORIGEM:",
+   "08:58",
+   "C",
+   "ESPANAESPANHA"
+  ],
+  "crop_wh": [
+   802,
+   900
+  ],
+  "sharpness": 40.3,
+  "ocr_s": 0.27
+ },
+ "f006.jpg": {
+  "n_lines": 19,
+  "box": [
+   596,
+   261,
+   1717,
+   1235
+  ],
+  "level": "date",
+  "lines": [
+   "02/05/27",
+   "03/11/26",
+   "69 Bemipamel (Valenca) Espata/Espanha",
+   "cado en/Produzido m RCSEAA 20.42552/y",
+   "FECHA DE ENVASADO"
+  ],
+  "all_lines": [
+   "Proteinas",
+   "9,89",
+   "1",
+   "1.79",
+   "3n",
+   "desde 90g",
+   "MPORTACO CASA PONS,SAU",
+   "qno liorte, Cu Banancs, 20",
+   "69 Bemipamel (Valenca) Espata/Espanha",
+   "cado en/Produzido m RCSEAA 20.42552/y",
+   "rars",
+   "02/05/27",
+   "LO00197 9058C0",
+   "FECHA DE ENVASADO",
+   "DATA DE EMBALAGEM:",
+   "03/11/26",
+   "08:58",
+   "ORIGEN/ORIGEM:",
+   "ESPARANESPANHA"
+  ],
+  "crop_wh": [
+   1121,
+   974
+  ],
+  "sharpness": 21.1,
+  "ocr_s": 0.26
+ },
+ "f012.jpg": {
+  "n_lines": 22,
+  "box": [
+   653,
+   274,
+   1728,
+   1179
+  ],
+  "level": "date",
+  "lines": [
+   "02/05/27",
+   "6e69 Benpamel(Valencia). Espala/Espanha",
+   "ricado en/Podzido e： ROSEAA 20.42552y",
+   "FECHA DE ENVASADO"
+  ],
+  "all_lines": [
+   "Proteinas",
+   "9,89",
+   "Sal",
+   "1,9g",
+   "1.79",
+   "Centiene 3 unidades de 90 g/",
+   "Contem 3unidades de 90g",
+   "MPORTACO CASA PONS, SAU",
+   "Poligono Niorte, C/ Barranco, 20",
+   "6e69 Benpamel(Valencia). Espala/Espanha",
+   "ricado en/Podzido e： ROSEAA 20.42552y",
+   "cnecte ates dtAce plaESAlo)",
+   "lebncu antns drAote (ouuiS/Ao",
+   "02/05/27",
+   "L000197 9056C0",
+   "FECHA DE ENVASADO",
+   "DATA DE EMBALAGEM:",
+   "03n1/26",
+   "08:58",
+   "ORIGEN:/ORIGEM:",
+   "C",
+   "ESPAÑA/ESPANHA"
+  ],
+  "crop_wh": [
+   1075,
+   905
+  ],
+  "sharpness": 25.4,
+  "ocr_s": 0.25
+ },
+ "f018.jpg": {
+  "n_lines": 19,
+  "box": [
+   748,
+   858,
+   1347,
+   1134
+  ],
+  "level": "date",
+  "lines": [
+   "03/11/26",
+   "FECHA DE ENVASADO:"
+  ],
+  "all_lines": [
+   "Proteinas",
+   "9.8",
+   "Sal",
+   "1.9",
+   "1.79",
+   "Contem 3unidades de 90g",
+   "MPORTACO CASA PONS SAU",
+   "Poligamo icrte, C/ Baranca, 20",
+   "46.469 Brmpamel (Valencia). Espada/Espanha",
+   "Fabricado e/Piod:zido em: RCSEAA 20.42552/Y",
+   "02/0527",
+   "L000197 9056CO",
+   "FECHA DE ENVASADO:",
+   "DATA DE EMBALAGEM:",
+   "03/11/26",
+   "08:58",
+   "ORIGEN:/ORIGEM:",
+   "C",
+   "ESPAÑAESPANHA"
+  ],
+  "crop_wh": [
+   599,
+   276
+  ],
+  "sharpness": 25.4,
+  "ocr_s": 0.24
+ },
+ "f024.jpg": {
+  "n_lines": 20,
+  "box": [
+   647,
+   291,
+   1728,
+   1274
+  ],
+  "level": "date",
+  "lines": [
+   "02/05/27",
+   "03/11/26",
+   "66469 Benipmel (Valencia). Espata/Espanha",
+   "Fabrcado e/Podzido em: RCSEAA 20.42552y",
+   "FECHA DE ENVASADO."
+  ],
+  "all_lines": [
+   "Proteinas",
+   "9,89",
+   "8,3g",
+   "1.9g",
+   "ontiene 3unidades de 90 gy",
+   "midadesde90g",
+   "MPORTACO CASA PONS,SAU",
+   "Polgpno lNorte, C Baranc, 20",
+   "66469 Benipmel (Valencia). Espata/Espanha",
+   "Fabrcado e/Podzido em: RCSEAA 20.42552y",
+   "(olAMESIAÑO)",
+   "02/05/27",
+   "L000197 9056CO",
+   "FECHA DE ENVASADO.",
+   "DATA DE EMBALAGEM:",
+   "03/11/26",
+   "08:58",
+   "ORIGENAORIGEM:",
+   "C",
+   "ESPAÑA/ESPANHA"
+  ],
+  "crop_wh": [
+   1081,
+   983
+  ],
+  "sharpness": 28.3,
+  "ocr_s": 0.25
+ },
+ "f030.jpg": {
+  "n_lines": 17,
+  "box": [
+   642,
+   214,
+   1728,
+   1148
+  ],
+  "level": "date",
+  "lines": [
+   "02/05/27",
+   "669 Benpamell(Valenca) Espad/Espanha",
+   "Fabricado e/Prodardo em RCSEAA 2042552/y",
+   "FECHA DE ENVASADO"
+  ],
+  "all_lines": [
+   "9,89",
+   "Sal",
+   "1,9g",
+   "1.79",
+   "MPORTACOCASA PONS SAU",
+   "eligomo tiorte, C/ Baanca, 20",
+   "669 Benpamell(Valenca) Espad/Espanha",
+   "Fabricado e/Prodardo em RCSEAA 2042552/y",
+   "02/05/27",
+   "L000197 9056C0",
+   "FECHA DE ENVASADO",
+   "DATA DE EMBALAGEM:",
+   "03/n1/26",
+   "08:58",
+   "ORIGEN/ORIGEM:",
+   "C",
+   "ESPARAESPANHA"
+  ],
+  "crop_wh": [
+   1086,
+   934
+  ],
+  "sharpness": 23.9,
+  "ocr_s": 0.25
+ },
+ "f036.jpg": {
+  "n_lines": 16,
+  "box": [
+   609,
+   20,
+   1728,
+   1082
+  ],
+  "level": "date",
+  "lines": [
+   "02/05/27",
+   "03/11/26",
+   "46469 Benipael (Valencia) Espaia/Espanha",
+   "Fabicado e/Produzido em: RCSEAA 20.42551y",
+   "FECHA DE ENVASADO:"
+  ],
+  "all_lines": [
+   "ades de 90g",
+   "ades de 90g",
+   "MPORTACO CASA PONS SALU",
+   "Poligong Nerte, C Barranco, 20",
+   "46469 Benipael (Valencia) Espaia/Espanha",
+   "Fabicado e/Produzido em: RCSEAA 20.42551y",
+   "ears tActe (piaMESANO)",
+   "02/05/27",
+   "LO00197 9058CO",
+   "FECHA DE ENVASADO:",
+   "DATA DE EMBALAGEM:",
+   "03/11/26",
+   "08:58",
+   "ORIGEN/ORIGEM:",
+   "C",
+   "ESPARANESPANHA"
+  ],
+  "crop_wh": [
+   1119,
+   1062
+  ],
+  "sharpness": 26.8,
+  "ocr_s": 0.24
+ }
+}

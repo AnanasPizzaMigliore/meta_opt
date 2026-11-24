@@ -1,0 +1,191 @@
+{
+ "f000.jpg": {
+  "n_lines": 10,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "OMITAS",
+   "PIPOCAS",
+   "MICROONDAS",
+   "SAL",
+   "3xy",
+   "HACENDADO",
+   "LOMITAS",
+   "PIPOCAS",
+   "MCROONDAS",
+   "云"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 79.3,
+  "ocr_s": 0.39
+ },
+ "f006.jpg": {
+  "n_lines": 7,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "PALOMITAS",
+   "OIPOCAS",
+   "MICROONDAS",
+   "SAL",
+   "3x",
+   "90",
+   "HACENDADO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 93.0,
+  "ocr_s": 0.41
+ },
+ "f012.jpg": {
+  "n_lines": 8,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "酒品",
+   "PALOMITAS",
+   "PIPOCAS",
+   "JONDAS",
+   "SAL",
+   "3x",
+   "90",
+   "HACENDADO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 87.5,
+  "ocr_s": 0.41
+ },
+ "f018.jpg": {
+  "n_lines": 8,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "8",
+   "PALOMITAS",
+   "PIPOCAS",
+   "MICROONDAS",
+   "SAL",
+   "3x",
+   "90",
+   "HACENDADO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 87.6,
+  "ocr_s": 0.37
+ },
+ "f024.jpg": {
+  "n_lines": 7,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "PALOMITAS",
+   "PIPOCAS",
+   "MICRDONDAS",
+   "SAL",
+   "3x",
+   "90",
+   "HACENDADO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 88.5,
+  "ocr_s": 0.37
+ },
+ "f030.jpg": {
+  "n_lines": 7,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "PALOMITAS",
+   "PIPOCAS",
+   "MICROONDAS",
+   "AL",
+   "3x",
+   "90",
+   "HACENDADO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 88.0,
+  "ocr_s": 0.39
+ },
+ "f036.jpg": {
+  "n_lines": 9,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "器号",
+   "à",
+   "PALOMITAS",
+   "PIPOCAS",
+   "MICROONDAS",
+   "SAL",
+   "3x",
+   "90",
+   "HACENDADO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 87.5,
+  "ocr_s": 0.4
+ }
+}

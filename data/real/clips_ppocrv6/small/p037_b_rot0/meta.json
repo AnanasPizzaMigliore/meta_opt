@@ -1,0 +1,217 @@
+{
+ "f000.jpg": {
+  "n_lines": 17,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "2,00c",
+   "",
+   "FERRERO",
+   "FERRERO",
+   "ROCHER",
+   "TERRUPO",
+   "FERRERO",
+   "ROCHER",
+   "FERUTO",
+   "Cocolizze",
+   "FERRERO",
+   "ROCHER",
+   "ROYAI",
+   "MINT",
+   "3.00c",
+   "6,35c",
+   "2,40c"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 77.5,
+  "ocr_s": 0.45
+ },
+ "f006.jpg": {
+  "n_lines": 12,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "ocolizze",
+   "Cocolizze",
+   "ROYAL",
+   "227",
+   "MINI",
+   "0ba06",
+   "海江",
+   "3,00",
+   "2",
+   "at  op saue eonard",
+   "YAI",
+   "tese/   p un"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 94.6,
+  "ocr_s": 0.43
+ },
+ "f012.jpg": {
+  "n_lines": 9,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "12",
+   "Cocolizze",
+   "ROYAI",
+   "MIXL",
+   "",
+   "3.00",
+   "ap  o ee dencrd",
+   "Delizze",
+   "AI"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 95.8,
+  "ocr_s": 0.42
+ },
+ "f018.jpg": {
+  "n_lines": 10,
+  "box": [
+   1294,
+   690,
+   1428,
+   962
+  ],
+  "level": "digits",
+  "lines": [
+   "2227"
+  ],
+  "all_lines": [
+   "Cocolizze",
+   "2227",
+   "ROYAL",
+   "MINI",
+   "1R",
+   "RUGSN",
+   "300",
+   "unsuog / ap uy ap saoue",
+   "YAI",
+   "04"
+  ],
+  "crop_wh": [
+   134,
+   272
+  ],
+  "sharpness": 95.3,
+  "ocr_s": 0.41
+ },
+ "f024.jpg": {
+  "n_lines": 7,
+  "box": [
+   1327,
+   675,
+   1452,
+   913
+  ],
+  "level": "date",
+  "lines": [
+   "2027"
+  ],
+  "all_lines": [
+   "12",
+   "ocolizze",
+   "2027",
+   "ROYAL",
+   "MIXI",
+   "3.00e",
+   "YAI"
+  ],
+  "crop_wh": [
+   125,
+   238
+  ],
+  "sharpness": 94.1,
+  "ocr_s": 0.4
+ },
+ "f030.jpg": {
+  "n_lines": 9,
+  "box": [
+   1320,
+   691,
+   1439,
+   918
+  ],
+  "level": "date",
+  "lines": [
+   "2027"
+  ],
+  "all_lines": [
+   "LVUe",
+   "LZZe",
+   "colizze",
+   "2027",
+   "ROYAI",
+   "MINI",
+   "3.00c",
+   "ae  o see enad",
+   "AI"
+  ],
+  "crop_wh": [
+   119,
+   227
+  ],
+  "sharpness": 95.1,
+  "ocr_s": 0.43
+ },
+ "f036.jpg": {
+  "n_lines": 10,
+  "box": [
+   1325,
+   677,
+   1463,
+   952
+  ],
+  "level": "digits",
+  "lines": [
+   "212027"
+  ],
+  "all_lines": [
+   "200",
+   "LZZe",
+   "colizze",
+   "212027",
+   "MIAT",
+   "10-100",
+   "M",
+   "3,00",
+   "aep  o rete rebnaod",
+   "AI"
+  ],
+  "crop_wh": [
+   138,
+   275
+  ],
+  "sharpness": 94.8,
+  "ocr_s": 0.43
+ }
+}

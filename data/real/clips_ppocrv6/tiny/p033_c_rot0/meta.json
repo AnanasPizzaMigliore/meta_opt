@@ -1,0 +1,310 @@
+{
+ "f000.jpg": {
+  "n_lines": 20,
+  "box": [
+   507,
+   1425,
+   695,
+   1545
+  ],
+  "level": "date",
+  "lines": [
+   "8-10 min"
+  ],
+  "all_lines": [
+   "SPAGHETI FINO",
+   "RAYADD DCATE",
+   "SPACHETTI FINO",
+   "CLASSICA",
+   "0,85e",
+   "0,85e",
+   "HELICESS",
+   "LICESESPIR",
+   "HÉLICESES",
+   "ESPIRAIS",
+   "GS",
+   "CLASSICA",
+   "opURO",
+   "1,20c",
+   "BPA.HETTI",
+   "0,85c",
+   "1,20cl",
+   "8-10 min",
+   "SPACH",
+   "1kge"
+  ],
+  "crop_wh": [
+   188,
+   120
+  ],
+  "sharpness": 131.9,
+  "ocr_s": 0.24
+ },
+ "f006.jpg": {
+  "n_lines": 35,
+  "box": [
+   832,
+   1172,
+   999,
+   1268
+  ],
+  "level": "date",
+  "lines": [
+   "8-10 min"
+  ],
+  "all_lines": [
+   "SPACNETTI FINO",
+   "CLASSICA",
+   "SPAGHETT FINO",
+   "CLASSICA",
+   "SPAGHETTIFNO",
+   "0,85€",
+   "ianoum",
+   "0,85e",
+   "iL",
+   "",
+   "aeC",
+   "LATRIGODURo",
+   "LICESESPIR",
+   "ESPIRAIS",
+   "HELI",
+   "HELUCESESHELICES",
+   "5",
+   "1OO%SENO",
+   "TRIGODURO",
+   "SPACHETTI",
+   "1lmin",
+   "CIASSICA",
+   "1,20c",
+   "1,20c",
+   "Sn品理U",
+   "RR",
+   "8-10 min",
+   "SPAGHETTI",
+   "SPAGHETT",
+   "1kge",
+   "8-10",
+   "8-10 rilg",
+   "14",
+   "1kg!",
+   "LRCENDAb"
+  ],
+  "crop_wh": [
+   167,
+   96
+  ],
+  "sharpness": 168.4,
+  "ocr_s": 0.28
+ },
+ "f012.jpg": {
+  "n_lines": 26,
+  "box": [
+   814,
+   1062,
+   982,
+   1158
+  ],
+  "level": "date",
+  "lines": [
+   "8-10 min"
+  ],
+  "all_lines": [
+   "RAYALO",
+   "CLASSICA",
+   "SPAGHETI FINO",
+   "CLASSICA",
+   "PACKETmFWD",
+   "0,85",
+   "Fiiuman",
+   "0,85c",
+   "LATRIGoaUo",
+   "LICESESPIR",
+   "ESPIRAIS",
+   "HELICES SHELUCESEO",
+   "",
+   "1OONSÉMOLATRIGODURO",
+   "SPARHETTI",
+   "lmlr",
+   "CLASSICA",
+   "120c",
+   "1,20e",
+   "7gtnuD",
+   "8-10 min",
+   "1kge",
+   "SPACHETTI",
+   "SPAGI",
+   "010mid",
+   "1kgt"
+  ],
+  "crop_wh": [
+   168,
+   96
+  ],
+  "sharpness": 155.1,
+  "ocr_s": 0.26
+ },
+ "f018.jpg": {
+  "n_lines": 23,
+  "box": [
+   781,
+   958,
+   963,
+   1054
+  ],
+  "level": "date",
+  "lines": [
+   "8-10 min"
+  ],
+  "all_lines": [
+   "CLÁSSICA",
+   "CLASSICA",
+   "SPAGRETTH",
+   "0,E",
+   "irmnu",
+   "0.85c",
+   "GoDURO",
+   "SPAHETTI",
+   "LATRIGo ounO",
+   "LICESESPI",
+   "HÉLICESES",
+   "HELICES",
+   "ESPIRAIS",
+   "lmln",
+   "CLASICA",
+   "1,20c",
+   "8-10 min",
+   "1",
+   "1kge",
+   "oheas",
+   "SPACHETTI",
+   "-1Omla",
+   "1kg"
+  ],
+  "crop_wh": [
+   182,
+   96
+  ],
+  "sharpness": 145.8,
+  "ocr_s": 0.27
+ },
+ "f024.jpg": {
+  "n_lines": 20,
+  "box": [
+   768,
+   951,
+   957,
+   1052
+  ],
+  "level": "date",
+  "lines": [
+   "8-10 min"
+  ],
+  "all_lines": [
+   "CLASSICA",
+   "CLASSICA",
+   "AOHUTTIFN",
+   "BACRA",
+   "0,E",
+   "Mmiuinn",
+   "0.85c",
+   "GODURO",
+   "SPAgHETTI",
+   "LATRIGo DUDo",
+   "LICESESPIR",
+   "ESPIRAIS",
+   "CLASSICA",
+   "1.20cl",
+   "8-10 min",
+   "1kge",
+   "ChePe",
+   "SPAGHETTI",
+   "610mla",
+   "1kgt"
+  ],
+  "crop_wh": [
+   189,
+   101
+  ],
+  "sharpness": 144.3,
+  "ocr_s": 0.24
+ },
+ "f030.jpg": {
+  "n_lines": 21,
+  "box": [
+   768,
+   966,
+   946,
+   1062
+  ],
+  "level": "date",
+  "lines": [
+   "8-10 min"
+  ],
+  "all_lines": [
+   "CLASSICA",
+   "CLASSICA",
+   "PAORETTIPUNG",
+   "0,8",
+   "0,85e",
+   "IOnoLOn",
+   "Fice",
+   "HGODURO",
+   "SPAgHETTI",
+   "ATRIGO DURO",
+   "LICESESPIR",
+   "ESPIRAIS",
+   "立mio",
+   "CLASICA",
+   "1,20c",
+   "8-10 min",
+   "1kge",
+   "TnaL",
+   "SPAGHETTI",
+   "BTOin",
+   "1kg"
+  ],
+  "crop_wh": [
+   178,
+   96
+  ],
+  "sharpness": 146.1,
+  "ocr_s": 0.25
+ },
+ "f036.jpg": {
+  "n_lines": 16,
+  "box": [
+   761,
+   953,
+   945,
+   1054
+  ],
+  "level": "date",
+  "lines": [
+   "8-10 min"
+  ],
+  "all_lines": [
+   "CLASSICA",
+   "CLASSICA",
+   "0,85e",
+   "hmno",
+   "RIGO DURO",
+   "SPAgHETTI",
+   "LA TRIco puRo",
+   "LICESESPIR",
+   "HELICES ES HELICESS",
+   "TESPIRAIS",
+   "CLASSICA",
+   "1,20e",
+   "8-10 min",
+   "1kge",
+   "SPAGHETTI",
+   "1kg"
+  ],
+  "crop_wh": [
+   184,
+   101
+  ],
+  "sharpness": 145.1,
+  "ocr_s": 0.24
+ }
+}

@@ -1,0 +1,162 @@
+{
+ "f000.jpg": {
+  "n_lines": 5,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "3.2 mg",
+   "110mg",
+   "490mg",
+   "Corsume te peleirca re le ",
+   "102%"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 11.1,
+  "ocr_s": 0.4
+ },
+ "f006.jpg": {
+  "n_lines": 4,
+  "box": [
+   1546,
+   1019,
+   1728,
+   1162
+  ],
+  "level": "date",
+  "lines": [
+   "07/11"
+  ],
+  "all_lines": [
+   "1",
+   "100",
+   "D87A",
+   "07/11"
+  ],
+  "crop_wh": [
+   182,
+   143
+  ],
+  "sharpness": 7.8,
+  "ocr_s": 0.39
+ },
+ "f012.jpg": {
+  "n_lines": 5,
+  "box": [
+   1427,
+   990,
+   1653,
+   1121
+  ],
+  "level": "digits",
+  "lines": [
+   "09/11126"
+  ],
+  "all_lines": [
+   "1",
+   "",
+   "FECPAN 0",
+   "09/11126",
+   "ORIGEN 101"
+  ],
+  "crop_wh": [
+   226,
+   131
+  ],
+  "sharpness": 8.1,
+  "ocr_s": 0.4
+ },
+ "f018.jpg": {
+  "n_lines": 5,
+  "box": [
+   960,
+   1456,
+   1186,
+   1728
+  ],
+  "level": "digits",
+  "lines": [
+   "861900"
+  ],
+  "all_lines": [
+   "1",
+   "1%",
+   "27",
+   "IGEN/0R1",
+   "861900"
+  ],
+  "crop_wh": [
+   226,
+   272
+  ],
+  "sharpness": 9.6,
+  "ocr_s": 0.39
+ },
+ "f024.jpg": {
+  "n_lines": 2,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "i",
+   ""
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 7.3,
+  "ocr_s": 0.38
+ },
+ "f030.jpg": {
+  "n_lines": 0,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 9.5,
+  "ocr_s": 0.35
+ },
+ "f036.jpg": {
+  "n_lines": 1,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   ""
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 6.9,
+  "ocr_s": 0.34
+ }
+}

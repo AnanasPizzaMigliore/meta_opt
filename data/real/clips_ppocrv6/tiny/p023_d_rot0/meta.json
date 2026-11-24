@@ -1,0 +1,285 @@
+{
+ "f000.jpg": {
+  "n_lines": 10,
+  "box": [
+   104,
+   809,
+   200,
+   905
+  ],
+  "level": "digits",
+  "lines": [
+   "01226"
+  ],
+  "all_lines": [
+   "COSTILLA",
+   "c0D 1o",
+   "COSTLLAnEn",
+   "SIMICOCIDO",
+   "ADO",
+   "HOMTAN",
+   "01226",
+   "3,34€",
+   "280C",
+   "388kg"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 319.7,
+  "ocr_s": 0.22
+ },
+ "f006.jpg": {
+  "n_lines": 21,
+  "box": [
+   570,
+   634,
+   708,
+   825
+  ],
+  "level": "digits",
+  "lines": [
+   "0.388kg",
+   "351239",
+   "2321205003"
+  ],
+  "all_lines": [
+   "COSTILLA",
+   "CERrOtL",
+   "HUANCIALE",
+   "TACO",
+   "coDILLO",
+   "SEMICOCIDO",
+   "",
+   "Uo",
+   "D",
+   "J38e",
+   "3,34€",
+   "0.388kg",
+   "M9 NMRG",
+   "351239",
+   "2321205003",
+   "1",
+   "ne",
+   "SOLO",
+   "MDOBADC",
+   "onELLnda",
+   "a57e"
+  ],
+  "crop_wh": [
+   138,
+   191
+  ],
+  "sharpness": 274.2,
+  "ocr_s": 0.23
+ },
+ "f012.jpg": {
+  "n_lines": 21,
+  "box": [
+   644,
+   607,
+   740,
+   703
+  ],
+  "level": "digits",
+  "lines": [
+   "01122x"
+  ],
+  "all_lines": [
+   "COSTILLA",
+   "GUANCIALE",
+   "TACO",
+   "CODILIO",
+   "SEMICOCIDo",
+   "COSRA",
+   "2RRe",
+   "8.60C",
+   "RECHPECTLLE",
+   "0.38akg",
+   "FESO NETMIE",
+   "A",
+   "01122x",
+   "N0s就",
+   "739e",
+   "大",
+   "320e",
+   "SOLGAL",
+   "ADOSAL",
+   "LDGTILds",
+   "picAN LDio"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 284.1,
+  "ocr_s": 0.23
+ },
+ "f018.jpg": {
+  "n_lines": 20,
+  "box": [
+   537,
+   568,
+   733,
+   775
+  ],
+  "level": "digits",
+  "lines": [
+   "0.388kg",
+   "011226",
+   "262233"
+  ],
+  "all_lines": [
+   "COSTILLA",
+   "CERDSRE",
+   "OUANCIALE",
+   "TACR",
+   "CODILLO",
+   "SEMICOCIDO",
+   "te",
+   "20uc",
+   "3,34€",
+   "0.388kg",
+   "FSI NETUAISEN",
+   "011226",
+   "AAY",
+   "138日",
+   "262233",
+   "3ae",
+   "SOuo",
+   "60",
+   "LAGDOTE AL LS",
+   "FOices Lpio"
+  ],
+  "crop_wh": [
+   196,
+   207
+  ],
+  "sharpness": 280.6,
+  "ocr_s": 0.23
+ },
+ "f024.jpg": {
+  "n_lines": 19,
+  "box": [
+   550,
+   575,
+   698,
+   768
+  ],
+  "level": "digits",
+  "lines": [
+   "0.388kg",
+   "-353239"
+  ],
+  "all_lines": [
+   "COSTILLA",
+   "CESIORLrO",
+   "GHANCIAIE",
+   "TACO",
+   "CODLLO",
+   "SLMICOCIDO",
+   "2BEE",
+   "3,34€",
+   "WECIPER服I",
+   "0.388kg",
+   "0MR26",
+   "A",
+   "R2",
+   "338e",
+   "-353239",
+   "",
+   "nE",
+   "BGRCTAS L LERGN",
+   "307e"
+  ],
+  "crop_wh": [
+   148,
+   193
+  ],
+  "sharpness": 281.8,
+  "ocr_s": 0.21
+ },
+ "f030.jpg": {
+  "n_lines": 19,
+  "box": [
+   550,
+   575,
+   692,
+   763
+  ],
+  "level": "digits",
+  "lines": [
+   "0.388kg",
+   "367233"
+  ],
+  "all_lines": [
+   "COSTILLA",
+   "ADOBADAD",
+   "CLIANCALE",
+   "TeCa",
+   "CODaLO",
+   "SEMICoCIDO",
+   "CUSRLA",
+   "B66",
+   "3,34€",
+   "0.388kg",
+   "AAOA",
+   "135a",
+   "367233",
+   "LIMÓN",
+   "3ne",
+   "ADOBA",
+   "BERZTASL LUN",
+   "cicEbis",
+   "37e"
+  ],
+  "crop_wh": [
+   142,
+   188
+  ],
+  "sharpness": 283.8,
+  "ocr_s": 0.2
+ },
+ "f036.jpg": {
+  "n_lines": 18,
+  "box": [
+   554,
+   566,
+   720,
+   764
+  ],
+  "level": "digits",
+  "lines": [
+   "0.388kg",
+   "0112.26",
+   "321239"
+  ],
+  "all_lines": [
+   "COSTILLA",
+   "QUANCIALE",
+   "LACO",
+   "cODLLO",
+   "SEMIcOCIDO",
+   "COShLAN",
+   "AC",
+   "2.60",
+   "3,34€",
+   "0.388kg",
+   "PES NETMLIRNOO",
+   "0112.26",
+   "BAA",
+   "333E",
+   "TE3",
+   "321239",
+   "nE",
+   "全鸡和全"
+  ],
+  "crop_wh": [
+   166,
+   198
+  ],
+  "sharpness": 282.6,
+  "ocr_s": 0.21
+ }
+}

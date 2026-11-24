@@ -1,0 +1,361 @@
+{
+ "f000.jpg": {
+  "n_lines": 29,
+  "box": [
+   955,
+   779,
+   1505,
+   1197
+  ],
+  "level": "digits",
+  "lines": [
+   "1607",
+   "移696i832"
+  ],
+  "all_lines": [
+   "SHA",
+   "MON7I",
+   "M中NSTER",
+   "ENERGY",
+   "ULTRA VICE",
+   "GY",
+   "JUICED",
+   "ZUCARAC",
+   "MONSTER",
+   "PACK",
+   "AHORRO",
+   "MANGO LOCO",
+   "uuvGe",
+   "500-",
+   "JUK",
+   "M中N",
+   "1607",
+   "BNERG",
+   "7.08:",
+   "17e 189c",
+   "移696i832",
+   "TER",
+   "ZERO",
+   "reR",
+   "ZERO",
+   "ZERO",
+   "7.08c",
+   "ZERO",
+   "HARZ"
+  ],
+  "crop_wh": [
+   550,
+   418
+  ],
+  "sharpness": 129.8,
+  "ocr_s": 0.25
+ },
+ "f006.jpg": {
+  "n_lines": 25,
+  "box": [
+   234,
+   945,
+   436,
+   1052
+  ],
+  "level": "digits",
+  "lines": [
+   "1,7e 189e"
+  ],
+  "all_lines": [
+   "MONSTER",
+   "ENERGY",
+   "ULTRAVO",
+   "JUICED",
+   "ZUCARAG",
+   "MONSTER",
+   "MANCO LOCO",
+   "JUIC6",
+   "-500-",
+   "JUIC",
+   "M中N",
+   "18dP6",
+   "NERCE",
+   "7.08e",
+   "1,7e 189e",
+   "07B7872",
+   "TER",
+   "ZERO",
+   "TER",
+   "05",
+   "ZERO",
+   "ZERO",
+   "708-0",
+   "ZERO",
+   "V"
+  ],
+  "crop_wh": [
+   202,
+   107
+  ],
+  "sharpness": 129.0,
+  "ocr_s": 0.24
+ },
+ "f012.jpg": {
+  "n_lines": 25,
+  "box": [
+   265,
+   951,
+   478,
+   1059
+  ],
+  "level": "digits",
+  "lines": [
+   "177e 189e"
+  ],
+  "all_lines": [
+   "MpNSTER",
+   "ENERGY",
+   "ULTD",
+   "JUICED",
+   "ZUCARA9",
+   "MONSTER",
+   "EAEGDY",
+   "-uncE",
+   "500",
+   "MANGD LOCO",
+   "JUIC",
+   "MdN",
+   "32edbf8os",
+   "SNERU",
+   "7,08:",
+   "177e 189e",
+   "務86B1872",
+   "TER",
+   "ZERC",
+   "TeR",
+   "0",
+   "ZER",
+   "ZERO",
+   "70do in",
+   "ER0"
+  ],
+  "crop_wh": [
+   213,
+   108
+  ],
+  "sharpness": 127.5,
+  "ocr_s": 0.26
+ },
+ "f018.jpg": {
+  "n_lines": 35,
+  "box": [
+   969,
+   715,
+   1646,
+   1194
+  ],
+  "level": "digits",
+  "lines": [
+   "28070180s",
+   "移b767872"
+  ],
+  "all_lines": [
+   "RDAZICARD",
+   "ION2",
+   "M中NSTER",
+   "ENERGY",
+   "ULTRA",
+   "JUICED",
+   "OZUCARAG",
+   "MONSTER",
+   "PACK",
+   "+LSUAR",
+   "AHORRO",
+   "ENRBOY",
+   "",
+   "MANGO LOCO",
+   "500",
+   "4",
+   "JUIK",
+   "M中N",
+   "28070180s",
+   "ENEAa",
+   "7,08e",
+   "1,77e 189c",
+   "移b767872",
+   "ZE",
+   "Md",
+   "TER",
+   "ZERO",
+   "TeR",
+   "C0",
+   "ER",
+   "AO",
+   "ZERC",
+   "ZERO",
+   "700o",
+   "ER"
+  ],
+  "crop_wh": [
+   677,
+   479
+  ],
+  "sharpness": 130.5,
+  "ocr_s": 0.27
+ },
+ "f024.jpg": {
+  "n_lines": 31,
+  "box": [
+   970,
+   687,
+   1659,
+   1172
+  ],
+  "level": "digits",
+  "lines": [
+   "2ed%B1803",
+   "彩8661872"
+  ],
+  "all_lines": [
+   "M中NSTER",
+   "ENEP",
+   "JUICED",
+   "ARORKO",
+   "ZUCARAG",
+   "MONSTER",
+   "oaE",
+   "MANGO LOCO",
+   "-500-",
+   "二",
+   "电",
+   "JUIK",
+   "MdNG",
+   "2ed%B1803",
+   "CAERGA",
+   "彩8661872",
+   "7,08e",
+   "1Te 189c",
+   "253",
+   "1IT",
+   "2",
+   "Md",
+   "TER",
+   "ZERO",
+   "TER",
+   "RO",
+   "ZERC",
+   "ZERO",
+   "70B&Y",
+   "ZER包",
+   "IAV3"
+  ],
+  "crop_wh": [
+   689,
+   485
+  ],
+  "sharpness": 127.5,
+  "ocr_s": 0.26
+ },
+ "f030.jpg": {
+  "n_lines": 35,
+  "box": [
+   1060,
+   554,
+   1628,
+   996
+  ],
+  "level": "digits",
+  "lines": [
+   "3280761808",
+   "号61872"
+  ],
+  "all_lines": [
+   "MONl",
+   "M",
+   "JUICED",
+   "ZUCARAG",
+   "M中NSTER",
+   "PACK",
+   "三国",
+   "AHORRO",
+   "MANCO LOCO",
+   "500-",
+   "A",
+   "3280761808",
+   "TY",
+   "JUIK",
+   "",
+   "号61872",
+   "MON",
+   "7,08c",
+   "17e 189e",
+   "G",
+   "LERO",
+   "MC",
+   "TER",
+   "ZER",
+   "TEeR",
+   "ERO",
+   "ER",
+   "ZERN",
+   "ZERO",
+   "ZERD",
+   "ZERO",
+   "ZERC",
+   "ZERO",
+   "WERO",
+   "HAR"
+  ],
+  "crop_wh": [
+   568,
+   442
+  ],
+  "sharpness": 120.6,
+  "ocr_s": 0.25
+ },
+ "f036.jpg": {
+  "n_lines": 27,
+  "box": [
+   1215,
+   461,
+   1728,
+   940
+  ],
+  "level": "digits",
+  "lines": [
+   "2：6%183",
+   "B7878"
+  ],
+  "all_lines": [
+   "1RN",
+   "",
+   "JUICED",
+   "ZUCARTAC",
+   "MONSTER",
+   "2：6%183",
+   "MANGO LOCO",
+   "A",
+   "500",
+   "B7878",
+   "JUIK",
+   "M中N",
+   "7,08c",
+   "177e 189c",
+   "6",
+   "TeR",
+   "ZERO",
+   "TER",
+   "ZERO",
+   "ER",
+   "ZERN",
+   "ZERO",
+   "ZERO",
+   "ZERU",
+   "ZER",
+   "ZERD",
+   "ZERD"
+  ],
+  "crop_wh": [
+   513,
+   479
+  ],
+  "sharpness": 116.9,
+  "ocr_s": 0.25
+ }
+}

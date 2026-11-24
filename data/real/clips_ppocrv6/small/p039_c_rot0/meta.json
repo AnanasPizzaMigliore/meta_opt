@@ -1,0 +1,318 @@
+{
+ "f000.jpg": {
+  "n_lines": 35,
+  "box": [
+   445,
+   137,
+   566,
+   233
+  ],
+  "level": "digits",
+  "lines": [
+   "1181010"
+  ],
+  "all_lines": [
+   "NEULES",
+   "HACENDADO",
+   "te",
+   "2,30c",
+   "1181010",
+   "225c",
+   "225",
+   "Trufas",
+   "Cherrie",
+   "Cherries",
+   "Licor",
+   "Lico",
+   "Cherries",
+   "六",
+   "Licor",
+   "LINDO",
+   "LINDOR",
+   "Cnerries",
+   "Licor",
+   "220",
+   "320",
+   "ies Licor",
+   "Irufas",
+   "190c",
+   "S",
+   "7,95c",
+   "HACENDADO",
+   "Trufas",
+   "Co0",
+   "pol",
+   "OX",
+   "15e",
+   "nolite",
+   "coc",
+   "OCO"
+  ],
+  "crop_wh": [
+   121,
+   96
+  ],
+  "sharpness": 295.0,
+  "ocr_s": 0.55
+ },
+ "f006.jpg": {
+  "n_lines": 25,
+  "box": [
+   787,
+   1515,
+   899,
+   1611
+  ],
+  "level": "digits",
+  "lines": [
+   "1214"
+  ],
+  "all_lines": [
+   "Irufas",
+   "Trufas",
+   "Trufas",
+   "NI",
+   "herries",
+   "Cherries",
+   "Licor",
+   "Licor",
+   "Cherries",
+   "Licor",
+   "LINDOR",
+   "ENGE",
+   "GLUTEN",
+   "Iruuf",
+   "HACCNDADO",
+   "Trufas",
+   "Trufas",
+   "Trufas",
+   "7,95c",
+   "2,15€",
+   "Mu",
+   "rolites",
+   "COcx",
+   "oCo",
+   "1214"
+  ],
+  "crop_wh": [
+   112,
+   96
+  ],
+  "sharpness": 214.4,
+  "ocr_s": 0.48
+ },
+ "f012.jpg": {
+  "n_lines": 22,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Trufas",
+   "Irufas",
+   "Trufas",
+   "CLASSK",
+   "herries",
+   "Cherries",
+   "Licor",
+   "Licor",
+   "Cherries",
+   "Licor",
+   "LINDOR",
+   "GLUTEN",
+   "HACENDADO",
+   "Irufas",
+   "Trufas",
+   "Trufas",
+   "CLASS",
+   "7,95c",
+   "2,15€",
+   "ColEn",
+   "colfiss",
+   "Coc"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 205.5,
+  "ocr_s": 0.47
+ },
+ "f018.jpg": {
+  "n_lines": 22,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "225c",
+   "Trufas",
+   "Irufas",
+   "Trufas",
+   "CLASSI",
+   "150%",
+   "Cherries",
+   "Cherries",
+   "Licor",
+   "Licor",
+   "Cherries",
+   "Licor",
+   "UINDOR",
+   "GLUTEN",
+   "HACENDADO",
+   "Trufas",
+   "Trufas",
+   "Trufas",
+   "7,95c",
+   "2,15c",
+   "OmaT",
+   "coo"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 208.7,
+  "ocr_s": 0.47
+ },
+ "f024.jpg": {
+  "n_lines": 23,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "JEU",
+   "225c",
+   "Trufas",
+   "Irufas",
+   "Trufas",
+   "LASSIC",
+   "Cherries",
+   "Cherrie",
+   "Licor",
+   "Licor",
+   "Cherries",
+   "Licor",
+   "LINDOR",
+   "GLUTEN",
+   "HACENDADO",
+   "Irufas",
+   "Trufas",
+   "Trufas",
+   "7,95c",
+   "2,15€",
+   "Mamp",
+   "colite",
+   "COcY"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 204.8,
+  "ocr_s": 0.47
+ },
+ "f030.jpg": {
+  "n_lines": 27,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "225c",
+   "大",
+   "Trufas",
+   "Irufas",
+   "Trufas",
+   "LASSIC",
+   "Y50",
+   "Cherries",
+   "Cherrie:",
+   "Licor",
+   "Licor",
+   "Cherries",
+   "Licor",
+   "Sn",
+   "LND",
+   "LINDOR",
+   "GLUTEN",
+   "HACENDADO",
+   "Trufas",
+   "Trufas",
+   "Trufas",
+   "CLASS",
+   "7.95c",
+   "2,15c",
+   "Mimto",
+   "oolia",
+   "cox"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 209.1,
+  "ocr_s": 0.51
+ },
+ "f036.jpg": {
+  "n_lines": 25,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "225e",
+   "Trufas",
+   "Irufas",
+   "Trufas",
+   "ASIC",
+   "Cherries",
+   "Cherrie",
+   "Licor",
+   "Licor",
+   "Cherries",
+   "Licor",
+   "S",
+   "LAG",
+   "LINDOR",
+   "GLUTEN",
+   "HACENDADO",
+   "Trufas",
+   "Trufas",
+   "Trufas",
+   "7.95c",
+   "2,15c",
+   "Thou",
+   "cotis",
+   "COCY",
+   "121"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 209.7,
+  "ocr_s": 0.48
+ }
+}

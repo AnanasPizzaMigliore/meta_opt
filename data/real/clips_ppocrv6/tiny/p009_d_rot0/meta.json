@@ -1,0 +1,250 @@
+{
+ "f000.jpg": {
+  "n_lines": 17,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "110e",
+   "RLOR",
+   "UESO",
+   "2",
+   "HACENDADO",
+   "tostal",
+   "PALeR",
+   "OGUEs",
+   "GA",
+   "FHACENDADO",
+   "1,65€",
+   "TitaBBun",
+   "51PD",
+   "wraps",
+   "BHCL",
+   "UNID",
+   "PXL"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 180.4,
+  "ocr_s": 0.22
+ },
+ "f006.jpg": {
+  "n_lines": 16,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "1,(06",
+   "11od",
+   "配电泉",
+   "UE30",
+   "HACENDADO",
+   "e'ouEs0",
+   "araLL",
+   "HACENDADO",
+   "1,65€",
+   "TROAOD",
+   "51D",
+   "Wraps",
+   "BHCE",
+   "NAN",
+   "aUNIDA",
+   "XL"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 180.1,
+  "ocr_s": 0.24
+ },
+ "f012.jpg": {
+  "n_lines": 15,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "lod",
+   "BA39R",
+   "UE30",
+   "C2aay",
+   "HACENDADO",
+   "soceVO",
+   "PALeR",
+   "HACENDADO",
+   "1,65e",
+   "TYLane",
+   "51D",
+   "wraps",
+   "NAS",
+   "GUNIDA",
+   "XL"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 179.7,
+  "ocr_s": 0.21
+ },
+ "f018.jpg": {
+  "n_lines": 18,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "10el",
+   "CALOR",
+   "UE30",
+   "ESPAy",
+   "IHACENDADO",
+   "oeiOe",
+   "3ALOl",
+   "HACENDADO",
+   "A0B",
+   "1,65€",
+   "TNtN0",
+   "519p",
+   "保月电理船话",
+   "Wraps",
+   "BHCEl",
+   "NAS",
+   "aUNIDA",
+   "XL"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 179.8,
+  "ocr_s": 0.21
+ },
+ "f024.jpg": {
+  "n_lines": 17,
+  "box": [
+   1474,
+   52,
+   1628,
+   184
+  ],
+  "level": "digits",
+  "lines": [
+   "1300"
+  ],
+  "all_lines": [
+   "1,75e",
+   "1300",
+   "BALSA",
+   "NE3O",
+   "HACENDADO",
+   "C",
+   "HACENDADO",
+   "",
+   "1,65€",
+   "TUOBuI",
+   "5100",
+   "阳品器理房",
+   "wraps",
+   "CS区L",
+   "NAU",
+   "aUNID",
+   "XL"
+  ],
+  "crop_wh": [
+   154,
+   132
+  ],
+  "sharpness": 181.6,
+  "ocr_s": 0.22
+ },
+ "f030.jpg": {
+  "n_lines": 14,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "1,75.",
+   "110d",
+   "E3O",
+   "ACENDADO",
+   "CS3",
+   "HACENDADO",
+   "1,65€",
+   "uEOID",
+   "51D",
+   "wraps",
+   "ACEEE",
+   "NAN",
+   "SUNIDA",
+   "XL"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 182.7,
+  "ocr_s": 0.23
+ },
+ "f036.jpg": {
+  "n_lines": 14,
+  "box": [
+   421,
+   844,
+   576,
+   966
+  ],
+  "level": "digits",
+  "lines": [
+   "5190"
+  ],
+  "all_lines": [
+   "130el",
+   "83包R",
+   "uE30",
+   "HIACENDADO",
+   "CALSA",
+   "crQUes0",
+   "HACENDADO",
+   "1,65€",
+   "naMT0",
+   "5190",
+   "Wraps",
+   "EHCEr",
+   "GUNIDA",
+   "XL"
+  ],
+  "crop_wh": [
+   155,
+   122
+  ],
+  "sharpness": 182.3,
+  "ocr_s": 0.22
+ }
+}

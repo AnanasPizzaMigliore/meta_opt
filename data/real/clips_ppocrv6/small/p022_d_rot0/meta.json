@@ -1,0 +1,244 @@
+{
+ "f000.jpg": {
+  "n_lines": 12,
+  "box": [
+   1053,
+   816,
+   1190,
+   1036
+  ],
+  "level": "digits",
+  "lines": [
+   "0,509kg",
+   "2313741007534"
+  ],
+  "all_lines": [
+   "7,53€",
+   "P.V.P.",
+   "0,509kg",
+   "PESO RETO",
+   "ASOIO",
+   "JARRETE",
+   "MORCILLO/",
+   "AHREGLOS",
+   "VACUNO",
+   "2313741007534",
+   "JARREIE/MCECHIC",
+   "MANOS"
+  ],
+  "crop_wh": [
+   137,
+   220
+  ],
+  "sharpness": 296.9,
+  "ocr_s": 0.41
+ },
+ "f006.jpg": {
+  "n_lines": 14,
+  "box": [
+   856,
+   747,
+   1000,
+   901
+  ],
+  "level": "digits",
+  "lines": [
+   "14,80€",
+   "0,509kg",
+   "PECHADE CADUCIOAD"
+  ],
+  "all_lines": [
+   "PALA",
+   "150€",
+   "7,53€",
+   "14,80€",
+   "0,509kg",
+   "PESO FITO",
+   "PECHADE CADUCIOAD",
+   "ANOIO",
+   "JARRETE",
+   "MORCILLO/",
+   "ARREGLOS",
+   "VACUNO",
+   "MANOS",
+   ""
+  ],
+  "crop_wh": [
+   144,
+   154
+  ],
+  "sharpness": 289.2,
+  "ocr_s": 0.41
+ },
+ "f012.jpg": {
+  "n_lines": 14,
+  "box": [
+   846,
+   740,
+   1025,
+   976
+  ],
+  "level": "digits",
+  "lines": [
+   "0,509kg",
+   "24.11.26R21",
+   "2311741007534",
+   "FECRADECADUCIOAD"
+  ],
+  "all_lines": [
+   "pCaNo",
+   "7,53€",
+   "P.V.P.",
+   "PRECIO KELO",
+   "0,509kg",
+   "PESONETO.",
+   "24.11.26R21",
+   "FECRADECADUCIOAD",
+   "AROIO",
+   "JARRETE",
+   "MORCILLO/",
+   "VACUNO",
+   "2311741007534",
+   "MANOS"
+  ],
+  "crop_wh": [
+   179,
+   236
+  ],
+  "sharpness": 300.6,
+  "ocr_s": 0.43
+ },
+ "f018.jpg": {
+  "n_lines": 11,
+  "box": [
+   889,
+   762,
+   985,
+   858
+  ],
+  "level": "digits",
+  "lines": [
+   "0,509kg"
+  ],
+  "all_lines": [
+   "Clonto",
+   "7,53€",
+   "PRECIOKILO",
+   "0,509kg",
+   "PE1O NETO",
+   "AROIO",
+   "MORCILLO/",
+   "JARRETE",
+   "ARREGLOS",
+   "VACUNO",
+   "MANOS"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 302.7,
+  "ocr_s": 0.4
+ },
+ "f024.jpg": {
+  "n_lines": 12,
+  "box": [
+   847,
+   751,
+   971,
+   966
+  ],
+  "level": "digits",
+  "lines": [
+   "0,509kg",
+   "2313741007534"
+  ],
+  "all_lines": [
+   "KU",
+   "7,53€",
+   "P.V.P.",
+   "0,509kg",
+   "PESONITO",
+   "AlCIO",
+   "MORCILLO/",
+   "JARRETE",
+   "VACUNO",
+   "RREGLO",
+   "2313741007534",
+   "MANOS"
+  ],
+  "crop_wh": [
+   124,
+   215
+  ],
+  "sharpness": 299.8,
+  "ocr_s": 0.43
+ },
+ "f030.jpg": {
+  "n_lines": 12,
+  "box": [
+   896,
+   766,
+   1004,
+   906
+  ],
+  "level": "digits",
+  "lines": [
+   "0,509kg",
+   "FECHA DE CADUCIOAD"
+  ],
+  "all_lines": [
+   "NL",
+   "7,53€",
+   "P.V.P.",
+   "0,509kg",
+   "PLSOHETO",
+   "FECHA DE CADUCIOAD",
+   "AROJO",
+   "MORCILLO/",
+   "JARRETE",
+   "VACUNO",
+   "CAC",
+   "MANOS"
+  ],
+  "crop_wh": [
+   108,
+   140
+  ],
+  "sharpness": 300.9,
+  "ocr_s": 0.42
+ },
+ "f036.jpg": {
+  "n_lines": 11,
+  "box": [
+   847,
+   769,
+   971,
+   977
+  ],
+  "level": "digits",
+  "lines": [
+   "0.509kg",
+   "231374100757"
+  ],
+  "all_lines": [
+   "FL",
+   "MLA",
+   "7,53€",
+   "P.V.P.",
+   "0.509kg",
+   "FESO NITO",
+   "AROIO",
+   "MORCILLO/",
+   "JARRETE",
+   "231374100757",
+   "MANOS"
+  ],
+  "crop_wh": [
+   124,
+   208
+  ],
+  "sharpness": 302.4,
+  "ocr_s": 0.42
+ }
+}

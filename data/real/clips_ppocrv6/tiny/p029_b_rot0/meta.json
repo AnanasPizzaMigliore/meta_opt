@@ -1,0 +1,337 @@
+{
+ "f000.jpg": {
+  "n_lines": 24,
+  "box": [
+   1001,
+   1312,
+   1139,
+   1414
+  ],
+  "level": "digits",
+  "lines": [
+   "600 500220"
+  ],
+  "all_lines": [
+   "245",
+   "Zanell",
+   "295",
+   "Cabra",
+   "Shack",
+   "1",
+   "OVUA",
+   "Lonchas",
+   "Fatias",
+   "QUESITOs",
+   "",
+   "LH57",
+   "QE3IT0S",
+   "0,15kg",
+   "Emmental",
+   "150c",
+   "SOLIS30",
+   "0λ",
+   "600 500220",
+   "HACENDADO",
+   "ENIREPINARAT",
+   "S309",
+   "195c",
+   "Gouda"
+  ],
+  "crop_wh": [
+   138,
+   102
+  ],
+  "sharpness": 316.4,
+  "ocr_s": 0.25
+ },
+ "f006.jpg": {
+  "n_lines": 24,
+  "box": [
+   176,
+   1176,
+   329,
+   1296
+  ],
+  "level": "digits",
+  "lines": [
+   "501IS309"
+  ],
+  "all_lines": [
+   "245",
+   "zanell",
+   "295",
+   "Cabra",
+   "QVEBO",
+   "CHASOVEIA",
+   "Lonenas",
+   "Fatias",
+   "",
+   "QUESITOs",
+   "LH917",
+   "QUESITOS",
+   "2.90€",
+   "0,19skg",
+   "K8Ne",
+   "150",
+   "501IS309",
+   "800500 220",
+   "HACENDADO",
+   "01IS300",
+   "ENTREPBANS",
+   "195.",
+   "Couda",
+   "5009"
+  ],
+  "crop_wh": [
+   153,
+   120
+  ],
+  "sharpness": 314.1,
+  "ocr_s": 0.24
+ },
+ "f012.jpg": {
+  "n_lines": 24,
+  "box": [
+   1198,
+   1128,
+   1313,
+   1229
+  ],
+  "level": "digits",
+  "lines": [
+   "0,196kg"
+  ],
+  "all_lines": [
+   "2A5",
+   "zanell",
+   "295",
+   "Cabra",
+   "Saat.",
+   "OLonchas",
+   "Patias",
+   "2t",
+   "QUESITOS",
+   "LH517",
+   "SUEXI705",
+   "",
+   "0,196kg",
+   "Emmental",
+   "150",
+   "SOLIS300",
+   "0",
+   "A0",
+   "000500220",
+   "HACENDADO",
+   "ENTREPINARES",
+   "195.",
+   "ouda",
+   "5009"
+  ],
+  "crop_wh": [
+   115,
+   101
+  ],
+  "sharpness": 316.1,
+  "ocr_s": 0.24
+ },
+ "f018.jpg": {
+  "n_lines": 21,
+  "box": [
+   1180,
+   1124,
+   1310,
+   1271
+  ],
+  "level": "digits",
+  "lines": [
+   "0.195kg",
+   "0V827"
+  ],
+  "all_lines": [
+   "2A5",
+   "Zanell",
+   "295",
+   "Cabra",
+   "Lonchas",
+   "Fatias",
+   "QUESITOS",
+   "LH217",
+   "2.90€",
+   "SEITOs",
+   "0.195kg",
+   "代助e",
+   "夏50",
+   "0V827",
+   "S0LIS305",
+   "AC",
+   "500 500220",
+   "HACENDADO",
+   "ENTREPINARES",
+   "1.95c",
+   "5009"
+  ],
+  "crop_wh": [
+   130,
+   147
+  ],
+  "sharpness": 318.3,
+  "ocr_s": 0.25
+ },
+ "f024.jpg": {
+  "n_lines": 22,
+  "box": [
+   1186,
+   1084,
+   1381,
+   1244
+  ],
+  "level": "digits",
+  "lines": [
+   "2390€",
+   "0.195kg",
+   "14.80€"
+  ],
+  "all_lines": [
+   "25",
+   "Zanell",
+   "Zanell",
+   "295",
+   "Cabra",
+   "QLonchas",
+   "Fatias",
+   "x",
+   "0",
+   "QUESITOs",
+   "LH517",
+   "2390€",
+   "GUEXIT0S",
+   "0.195kg",
+   "14.80€",
+   "Ow8",
+   "S01IS308",
+   "600 500220",
+   "HACENDADO",
+   "ENTREPINARES",
+   "25",
+   "195c"
+  ],
+  "crop_wh": [
+   195,
+   160
+  ],
+  "sharpness": 318.9,
+  "ocr_s": 0.25
+ },
+ "f030.jpg": {
+  "n_lines": 29,
+  "box": [
+   213,
+   920,
+   371,
+   1046
+  ],
+  "level": "digits",
+  "lines": [
+   "S0LIS300"
+  ],
+  "all_lines": [
+   "zanell",
+   "295",
+   "UESO",
+   "MASOVEIA",
+   "Shacd.",
+   "QUESITOS",
+   "",
+   "LHO17",
+   "QUESITOS",
+   "S0LIS300",
+   "150",
+   "Emmental",
+   "Cabra",
+   "SNETrr2",
+   "S01IS300",
+   "Lonchas",
+   "Patias",
+   "1,95c",
+   "290€",
+   "0.155kg",
+   "N",
+   "Gouda",
+   "LfGHT",
+   "Gouda",
+   "500g",
+   "ne",
+   "Couda",
+   "500g",
+   "ENTREENRIY"
+  ],
+  "crop_wh": [
+   158,
+   126
+  ],
+  "sharpness": 314.6,
+  "ocr_s": 0.26
+ },
+ "f036.jpg": {
+  "n_lines": 41,
+  "box": [
+   1169,
+   837,
+   1308,
+   933
+  ],
+  "level": "date",
+  "lines": [
+   "01/02/27"
+  ],
+  "all_lines": [
+   "chas",
+   "Zanelt",
+   "ds",
+   "Zanell",
+   "PVP",
+   "2.90€",
+   "18€",
+   "汽 NET险",
+   "0,196kg",
+   "QUESO DE CABRA MADURADO",
+   "006200IESLOSE",
+   "QUEIJO DE CABRA CURADO",
+   "CONSAR",
+   "PEFRENTDENTE",
+   "Leche d",
+   "NTES EL",
+   "DECLARAÇÃO NUTRICIONAL",
+   "01/02/27",
+   "DLeite",
+   "LOTE:C25015",
+   "1S07U/",
+   "21",
+   "四130",
+   "2O",
+   "38",
+   "ISERVACAO",
+   "OS",
+   "cà",
+   "ERENTEMENTE",
+   "OLOTE/",
+   "SOLIS305",
+   "AHTESDE",
+   "DE PREFERfNCIA",
+   "AUTO",
+   "IAERCADONA",
+   "800 500220",
+   "FECHO",
+   "ENTREPINARES",
+   "HACENDADO",
+   "Gouda",
+   "500g"
+  ],
+  "crop_wh": [
+   139,
+   96
+  ],
+  "sharpness": 102.3,
+  "ocr_s": 0.29
+ }
+}

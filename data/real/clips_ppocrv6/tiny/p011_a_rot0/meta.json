@@ -1,0 +1,295 @@
+{
+ "f000.jpg": {
+  "n_lines": 15,
+  "box": [
+   714,
+   1151,
+   848,
+   1258
+  ],
+  "level": "digits",
+  "lines": [
+   "T144258383",
+   "08:13"
+  ],
+  "all_lines": [
+   "ACENDAD",
+   "HACENDADO",
+   "HACEN",
+   "0,85.",
+   "1T",
+   "HACEADADO",
+   "C Pref: oevazr",
+   "cu/n1ns",
+   "FFab:",
+   "T144258383",
+   "08:13",
+   "E54",
+   "dbla",
+   "60500220",
+   "00ge"
+  ],
+  "crop_wh": [
+   134,
+   107
+  ],
+  "sharpness": 176.5,
+  "ocr_s": 0.23
+ },
+ "f006.jpg": {
+  "n_lines": 16,
+  "box": [
+   855,
+   1063,
+   984,
+   1159
+  ],
+  "level": "digits",
+  "lines": [
+   "T144258383",
+   "08:13"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "0.85e",
+   "HACED",
+   "P",
+   "M",
+   "C.Pref:OSVazr",
+   "F.Fab:ou2s",
+   "T144258383",
+   "08:13",
+   "23",
+   "E54",
+   "YACION/CONSERVACÃO",
+   "bogrtees soe prlegido da kz,",
+   "600500220",
+   "Aso ht",
+   "00ge"
+  ],
+  "crop_wh": [
+   129,
+   96
+  ],
+  "sharpness": 184.5,
+  "ocr_s": 0.23
+ },
+ "f012.jpg": {
+  "n_lines": 26,
+  "box": [
+   640,
+   1211,
+   798,
+   1349
+  ],
+  "level": "digits",
+  "lines": [
+   "800500220",
+   "MERCADONA"
+  ],
+  "all_lines": [
+   "IACENDAD",
+   "0,85e",
+   "HACED",
+   "etaies",
+   "0",
+   "N",
+   "ONPSA6",
+   "ca H",
+   "35",
+   "2.5g",
+   "6560",
+   "c.Pref: osvazr",
+   "24/1128",
+   "F.Fab:",
+   "T144258383",
+   "08:13",
+   "E54",
+   "VACIÓN/CONSERVAÇÃO",
+   "p e ey petegido dela az",
+   "B",
+   "B402001",
+   "GC",
+   "MERCADONA",
+   "800500220",
+   "ose/Peso auido:",
+   "00ge"
+  ],
+  "crop_wh": [
+   158,
+   138
+  ],
+  "sharpness": 181.8,
+  "ocr_s": 0.25
+ },
+ "f018.jpg": {
+  "n_lines": 20,
+  "box": [
+   655,
+   1214,
+   817,
+   1345
+  ],
+  "level": "digits",
+  "lines": [
+   "800500220",
+   "MERCADON"
+  ],
+  "all_lines": [
+   "HACENDAI",
+   "0,85:",
+   "HACEND",
+   "3",
+   "3",
+   "139",
+   "C.Pref wezr",
+   "130",
+   "F.Fab:ON12s",
+   "23",
+   "T144258383",
+   "06:13",
+   "E54",
+   "hpr te ecy pokepido de l itz",
+   "bgr tes secoe proegido da kz.",
+   "CA",
+   "MERCADON",
+   "800500220",
+   "tPeo ta",
+   "100ge"
+  ],
+  "crop_wh": [
+   162,
+   131
+  ],
+  "sharpness": 183.1,
+  "ocr_s": 0.24
+ },
+ "f024.jpg": {
+  "n_lines": 17,
+  "box": [
+   645,
+   1255,
+   811,
+   1381
+  ],
+  "level": "digits",
+  "lines": [
+   "9800500220",
+   "MERCADONA"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "0,85c",
+   "RACEUMD",
+   "do",
+   "250",
+   "C.Pref:Ow0azt",
+   "339",
+   "F.Fab:0S1108",
+   "T144258383",
+   "06.13",
+   "ES4",
+   "thes seo e potigido do hue.",
+   "MERCADONA",
+   "9",
+   "9800500220",
+   "enoPeso thpeide",
+   "100ge"
+  ],
+  "crop_wh": [
+   166,
+   126
+  ],
+  "sharpness": 188.7,
+  "ocr_s": 0.24
+ },
+ "f030.jpg": {
+  "n_lines": 23,
+  "box": [
+   717,
+   1006,
+   813,
+   1102
+  ],
+  "level": "digits",
+  "lines": [
+   "2369"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "0,85₄",
+   "S",
+   "HACEDUD",
+   "8",
+   "2369",
+   "220",
+   "18S",
+   "330",
+   "C.Prel:ver",
+   "0S/11a8",
+   "239",
+   "F.Fab:",
+   "T144258383",
+   "06:13",
+   "E54",
+   "EVACIÓN/CONSERVAÇÃO",
+   "prbesoy potigido de b iez",
+   "kogriesca ecm e prsegdo da ke.",
+   "Ci",
+   "202001",
+   "HERCADONA",
+   "100ge"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 189.8,
+  "ocr_s": 0.24
+ },
+ "f036.jpg": {
+  "n_lines": 24,
+  "box": [
+   925,
+   1040,
+   1077,
+   1159
+  ],
+  "level": "date",
+  "lines": [
+   "F.Fab:c9/11/28"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "0,85e",
+   "HACETID",
+   "de",
+   "soja e cereals com glit",
+   "08635",
+   "23,60",
+   "2.50",
+   "6560",
+   "230",
+   "38",
+   "C.Pref: oweezr",
+   "F.Fab:c9/11/28",
+   "230",
+   "T144258383",
+   "06:13",
+   "E54",
+   "VACIÓN/CONSERVAÇÃO",
+   "bprte sy rotepido de isz",
+   "bpr teg seo e protegiko ds the",
+   "812020014014512",
+   "950220",
+   "Pero liues",
+   "00ge"
+  ],
+  "crop_wh": [
+   152,
+   119
+  ],
+  "sharpness": 197.3,
+  "ocr_s": 0.22
+ }
+}

@@ -1,0 +1,194 @@
+{
+ "f000.jpg": {
+  "n_lines": 7,
+  "box": [
+   557,
+   1129,
+   1038,
+   1509
+  ],
+  "level": "digits",
+  "lines": [
+   "L320070-382100",
+   "R20M11"
+  ],
+  "all_lines": [
+   "",
+   "RACENDAO",
+   "ICEPERG",
+   "AVADA",
+   "L320070-382100",
+   "R20M11",
+   "Origen/Origem:"
+  ],
+  "crop_wh": [
+   481,
+   380
+  ],
+  "sharpness": 148.7,
+  "ocr_s": 0.23
+ },
+ "f006.jpg": {
+  "n_lines": 5,
+  "box": [
+   738,
+   631,
+   1650,
+   1349
+  ],
+  "level": "digits",
+  "lines": [
+   "221.26",
+   "R20M11"
+  ],
+  "all_lines": [
+   "ICERERG",
+   "AVAD",
+   "221.26",
+   "R20M11",
+   "Origen/Origem:"
+  ],
+  "crop_wh": [
+   912,
+   718
+  ],
+  "sharpness": 22.9,
+  "ocr_s": 0.22
+ },
+ "f012.jpg": {
+  "n_lines": 5,
+  "box": [
+   637,
+   511,
+   1553,
+   1251
+  ],
+  "level": "digits",
+  "lines": [
+   "221126",
+   "R20M11"
+  ],
+  "all_lines": [
+   "CERUK",
+   "VADA",
+   "221126",
+   "R20M11",
+   "Origen/Origem:"
+  ],
+  "crop_wh": [
+   916,
+   740
+  ],
+  "sharpness": 37.5,
+  "ocr_s": 0.22
+ },
+ "f018.jpg": {
+  "n_lines": 6,
+  "box": [
+   604,
+   510,
+   1503,
+   1244
+  ],
+  "level": "digits",
+  "lines": [
+   "221126",
+   "R20M11"
+  ],
+  "all_lines": [
+   "ICERUK",
+   "VADA",
+   "221126",
+   "R20M11",
+   "Origen/Origem:",
+   "España/Espanha"
+  ],
+  "crop_wh": [
+   899,
+   734
+  ],
+  "sharpness": 43.7,
+  "ocr_s": 0.23
+ },
+ "f024.jpg": {
+  "n_lines": 5,
+  "box": [
+   580,
+   492,
+   1475,
+   1234
+  ],
+  "level": "digits",
+  "lines": [
+   "2211226",
+   "R20M11"
+  ],
+  "all_lines": [
+   "ICERUK",
+   "LADA",
+   "2211226",
+   "R20M11",
+   "Origen/Origem:"
+  ],
+  "crop_wh": [
+   895,
+   742
+  ],
+  "sharpness": 47.2,
+  "ocr_s": 0.24
+ },
+ "f030.jpg": {
+  "n_lines": 6,
+  "box": [
+   565,
+   494,
+   1461,
+   1237
+  ],
+  "level": "digits",
+  "lines": [
+   "2201126",
+   "R20M11"
+  ],
+  "all_lines": [
+   "ICERGK",
+   "VADA",
+   "2201126",
+   "R20M11",
+   "Origen/Origem:",
+   "España/Espanha"
+  ],
+  "crop_wh": [
+   896,
+   743
+  ],
+  "sharpness": 49.3,
+  "ocr_s": 0.23
+ },
+ "f036.jpg": {
+  "n_lines": 4,
+  "box": [
+   552,
+   512,
+   1440,
+   1244
+  ],
+  "level": "digits",
+  "lines": [
+   "2201126",
+   "R20M11"
+  ],
+  "all_lines": [
+   "LADA",
+   "2201126",
+   "R20M11",
+   "Origen/Origem:"
+  ],
+  "crop_wh": [
+   888,
+   732
+  ],
+  "sharpness": 50.0,
+  "ocr_s": 0.21
+ }
+}

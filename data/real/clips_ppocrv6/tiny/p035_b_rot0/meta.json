@@ -1,0 +1,157 @@
+{
+ "f000.jpg": {
+  "n_lines": 6,
+  "box": [
+   567,
+   891,
+   785,
+   1322
+  ],
+  "level": "date",
+  "lines": [
+   "12.12.2027 21:02"
+  ],
+  "all_lines": [
+   "de revestimer",
+   "0",
+   "150g6",
+   "ETO·PESO",
+   "12.12.2027 21:02",
+   "L:03 6281 333"
+  ],
+  "crop_wh": [
+   218,
+   431
+  ],
+  "sharpness": 17.6,
+  "ocr_s": 0.23
+ },
+ "f006.jpg": {
+  "n_lines": 2,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "e",
+   "oc"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 10.6,
+  "ocr_s": 0.23
+ },
+ "f012.jpg": {
+  "n_lines": 2,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "3",
+   "de pref"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 6.4,
+  "ocr_s": 0.22
+ },
+ "f018.jpg": {
+  "n_lines": 2,
+  "box": [
+   833,
+   761,
+   983,
+   979
+  ],
+  "level": "date",
+  "lines": [
+   "2027"
+  ],
+  "all_lines": [
+   "iJ",
+   "2027"
+  ],
+  "crop_wh": [
+   150,
+   218
+  ],
+  "sharpness": 6.4,
+  "ocr_s": 0.22
+ },
+ "f024.jpg": {
+  "n_lines": 3,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "",
+   "nir de prot",
+   "iS."
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 6.4,
+  "ocr_s": 0.21
+ },
+ "f030.jpg": {
+  "n_lines": 1,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "J"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 6.4,
+  "ocr_s": 0.23
+ },
+ "f036.jpg": {
+  "n_lines": 2,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "J",
+   "民"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 6.2,
+  "ocr_s": 0.22
+ }
+}

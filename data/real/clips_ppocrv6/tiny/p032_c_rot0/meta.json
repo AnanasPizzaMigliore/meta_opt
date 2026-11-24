@@ -1,0 +1,307 @@
+{
+ "f000.jpg": {
+  "n_lines": 5,
+  "box": [
+   580,
+   1176,
+   695,
+   1272
+  ],
+  "level": "digits",
+  "lines": [
+   "80070072o"
+  ],
+  "all_lines": [
+   "",
+   "280ge",
+   "BRC38S",
+   "ARROZ",
+   "80070072o"
+  ],
+  "crop_wh": [
+   115,
+   96
+  ],
+  "sharpness": 252.5,
+  "ocr_s": 0.23
+ },
+ "f006.jpg": {
+  "n_lines": 20,
+  "box": [
+   975,
+   992,
+   1099,
+   1090
+  ],
+  "level": "digits",
+  "lines": [
+   "800 50020"
+  ],
+  "all_lines": [
+   "",
+   "B",
+   "AS0EA",
+   "",
+   "EE6e",
+   "PO10",
+   "ARROZ",
+   "PE",
+   "ARROZ",
+   "280ge",
+   "K5CRNUKQ",
+   "TECSis-Rs",
+   "ARROZ",
+   "ARROZ",
+   "800 50020",
+   "MOG",
+   "",
+   "ARROZ",
+   "U",
+   "EOYR"
+  ],
+  "crop_wh": [
+   124,
+   98
+  ],
+  "sharpness": 276.0,
+  "ocr_s": 0.25
+ },
+ "f012.jpg": {
+  "n_lines": 30,
+  "box": [
+   975,
+   985,
+   1114,
+   1098
+  ],
+  "level": "digits",
+  "lines": [
+   "800500220",
+   "MERCADONA"
+  ],
+  "all_lines": [
+   "I120O",
+   "W",
+   "脑",
+   "疗",
+   "回F",
+   "d",
+   "C1",
+   "3",
+   "5",
+   "m",
+   "A",
+   "ARROZ",
+   "白装销馆",
+   "280ge",
+   "BRSJ04-RR",
+   "aeticol",
+   "ARROZ",
+   "800500220",
+   "MERCADONA",
+   "ARROZ",
+   "080",
+   "PLANS TRAACONESSA",
+   "Fratngor",
+   "12s",
+   "A",
+   "Paraie tUl ble fieca)",
+   "Eipule/ipsesa",
+   "ARROZ",
+   "22",
+   "61"
+  ],
+  "crop_wh": [
+   139,
+   113
+  ],
+  "sharpness": 361.7,
+  "ocr_s": 0.26
+ },
+ "f018.jpg": {
+  "n_lines": 24,
+  "box": [
+   959,
+   1016,
+   1102,
+   1132
+  ],
+  "level": "digits",
+  "lines": [
+   "800 500220",
+   "MERCADONA"
+  ],
+  "all_lines": [
+   "7",
+   "A51",
+   "TumTEO",
+   "171",
+   "LOMO",
+   "AKROZ",
+   "280ge",
+   "Praleetisatr",
+   "Y5D",
+   "BECIAs-Rry",
+   "ARROZ",
+   "80",
+   "800 500220",
+   "MERCADONA",
+   "ARROZ",
+   "CB9",
+   "PLATS TEADCOALESSA",
+   "iburdam",
+   "20",
+   "AA",
+   "Puceil AU Botel Salencia)",
+   "e tudctalE Ecta USEA",
+   "ARROZ",
+   "spptlspeeds"
+  ],
+  "crop_wh": [
+   143,
+   116
+  ],
+  "sharpness": 371.5,
+  "ocr_s": 0.26
+ },
+ "f024.jpg": {
+  "n_lines": 33,
+  "box": [
+   947,
+   1027,
+   1087,
+   1140
+  ],
+  "level": "digits",
+  "lines": [
+   "800500220",
+   "MERCADOMA"
+  ],
+  "all_lines": [
+   "OLLo",
+   "m",
+   "",
+   "TEO8",
+   "0",
+   "6",
+   "图",
+   "TT",
+   "V",
+   "De",
+   "t",
+   "LOMO",
+   "ERR0Z",
+   "DO0",
+   "RROZ",
+   "280ge",
+   "BRCOSPNRS",
+   "ARROZ",
+   "800500220",
+   "MERCADOMA",
+   "6",
+   "iQ",
+   "ARROZ",
+   "Qa",
+   "229",
+   "PAEISTRIDCRAMESSA",
+   "lebricato ur",
+   "Pe",
+   "Patea SAU Eetal (Vaieaca)",
+   "e indetnd t iets sal",
+   "ARROZ",
+   "Ispeta/lpenhs",
+   "2"
+  ],
+  "crop_wh": [
+   140,
+   113
+  ],
+  "sharpness": 373.2,
+  "ocr_s": 0.28
+ },
+ "f030.jpg": {
+  "n_lines": 21,
+  "box": [
+   936,
+   1022,
+   1070,
+   1123
+  ],
+  "level": "digits",
+  "lines": [
+   "800 500220"
+  ],
+  "all_lines": [
+   "T120g",
+   "150",
+   "",
+   "1OMO",
+   "AURE2 CRD0 AES",
+   "ARROZ",
+   "neote0-4tUna",
+   "280ge",
+   "BRCIA6aEI",
+   "ARROZ",
+   "800 500220",
+   "ARROZ",
+   "a8",
+   "PLATOSTEAIGOALISSA",
+   "feonade yor",
+   "21g",
+   "Pord  ie (pencil)",
+   "odiaiBbcteusa",
+   "Epela/Espela",
+   "ARROZ",
+   "E"
+  ],
+  "crop_wh": [
+   134,
+   101
+  ],
+  "sharpness": 370.6,
+  "ocr_s": 0.25
+ },
+ "f036.jpg": {
+  "n_lines": 22,
+  "box": [
+   927,
+   1026,
+   1056,
+   1122
+  ],
+  "level": "digits",
+  "lines": [
+   "800500220"
+  ],
+  "all_lines": [
+   "O9NVH",
+   "TEAS",
+   "EID",
+   "",
+   "5",
+   "LOMO1n",
+   "ARFOZ",
+   "d园cn",
+   "280ge",
+   "BEcAs-BEN",
+   "ARROZ",
+   "800500220",
+   "ARROZ",
+   "080",
+   "RAIRSTROCEIALESSA",
+   "Feticate por",
+   "2",
+   "Puratl MU Bhief (paliaca)",
+   "s teralBeceU ",
+   "Epste/tpeca",
+   "ARR0Z",
+   "210"
+  ],
+  "crop_wh": [
+   129,
+   96
+  ],
+  "sharpness": 363.5,
+  "ocr_s": 0.25
+ }
+}

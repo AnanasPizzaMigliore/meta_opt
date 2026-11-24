@@ -1,0 +1,269 @@
+{
+ "f000.jpg": {
+  "n_lines": 24,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "1,20",
+   "melo",
+   "10x",
+   "Burritoc",
+   "SAZONADOR TEMPERO",
+   "Fajitas",
+   "SAZONADOR TEMPERO",
+   "tex",
+   "mex",
+   "Palomntas",
+   "Caramelo",
+   "HACENDADO",
+   "Pipocas",
+   "Garame",
+   "VILAPE",
+   "1,15c",
+   "HACENDADO",
+   "1,3",
+   "1,65",
+   "ILLAS",
+   "HACENDADO",
+   "TRIGO",
+   "TORTILLAS DEMA",
+   "1.85"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 231.2,
+  "ocr_s": 0.47
+ },
+ "f006.jpg": {
+  "n_lines": 18,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "imelo",
+   "10x",
+   "Burritos",
+   "SAZONADOR TENPERO",
+   "ADOR TEMPERO",
+   "SABOR",
+   "tex",
+   "mex",
+   "as Pipocas Caramelo",
+   "HACENDADO",
+   "Pipocas",
+   "Carame",
+   "1,50€",
+   "1,15c",
+   "1,30",
+   "HACEY",
+   "HACENDADO",
+   "TORTILL"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 211.2,
+  "ocr_s": 0.44
+ },
+ "f012.jpg": {
+  "n_lines": 21,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "melo",
+   "Smelo",
+   "10x",
+   "Burritos",
+   "SAZONADOK YEMPERO",
+   "EHPERO",
+   "tex",
+   "mex",
+   "Pipocas Caramelo",
+   "HACENDALO",
+   "Dipocas",
+   "HACENDADO",
+   "Caram",
+   "1,50€",
+   "1,15e",
+   "CNACCR DURRAO",
+   "1RO",
+   "1,30",
+   "HACENDA",
+   "HACENDADO",
+   "TORTILLA"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 216.8,
+  "ocr_s": 0.45
+ },
+ "f018.jpg": {
+  "n_lines": 18,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "imelo",
+   "smelo",
+   "10x",
+   "Burritos",
+   "SAZONADOR-TEMPERO",
+   "tex",
+   "mex",
+   "ipocas Caramelo",
+   "Pipocas",
+   "HACENDADO",
+   "Carame",
+   "1,50c",
+   "1,15",
+   "CWADORBURRITO",
+   "1,3",
+   "HACENDADO",
+   "HACENDADO",
+   "TORTILLAS"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 214.6,
+  "ocr_s": 0.44
+ },
+ "f024.jpg": {
+  "n_lines": 17,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Imelo",
+   "smelo",
+   "10x",
+   "Burritos",
+   "SAZONADOR TEMFENO",
+   "tex",
+   "mex",
+   "Pipocas",
+   "pocas",
+   "Caramelo",
+   "Garame",
+   "HACENDADO",
+   "1,50c",
+   "1,15€",
+   "HACENDAD",
+   "HACENDADO",
+   "TORTILLAS"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 209.6,
+  "ocr_s": 0.43
+ },
+ "f030.jpg": {
+  "n_lines": 16,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "imelo",
+   "smelo",
+   "Burritos",
+   "BAZONADOR TEMFERG",
+   "tex",
+   "mex",
+   "Pipocas",
+   "Pipocas Caramelo",
+   "Garame",
+   "HACENDADO",
+   "1.50€",
+   "1,15€",
+   "VADOR BUR",
+   "HACENDADO",
+   "HACENDADO",
+   "TORTILLAS"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 207.0,
+  "ocr_s": 0.42
+ },
+ "f036.jpg": {
+  "n_lines": 20,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "imelo",
+   "amelo",
+   "SAZONADOE-TUMPERO",
+   "10x",
+   "Burritos",
+   "Palomaa",
+   "tex",
+   "mex",
+   "Pipocas",
+   "Pipocas",
+   "Caramelo",
+   "Garame",
+   "HACENDADO",
+   "HACCNDADO",
+   "1,50c",
+   "1,15€",
+   "EcaDoh",
+   "HACENDADO",
+   "HACENDADO",
+   "TORTILLAS"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 207.2,
+  "ocr_s": 0.44
+ }
+}

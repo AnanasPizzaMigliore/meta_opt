@@ -1,0 +1,359 @@
+{
+ "f000.jpg": {
+  "n_lines": 30,
+  "box": [
+   766,
+   499,
+   862,
+   595
+  ],
+  "level": "digits",
+  "lines": [
+   "1780"
+  ],
+  "all_lines": [
+   "Flan",
+   "HACENDADO",
+   "mchz",
+   "HACENDADO",
+   "HACENDADO",
+   "GELATINA SABAN",
+   "MSICUYA",
+   "EREA",
+   "CEREA",
+   "1780",
+   "180",
+   "WKENDADO",
+   "HACENDAD",
+   "GELATINA SABOR",
+   "HACENDADO",
+   "Aoranie Fled",
+   "0",
+   "CEREA",
+   "1,80€",
+   "13",
+   "1",
+   "MELOCOTÓN",
+   "EN ALMÍBAR",
+   "6x840G.",
+   "1,95€",
+   "TIACENDADO",
+   "SUSO",
+   "ocl",
+   "PIÑA AHANAS",
+   "PifA A s"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 307.1,
+  "ocr_s": 1.74
+ },
+ "f006.jpg": {
+  "n_lines": 25,
+  "box": [
+   122,
+   1174,
+   410,
+   1380
+  ],
+  "level": "digits",
+  "lines": [
+   "6 x840 G."
+  ],
+  "all_lines": [
+   "Flan",
+   "HACENDADO",
+   "HACENDADO",
+   "HACENDADO",
+   "GELATINA SADR",
+   "MSICUVA",
+   "REOA",
+   "MAX",
+   "CEREA",
+   "10x",
+   "180",
+   "INENDADO",
+   "GELATINA SABOR",
+   "HACENDADO",
+   "HACENDADO",
+   "CEREA",
+   "1,80€",
+   "MELOCOTÓN",
+   "EN ALMÍBAR",
+   "AKESEV",
+   "6 x840 G.",
+   "1,95€",
+   "TIACENDADO",
+   "SAUSEN",
+   "GUSCM"
+  ],
+  "crop_wh": [
+   288,
+   206
+  ],
+  "sharpness": 282.8,
+  "ocr_s": 1.65
+ },
+ "f012.jpg": {
+  "n_lines": 31,
+  "box": [
+   93,
+   1185,
+   387,
+   1397
+  ],
+  "level": "digits",
+  "lines": [
+   "6×840 G."
+  ],
+  "all_lines": [
+   "Flan",
+   "HACENDADO",
+   "HACENDADO",
+   "HACENDADO",
+   "2,10c",
+   "GELATINA SABER",
+   "MACUYA",
+   "5A",
+   "SMOTHIE",
+   "CEREA",
+   "SMOT",
+   "10x",
+   "1.80",
+   "GELATINA SABOR",
+   "WRINDADO",
+   "HACENDADO",
+   "CENDADO",
+   "CEREA",
+   "1,80€",
+   "103",
+   "MELOCOTON",
+   "EN ALMÍBAR",
+   "HACENDAN",
+   "SOASIN",
+   "TIACENDADO",
+   "6×840 G.",
+   "1,95c",
+   "PiA s",
+   "PIÑA ANANÁS",
+   "PiA AAs",
+   "PIRA"
+  ],
+  "crop_wh": [
+   294,
+   212
+  ],
+  "sharpness": 277.5,
+  "ocr_s": 1.73
+ },
+ "f018.jpg": {
+  "n_lines": 33,
+  "box": [
+   1311,
+   0,
+   1407,
+   96
+  ],
+  "level": "digits",
+  "lines": [
+   "1224"
+  ],
+  "all_lines": [
+   "Flan",
+   "HACENDADO",
+   "1224",
+   "HACENDADO",
+   "HACENDADO",
+   "2,10€",
+   "GELATINA SARC",
+   "SMOTHIE",
+   "SMOOTHIE",
+   "A",
+   "CEREA",
+   "10x",
+   "GELATINA SABOR",
+   "180",
+   "HIRENDADO",
+   "CEREA",
+   "HACENDADO",
+   "NDADO",
+   "1,80€",
+   "10134",
+   "Ianiop",
+   "MELOCOTÓN",
+   "EN ALMÍBAR",
+   "RUINA",
+   "SASBI",
+   "TIACENDADO",
+   "GLOGM",
+   "1,95€",
+   "6 ×840 G.",
+   "PINA ANAÑÁS",
+   "PIÑA AHANÁS",
+   "PA As",
+   "Pi&A AAS"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 266.2,
+  "ocr_s": 1.78
+ },
+ "f024.jpg": {
+  "n_lines": 31,
+  "box": [
+   74,
+   1206,
+   377,
+   1428
+  ],
+  "level": "digits",
+  "lines": [
+   "6 x840 G."
+  ],
+  "all_lines": [
+   "Flan",
+   "HACENDADO",
+   "HACENDADO",
+   "HACENDADO",
+   "2,10e",
+   "GELATINA SASEN",
+   "SMTHIE",
+   "A",
+   "CEREA",
+   "10x",
+   "GELATINA SABOR",
+   "180",
+   "WAINDADO",
+   "CEREA",
+   "HACENDADO",
+   "NDADO",
+   "1,80€",
+   "103",
+   "Lon00",
+   "MELOCOTÓN",
+   "EN ALMÍBAR",
+   "RACEOUN",
+   "S0",
+   "TIACENDADO",
+   "GLSSH",
+   "1,95€",
+   "6 x840 G.",
+   "PINA ANANAS",
+   "s",
+   "SUNNY",
+   "PfiA As"
+  ],
+  "crop_wh": [
+   303,
+   222
+  ],
+  "sharpness": 263.7,
+  "ocr_s": 1.74
+ },
+ "f030.jpg": {
+  "n_lines": 29,
+  "box": [
+   1300,
+   5,
+   1405,
+   101
+  ],
+  "level": "digits",
+  "lines": [
+   "1008"
+  ],
+  "all_lines": [
+   "Flan",
+   "O",
+   "HACENDADO",
+   "1008",
+   "Sun",
+   "HACENDADO",
+   "HACENDADO",
+   "2,10€",
+   "GELATINA SASS",
+   "SMOTHIE",
+   "CEREA",
+   "10x",
+   "180c",
+   "HNSNDADO",
+   "CEREA",
+   "HACENDADO",
+   "ADO",
+   "1,80€",
+   "1030",
+   "np",
+   "MELOCOTON",
+   "EN ALMÍBAR",
+   "TIACENDADO",
+   "1,95€",
+   "6×840 G.",
+   "PINA AHANAS",
+   "PIÑA ANAñÁS",
+   "INANÁS",
+   "PiA As"
+  ],
+  "crop_wh": [
+   105,
+   96
+  ],
+  "sharpness": 264.9,
+  "ocr_s": 1.7
+ },
+ "f036.jpg": {
+  "n_lines": 31,
+  "box": [
+   61,
+   1220,
+   369,
+   1446
+  ],
+  "level": "digits",
+  "lines": [
+   "6×840 G."
+  ],
+  "all_lines": [
+   "Flan",
+   "HACENDADO",
+   "24",
+   "Gu",
+   "HACENDADO",
+   "HACENDADO",
+   "2,10c",
+   "DELATINA SASOE",
+   "SMOTHIE",
+   "SMOTHIE",
+   "CEREA",
+   "10x",
+   "180c",
+   "WAINDADO",
+   "CEREA",
+   "HACENDADO",
+   "DADO",
+   "1,80€",
+   "103",
+   "UHRIEND",
+   "MELOCOTÓN",
+   "EN ALMÍBAR",
+   "您",
+   "RICZAA",
+   "TIACENDADO",
+   "GUSCN",
+   "1,95€",
+   "6×840 G.",
+   "PINA ANANAS",
+   "Pi s",
+   "PiA AANS"
+  ],
+  "crop_wh": [
+   308,
+   226
+  ],
+  "sharpness": 264.5,
+  "ocr_s": 1.75
+ }
+}

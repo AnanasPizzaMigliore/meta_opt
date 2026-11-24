@@ -1,0 +1,239 @@
+{
+ "f000.jpg": {
+  "n_lines": 14,
+  "box": [
+   1045,
+   837,
+   1233,
+   1043
+  ],
+  "level": "digits",
+  "lines": [
+   "2111741007534",
+   "DECADOCIDAD"
+  ],
+  "all_lines": [
+   "7,53€",
+   "D,509kg",
+   "PESO ICO",
+   "AO10",
+   "DECADOCIDAD",
+   "JARRETE",
+   "MORCILLO",
+   "AIREGLOS",
+   "VACUNO",
+   "2111741007534",
+   "ZARPEIE/MOECHAC",
+   "MANOS",
+   "",
+   "S1"
+  ],
+  "crop_wh": [
+   188,
+   206
+  ],
+  "sharpness": 296.9,
+  "ocr_s": 0.23
+ },
+ "f006.jpg": {
+  "n_lines": 13,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "VOaNO",
+   "D",
+   "7,53€",
+   ",509kg",
+   "ASONO",
+   "MORCILLO/",
+   "ARREGLOS",
+   "JARRETE",
+   "VACUNO",
+   "MANOS",
+   "",
+   "",
+   "10E!"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 289.2,
+  "ocr_s": 0.22
+ },
+ "f012.jpg": {
+  "n_lines": 12,
+  "box": [
+   845,
+   834,
+   941,
+   930
+  ],
+  "level": "digits",
+  "lines": [
+   "2111741"
+  ],
+  "all_lines": [
+   "7,53€",
+   "P.V.F",
+   "UCO EL",
+   "PESONETO",
+   "80€",
+   "ADECADOCIDAD",
+   "MORCILLO",
+   "JARRETE",
+   "2111741",
+   "MANOS",
+   "女酬",
+   "1发"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 300.6,
+  "ocr_s": 0.21
+ },
+ "f018.jpg": {
+  "n_lines": 14,
+  "box": [
+   844,
+   751,
+   1018,
+   958
+  ],
+  "level": "digits",
+  "lines": [
+   "0,509kg",
+   "2313741007",
+   "DT CADUCIDAD"
+  ],
+  "all_lines": [
+   "See",
+   "7,53€",
+   "0,509kg",
+   "110 加ETO",
+   "ANOIO",
+   "DT CADUCIDAD",
+   "工",
+   "MORCILLO/",
+   "JARRETE",
+   "2313741007",
+   "MANOS",
+   "",
+   "",
+   "阳R"
+  ],
+  "crop_wh": [
+   174,
+   207
+  ],
+  "sharpness": 302.7,
+  "ocr_s": 0.2
+ },
+ "f024.jpg": {
+  "n_lines": 9,
+  "box": [
+   838,
+   841,
+   934,
+   937
+  ],
+  "level": "digits",
+  "lines": [
+   "2113741007"
+  ],
+  "all_lines": [
+   "7,53€",
+   "P.V.P",
+   ",509kg",
+   "口",
+   "MORCILLO/",
+   "JARRETE",
+   "2113741007",
+   "金",
+   "H"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 299.8,
+  "ocr_s": 0.2
+ },
+ "f030.jpg": {
+  "n_lines": 15,
+  "box": [
+   848,
+   768,
+   973,
+   957
+  ],
+  "level": "digits",
+  "lines": [
+   "0,509kg",
+   "211374160"
+  ],
+  "all_lines": [
+   "7,53€",
+   "0,509kg",
+   "FLSOTO",
+   "AROJO",
+   "50e",
+   "MORCILLO/",
+   ".26",
+   "JARRETE",
+   "2",
+   "UCIOAD",
+   "211374160",
+   "MANOS",
+   "S1",
+   "",
+   "营叠"
+  ],
+  "crop_wh": [
+   125,
+   189
+  ],
+  "sharpness": 300.9,
+  "ocr_s": 0.22
+ },
+ "f036.jpg": {
+  "n_lines": 10,
+  "box": [
+   847,
+   768,
+   973,
+   962
+  ],
+  "level": "digits",
+  "lines": [
+   "0,509kg",
+   "231374100"
+  ],
+  "all_lines": [
+   "7,53€",
+   "P.V.P",
+   "0,509kg",
+   "FESS NT",
+   "MORCILLO/",
+   "JARRETE",
+   "DAE",
+   "231374100",
+   "MANOS",
+   "团"
+  ],
+  "crop_wh": [
+   126,
+   194
+  ],
+  "sharpness": 302.4,
+  "ocr_s": 0.21
+ }
+}

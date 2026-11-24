@@ -1,0 +1,264 @@
+{
+ "f000.jpg": {
+  "n_lines": 20,
+  "box": [
+   942,
+   630,
+   1639,
+   1109
+  ],
+  "level": "digits",
+  "lines": [
+   "30/096810927",
+   "35127"
+  ],
+  "all_lines": [
+   "1,75e",
+   "AALOA",
+   " Q",
+   "OQUESO",
+   "",
+   "HACENDADO",
+   "SALS!",
+   "LGA",
+   "OYQUESI",
+   "IESO",
+   "商",
+   "HACENDADO",
+   "SALBACEQUESO",
+   "1,65",
+   "30/096810927",
+   "YUTRO 5.8",
+   "35127",
+   "VENA",
+   "NN",
+   "LUNIDA"
+  ],
+  "crop_wh": [
+   697,
+   479
+  ],
+  "sharpness": 127.5,
+  "ocr_s": 1.59
+ },
+ "f006.jpg": {
+  "n_lines": 16,
+  "box": [
+   931,
+   621,
+   1636,
+   1109
+  ],
+  "level": "digits",
+  "lines": [
+   "3009512/27",
+   "7127"
+  ],
+  "all_lines": [
+   "1,75",
+   "SALSA",
+   " Qecr",
+   "QUESO",
+   "HACENDADO",
+   "SALSI",
+   "0",
+   "CA",
+   "QUESO",
+   "HACENDADO",
+   "9用",
+   "1,65",
+   "3009512/27",
+   "SAmRO 5.8",
+   "7127",
+   "ENA"
+  ],
+  "crop_wh": [
+   705,
+   488
+  ],
+  "sharpness": 127.0,
+  "ocr_s": 1.53
+ },
+ "f012.jpg": {
+  "n_lines": 14,
+  "box": [
+   931,
+   619,
+   1639,
+   1109
+  ],
+  "level": "digits",
+  "lines": [
+   "00117",
+   "7321279"
+  ],
+  "all_lines": [
+   "1,75c",
+   "SALSA",
+   "QUESO",
+   "TOS",
+   "HACENDADO",
+   "SALGA",
+   "QUESI",
+   "HACENDADO",
+   "ADEQUESO",
+   "1,65",
+   "00117",
+   "tumo 5",
+   "7321279",
+   "ENA"
+  ],
+  "crop_wh": [
+   708,
+   490
+  ],
+  "sharpness": 127.8,
+  "ocr_s": 1.41
+ },
+ "f018.jpg": {
+  "n_lines": 15,
+  "box": [
+   919,
+   598,
+   1593,
+   999
+  ],
+  "level": "date",
+  "lines": [
+   "30 10/27"
+  ],
+  "all_lines": [
+   "1,75e",
+   "JALSA",
+   " Q",
+   "OQUESO",
+   "HACENDADO",
+   "SALSA",
+   "QUESI",
+   "HACENDADO",
+   "30 10/27",
+   "SALSA DE QUESO",
+   "1.6",
+   "7335127",
+   "13m0",
+   "VENA",
+   "W"
+  ],
+  "crop_wh": [
+   674,
+   401
+  ],
+  "sharpness": 122.7,
+  "ocr_s": 1.43
+ },
+ "f024.jpg": {
+  "n_lines": 16,
+  "box": [
+   358,
+   589,
+   1635,
+   1095
+  ],
+  "level": "digits",
+  "lines": [
+   "309/6891/27",
+   "7527",
+   "10180"
+  ],
+  "all_lines": [
+   "175c",
+   "",
+   "ust Qic",
+   "BALSA",
+   "QUESO",
+   "HACENDADO",
+   "SALE!",
+   "O'QUESI",
+   "HACENDADO",
+   "309/6891/27",
+   "SALSADEQUESO",
+   "1.6",
+   "7527",
+   "10180",
+   "ENAY",
+   "NN"
+  ],
+  "crop_wh": [
+   1277,
+   506
+  ],
+  "sharpness": 122.1,
+  "ocr_s": 1.44
+ },
+ "f030.jpg": {
+  "n_lines": 16,
+  "box": [
+   558,
+   408,
+   654,
+   504
+  ],
+  "level": "digits",
+  "lines": [
+   "100.00"
+  ],
+  "all_lines": [
+   "1,75c",
+   "SALSA",
+   "100.00",
+   "QEx2",
+   "OQUESO",
+   "丽",
+   "HACENDADO",
+   "SALS!",
+   "",
+   "CYQUESI",
+   "田",
+   "HACENDADO",
+   "300712",
+   "AMBADEQUESO",
+   "早712",
+   "VENA"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 120.9,
+  "ocr_s": 1.42
+ },
+ "f036.jpg": {
+  "n_lines": 13,
+  "box": [
+   907,
+   568,
+   1613,
+   986
+  ],
+  "level": "date",
+  "lines": [
+   "09/11/27"
+  ],
+  "all_lines": [
+   "1,75c",
+   "BILSA",
+   "QUESO",
+   "用",
+   "HACENDADO",
+   "SALO!",
+   "IQUESO",
+   "HACENDADO",
+   "09/11/27",
+   "SALSA DE QUESO",
+   "72122",
+   "VENA",
+   "NN"
+  ],
+  "crop_wh": [
+   706,
+   418
+  ],
+  "sharpness": 118.1,
+  "ocr_s": 1.34
+ }
+}

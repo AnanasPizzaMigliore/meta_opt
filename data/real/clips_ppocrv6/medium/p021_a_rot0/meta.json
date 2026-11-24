@@ -1,0 +1,324 @@
+{
+ "f000.jpg": {
+  "n_lines": 20,
+  "box": [
+   450,
+   1028,
+   563,
+   1214
+  ],
+  "level": "date",
+  "lines": [
+   "25.11.26 R 22"
+  ],
+  "all_lines": [
+   "MEDIO MAGRET",
+   "HIGADOS",
+   "POLLO",
+   "m",
+   "POLLO",
+   "POLLO",
+   "POLLO",
+   "POLLO",
+   "POLLO",
+   "TAQUITOS DE",
+   "FLCNA LADUCLORD",
+   "POLLO",
+   "PISO NEID",
+   "25.11.26 R 22",
+   "PECIE KIIP",
+   "0.315kg",
+   "7.50€",
+   "2,36€",
+   "POLLO",
+   "731/564002363"
+  ],
+  "crop_wh": [
+   113,
+   186
+  ],
+  "sharpness": 244.1,
+  "ocr_s": 1.56
+ },
+ "f006.jpg": {
+  "n_lines": 26,
+  "box": [
+   833,
+   777,
+   953,
+   966
+  ],
+  "level": "date",
+  "lines": [
+   "25.11.26 R 22.",
+   "FELHA CADUCTOAD"
+  ],
+  "all_lines": [
+   "POLLO",
+   "POLILO",
+   "MOLLEJAS",
+   "POLLO",
+   "400日",
+   "HICADOS",
+   "POLLO",
+   "100",
+   "POLLO",
+   "POI",
+   "0.315kg",
+   "PISO NEIP",
+   "25.11.26 R 22.",
+   "FELHA CADUCTOAD",
+   "TAQUITOS DE",
+   "7.50 €",
+   "PRECIC KILP",
+   "2,36€",
+   "PVP",
+   "POLLO",
+   "POLLO",
+   "731/564002363",
+   "POLLO",
+   "POLLO",
+   "TAOUITOS DE",
+   "POLLO"
+  ],
+  "crop_wh": [
+   120,
+   189
+  ],
+  "sharpness": 225.8,
+  "ocr_s": 1.67
+ },
+ "f012.jpg": {
+  "n_lines": 24,
+  "box": [
+   880,
+   744,
+   998,
+   933
+  ],
+  "level": "date",
+  "lines": [
+   "25.11.26 R 22",
+   "FLLHA CADUCIDAD"
+  ],
+  "all_lines": [
+   "POLLO",
+   "POLLO",
+   "MOLLEJAS",
+   "POLLO",
+   "Fumum",
+   "HIGADOS",
+   "POLLO",
+   "PeLLO",
+   "0.315kg",
+   "PISO NEIP",
+   "25.11.26 R 22",
+   "FLLHA CADUCIDAD",
+   "TAQUITOS DE",
+   "7.50 €",
+   "PRECIO KILD",
+   "2,36€",
+   "PVP",
+   "POLLO",
+   "POLLO",
+   "731/564002363",
+   "TNO",
+   "POLLO",
+   "TAQUITOS DE",
+   "POLLO"
+  ],
+  "crop_wh": [
+   118,
+   189
+  ],
+  "sharpness": 218.5,
+  "ocr_s": 1.64
+ },
+ "f018.jpg": {
+  "n_lines": 27,
+  "box": [
+   834,
+   748,
+   952,
+   938
+  ],
+  "level": "date",
+  "lines": [
+   "25.11.26 R 22.",
+   "FLLHA CADUCTORD"
+  ],
+  "all_lines": [
+   "POLLO",
+   "POLLO",
+   "MOLLEJAS",
+   "POLLO",
+   "MMOADOS",
+   "000",
+   "POLLO",
+   "Mama",
+   "roLlo",
+   "POLLO",
+   "POLLO",
+   "0.315kg",
+   "PESO NEIP",
+   "25.11.26 R 22.",
+   "FLLHA CADUCTORD",
+   "TAQUITOS DE",
+   "PVP",
+   "7.50 €",
+   "PRECIO KILP",
+   "2,36€",
+   "POLLO",
+   "POLLO",
+   "731/564002363",
+   "POLLO",
+   "1AQUITOS DE",
+   "POLLO",
+   "258€"
+  ],
+  "crop_wh": [
+   118,
+   190
+  ],
+  "sharpness": 217.3,
+  "ocr_s": 1.69
+ },
+ "f024.jpg": {
+  "n_lines": 24,
+  "box": [
+   826,
+   741,
+   945,
+   930
+  ],
+  "level": "date",
+  "lines": [
+   "25.11.26 R 22",
+   "FLLHA CADUCTDAD"
+  ],
+  "all_lines": [
+   "POLLO",
+   "POLLO",
+   "MOLLEJAS",
+   "POLLO",
+   "MIGADOS",
+   "POLLO",
+   "poLle",
+   "FOLLO",
+   "PISO NEIP",
+   "25.11.26 R 22",
+   "FLLHA CADUCTDAD",
+   "TAQUITOS DE",
+   "7.50 €",
+   "PRECIO KILD",
+   "0.315kg",
+   "2,36€",
+   "PVP",
+   "POLLO",
+   "POLLO",
+   "7317564002363",
+   "POLLO",
+   "THOUTTOS DE",
+   "POLLO",
+   "2,58€"
+  ],
+  "crop_wh": [
+   119,
+   189
+  ],
+  "sharpness": 214.5,
+  "ocr_s": 1.64
+ },
+ "f030.jpg": {
+  "n_lines": 24,
+  "box": [
+   818,
+   739,
+   937,
+   929
+  ],
+  "level": "date",
+  "lines": [
+   "25.11.26 R 22.",
+   "FICHA CADUCTDAD"
+  ],
+  "all_lines": [
+   "POLLO",
+   "MOLLEJAS",
+   "POLLO",
+   "1004005",
+   "30",
+   "POLLO",
+   "Dh",
+   "POLLO",
+   "0.315kg",
+   "PESO NEIP",
+   "25.11.26 R 22.",
+   "FICHA CADUCTDAD",
+   "TAQUITOS DE",
+   "7.50 €",
+   "PECIO KILP",
+   "2,36€",
+   "PVP",
+   "POLLO",
+   "POLLO",
+   "231/564002363",
+   "POLLO",
+   "TROUITOS DE",
+   "POLLO",
+   "258€"
+  ],
+  "crop_wh": [
+   119,
+   190
+  ],
+  "sharpness": 214.3,
+  "ocr_s": 1.62
+ },
+ "f036.jpg": {
+  "n_lines": 24,
+  "box": [
+   809,
+   711,
+   931,
+   905
+  ],
+  "level": "date",
+  "lines": [
+   "25.11.26 R 22",
+   "FICHA CADUCIDRD"
+  ],
+  "all_lines": [
+   "POLLO",
+   "MOLLEJAS",
+   "POLLO",
+   "HIGADOS",
+   "1110",
+   "POLLO",
+   "feh",
+   "POLLO",
+   "POLLO",
+   "PISO NETH",
+   "25.11.26 R 22",
+   "FICHA CADUCIDRD",
+   "TAQUITOS DE",
+   "7.50 €",
+   "PRECIO KILP",
+   "0.315kg",
+   "2,36€",
+   "PVP",
+   "POLLO",
+   "POLLO",
+   "731/564002363",
+   "POLLO",
+   "TAOUITDS DE",
+   "POLLO"
+  ],
+  "crop_wh": [
+   122,
+   194
+  ],
+  "sharpness": 210.8,
+  "ocr_s": 1.63
+ }
+}

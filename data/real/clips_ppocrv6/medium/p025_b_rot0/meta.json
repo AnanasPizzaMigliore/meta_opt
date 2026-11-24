@@ -1,0 +1,236 @@
+{
+ "f000.jpg": {
+  "n_lines": 12,
+  "box": [
+   1016,
+   526,
+   1342,
+   1360
+  ],
+  "level": "date",
+  "lines": [
+   "01/12/2026 R28"
+  ],
+  "all_lines": [
+   "150ge",
+   "Sugerencia de pres",
+   "Sugestão de aprese",
+   "FESCO",
+   "NACA",
+   "01/12/2026 R28",
+   "Burrate",
+   "20c",
+   "1307",
+   "NATURA",
+   "URAL",
+   "NATURAL"
+  ],
+  "crop_wh": [
+   326,
+   834
+  ],
+  "sharpness": 52.1,
+  "ocr_s": 1.4
+ },
+ "f006.jpg": {
+  "n_lines": 16,
+  "box": [
+   1133,
+   176,
+   1505,
+   964
+  ],
+  "level": "date",
+  "lines": [
+   "01/12/2026"
+  ],
+  "all_lines": [
+   "OS4",
+   "01/12/2026",
+   "CTODE",
+   "Burrata",
+   "R28",
+   "20c",
+   "d",
+   "NATURAL",
+   "BOSS",
+   "NATURAL",
+   "现密码",
+   "NATURAL",
+   "URAL",
+   "NATURAL",
+   "1WR75",
+   "NATURAL"
+  ],
+  "crop_wh": [
+   372,
+   788
+  ],
+  "sharpness": 57.7,
+  "ocr_s": 1.48
+ },
+ "f012.jpg": {
+  "n_lines": 10,
+  "box": [
+   1073,
+   209,
+   1443,
+   1004
+  ],
+  "level": "date",
+  "lines": [
+   "01/12/2026"
+  ],
+  "all_lines": [
+   "01/12/2026",
+   "urrata",
+   "R28",
+   "1307",
+   "Oc",
+   "NATURAL",
+   "NATURAL",
+   "NATURAL",
+   "URAL",
+   "NATURAL"
+  ],
+  "crop_wh": [
+   370,
+   795
+  ],
+  "sharpness": 46.6,
+  "ocr_s": 1.36
+ },
+ "f018.jpg": {
+  "n_lines": 14,
+  "box": [
+   1079,
+   147,
+   1450,
+   957
+  ],
+  "level": "date",
+  "lines": [
+   "01/12/2026"
+  ],
+  "all_lines": [
+   "OSA",
+   "01/12/2026",
+   "Burrata",
+   "R28",
+   "1307",
+   "20€",
+   "NATURAL",
+   "VNA",
+   "NATURAL",
+   "NATURAL",
+   "D.PCSS",
+   "URAL",
+   "ORAL",
+   "NATURAL"
+  ],
+  "crop_wh": [
+   371,
+   810
+  ],
+  "sharpness": 49.4,
+  "ocr_s": 1.45
+ },
+ "f024.jpg": {
+  "n_lines": 10,
+  "box": [
+   1054,
+   200,
+   1430,
+   996
+  ],
+  "level": "date",
+  "lines": [
+   "01/12/2026"
+  ],
+  "all_lines": [
+   "01/12/2026",
+   "urrata",
+   "R28",
+   "20€",
+   "NATURAL",
+   "NATURAL",
+   "NATURAL",
+   "URAL",
+   "NATURAL",
+   "ORAL"
+  ],
+  "crop_wh": [
+   376,
+   796
+  ],
+  "sharpness": 45.7,
+  "ocr_s": 1.36
+ },
+ "f030.jpg": {
+  "n_lines": 12,
+  "box": [
+   1041,
+   235,
+   1383,
+   1001
+  ],
+  "level": "date",
+  "lines": [
+   "01/12/2026"
+  ],
+  "all_lines": [
+   "01/12/2026",
+   "urrata",
+   "R28",
+   "1307",
+   "20€",
+   "BUASY",
+   "NATURAL",
+   "NATURAL",
+   "NATURAL",
+   "URAL",
+   "NATURAL",
+   "ORAL"
+  ],
+  "crop_wh": [
+   342,
+   766
+  ],
+  "sharpness": 44.7,
+  "ocr_s": 1.41
+ },
+ "f036.jpg": {
+  "n_lines": 13,
+  "box": [
+   1032,
+   244,
+   1373,
+   1002
+  ],
+  "level": "date",
+  "lines": [
+   "01/12/2026"
+  ],
+  "all_lines": [
+   "01/12/2026",
+   "urrata",
+   "R28",
+   "1307",
+   "Oc",
+   "NATURAL",
+   "0RU3",
+   "NATURAL",
+   "GK",
+   "NATURAL",
+   "URAL",
+   "URAL",
+   "NATURAL"
+  ],
+  "crop_wh": [
+   341,
+   758
+  ],
+  "sharpness": 46.9,
+  "ocr_s": 1.43
+ }
+}

@@ -1,0 +1,245 @@
+{
+ "f000.jpg": {
+  "n_lines": 25,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "200c",
+   "RX",
+   "Cocolizze",
+   "FERRERO",
+   "FERRERO",
+   "ROCHER",
+   "FERRIRO",
+   "12",
+   "FERRERO",
+   "ROCHER",
+   "FERRERO",
+   "Cocolizze",
+   "FERRERO",
+   "ROCHER",
+   "12",
+   "ROYAI",
+   "MINT",
+   "FERRERO",
+   "ROCHER",
+   "3.00c",
+   "HERGLAO",
+   "ADEPESCK",
+   "6,35c",
+   "保障用",
+   "2,40€"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 77.5,
+  "ocr_s": 1.59
+ },
+ "f006.jpg": {
+  "n_lines": 15,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "ocolizze",
+   "MINTS",
+   "12",
+   "Cocolizze",
+   "2  3",
+   "ROYAI",
+   "/2",
+   "MINI",
+   "12",
+   "u",
+   "300",
+   "anrtes    rde",
+   "prerinc  in er",
+   "YAI",
+   "Delizze"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 94.6,
+  "ocr_s": 1.46
+ },
+ "f012.jpg": {
+  "n_lines": 14,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "H0R",
+   "MINTS",
+   "12",
+   "Cocolizze",
+   "25",
+   "ROYAI",
+   "/2",
+   "MIXL",
+   "12",
+   "3.00",
+   "nies    unde",
+   "ren d  n de",
+   "YAI",
+   "Consumn"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 95.8,
+  "ocr_s": 1.46
+ },
+ "f018.jpg": {
+  "n_lines": 14,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "colizze",
+   "MINTS",
+   "12",
+   "Cocolizze",
+   "21",
+   "2",
+   "ROYAL",
+   "MINI",
+   "12",
+   "300",
+   "nes      mi de",
+   "pre s  inde",
+   "YAI",
+   "Éon iete"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 95.3,
+  "ocr_s": 1.41
+ },
+ "f024.jpg": {
+  "n_lines": 13,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "12",
+   "2  1",
+   "ocolizze",
+   "/2",
+   "100",
+   "ROYAI",
+   "MIXI",
+   "12",
+   "3,00",
+   "nles   de",
+   "nrev    in der",
+   "YAI",
+   "0"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 94.1,
+  "ocr_s": 1.36
+ },
+ "f030.jpg": {
+  "n_lines": 14,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "500e",
+   "LzzC",
+   "12",
+   "2  12",
+   "ocolizze",
+   "/27",
+   "ROYAI",
+   "MINI",
+   "12",
+   "3.00c",
+   "es   ude",
+   "prer  d n de",
+   "02",
+   "00"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 95.1,
+  "ocr_s": 1.35
+ },
+ "f036.jpg": {
+  "n_lines": 15,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "ouas",
+   "200",
+   "izze ",
+   "MINTS",
+   "12",
+   "2 ",
+   "colizze",
+   "/2",
+   "ROYAL",
+   "MIAI",
+   "nie    ",
+   "3.00",
+   "pre n  d  imn der",
+   "YAI",
+   "Tdle"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 94.8,
+  "ocr_s": 1.46
+ }
+}

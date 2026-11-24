@@ -1,0 +1,221 @@
+{
+ "f000.jpg": {
+  "n_lines": 10,
+  "box": [
+   1308,
+   629,
+   1578,
+   1151
+  ],
+  "level": "date",
+  "lines": [
+   "09/01/2027"
+  ],
+  "all_lines": [
+   "lese",
+   "cottage",
+   "cottage",
+   "cheese",
+   "cheest",
+   "LC24921",
+   "05 19:38",
+   "ottage",
+   "09/01/2027",
+   "014155"
+  ],
+  "crop_wh": [
+   270,
+   522
+  ],
+  "sharpness": 108.8,
+  "ocr_s": 0.37
+ },
+ "f006.jpg": {
+  "n_lines": 12,
+  "box": [
+   1358,
+   522,
+   1648,
+   1091
+  ],
+  "level": "date",
+  "lines": [
+   "09/01/2027"
+  ],
+  "all_lines": [
+   "lage",
+   "es0",
+   "LC24921",
+   "cottage",
+   "cottag",
+   "05 19:38",
+   "cheese",
+   "cheest",
+   "ottage",
+   "09/01/2027",
+   "014155",
+   "auptahlada"
+  ],
+  "crop_wh": [
+   290,
+   569
+  ],
+  "sharpness": 101.2,
+  "ocr_s": 0.39
+ },
+ "f012.jpg": {
+  "n_lines": 12,
+  "box": [
+   1322,
+   531,
+   1606,
+   1088
+  ],
+  "level": "date",
+  "lines": [
+   "09/01/2027"
+  ],
+  "all_lines": [
+   "ese",
+   "cottage",
+   "cottag",
+   "LC24921",
+   "cheese",
+   "cheese",
+   "05 19:38",
+   "IENE",
+   "ottage",
+   "09/01/2027",
+   "014155",
+   "55c"
+  ],
+  "crop_wh": [
+   284,
+   557
+  ],
+  "sharpness": 98.1,
+  "ocr_s": 0.4
+ },
+ "f018.jpg": {
+  "n_lines": 11,
+  "box": [
+   1323,
+   513,
+   1607,
+   1042
+  ],
+  "level": "date",
+  "lines": [
+   "09/01/2027"
+  ],
+  "all_lines": [
+   "nese",
+   "cottage",
+   "cottage",
+   "LC24921",
+   "cheese",
+   "cheese",
+   "05 19:38",
+   "ottage",
+   "09/01/2027",
+   "014155",
+   "55c"
+  ],
+  "crop_wh": [
+   284,
+   529
+  ],
+  "sharpness": 102.9,
+  "ocr_s": 0.39
+ },
+ "f024.jpg": {
+  "n_lines": 9,
+  "box": [
+   1299,
+   531,
+   1545,
+   1004
+  ],
+  "level": "date",
+  "lines": [
+   "09/01/2027"
+  ],
+  "all_lines": [
+   "cottage",
+   "cottage",
+   "cheese",
+   "chees",
+   "LC24921",
+   "05 19:38",
+   "ottage",
+   "09/01/2027",
+   "014155"
+  ],
+  "crop_wh": [
+   246,
+   473
+  ],
+  "sharpness": 106.6,
+  "ocr_s": 0.38
+ },
+ "f030.jpg": {
+  "n_lines": 9,
+  "box": [
+   1298,
+   498,
+   1562,
+   1014
+  ],
+  "level": "date",
+  "lines": [
+   "09/01/2027"
+  ],
+  "all_lines": [
+   "LC24921",
+   "cottage",
+   "cottas",
+   "05 19:38",
+   "cheese",
+   "cheet",
+   "ottage",
+   "09/01/2027",
+   "014155"
+  ],
+  "crop_wh": [
+   264,
+   516
+  ],
+  "sharpness": 87.5,
+  "ocr_s": 0.36
+ },
+ "f036.jpg": {
+  "n_lines": 9,
+  "box": [
+   1297,
+   504,
+   1583,
+   1029
+  ],
+  "level": "date",
+  "lines": [
+   "09/01/2027"
+  ],
+  "all_lines": [
+   "LC24921",
+   "cottage",
+   "cottag",
+   "05 19:38",
+   "cheese",
+   "cheese",
+   "ottage",
+   "09/01/2027",
+   "014155"
+  ],
+  "crop_wh": [
+   286,
+   525
+  ],
+  "sharpness": 87.8,
+  "ocr_s": 0.38
+ }
+}

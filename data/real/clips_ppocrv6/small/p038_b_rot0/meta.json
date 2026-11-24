@@ -1,0 +1,268 @@
+{
+ "f000.jpg": {
+  "n_lines": 22,
+  "box": [
+   1012,
+   780,
+   1142,
+   1057
+  ],
+  "level": "date",
+  "lines": [
+   "06 05 2027"
+  ],
+  "all_lines": [
+   "INOVEDADI",
+   "Tralli",
+   "MALLACHOCOLATES",
+   "1,25€",
+   "11388D",
+   "m",
+   "INOVEUADI",
+   "2,00c",
+   "FEOCHER",
+   "L281Z01--.",
+   "06 05 2027",
+   "ROYAL",
+   "MIN",
+   "ROYAI",
+   "MINT",
+   "00c",
+   "6",
+   "BAJADADEPRS",
+   "BOMSOHES SEI",
+   "2,40€",
+   "ia 10.6076",
+   "60"
+  ],
+  "crop_wh": [
+   130,
+   277
+  ],
+  "sharpness": 95.0,
+  "ocr_s": 0.46
+ },
+ "f006.jpg": {
+  "n_lines": 15,
+  "box": [
+   1229,
+   304,
+   1393,
+   733
+  ],
+  "level": "date",
+  "lines": [
+   "06 05 2027"
+  ],
+  "all_lines": [
+   "IERTO",
+   "ROKHLR",
+   "FE",
+   "06 05 2027",
+   "L281Z01--.",
+   "ROYAL",
+   "0",
+   "MIN",
+   "ROYAI",
+   "MINT",
+   "BAJADAD",
+   "BOMBON",
+   "2,40c",
+   "1240",
+   "000"
+  ],
+  "crop_wh": [
+   164,
+   429
+  ],
+  "sharpness": 73.6,
+  "ocr_s": 0.42
+ },
+ "f012.jpg": {
+  "n_lines": 16,
+  "box": [
+   1229,
+   404,
+   1407,
+   925
+  ],
+  "level": "date",
+  "lines": [
+   "06 05 2027"
+  ],
+  "all_lines": [
+   "FERRURO",
+   "KOURR",
+   "FER",
+   "06 05 2027",
+   "L281Z01---",
+   "ROYAL",
+   "MINI",
+   "ROYAI",
+   "MINT",
+   "BAJADADE",
+   "BOMOONE",
+   "2,40c",
+   "10.60",
+   "LITEU",
+   "0U10",
+   "Moo"
+  ],
+  "crop_wh": [
+   178,
+   521
+  ],
+  "sharpness": 72.4,
+  "ocr_s": 0.44
+ },
+ "f018.jpg": {
+  "n_lines": 17,
+  "box": [
+   1255,
+   428,
+   1428,
+   834
+  ],
+  "level": "date",
+  "lines": [
+   "06 05 2027"
+  ],
+  "all_lines": [
+   "HURNURO",
+   "ROCHER",
+   "FERR",
+   "06 05 2027",
+   "L281Z01--.",
+   "3",
+   "ROVAL",
+   "MIN",
+   "ROYAI",
+   "MINT",
+   "BAJADADEPI",
+   "BOMBONES SE",
+   "S0",
+   "2,40c",
+   "10607€",
+   "VERNE",
+   "216"
+  ],
+  "crop_wh": [
+   173,
+   406
+  ],
+  "sharpness": 73.7,
+  "ocr_s": 0.43
+ },
+ "f024.jpg": {
+  "n_lines": 15,
+  "box": [
+   1128,
+   403,
+   1436,
+   954
+  ],
+  "level": "digits",
+  "lines": [
+   "L281Z01--.",
+   "06052027"
+  ],
+  "all_lines": [
+   "KEHR",
+   "FER",
+   "L281Z01--.",
+   "06052027",
+   "ROYAL",
+   "MIN",
+   "ROYAI",
+   "MINT",
+   "BAJADADEP",
+   "BOMBONESS",
+   "2,40c",
+   "10.607",
+   "S0m",
+   "71040",
+   "MPo"
+  ],
+  "crop_wh": [
+   308,
+   551
+  ],
+  "sharpness": 74.1,
+  "ocr_s": 0.41
+ },
+ "f030.jpg": {
+  "n_lines": 17,
+  "box": [
+   1112,
+   462,
+   1410,
+   988
+  ],
+  "level": "digits",
+  "lines": [
+   "L281Z01--.",
+   "06052027"
+  ],
+  "all_lines": [
+   "HURRO",
+   "ROCHER",
+   "FER",
+   "FERI",
+   "L281Z01--.",
+   "06052027",
+   "ROYAI",
+   "MINI",
+   "ROYAL",
+   "MINI",
+   "BAJADADEPR",
+   "BOMGONES S1",
+   "ths",
+   "2,40€",
+   "tig 10,607e",
+   "CR",
+   "Sg1n"
+  ],
+  "crop_wh": [
+   298,
+   526
+  ],
+  "sharpness": 75.2,
+  "ocr_s": 0.42
+ },
+ "f036.jpg": {
+  "n_lines": 14,
+  "box": [
+   1086,
+   506,
+   1361,
+   1003
+  ],
+  "level": "digits",
+  "lines": [
+   "L281Z01--.",
+   "06052027"
+  ],
+  "all_lines": [
+   "HOO",
+   "FEI",
+   "H",
+   "L281Z01--.",
+   "06052027",
+   "ROYAL",
+   "MINI",
+   "ROYAL",
+   "MINI",
+   "BAJADADEP",
+   "BOMBONES S",
+   "2,40c",
+   "tag10.607",
+   "CHnDn"
+  ],
+  "crop_wh": [
+   275,
+   497
+  ],
+  "sharpness": 74.9,
+  "ocr_s": 0.42
+ }
+}

@@ -1,0 +1,308 @@
+{
+ "f000.jpg": {
+  "n_lines": 31,
+  "box": [
+   1141,
+   934,
+   1265,
+   1050
+  ],
+  "level": "digits",
+  "lines": [
+   "2.701"
+  ],
+  "all_lines": [
+   "MNS",
+   "LINO dorodo",
+   "LINHAÇA doureds",
+   "EMILLAS",
+   "SESANO",
+   "ADNOS",
+   "SEMENTES",
+   "10g",
+   "LINO NO",
+   "HACENDADO",
+   "SEMILLAS",
+   "SALIDADE",
+   "LINO dorado",
+   "SEMENTES",
+   "ININAOO",
+   "SESAMO",
+   "LINHAÇA dourdo",
+   "",
+   "DEKENCA",
+   "ADOU",
+   "1,46c",
+   "1.19s",
+   "150",
+   "2.80",
+   "2.701",
+   "AN",
+   "00500220",
+   "270c",
+   "SUt",
+   "2746",
+   "3,40c"
+  ],
+  "crop_wh": [
+   124,
+   116
+  ],
+  "sharpness": 232.8,
+  "ocr_s": 0.52
+ },
+ "f006.jpg": {
+  "n_lines": 12,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "SEMENTE",
+   "LINOO",
+   "SEMILLAS",
+   "1",
+   "LINO donde",
+   "SEMENTES",
+   "UNHACA",
+   "VA6x",
+   "19",
+   "调网",
+   "270",
+   "95c"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 108.5,
+  "ocr_s": 0.39
+ },
+ "f012.jpg": {
+  "n_lines": 27,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "LINO O",
+   "NDADO",
+   "HACENDADO",
+   "SEMILLAS",
+   "SEMENTES",
+   "LINO dorado",
+   "HODO",
+   "LINHAÇA douade",
+   "SESAMO",
+   "LOU",
+   "1,46c",
+   "1.13",
+   "IOV",
+   "网",
+   "270d",
+   "RUD",
+   "270c",
+   "IESAT",
+   "nne",
+   "MENED",
+   "UTA",
+   "PISin",
+   "YOSTADO SAL",
+   "TOSTADO ",
+   "PISTACHO",
+   "PISTACI",
+   "TOSTADO SAL"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 230.7,
+  "ocr_s": 0.49
+ },
+ "f018.jpg": {
+  "n_lines": 26,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "100",
+   "LINO O",
+   "HACENDADO",
+   "SEMILLAS",
+   "LINO durodo",
+   "SEMENTES",
+   "NLWO",
+   "LINHAÇA douade",
+   "SÉSAMO",
+   "UDO",
+   "1,46e",
+   "19",
+   "150",
+   "270",
+   "AINP",
+   "270c",
+   "LGW",
+   "WD-A",
+   "e2",
+   "PISim",
+   "PISTACIO",
+   "TOSTADO LAL",
+   "2.95c",
+   "TOSTADO",
+   "PISTACHO",
+   "PISTACIO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 226.9,
+  "ocr_s": 0.49
+ },
+ "f024.jpg": {
+  "n_lines": 26,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "LINO O",
+   "109",
+   "HACENDADO",
+   "SEMILLAS",
+   "LINO dorado",
+   "SEMENTES",
+   "SÉSAMO",
+   "UINHAÇA doumda",
+   "蓝",
+   "LKai",
+   "1.46c",
+   "U9",
+   "150",
+   "团",
+   "2,70c",
+   "",
+   "BOP",
+   "OtA",
+   "HIVWELD",
+   "PISIAL",
+   "PISTACIO",
+   "FOSTADG SAL",
+   "2.95",
+   "rOSTADO",
+   "PISTACHO",
+   "PISTACIO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 234.7,
+  "ocr_s": 0.51
+ },
+ "f030.jpg": {
+  "n_lines": 24,
+  "box": [
+   829,
+   1573,
+   925,
+   1669
+  ],
+  "level": "digits",
+  "lines": [
+   "2600"
+  ],
+  "all_lines": [
+   "10g",
+   "LINOO",
+   "HACENDADO",
+   "SEMILLAS",
+   "LINO darado",
+   "SEMENTES",
+   "LINHAÇA douade",
+   "SESAMO",
+   "Launi",
+   "1.46c",
+   "119",
+   "20",
+   "2.70",
+   "1",
+   "NDO",
+   "ewa Jae",
+   "ISOVIGIN",
+   "05",
+   "TOSTADO LAL",
+   "2,95c",
+   "TOSTADO S",
+   "2600",
+   "PISTACHO",
+   "PISTACIO"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 234.6,
+  "ocr_s": 0.5
+ },
+ "f036.jpg": {
+  "n_lines": 23,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "LINO O",
+   "100",
+   "ACENDADO",
+   "SEMILLAS",
+   "LINO dorado",
+   "SEMENTES",
+   "NDOW",
+   "UNHAÇA dourda",
+   "SESAMO",
+   "ADKOI",
+   "295",
+   "1,46c",
+   "1.19",
+   "网",
+   "270d",
+   "270c",
+   "11",
+   "Pu",
+   "ORHNVTEEN",
+   "02",
+   "VOSTADU SAL",
+   "2.95",
+   "PISTACHO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 235.8,
+  "ocr_s": 0.48
+ }
+}

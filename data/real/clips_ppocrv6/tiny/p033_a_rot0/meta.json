@@ -1,0 +1,362 @@
+{
+ "f000.jpg": {
+  "n_lines": 23,
+  "box": [
+   1194,
+   1213,
+   1380,
+   1365
+  ],
+  "level": "date",
+  "lines": [
+   "18:1803-2028"
+  ],
+  "all_lines": [
+   "RAYADO RICITT",
+   "品品景",
+   "",
+   "CLASSCA",
+   "CLÁSSICA",
+   "085",
+   "0,85€",
+   "Ra",
+   "联AS",
+   "CLASSICA",
+   "HELICESESPIR",
+   "120cd",
+   "ESESPIRAIS",
+   "1kge",
+   "SSYaV",
+   "SPAOHETTI",
+   "0,85c",
+   "L03627317 2000",
+   "18:1803-2028",
+   "CLASSICA",
+   "SPACHETTI",
+   "SPAGHETTI",
+   "SPACH"
+  ],
+  "crop_wh": [
+   186,
+   152
+  ],
+  "sharpness": 209.3,
+  "ocr_s": 0.25
+ },
+ "f006.jpg": {
+  "n_lines": 24,
+  "box": [
+   874,
+   780,
+   1170,
+   1106
+  ],
+  "level": "date",
+  "lines": [
+   "18:18 03-2028",
+   "mir preferentemente antes del",
+   "mir de preferbncla antes do flio"
+  ],
+  "all_lines": [
+   "HLURI",
+   "CLASCA",
+   "CLÁSSICA",
+   "0.856",
+   "GREDIEHTES",
+   "mostarda",
+   "Grasa/Upid",
+   "CISC!",
+   "15",
+   "0.39",
+   "o1kge",
+   "mir preferentemente antes del",
+   "0.01",
+   "e(Mes/Ano)/Lote",
+   "mir de preferbncla antes do flio",
+   "50022)",
+   "CLASSICA",
+   "ES/Ano/LotE:",
+   "CESESPIR",
+   "1,20d",
+   "L03627317 2000",
+   "18:18 03-2028",
+   "0,85c",
+   "SPACHETTI"
+  ],
+  "crop_wh": [
+   296,
+   326
+  ],
+  "sharpness": 211.9,
+  "ocr_s": 0.26
+ },
+ "f012.jpg": {
+  "n_lines": 26,
+  "box": [
+   825,
+   789,
+   1111,
+   1093
+  ],
+  "level": "date",
+  "lines": [
+   "18:18 03-2028",
+   "sumirde preferdncieantes do fhe"
+  ],
+  "all_lines": [
+   "CLASICA",
+   "LSI",
+   "CLASSICA",
+   "0.85e",
+   "mostarda.",
+   "Grasa1/Lpidos",
+   "Hidrates de Carbono",
+   "100€",
+   "-Azicares/AçÚcares",
+   "159",
+   "03g",
+   "2",
+   "Peso ieto/",
+   "Llquido.",
+   "1kge",
+   "0,01",
+   "e (Mes/Afioy/Lote",
+   "sumirde preferdncieantes do fhe",
+   "les/Ano/Lote:",
+   "CLASSICA",
+   "SESPIR",
+   "1.20cd",
+   "L03627317 2000",
+   "18:18 03-2028",
+   "0,85c",
+   "SPACHETTI"
+  ],
+  "crop_wh": [
+   286,
+   304
+  ],
+  "sharpness": 224.3,
+  "ocr_s": 0.26
+ },
+ "f018.jpg": {
+  "n_lines": 30,
+  "box": [
+   794,
+   782,
+   1048,
+   1103
+  ],
+  "level": "date",
+  "lines": [
+   "18:18 03-2028",
+   "umir preferentemente ar",
+   "sumir de preferênci"
+  ],
+  "all_lines": [
+   "aMLNo0",
+   "CLASICA",
+   "CLASSICA",
+   "0.85c",
+   "sojay mestaza.",
+   "INGREDIERTES",
+   "mostarda,",
+   "Energético/Energia",
+   "03",
+   "Peso Netol",
+   "lquido:",
+   "1kge",
+   "umir preferentemente ar",
+   "Co",
+   "(Mes/Año)/Lote:",
+   "sumir de preferênci",
+   "500220",
+   "do",
+   "hés/Ano)/Lote:",
+   "de",
+   "CLASSICA",
+   "do fim",
+   "ESESPIR",
+   "1,20d",
+   "L03627317 2000",
+   "18:18 03-2028",
+   "",
+   "480000062",
+   "0,85c",
+   "SPAGHETTI"
+  ],
+  "crop_wh": [
+   254,
+   321
+  ],
+  "sharpness": 229.7,
+  "ocr_s": 0.26
+ },
+ "f024.jpg": {
+  "n_lines": 32,
+  "box": [
+   763,
+   749,
+   995,
+   1062
+  ],
+  "level": "date",
+  "lines": [
+   "18:1803-2028",
+   "umir preferentementg",
+   "umir de preferenc"
+  ],
+  "all_lines": [
+   "CLASICA",
+   "CLÁSSICA",
+   "QUALIDADE SUPERIOR",
+   "SUPERIOR",
+   "ALIMENTICIA DE",
+   "INGREDIETITES",
+   "Pode conter vestiglgs",
+   "mestarda.",
+   "duten)",
+   "0.85e",
+   "asas/Lipidos",
+   "",
+   "n",
+   "Squido,",
+   "Tkge",
+   "umir preferentementg",
+   "(Mes/Ano)/.ote:",
+   "500 220",
+   "",
+   "umir de preferenc",
+   "les/Ano)note:",
+   "aeas Ay8",
+   "CLASSICA",
+   "L03627317 2000",
+   "18:1803-2028",
+   "ESESPID",
+   "U",
+   "1,20cd",
+   "480000-06249",
+   "00",
+   "0.85c",
+   "SPACHETTI"
+  ],
+  "crop_wh": [
+   232,
+   313
+  ],
+  "sharpness": 202.9,
+  "ocr_s": 0.28
+ },
+ "f030.jpg": {
+  "n_lines": 33,
+  "box": [
+   758,
+   866,
+   1003,
+   1181
+  ],
+  "level": "date",
+  "lines": [
+   "18:18 03-2028",
+   "Consumir preferentemene",
+   "Consumir de preferêncit"
+  ],
+  "all_lines": [
+   "ARMANDO",
+   "PASTA TAUAA",
+   "AOMAN00",
+   "CLASCA",
+   "OPASTAALMEN",
+   "CLÁSSICA",
+   "QUALIDAR",
+   "ADECkErOD",
+   "OR",
+   "émols de",
+   "INGRE",
+   "de contene",
+   "mostaza.",
+   "imola de 1t",
+   "conter vest",
+   "0.85e",
+   "ergético/Er",
+   "COR/EONSERY",
+   "Peso Neto!",
+   "Uquido:",
+   "1kg",
+   "Consumir preferentemene",
+   "in de (Mes/Año)/Lote:",
+   "Consumir de preferêncit",
+   "de (Mes/Ano)/Lote:",
+   "ASLO",
+   "CLASSICA",
+   "L03627317 2000",
+   "18:18 03-2028",
+   "1,20cd",
+   "HÉLICESESPIR",
+   "0.85c",
+   "SPAGHETTI"
+  ],
+  "crop_wh": [
+   245,
+   315
+  ],
+  "sharpness": 241.6,
+  "ocr_s": 0.28
+ },
+ "f036.jpg": {
+  "n_lines": 34,
+  "box": [
+   830,
+   821,
+   1068,
+   1140
+  ],
+  "level": "date",
+  "lines": [
+   "18:18 03-2028",
+   "Congumir preferentemen",
+   "Consumiz de preferénc"
+  ],
+  "all_lines": [
+   "ARMANDO",
+   "MAco0",
+   "CLASICA",
+   "OPASTAALIAENYC",
+   "SUPERIOR",
+   "CADECALIpAD",
+   "CLÁSSICA",
+   "085",
+   "IGREDEHTES",
+   "émola de tei",
+   " contey vestig",
+   "tarda.",
+   "0,85c",
+   "ergético/En",
+   "sas/Lpidos",
+   "S/CONSERY",
+   "Uquido:",
+   "Congumir preferentemen",
+   "1kg",
+   "in de (Mes/Año)/Lote",
+   "50022)",
+   "Consumiz de preferénc",
+   "de(Més/Ano)/Lote:",
+   "SLU.",
+   "2antmkyB",
+   "CLASSICA",
+   "L03627317 2000",
+   "18:18 03-2028",
+   "HÉLICESESPIR",
+   "1,20d",
+   "0.85c",
+   "SICA",
+   "SPACHETTI",
+   "SPACHETT"
+  ],
+  "crop_wh": [
+   238,
+   319
+  ],
+  "sharpness": 227.5,
+  "ocr_s": 0.28
+ }
+}

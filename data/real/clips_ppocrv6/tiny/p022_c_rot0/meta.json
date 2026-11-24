@@ -1,0 +1,281 @@
+{
+ "f000.jpg": {
+  "n_lines": 16,
+  "box": [
+   1375,
+   1052,
+   1601,
+   1262
+  ],
+  "level": "digits",
+  "lines": [
+   "EIPLS 10.42603S",
+   "p00694141002"
+  ],
+  "all_lines": [
+   "Daso",
+   "2",
+   "PAA IRS iAa",
+   "1CImI",
+   "OQ",
+   "EPAS4I0.0DS/",
+   "EIPLS 10.42603S",
+   "DM",
+   "FRANG",
+   ".309kg",
+   "Pese Ntlo:",
+   "p00694141002",
+   "AmacRMCIcLLK",
+   "MANOS",
+   "O",
+   "财"
+  ],
+  "crop_wh": [
+   226,
+   210
+  ],
+  "sharpness": 260.6,
+  "ocr_s": 0.23
+ },
+ "f006.jpg": {
+  "n_lines": 14,
+  "box": [
+   1000,
+   748,
+   1200,
+   975
+  ],
+  "level": "digits",
+  "lines": [
+   "CEPARA 10.20735/",
+   "p00694141002"
+  ],
+  "all_lines": [
+   "oCINO",
+   "Enstada en atsbstera protectota",
+   "DESIECE EN",
+   "CALADOEN",
+   "NACIDOEN",
+   "CEPARA 10.20735/",
+   "LN",
+   "FRANCLA",
+   "25",
+   "Peso Neto:",
+   "p00694141002",
+   ",509kg",
+   "ote:",
+   "美题"
+  ],
+  "crop_wh": [
+   200,
+   227
+  ],
+  "sharpness": 282.3,
+  "ocr_s": 0.23
+ },
+ "f012.jpg": {
+  "n_lines": 14,
+  "box": [
+   1032,
+   770,
+   1294,
+   976
+  ],
+  "level": "digits",
+  "lines": [
+   "ESPAMA S 10.2073S/",
+   "0,509kg",
+   "p00694141002"
+  ],
+  "all_lines": [
+   "Cerasada en anósteap",
+   "N4GD0 DE",
+   "5",
+   "130",
+   "FRANCIA",
+   "ESPAMA S 10.2073S/",
+   "ECMEDINA",
+   "0,509kg",
+   "Peso Neto:",
+   "p00694141002",
+   "ote:",
+   "",
+   "MANOS",
+   ""
+  ],
+  "crop_wh": [
+   262,
+   206
+  ],
+  "sharpness": 308.9,
+  "ocr_s": 0.22
+ },
+ "f018.jpg": {
+  "n_lines": 14,
+  "box": [
+   1078,
+   764,
+   1308,
+   997
+  ],
+  "level": "digits",
+  "lines": [
+   "ESPUN4 18.20735/",
+   "CSPA8A 10.026095",
+   "po0694141002"
+  ],
+  "all_lines": [
+   "RLADO EN",
+   "re",
+   "130",
+   "R",
+   "ESPUN4 18.20735/",
+   "CSPA8A 10.026095",
+   "ESFAUA",
+   "TRANCIA",
+   "0,s09kg",
+   "Peso Neto:",
+   "po0694141002",
+   "ote:",
+   "Prelect",
+   "HA"
+  ],
+  "crop_wh": [
+   230,
+   233
+  ],
+  "sharpness": 313.8,
+  "ocr_s": 0.24
+ },
+ "f024.jpg": {
+  "n_lines": 21,
+  "box": [
+   1099,
+   692,
+   1361,
+   995
+  ],
+  "level": "digits",
+  "lines": [
+   "ESPAMA 10.20735/V",
+   "ESPLEA 10.026ES,",
+   "ESPAES 18 20DS/V",
+   "po0694141002",
+   "$ACESFICADO ER"
+  ],
+  "all_lines": [
+   "F8EE",
+   "3",
+   "0",
+   "Comenarde 0'as'C",
+   "DESPIEGE EN",
+   "$ACESFICADO ER",
+   "CRIADOEN",
+   "LACIDO EN",
+   "ESPAMA 10.20735/V",
+   "2T",
+   "ESPLEA 10.026ES,",
+   "ISPARA",
+   "FRANCLA",
+   "Rle",
+   "ESPAES 18 20DS/V",
+   "o,509kg",
+   "Peso Neto:",
+   "po0694141002",
+   "Lote:",
+   "MANOS",
+   "黄漆"
+  ],
+  "crop_wh": [
+   262,
+   303
+  ],
+  "sharpness": 270.5,
+  "ocr_s": 0.23
+ },
+ "f030.jpg": {
+  "n_lines": 17,
+  "box": [
+   932,
+   601,
+   1028,
+   733
+  ],
+  "level": "date",
+  "lines": [
+   "ESPAMA10.2035/"
+  ],
+  "all_lines": [
+   "NACDO OE",
+   "MORCILLO/JARREIE",
+   "2",
+   "ESPAMA10.2035/",
+   "ESPAN4 10.026095",
+   "FRANCIA",
+   "",
+   "ESPNAE3 10.20735/V",
+   "Peso Neto:",
+   "po0694141002",
+   "ote:",
+   "ten de su cons",
+   "n 24 bos",
+   "WE",
+   "SN",
+   "m",
+   "营绣"
+  ],
+  "crop_wh": [
+   96,
+   132
+  ],
+  "sharpness": 263.7,
+  "ocr_s": 0.22
+ },
+ "f036.jpg": {
+  "n_lines": 21,
+  "box": [
+   718,
+   524,
+   1029,
+   858
+  ],
+  "level": "digits",
+  "lines": [
+   "ESPANA 10.20735/V",
+   "ESPANA 10.026095",
+   "ESPANAES [0.2073S/V",
+   "0,509kg",
+   "p00694141002",
+   "3ACRIFICADO"
+  ],
+  "all_lines": [
+   "RNE易配",
+   "Comsenar de o'as\"C",
+   "Und ve7 ableta consu",
+   "Eivasado en atmbsfera protecteta",
+   "BO0",
+   "DESRECEEN",
+   "3ACRIFICADO",
+   "CRIADO EN",
+   "NACIRO EN",
+   "gétlco 130 kcay",
+   "iezos: Morcillo/larrete",
+   "MORCILLO/JARRETE",
+   "ESPANA 10.20735/V",
+   "ESPANA 10.026095",
+   "FRANCIA",
+   "ESPANAES [0.2073S/V",
+   "0,509kg",
+   "Peso Neto:",
+   "p00694141002",
+   "Lote:",
+   ""
+  ],
+  "crop_wh": [
+   311,
+   334
+  ],
+  "sharpness": 277.1,
+  "ocr_s": 0.24
+ }
+}

@@ -1,0 +1,339 @@
+{
+ "f000.jpg": {
+  "n_lines": 21,
+  "box": [
+   663,
+   1036,
+   810,
+   1146
+  ],
+  "level": "digits",
+  "lines": [
+   "04 03 27",
+   "L30B 3121 00 50 M1"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "110.",
+   "ACENDADO",
+   "HACENDADO",
+   "FRAGIL",
+   "HACEYDADO",
+   "LAS DE",
+   "EIA 51%",
+   "CCHALS",
+   "Ar",
+   "04 03 27",
+   "L30B 3121 00 50 M1",
+   "NAU",
+   "aps",
+   "208g",
+   "GLITEN",
+   "RTILLAS DE",
+   "A/AVEIA 5",
+   "ONTILLAS",
+   "ANIOP",
+   "100XL"
+  ],
+  "crop_wh": [
+   147,
+   110
+  ],
+  "sharpness": 278.4,
+  "ocr_s": 0.47
+ },
+ "f006.jpg": {
+  "n_lines": 27,
+  "box": [
+   747,
+   982,
+   892,
+   1089
+  ],
+  "level": "digits",
+  "lines": [
+   "04 03 27",
+   "L308 3121 00 50 M1"
+  ],
+  "all_lines": [
+   "ILACENDADO",
+   "L10",
+   "ANLCA",
+   "OUERO",
+   "TLACENDADO",
+   "",
+   "Oyour",
+   "HACENDADO",
+   "FRAGIL",
+   "RTILLAS DE",
+   "HACENDADO",
+   "06",
+   "01",
+   "A AVEIA 51%",
+   "1.50",
+   "04 03 27",
+   "L308 3121 00 50 M1",
+   "Wraps",
+   "208g",
+   "NAU",
+   "GLUTEN",
+   "KZUX",
+   "6 TORTILLAS DE",
+   "AVENA/AVEIA ",
+   "NTILLAS",
+   "UNIDA",
+   "XL"
+  ],
+  "crop_wh": [
+   145,
+   107
+  ],
+  "sharpness": 273.1,
+  "ocr_s": 0.52
+ },
+ "f012.jpg": {
+  "n_lines": 28,
+  "box": [
+   762,
+   937,
+   908,
+   1045
+  ],
+  "level": "digits",
+  "lines": [
+   "04 03 27",
+   "L30831210050 M1"
+  ],
+  "all_lines": [
+   "1,10",
+   "ARLSA",
+   "OICCO",
+   "NACENDADO",
+   "HACENDADO",
+   "RTILLAS DE",
+   "",
+   "HACENDADO",
+   "21",
+   "A AVEIA 51%",
+   "L.S",
+   "04 03 27",
+   "L30831210050 M1",
+   "Wraps",
+   "208g",
+   "NAU",
+   "SAVIV",
+   "GEITEN",
+   "RKCEEA",
+   "6 TORTILLAS DE",
+   "AVENA/AVEIA",
+   "TILLAS",
+   "UNIDA",
+   "XL",
+   "RIGO",
+   "RIGOXL",
+   "235",
+   "ORTILLA"
+  ],
+  "crop_wh": [
+   146,
+   108
+  ],
+  "sharpness": 277.1,
+  "ocr_s": 0.5
+ },
+ "f018.jpg": {
+  "n_lines": 27,
+  "box": [
+   338,
+   412,
+   453,
+   508
+  ],
+  "level": "digits",
+  "lines": [
+   "0130"
+  ],
+  "all_lines": [
+   "MACENDADO",
+   "110",
+   "0130",
+   "OALBA",
+   "HACENDADO",
+   "B5R00",
+   "LACENDADO",
+   "FRAGU",
+   "200 Kca",
+   "HACENDADO",
+   "RTILLAS DE",
+   "150",
+   "A AVEIA 51%",
+   "04 03 27",
+   "03",
+   "L30831210050 M1",
+   "Wraps",
+   "208g",
+   "NAL",
+   "SIU",
+   "UTEN",
+   "6 TORTILLAS DE",
+   "AVENA/AVEI",
+   "ATILLAS",
+   "MNIO",
+   "TILLASRIGOXL",
+   "XL"
+  ],
+  "crop_wh": [
+   115,
+   96
+  ],
+  "sharpness": 278.0,
+  "ocr_s": 0.52
+ },
+ "f024.jpg": {
+  "n_lines": 30,
+  "box": [
+   339,
+   411,
+   437,
+   507
+  ],
+  "level": "digits",
+  "lines": [
+   "1030"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "1.10e",
+   "ORLOR",
+   "1030",
+   "HACENDADO",
+   "0广",
+   "HACENDADO",
+   "",
+   "FRAGIL",
+   "ar wacas dw saja.",
+   "HACENDADO",
+   "TILLAS DE",
+   "200",
+   "10g",
+   "A1",
+   "159",
+   "AVEIA 51%",
+   "04 03 27",
+   "L308 3121.00 50 AM1",
+   "Wraps",
+   "208g",
+   "NAU",
+   "到酒",
+   "GLUTEN",
+   "6 TORTILLAS DE",
+   "AVENA/AVEIA",
+   "ATILLAS",
+   "TILLASRIGOXL",
+   "RIGOXL",
+   "TILLA"
+  ],
+  "crop_wh": [
+   98,
+   96
+  ],
+  "sharpness": 275.1,
+  "ocr_s": 0.52
+ },
+ "f030.jpg": {
+  "n_lines": 25,
+  "box": [
+   741,
+   924,
+   888,
+   1034
+  ],
+  "level": "digits",
+  "lines": [
+   "04 03 27",
+   "L30831210050M1"
+  ],
+  "all_lines": [
+   "L10d",
+   "UESO",
+   "RACLNDADO",
+   "RACENDADO",
+   "",
+   "HACEYDADO",
+   "TILLAS DE",
+   "Pl",
+   "1.59",
+   "AVEIA 51%",
+   "04 03 27",
+   "L30831210050M1",
+   "208g",
+   "Wraps",
+   "NAU",
+   "Liait",
+   "S编2",
+   "GLUTEN",
+   "TORTILLAS DE",
+   "VENA/AVEIA",
+   "TILLAS",
+   "SUNIDA",
+   "TILLASRIGOXL",
+   "RIGOXL",
+   "ORTILLA"
+  ],
+  "crop_wh": [
+   147,
+   110
+  ],
+  "sharpness": 272.9,
+  "ocr_s": 0.51
+ },
+ "f036.jpg": {
+  "n_lines": 27,
+  "box": [
+   747,
+   918,
+   894,
+   1028
+  ],
+  "level": "digits",
+  "lines": [
+   "04 03 27",
+   "L308 3121:00 50 M1"
+  ],
+  "all_lines": [
+   "1od",
+   "DUECO",
+   "HACENDADO",
+   "HACENDADO",
+   "",
+   "HACENDADO",
+   "TILLAS DE",
+   "电16",
+   "10g",
+   "150",
+   "AVEIA 51%",
+   "04 03 27",
+   "L308 3121:00 50 M1",
+   "208g",
+   "Wraps",
+   "NAU",
+   "SBVSEL",
+   "GLITEN",
+   "HREOLA",
+   "6 TORTILLAS DE",
+   "AVENA/AVEI",
+   "TILLAS",
+   "UNIDA",
+   "TILLASRIGOXL",
+   "RIGOXL",
+   "2.35",
+   "ORTILLA"
+  ],
+  "crop_wh": [
+   147,
+   110
+  ],
+  "sharpness": 271.3,
+  "ocr_s": 0.49
+ }
+}

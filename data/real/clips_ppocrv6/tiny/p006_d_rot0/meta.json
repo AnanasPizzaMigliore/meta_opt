@@ -1,0 +1,324 @@
+{
+ "f000.jpg": {
+  "n_lines": 25,
+  "box": [
+   875,
+   729,
+   971,
+   825
+  ],
+  "level": "digits",
+  "lines": [
+   "8005U"
+  ],
+  "all_lines": [
+   "Imelo",
+   "amelo",
+   "Burritos",
+   "SAZONADORTEHPERD",
+   "SAZONADOR TEMPERO",
+   "Fajitas",
+   "tex",
+   "mex",
+   "Pipocas",
+   "Caramelo",
+   "HACENDADO",
+   "AOENDAnO",
+   "1.50s",
+   "8005U",
+   "三",
+   "1,15e",
+   "FETmAH",
+   "120g",
+   "HACEYDADO",
+   "电3192AD",
+   "14:43",
+   "TORTN",
+   "RTILLAS",
+   "TRIGO",
+   "TORTILLASI"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 251.0,
+  "ocr_s": 0.25
+ },
+ "f006.jpg": {
+  "n_lines": 23,
+  "box": [
+   787,
+   936,
+   883,
+   1059
+  ],
+  "level": "digits",
+  "lines": [
+   "3192A0",
+   "14:43"
+  ],
+  "all_lines": [
+   "Imelo",
+   "amelo",
+   "Burritos",
+   "SAZONADORTANPIRO",
+   "TIETVWIPTT",
+   "SAZONADOR·TEMPEAO",
+   "Fajitas",
+   "tex",
+   "Pipocas Caramelo",
+   "HACENDADO",
+   "HACENDADO",
+   "1,50e",
+   "1,15e",
+   "120g",
+   "HICEVDA",
+   "3192A0",
+   "3",
+   "14:43",
+   "TORTN",
+   "TILLAS",
+   "TRIGo",
+   "TORTILLAS",
+   "TRI"
+  ],
+  "crop_wh": [
+   96,
+   123
+  ],
+  "sharpness": 248.6,
+  "ocr_s": 0.25
+ },
+ "f012.jpg": {
+  "n_lines": 24,
+  "box": [
+   809,
+   969,
+   905,
+   1065
+  ],
+  "level": "digits",
+  "lines": [
+   "14:43"
+  ],
+  "all_lines": [
+   "amelo",
+   "Imelo",
+   "",
+   "Burritos",
+   "SAZONADOA TEHPLRO",
+   "Fajitas",
+   "SAZONADOR·TEMPERO",
+   "屋统",
+   "tex",
+   "8 Pipoeas",
+   "Caramelo",
+   "HACENDADO",
+   "ACENDADO",
+   "1,50e",
+   "1,15e",
+   "120g",
+   "LETnR",
+   "HACE",
+   "fisca tera",
+   "14:43",
+   "TORTN",
+   "CILLAS",
+   "TRiGo",
+   "TORTILL"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 248.8,
+  "ocr_s": 0.24
+ },
+ "f018.jpg": {
+  "n_lines": 25,
+  "box": [
+   815,
+   916,
+   911,
+   1012
+  ],
+  "level": "date",
+  "lines": [
+   "91/21"
+  ],
+  "all_lines": [
+   "tmelo",
+   "Imelo",
+   "Burritos",
+   "SAZONADOR TEMPIRO",
+   "Fajitas",
+   "SAZONADOR TIMPERO",
+   "s Pipoeas Caramelo",
+   "HACENDADO",
+   "1ACENDNDO",
+   "1,506",
+   "1,15e",
+   "120g",
+   "SUSE",
+   "HACE",
+   "ALEENVASADO",
+   "91/21",
+   "电31步2AD",
+   "2",
+   "MBALAGEM",
+   "14:43",
+   "TORTN",
+   "1LLAS",
+   "RIGo",
+   "TORTLL",
+   "T2"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 248.6,
+  "ocr_s": 0.25
+ },
+ "f024.jpg": {
+  "n_lines": 24,
+  "box": [
+   101,
+   735,
+   278,
+   863
+  ],
+  "level": "digits",
+  "lines": [
+   "1,506"
+  ],
+  "all_lines": [
+   "tmelo",
+   "Imelo",
+   "TUETwTTL",
+   "Burritos",
+   "SAZONADOR·TEMPERO",
+   "SAZONADOR TENPERO",
+   "Faitas",
+   "tex",
+   "8Pipoeas Caramelo",
+   "HACENDADO",
+   "1ACENN0O",
+   "1,506",
+   "1,15e",
+   "120g",
+   "fan山",
+   "HACEY",
+   "011124",
+   "电3192A0",
+   "14:43",
+   "TORTN",
+   "CTLLAS",
+   "RIGo",
+   "TORTILL",
+   "TR"
+  ],
+  "crop_wh": [
+   177,
+   128
+  ],
+  "sharpness": 248.6,
+  "ocr_s": 0.25
+ },
+ "f030.jpg": {
+  "n_lines": 25,
+  "box": [
+   813,
+   936,
+   909,
+   1058
+  ],
+  "level": "digits",
+  "lines": [
+   "电3192A0",
+   "14:43"
+  ],
+  "all_lines": [
+   "melo",
+   "imelo",
+   "Burritos",
+   "SAZONADOR TINPERO",
+   "Faitas",
+   "SAZONADORTEMPERO",
+   "tex",
+   "98 Pipoeas",
+   "Caramelo",
+   "HACENDADO",
+   "IACENDDO",
+   "1,50s",
+   "H",
+   "1,15e",
+   "120g",
+   "EFaIERE",
+   "HACED",
+   "江",
+   "电3192A0",
+   "",
+   "14:43",
+   "TORTN",
+   "TLLAS",
+   "RiGo",
+   "TORTILLA"
+  ],
+  "crop_wh": [
+   96,
+   122
+  ],
+  "sharpness": 247.1,
+  "ocr_s": 0.26
+ },
+ "f036.jpg": {
+  "n_lines": 25,
+  "box": [
+   767,
+   921,
+   919,
+   1064
+  ],
+  "level": "digits",
+  "lines": [
+   "M318ZA0",
+   "清11725",
+   "14:43"
+  ],
+  "all_lines": [
+   "Imelo",
+   "tmelo",
+   "TTLWWISU",
+   "Burritos",
+   "SAZONADOR TEMPEAO",
+   "Fritas",
+   "SAZONADOR TEMPERO",
+   "tex",
+   "mex",
+   "As Pipoeas Caramelo",
+   "HACENDADO",
+   "ECNNM",
+   "1,5Uc",
+   "1,15e",
+   "120g",
+   "LTaInua",
+   "BACEV",
+   "M318ZA0",
+   "清11725",
+   "14:43",
+   "TORTN",
+   "TLLAS",
+   "RIGo",
+   "TORTILLA",
+   "TAJ"
+  ],
+  "crop_wh": [
+   152,
+   143
+  ],
+  "sharpness": 247.3,
+  "ocr_s": 0.25
+ }
+}

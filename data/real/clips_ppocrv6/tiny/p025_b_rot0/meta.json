@@ -1,0 +1,206 @@
+{
+ "f000.jpg": {
+  "n_lines": 8,
+  "box": [
+   999,
+   544,
+   1346,
+   1368
+  ],
+  "level": "date",
+  "lines": [
+   "01/12/2026 R28"
+  ],
+  "all_lines": [
+   "150",
+   "Sgeenca de pres",
+   "Sgestio dk agrese",
+   "01/12/2026 R28",
+   "Butrats",
+   "20c",
+   "LD07",
+   "NATURAL"
+  ],
+  "crop_wh": [
+   347,
+   824
+  ],
+  "sharpness": 52.1,
+  "ocr_s": 0.22
+ },
+ "f006.jpg": {
+  "n_lines": 8,
+  "box": [
+   1113,
+   197,
+   1514,
+   996
+  ],
+  "level": "date",
+  "lines": [
+   "01/12/2026"
+  ],
+  "all_lines": [
+   "01/12/2026",
+   "Butaata",
+   "R28",
+   "1007",
+   "20c",
+   "NATURAL",
+   "NATURAL",
+   "liAIURAL"
+  ],
+  "crop_wh": [
+   401,
+   799
+  ],
+  "sharpness": 57.7,
+  "ocr_s": 0.21
+ },
+ "f012.jpg": {
+  "n_lines": 8,
+  "box": [
+   1060,
+   245,
+   1444,
+   1032
+  ],
+  "level": "date",
+  "lines": [
+   "01/12/2026"
+  ],
+  "all_lines": [
+   "01/12/2026",
+   "uetata",
+   "R28",
+   "L007",
+   "Oc",
+   "NATURAL",
+   "NATURAL",
+   "iATURAL"
+  ],
+  "crop_wh": [
+   384,
+   787
+  ],
+  "sharpness": 46.6,
+  "ocr_s": 0.21
+ },
+ "f018.jpg": {
+  "n_lines": 8,
+  "box": [
+   1067,
+   186,
+   1453,
+   980
+  ],
+  "level": "date",
+  "lines": [
+   "01/12/2026"
+  ],
+  "all_lines": [
+   "01/12/2026",
+   "Butrata",
+   "R28",
+   "20e",
+   "NATURAL",
+   "NATURAL",
+   "NAIURAL",
+   "URAL"
+  ],
+  "crop_wh": [
+   386,
+   794
+  ],
+  "sharpness": 49.4,
+  "ocr_s": 0.21
+ },
+ "f024.jpg": {
+  "n_lines": 8,
+  "box": [
+   1045,
+   228,
+   1431,
+   1070
+  ],
+  "level": "date",
+  "lines": [
+   "01/12/2026F"
+  ],
+  "all_lines": [
+   "01/12/2026F",
+   "uatata",
+   "R28",
+   "20c",
+   "NATURAL",
+   "MOT1UR34",
+   "HATURAL",
+   "NATURAL"
+  ],
+  "crop_wh": [
+   386,
+   842
+  ],
+  "sharpness": 45.7,
+  "ocr_s": 0.21
+ },
+ "f030.jpg": {
+  "n_lines": 8,
+  "box": [
+   1019,
+   258,
+   1389,
+   1041
+  ],
+  "level": "date",
+  "lines": [
+   "01/12/2026"
+  ],
+  "all_lines": [
+   "01/12/2026",
+   "urtate",
+   "R28",
+   "30",
+   "20c",
+   "NATURAL",
+   "HATURAL",
+   "NATURAL"
+  ],
+  "crop_wh": [
+   370,
+   783
+  ],
+  "sharpness": 44.7,
+  "ocr_s": 0.21
+ },
+ "f036.jpg": {
+  "n_lines": 9,
+  "box": [
+   1019,
+   273,
+   1377,
+   1026
+  ],
+  "level": "date",
+  "lines": [
+   "01/12/2026"
+  ],
+  "all_lines": [
+   "01/12/2026",
+   "urrata",
+   "R28",
+   "130",
+   "0",
+   "NATURAL",
+   "NATURAL",
+   "URAL",
+   "HATURAL"
+  ],
+  "crop_wh": [
+   358,
+   753
+  ],
+  "sharpness": 46.9,
+  "ocr_s": 0.22
+ }
+}

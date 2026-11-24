@@ -1,0 +1,330 @@
+{
+ "f000.jpg": {
+  "n_lines": 16,
+  "box": [
+   107,
+   807,
+   203,
+   933
+  ],
+  "level": "digits",
+  "lines": [
+   "011226 R"
+  ],
+  "all_lines": [
+   "HAC",
+   "COSTILLA",
+   "ADOBADADE",
+   "CERDOIBERICO",
+   "ENT FOOSIU",
+   "CODLLO",
+   "COSTILLA",
+   "SEMICOCIDO",
+   "ADO",
+   "2.0d",
+   "011226 R",
+   "04 PXB",
+   "HOMTARCA",
+   "LAGRIMITAS AL LIMÓN",
+   "3,34€",
+   "DELICÍAS LIMÃO"
+  ],
+  "crop_wh": [
+   96,
+   126
+  ],
+  "sharpness": 319.7,
+  "ocr_s": 0.41
+ },
+ "f006.jpg": {
+  "n_lines": 21,
+  "box": [
+   619,
+   377,
+   715,
+   473
+  ],
+  "level": "digits",
+  "lines": [
+   "2.060"
+  ],
+  "all_lines": [
+   "COSTILLA",
+   "1OS",
+   "GUANCIALE",
+   "TACO",
+   "CODILLO",
+   "SEMICOCIDO",
+   "2.060",
+   "3,34€",
+   "8,50 C",
+   "PWECUPRTIARD",
+   "0.388kg",
+   "KS NMN",
+   "01122S R25",
+   "rCe COICTRLCONSOPER RTE",
+   "LAGRIMITAS AL LIMÓN",
+   "DELICÍAS LIMÃO",
+   "353239",
+   "2321235003344",
+   "大",
+   "ADOBADO",
+   "Mres ohe"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 274.2,
+  "ocr_s": 0.45
+ },
+ "f012.jpg": {
+  "n_lines": 21,
+  "box": [
+   534,
+   585,
+   750,
+   825
+  ],
+  "level": "digits",
+  "lines": [
+   "0.388kg",
+   "011226 R25",
+   "100138",
+   "L:363239",
+   "2321235003344"
+  ],
+  "all_lines": [
+   "COSTILLA",
+   "GUANCIALE",
+   "TACO",
+   "CODILLO",
+   "SEMICOCIDO",
+   "Z,ARE",
+   "3,34€",
+   "8,60 C",
+   "FRECTSPECT ANLE",
+   "0.388kg",
+   "PESO NETIA TRION",
+   "011226 R25",
+   "TEDO DXCTEDONER AN",
+   "LAGRIMITAS AL LIMÓN",
+   "DELICÍAS LIMÃO",
+   "100138",
+   "L:363239",
+   "2321235003344",
+   "320€",
+   "pN LDdo",
+   "TEY"
+  ],
+  "crop_wh": [
+   216,
+   240
+  ],
+  "sharpness": 284.1,
+  "ocr_s": 0.44
+ },
+ "f018.jpg": {
+  "n_lines": 28,
+  "box": [
+   516,
+   555,
+   761,
+   808
+  ],
+  "level": "digits",
+  "lines": [
+   "0.388kg",
+   "011226 R25",
+   "120328",
+   "L:363233",
+   "2321235003344",
+   "FEOR CROUCDRI/CONSUMTER ATE"
+  ],
+  "all_lines": [
+   "COSTILLA",
+   "ADOBARA",
+   "CERDOINERICO",
+   "N7 PCOs",
+   "OUANCIALE",
+   "TACO",
+   "CODILLO",
+   "",
+   "SEMICOCIDO",
+   "",
+   "2.86€",
+   "3,34€",
+   "8.60 C",
+   "REA",
+   "0.388kg",
+   "PESI NETOATSITN",
+   "011226 R25",
+   "FEOR CROUCDRI/CONSUMTER ATE",
+   "LAGRIMITAS AL LIMÓN",
+   "DELICÍAS LIMÃO",
+   "1380",
+   "120328",
+   "L:363233",
+   "2321235003344",
+   "二",
+   "31€",
+   "LAGHDHITAS AL LIUON",
+   "PaLRiES LPLO"
+  ],
+  "crop_wh": [
+   245,
+   253
+  ],
+  "sharpness": 280.6,
+  "ocr_s": 0.48
+ },
+ "f024.jpg": {
+  "n_lines": 27,
+  "box": [
+   524,
+   563,
+   742,
+   809
+  ],
+  "level": "digits",
+  "lines": [
+   "0.388kg",
+   "011226 R25",
+   "1053",
+   "L:353239",
+   "2321235003344"
+  ],
+  "all_lines": [
+   "COSTILLA",
+   "ADOBIAN",
+   "CESDOLALRICO",
+   "FCOSIJ",
+   "GUANCIALE",
+   "TACO",
+   "CODILLO",
+   "SEMICOCIDO",
+   "OU1AD",
+   "2.86€",
+   "3,34€",
+   "8,60 C",
+   "PMLCO/PECKIO",
+   "0.388kg",
+   "PESU NETDALTEUDO",
+   "011226 R25",
+   "FTOR DOCRCNMER ITE",
+   "LAGRIMITAS AL LIMÓN",
+   "DELICÍAS LIMÃO",
+   "338€",
+   "1053",
+   "L:353239",
+   "2321235003344",
+   "100€",
+   "ADO",
+   "LAGROITAS AL LIONÉ",
+   "BENSAE LoãO"
+  ],
+  "crop_wh": [
+   218,
+   246
+  ],
+  "sharpness": 281.8,
+  "ocr_s": 0.48
+ },
+ "f030.jpg": {
+  "n_lines": 24,
+  "box": [
+   517,
+   557,
+   741,
+   805
+  ],
+  "level": "digits",
+  "lines": [
+   "0.388kg",
+   "011226 R 25",
+   "10339",
+   "L:363233",
+   "2321Z35003344"
+  ],
+  "all_lines": [
+   "COSTILLA",
+   "CERDOIBERCe",
+   "PrOS",
+   "GUIANCIALE",
+   "TACO",
+   "CODILLO",
+   "SEMICOCIDO",
+   "2,86€",
+   "3,34€",
+   "850€",
+   "FRECI/PRECO KALD",
+   "0.388kg",
+   "PESO NETI/LI2UCD",
+   "011226 R 25",
+   "TEDS CAOICER/CINSIHER ATE",
+   "LAGRIMITAS AL LIMÓN",
+   "DELICÍAS LIMÃO",
+   "138€",
+   "10339",
+   "L:363233",
+   "2321Z35003344",
+   "方",
+   "LAGROSITAS AL LONOE",
+   "BUGAS LNS"
+  ],
+  "crop_wh": [
+   224,
+   248
+  ],
+  "sharpness": 283.8,
+  "ocr_s": 0.46
+ },
+ "f036.jpg": {
+  "n_lines": 23,
+  "box": [
+   512,
+   554,
+   736,
+   803
+  ],
+  "level": "digits",
+  "lines": [
+   "0.388kg",
+   "011226 R25",
+   "10320",
+   "L:363239",
+   "2321235003344"
+  ],
+  "all_lines": [
+   "COSTILLA",
+   "ADORADAD",
+   "CERDOIBEHICO",
+   "GUANCIALE",
+   "TACO",
+   "CODILLO",
+   "SEMICOCIDO",
+   "2.86€",
+   "3,34€",
+   "8,60 C",
+   "PRELIO/PECT ILO",
+   "0.388kg",
+   "PS NETLRAO",
+   "011226 R25",
+   "FEOR CREILTADCONSMUR RTE",
+   "AAT",
+   "DELICÍAS LIMÃO",
+   "10320",
+   "L:363239",
+   "2321235003344",
+   "士",
+   "LAGEDITAS AL UK",
+   "ROICAS LDAO"
+  ],
+  "crop_wh": [
+   224,
+   249
+  ],
+  "sharpness": 282.6,
+  "ocr_s": 0.45
+ }
+}

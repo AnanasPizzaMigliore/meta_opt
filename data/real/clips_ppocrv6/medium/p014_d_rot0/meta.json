@@ -1,0 +1,289 @@
+{
+ "f000.jpg": {
+  "n_lines": 18,
+  "box": [
+   1172,
+   1121,
+   1328,
+   1235
+  ],
+  "level": "date",
+  "lines": [
+   "02/05/27",
+   "02/11/26",
+   "FECHA DE ENVASADO"
+  ],
+  "all_lines": [
+   "NIOU",
+   "410",
+   "aso",
+   "L0G310 66",
+   "02/05/27",
+   "DATA DE ENALAG",
+   "FECHA DE ENVASADO",
+   "02/11/26",
+   "ESPANAFIFANSA",
+   "DRIGEN OR",
+   "0e.58",
+   "MTA",
+   "800",
+   "PALOMITAS",
+   "PIPOCAS",
+   "MICROONDAS",
+   "3x",
+   "3"
+  ],
+  "crop_wh": [
+   156,
+   114
+  ],
+  "sharpness": 111.9,
+  "ocr_s": 1.47
+ },
+ "f006.jpg": {
+  "n_lines": 10,
+  "box": [
+   1036,
+   1091,
+   1184,
+   1197
+  ],
+  "level": "digits",
+  "lines": [
+   "420527",
+   "DATA DE EVALAGE"
+  ],
+  "all_lines": [
+   "酒",
+   "420527",
+   "DATA DE EVALAGE",
+   "ESPASATSPANA",
+   "3x",
+   "1",
+   "",
+   "AS",
+   "S",
+   "3"
+  ],
+  "crop_wh": [
+   148,
+   106
+  ],
+  "sharpness": 94.5,
+  "ocr_s": 1.31
+ },
+ "f012.jpg": {
+  "n_lines": 24,
+  "box": [
+   936,
+   1035,
+   1073,
+   1131
+  ],
+  "level": "date",
+  "lines": [
+   "63/11/26",
+   "FECHA DE ENVASADO"
+  ],
+  "all_lines": [
+   "100g",
+   "Enerola",
+   "Energét",
+   "456ka",
+   "1915",
+   "410",
+   "rclat",
+   "20.0g",
+   "80g",
+   "370",
+   "320",
+   "-100",
+   "626627",
+   "L000197 8056C0",
+   "DATA DE EMBALADIEM",
+   "FECHA DE ENVASADO",
+   "ORIGEN/ORGEM",
+   "63/11/26",
+   "08.50",
+   "1X9",
+   "ESPASA/ESPANHA",
+   "功",
+   "800",
+   "MERC"
+  ],
+  "crop_wh": [
+   137,
+   96
+  ],
+  "sharpness": 137.9,
+  "ocr_s": 1.57
+ },
+ "f018.jpg": {
+  "n_lines": 23,
+  "box": [
+   917,
+   1003,
+   1067,
+   1116
+  ],
+  "level": "date",
+  "lines": [
+   "02/05/27",
+   "03/11/24",
+   "FECHA DE ENVAS ADO"
+  ],
+  "all_lines": [
+   "20",
+   "'56kea",
+   "1010",
+   "8.8g",
+   "790",
+   "37g",
+   "55,00",
+   "49,50",
+   "41.0g",
+   "100",
+   "Proteinas",
+   "9,80",
+   " CASA ",
+   "L000197 P054C9",
+   "02/05/27",
+   "DATA DE EMBALAGEM",
+   "FECHA DE ENVAS ADO",
+   "03/11/24",
+   "ESPANAELPANDIA",
+   "ORIGEN.ORIGEM",
+   "08.58",
+   "MARC",
+   "800"
+  ],
+  "crop_wh": [
+   150,
+   113
+  ],
+  "sharpness": 139.0,
+  "ocr_s": 1.63
+ },
+ "f024.jpg": {
+  "n_lines": 19,
+  "box": [
+   936,
+   1012,
+   1086,
+   1125
+  ],
+  "level": "date",
+  "lines": [
+   "02/06/27",
+   "02/11/20",
+   "FECHA OC ENVASADO"
+  ],
+  "all_lines": [
+   "20",
+   "56 kca",
+   "19104",
+   "BBg",
+   "790",
+   "Protninas",
+   "Cuson 2 iti de 0",
+   "APRTACE COSA FONA EAD",
+   "L000197 9056C0",
+   "02/06/27",
+   "CATA DE EMBALAGE",
+   "FECHA OC ENVASADO",
+   "ORIGEN.ORGEM",
+   "02/11/20",
+   "ESPAÑAESPANHA",
+   "C",
+   "9X5",
+   "800",
+   "&EEC"
+  ],
+  "crop_wh": [
+   150,
+   113
+  ],
+  "sharpness": 135.8,
+  "ocr_s": 1.59
+ },
+ "f030.jpg": {
+  "n_lines": 16,
+  "box": [
+   938,
+   1025,
+   1081,
+   1126
+  ],
+  "level": "digits",
+  "lines": [
+   "L060107 0056C0",
+   "02:0527",
+   "FECHA DE ENVASADO"
+  ],
+  "all_lines": [
+   "20t",
+   "防馆",
+   "10100",
+   "20.0",
+   "850",
+   "BDDACI GIA RIN 1A",
+   "L060107 0056C0",
+   "02:0527",
+   "FECHA DE ENVASADO",
+   "DATA DE ENGALAGEM",
+   "EPANASPAA",
+   "ORIDEN ORIGEM",
+   "XC",
+   "3A",
+   "800",
+   "0000"
+  ],
+  "crop_wh": [
+   143,
+   101
+  ],
+  "sharpness": 133.9,
+  "ocr_s": 1.51
+ },
+ "f036.jpg": {
+  "n_lines": 19,
+  "box": [
+   928,
+   1044,
+   1073,
+   1142
+  ],
+  "level": "date",
+  "lines": [
+   "03/11/2409:50",
+   "FECHA DE ENVASADO"
+  ],
+  "all_lines": [
+   "20",
+   "E",
+   "100",
+   "19194",
+   " 20,0g",
+   "6.8g",
+   "05,00",
+   "ADo",
+   "PEAM ODI AM LAS",
+   "L00107 8060C0",
+   "020527",
+   "CATA DE BALAGEM",
+   "FECHA DE ENVASADO",
+   "ORIGEN ORG",
+   "03/11/2409:50",
+   "ESPANATSPANHA",
+   "3",
+   "'8005",
+   "MIRC"
+  ],
+  "crop_wh": [
+   145,
+   98
+  ],
+  "sharpness": 136.4,
+  "ocr_s": 1.52
+ }
+}

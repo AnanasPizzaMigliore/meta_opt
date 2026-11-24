@@ -1,0 +1,256 @@
+{
+ "f000.jpg": {
+  "n_lines": 15,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "HACENULGT",
+   "BACENDADO",
+   "M2 ABERTOB",
+   "JEBO",
+   "HACENDADO",
+   "CAN",
+   "TILLAS DE",
+   "AVEIA 51%",
+   "TORTILLAS",
+   "MAÍZMILHO",
+   "Wraps",
+   "HACENDADO",
+   "6 TORTILLAS DE",
+   "AVENA/AVEIA 510%",
+   "RIGOXL"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 247.4,
+  "ocr_s": 0.4
+ },
+ "f006.jpg": {
+  "n_lines": 15,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "175e",
+   "HACENDIDO",
+   "AA FÁCH 2 ADIERTO ",
+   "E",
+   "6 TORTILLAS DE",
+   "TORTILLAS",
+   "AVENA AVEIA 51%",
+   "MAÍZMILHO",
+   "Wraps",
+   "HACENDADO",
+   "OL",
+   "6 TORTILLAS DE",
+   "AVENA/AVEIA",
+   "LLAS",
+   "LASRIGOXL"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 220.7,
+  "ocr_s": 0.42
+ },
+ "f012.jpg": {
+  "n_lines": 18,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "175e",
+   "HACENDADO",
+   "MC",
+   "BAFÁCIL D102 ABIERTOI A",
+   "D€",
+   "6 TORTILLAS DE",
+   "CAN",
+   "TORTILLAS",
+   "AVENA AVEIA 51%",
+   "MAÍZMILHO",
+   "Wraps",
+   "HACENDADO",
+   "6 TORTILLAS DE",
+   "AVENA/AVEIA",
+   "LLAS",
+   "BUNIDA",
+   "LLASRIGOXL",
+   "XI"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 227.3,
+  "ocr_s": 0.43
+ },
+ "f018.jpg": {
+  "n_lines": 14,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "HACENDADO",
+   "JAFACL",
+   "2 ABETO",
+   "€",
+   "6 TORTILLAS DE",
+   "TORTILLAS",
+   "AVENA AVEIA 51%",
+   "MAÍZMILHO",
+   "Wraps",
+   "HACENDADO",
+   "6 TORTILLAS DF",
+   "AVENA/AVEIA",
+   "LLAS",
+   "UNID"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 223.8,
+  "ocr_s": 0.4
+ },
+ "f024.jpg": {
+  "n_lines": 22,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "175",
+   "ABETTOI\"AG",
+   "DGAMR",
+   "HACENDADO",
+   "AFACIL",
+   "12 ABIENTO",
+   "",
+   "8",
+   "CALSS",
+   "6 TORTILLAS DE",
+   "TORTILLAS",
+   "MAÍZMILHO",
+   "AVENA AVEIA 51%",
+   "NA",
+   "Wraps",
+   "HACENDADO",
+   "DF",
+   "6 TORTILLAS",
+   "AVENA",
+   "LLAS",
+   "LASRIGOXL",
+   "XL"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 221.3,
+  "ocr_s": 0.45
+ },
+ "f030.jpg": {
+  "n_lines": 18,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "175e",
+   "HACENDADO",
+   "AAFACL",
+   "M2 ABERTO",
+   "8",
+   "TORTILLAS DE",
+   "TORTILLAS",
+   "VENA AVEIA 51%",
+   "MAÍZMILHO",
+   "NAU",
+   "Wraps",
+   "HACENDADO",
+   "6 TORTILLAS DE",
+   "AVENA/A",
+   "LAS",
+   "BUNIDA",
+   "LASRIGOXL",
+   "XL"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 220.7,
+  "ocr_s": 0.43
+ },
+ "f036.jpg": {
+  "n_lines": 19,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "175e",
+   "ROR",
+   "280",
+   "HACENDADO",
+   "",
+   "BAFACIL 2 ABIERTOI",
+   "8",
+   "CAS",
+   "TORTILLAS DE",
+   "TORTILLAS",
+   "MAÍZMILHO",
+   "ENA AVEIA 51%",
+   "NAL",
+   "Wraps",
+   "HACENDADO",
+   "6 TORTILLAS DE",
+   "AVENA/AVEL",
+   "LAS",
+   "BUNIDA"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 219.6,
+  "ocr_s": 0.45
+ }
+}

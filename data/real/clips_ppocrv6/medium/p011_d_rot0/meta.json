@@ -1,0 +1,350 @@
+{
+ "f000.jpg": {
+  "n_lines": 32,
+  "box": [
+   472,
+   1214,
+   618,
+   1326
+  ],
+  "level": "digits",
+  "lines": [
+   "800500220",
+   "MERCADONA"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "0,85c",
+   "0.90",
+   "HACENDADO",
+   "Sticks",
+   "Vegetales",
+   "Vegetais",
+   "Poda cooter leite",
+   "OP",
+   "7%",
+   "Ceaas Rt Eae Éroe",
+   "da/ łslcpe",
+   "236g",
+   "259",
+   "6560",
+   "230",
+   "150",
+   "C.Pref:w",
+   "159",
+   "225",
+   "F.Fab: 091128",
+   "T144258383",
+   "08:13",
+   "E54",
+   "SURVACIÓS COUSLIVAÇÃO",
+   " ig kaa aesa y potegh de la isz",
+   "an igpo leas, seaa e pasigido de ka.",
+   "GA",
+   "MERCADONA",
+   "800500220",
+   "Isats Peso Eipaie",
+   "100ge"
+  ],
+  "crop_wh": [
+   146,
+   112
+  ],
+  "sharpness": 168.9,
+  "ocr_s": 1.83
+ },
+ "f006.jpg": {
+  "n_lines": 26,
+  "box": [
+   768,
+   1040,
+   880,
+   1136
+  ],
+  "level": "date",
+  "lines": [
+   "E54 06-13"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "0.85",
+   "HACENDADO",
+   "Sticks",
+   "Vegetales",
+   "Vegetais",
+   "NIYOO",
+   "2150",
+   "2.50",
+   "6540",
+   "23g",
+   "185",
+   "330",
+   "C.Pref:",
+   "230",
+   "F.Fab: C1124",
+   "T14425838J",
+   "E54 06-13",
+   "SERACIÓS CONSE RVAÇÃO",
+   "pe be es y pobpíd de la la",
+   "upor bmos aesto o protgido da bas",
+   "SA",
+   "MERCADONA",
+   "800500220",
+   "N rto Peso Eíqutda",
+   "100ge"
+  ],
+  "crop_wh": [
+   112,
+   96
+  ],
+  "sharpness": 153.4,
+  "ocr_s": 1.75
+ },
+ "f012.jpg": {
+  "n_lines": 30,
+  "box": [
+   561,
+   1125,
+   722,
+   1245
+  ],
+  "level": "digits",
+  "lines": [
+   "800500220",
+   "MERCADONA"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "0.85€",
+   "090",
+   "HACENDADO",
+   "Sticks",
+   "Vegetales",
+   "Vegetais",
+   "WIDO",
+   "",
+   "22.0g",
+   "250",
+   "656",
+   "230",
+   "1,89",
+   "C.Pref: ovazr",
+   "33g",
+   "2.30",
+   "F.Fab: 05/1124",
+   "DELFORL",
+   "T144258383",
+   "E54 09:13",
+   "EZVACIÓN/CONSLEVAÇÃO",
+   "lur fo  oeo y potegido de la a",
+   "bpy feom sr e protagido da ks",
+   "GA",
+   "e402001014512",
+   "MERCADONA",
+   "800500220",
+   "Pepetsy Pese liquido",
+   "100ge"
+  ],
+  "crop_wh": [
+   161,
+   120
+  ],
+  "sharpness": 178.1,
+  "ocr_s": 1.81
+ },
+ "f018.jpg": {
+  "n_lines": 27,
+  "box": [
+   563,
+   1142,
+   722,
+   1264
+  ],
+  "level": "digits",
+  "lines": [
+   "800500220",
+   "MURCADONA"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "0.85c",
+   "HACENDADO",
+   "Sticks",
+   "Vegetales",
+   "Vegetais",
+   "WOO",
+   "soja e cereals com glúá",
+   "2260",
+   "25g",
+   "239",
+   "1.80",
+   "C.Pref:02",
+   "33g",
+   "230",
+   "F.Fab: 09/1128",
+   "T144258383",
+   "YACAFERA",
+   "E54",
+   "ERVACHÓN CUNGERVAÇÃO",
+   " sgor fes ses y podo de a í",
+   " kig teas, seco e prcsegido da kaz.",
+   "Gi",
+   "MURCADONA",
+   "800500220",
+   "Insnets/Peso iquldex",
+   "100ge"
+  ],
+  "crop_wh": [
+   159,
+   122
+  ],
+  "sharpness": 178.8,
+  "ocr_s": 1.77
+ },
+ "f024.jpg": {
+  "n_lines": 29,
+  "box": [
+   569,
+   1123,
+   715,
+   1241
+  ],
+  "level": "digits",
+  "lines": [
+   "800500220",
+   "MERCADOHA"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "0,85c",
+   "0.50",
+   "HACENDADO",
+   "Sticks",
+   "WINCO",
+   "Pode conter teito e pn",
+   "moja e cereais cos gli",
+   "225g",
+   "  i",
+   "25g",
+   "656",
+   "239",
+   "1.8g",
+   "C.Pref:09022",
+   "33s",
+   "F.Fab: 091125",
+   "730",
+   "T144258383",
+   "06:13",
+   "SERVACION/CONSERVAÇÃO",
+   "kgo e se pogio de lale",
+   "lur em, sese e preido de se",
+   "心7",
+   "8402001014512",
+   "MERCADOHA",
+   "800500220",
+   "nats Pese Eiquide",
+   "100ge"
+  ],
+  "crop_wh": [
+   146,
+   118
+  ],
+  "sharpness": 182.2,
+  "ocr_s": 1.72
+ },
+ "f030.jpg": {
+  "n_lines": 27,
+  "box": [
+   784,
+   990,
+   906,
+   1086
+  ],
+  "level": "date",
+  "lines": [
+   "F.Fab: 05/1/25"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "0.85c",
+   "050",
+   "HACENDADO",
+   "Sticks",
+   "Vegetales",
+   "WINDO",
+   "23.50",
+   "25g",
+   "658",
+   "139",
+   "1,8g",
+   "C.Pref:orvarr",
+   "230",
+   "F.Fab: 05/1/25",
+   "22g",
+   "T144258383",
+   "E54 08:13",
+   "SERVACIONCONSERVAÇÃO",
+   "duper  e y poio do La le",
+   "bpr fhes, peae potagido da a",
+   "OA",
+   "MERCADONA",
+   "800500220",
+   "Tos ato Peso Bquidas",
+   "100ge",
+   "ME"
+  ],
+  "crop_wh": [
+   122,
+   96
+  ],
+  "sharpness": 179.3,
+  "ocr_s": 1.7
+ },
+ "f036.jpg": {
+  "n_lines": 25,
+  "box": [
+   563,
+   1134,
+   723,
+   1259
+  ],
+  "level": "digits",
+  "lines": [
+   "800500220",
+   "MERCADONA"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "0.85c",
+   "HACENDADO",
+   "Sticks",
+   "WICDO",
+   "190 koal",
+   "235g",
+   "250",
+   "636",
+   "23g",
+   "1,99",
+   "C.Pref:0svezr",
+   "130",
+   "F.Fab:0911/28",
+   "23g",
+   "T144258383",
+   "DIFAA",
+   "E54 06:13",
+   "SERVACKÓN CONSRVAÇÃO",
+   "a bu e a y prid de la ",
+   "bur  n e potgido de la",
+   "MERCADONA",
+   "800500220",
+   "Anneti: Peso liqoidor",
+   "100ge"
+  ],
+  "crop_wh": [
+   160,
+   125
+  ],
+  "sharpness": 179.0,
+  "ocr_s": 1.68
+ }
+}

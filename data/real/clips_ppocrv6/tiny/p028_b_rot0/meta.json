@@ -1,0 +1,334 @@
+{
+ "f000.jpg": {
+  "n_lines": 55,
+  "box": [
+   0,
+   778,
+   722,
+   1455
+  ],
+  "level": "date",
+  "lines": [
+   "08.02.27",
+   "consumir no prazo"
+  ],
+  "all_lines": [
+   "AMNTNY",
+   "A",
+   "45% Queso",
+   "coagulante",
+   "cIcos.",
+   "45",
+   "ntiaglomerante (amido).",
+   "ulante microbiano",
+   " pasteurizado,",
+   "co3",
+   "Queso",
+   "produto em refrigeração",
+   "atmosfera protetora.",
+   "JO",
+   "Gouda",
+   "fermentos",
+   "microbiano)",
+   "entemente antesd",
+   "referência anter",
+   "coagulante ",
+   "QUESO CURADO)",
+   "CONSERVACIÓN/CONSERVAÇÃO",
+   "(leite",
+   "rurizada de vaca",
+   "Isento de glúten.",
+   "lácticos,",
+   "(leite",
+   "lc0Os",
+   "08.02.27",
+   "30%",
+   ":07 78",
+   "microbiano,'sal, ",
+   "consumir no prazo",
+   "CCJqu",
+   " (leche pasteurizada",
+   ", sal, fermentos",
+   "conservador (E-202))",
+   "colorante",
+   "termentos",
+   "termentos",
+   "conserva",
+   "de vaca",
+   "Valor",
+   "corante",
+   "Grasas",
+   "de las cual",
+   "aberto,",
+   "(E-202))",
+   "dias.",
+   "de los cual",
+   "Proteinas",
+   "Carbono",
+   "Saturados",
+   "200",
+   "1470k"
+  ],
+  "crop_wh": [
+   722,
+   677
+  ],
+  "sharpness": 94.2,
+  "ocr_s": 0.32
+ },
+ "f006.jpg": {
+  "n_lines": 10,
+  "box": [
+   626,
+   202,
+   1728,
+   1010
+  ],
+  "level": "date",
+  "lines": [
+   "08.02.27",
+   "Lote/Consumir preferentem",
+   "consumir"
+  ],
+  "all_lines": [
+   "NA",
+   "Conserva",
+   "tes del:",
+   "Lote/Consumir preferentem",
+   "08.02.27",
+   "65052-314 23:07 8",
+   "consumir",
+   "IrE",
+   "JESOS",
+   "UEJOS"
+  ],
+  "crop_wh": [
+   1102,
+   808
+  ],
+  "sharpness": 30.0,
+  "ocr_s": 0.21
+ },
+ "f012.jpg": {
+  "n_lines": 16,
+  "box": [
+   1611,
+   1458,
+   1728,
+   1702
+  ],
+  "level": "digits",
+  "lines": [
+   "80050022"
+  ],
+  "all_lines": [
+   "refrigeración y cuns",
+   "Conserva",
+   "Conservar no",
+   "entre",
+   "consumir",
+   "0",
+   "8",
+   "Envasado en atmo",
+   "no",
+   "prazo",
+   "Uma",
+   "de",
+   "vez",
+   "w",
+   "dias.",
+   "80050022"
+  ],
+  "crop_wh": [
+   117,
+   244
+  ],
+  "sharpness": 21.5,
+  "ocr_s": 0.23
+ },
+ "f018.jpg": {
+  "n_lines": 19,
+  "box": [
+   1586,
+   1425,
+   1724,
+   1668
+  ],
+  "level": "digits",
+  "lines": [
+   "8005002"
+  ],
+  "all_lines": [
+   "Conservaren",
+   "Conservar",
+   "retrg",
+   "nO",
+   "entre",
+   "dias",
+   "8",
+   "Envasado en atmd",
+   "n0",
+   "00",
+   "prazo de",
+   "C",
+   "JESOS",
+   "Uma",
+   "vez",
+   "w",
+   "dias.",
+   "aberno",
+   "8005002"
+  ],
+  "crop_wh": [
+   138,
+   243
+  ],
+  "sharpness": 20.1,
+  "ocr_s": 0.24
+ },
+ "f024.jpg": {
+  "n_lines": 31,
+  "box": [
+   875,
+   309,
+   1234,
+   569
+  ],
+  "level": "date",
+  "lines": [
+   "08.02.27"
+  ],
+  "all_lines": [
+   "lacticos,",
+   "0",
+   "Conservar er",
+   "luto",
+   "em",
+   "nte",
+   "e (amido).",
+   "retrigera",
+   "coagula",
+   "08.02.27",
+   ". Isento de",
+   "65052-314 23:07 7B 0",
+   "onsumir",
+   "0",
+   "3",
+   "nO",
+   "00",
+   "8",
+   "pra20",
+   "Uma",
+   "QUESO",
+   "Q",
+   "8",
+   "Cons",
+   "vez",
+   "w",
+   "dias.",
+   "aberno.",
+   "買",
+   "80050022",
+   "ESE"
+  ],
+  "crop_wh": [
+   359,
+   260
+  ],
+  "sharpness": 22.0,
+  "ocr_s": 0.26
+ },
+ "f030.jpg": {
+  "n_lines": 24,
+  "box": [
+   834,
+   273,
+   1212,
+   553
+  ],
+  "level": "date",
+  "lines": [
+   "08.02.27"
+  ],
+  "all_lines": [
+   "ovelha",
+   "0",
+   "duto",
+   "em",
+   "nte",
+   "retrigerac",
+   "micr",
+   "coagulante",
+   "08.02.27",
+   ".Isento de",
+   "65052-314 23:07 7B",
+   "entre",
+   "8",
+   "nO",
+   "c0",
+   "8",
+   "prazo",
+   "Uma",
+   "品",
+   "vez",
+   "dias.",
+   "aberto.",
+   "MERCADO",
+   "8005002"
+  ],
+  "crop_wh": [
+   378,
+   280
+  ],
+  "sharpness": 20.0,
+  "ocr_s": 0.24
+ },
+ "f036.jpg": {
+  "n_lines": 27,
+  "box": [
+   816,
+   251,
+   1210,
+   547
+  ],
+  "level": "date",
+  "lines": [
+   "08.02.27"
+  ],
+  "all_lines": [
+   "Conservar en frioe",
+   "Conservar",
+   "duto",
+   "em",
+   "nte microo",
+   "no frigorifico entre",
+   "retrigerac",
+   "coagulante",
+   "08.02.27",
+   "ONSERVACI",
+   "Isento de glúten",
+   "65052-314 23:07 7B",
+   "ION/CONSERVA",
+   "0",
+   "o",
+   "no",
+   "0",
+   "0",
+   "prazo",
+   "Uma",
+   "8",
+   "cons",
+   "vez",
+   "w",
+   "dias",
+   "aberto",
+   "80050022"
+  ],
+  "crop_wh": [
+   394,
+   296
+  ],
+  "sharpness": 19.7,
+  "ocr_s": 0.25
+ }
+}

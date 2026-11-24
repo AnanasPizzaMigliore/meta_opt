@@ -1,0 +1,332 @@
+{
+ "f000.jpg": {
+  "n_lines": 21,
+  "box": [
+   624,
+   992,
+   720,
+   1088
+  ],
+  "level": "date",
+  "lines": [
+   "1-11"
+  ],
+  "all_lines": [
+   "MEDIO MAGRET",
+   "POLLO",
+   "MOLLEJAS",
+   "POLLO",
+   "POLLO",
+   "10310",
+   "POLLO",
+   "POLLO",
+   "POLLO",
+   "PHI",
+   "R售（8M7588分F010",
+   "1-11",
+   "1220",
+   "Peso Neto:0.315kg",
+   "Lote 263239",
+   "41320 EVsa ded Ak",
+   "H1",
+   "Serta)",
+   "A122",
+   "CAC",
+   "LLO"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 275.1,
+  "ocr_s": 0.47
+ },
+ "f006.jpg": {
+  "n_lines": 21,
+  "box": [
+   783,
+   736,
+   998,
+   998
+  ],
+  "level": "digits",
+  "lines": [
+   "12210日",
+   "(ote 263239",
+   "Peso Neto:0.315kg"
+  ],
+  "all_lines": [
+   "MOLLEJAS",
+   "POLLO",
+   "0",
+   "POLLO",
+   "POLLO",
+   "FILI",
+   "NEONER",
+   "12210日",
+   "IICIO TRESED CHTY",
+   "(ote 263239",
+   "1-1-1",
+   "41520 Vsa del Aler (Sevila)",
+   "Peso Neto:0.315kg",
+   "So o de oarb",
+   "Lemp",
+   "5.",
+   "natur",
+   "avi",
+   "0",
+   "POLLO",
+   "POLLO"
+  ],
+  "crop_wh": [
+   215,
+   262
+  ],
+  "sharpness": 258.9,
+  "ocr_s": 0.45
+ },
+ "f012.jpg": {
+  "n_lines": 26,
+  "box": [
+   653,
+   620,
+   1008,
+   922
+  ],
+  "level": "digits",
+  "lines": [
+   "122109",
+   "Peso Neto:0.315kg",
+   "Lote 263239",
+   "41520 E Vno SeN Ak",
+   "/ 0255g",
+   "Fabricado por:"
+  ],
+  "all_lines": [
+   "MOLLEJAS",
+   "POLLO",
+   "出品馆",
+   "LLO",
+   "PITI",
+   "WNIOENER",
+   "144",
+   "122109",
+   "Fabricado por:",
+   "Peso Neto:0.315kg",
+   "Lote 263239",
+   "41520 E Vno SeN Ak",
+   "de le rales wee",
+   "lid ahw de srte",
+   "Srese",
+   "Phefroue",
+   "  ",
+   "/ 0255g",
+   "Sevila)",
+   "aKm22",
+   "ai",
+   "natur",
+   "Li",
+   "POLLO",
+   "TAQUITOS",
+   "POLLO"
+  ],
+  "crop_wh": [
+   355,
+   302
+  ],
+  "sharpness": 256.2,
+  "ocr_s": 0.47
+ },
+ "f018.jpg": {
+  "n_lines": 25,
+  "box": [
+   688,
+   623,
+   998,
+   931
+  ],
+  "level": "digits",
+  "lines": [
+   "122100",
+   "Peso Neto:0.315kg",
+   "Lote 263239",
+   "Fabricado por."
+  ],
+  "all_lines": [
+   "MOLLEJAS",
+   "POLLO",
+   "",
+   "VOLLO",
+   "PIlI",
+   "LOS OETNER",
+   "PWK TO URESCE CATE",
+   "144",
+   "122100",
+   "Fabricado por.",
+   "Peso Neto:0.315kg",
+   "Lote 263239",
+   "ár tw cnaleg aean",
+   "do la codles sel a ate",
+   "aace",
+   "Vakar mer gatico",
+   "AKE22",
+   "TS",
+   "1",
+   "ci",
+   "natur",
+   "POLLO",
+   "TAGUITOS",
+   "POLLO",
+   "2.180"
+  ],
+  "crop_wh": [
+   310,
+   308
+  ],
+  "sharpness": 256.1,
+  "ocr_s": 0.48
+ },
+ "f024.jpg": {
+  "n_lines": 21,
+  "box": [
+   796,
+   642,
+   983,
+   815
+  ],
+  "level": "digits",
+  "lines": [
+   "122108",
+   "Lote 263239"
+  ],
+  "all_lines": [
+   "MOLLEJAS",
+   "POLLO",
+   "",
+   "PULI",
+   "MES1BY-(OTEWStBPBI1D",
+   "式程气C",
+   "114",
+   "122108",
+   "KET",
+   "Lote 263239",
+   "Tide rt",
+   "d lar cumles zal v ada",
+   "de carbon",
+   "mtre",
+   "1075",
+   "ci",
+   "natur",
+   "POLLO",
+   "TAQULTOS",
+   "POLLO",
+   ""
+  ],
+  "crop_wh": [
+   187,
+   173
+  ],
+  "sharpness": 257.2,
+  "ocr_s": 0.46
+ },
+ "f030.jpg": {
+  "n_lines": 26,
+  "box": [
+   1023,
+   644,
+   1119,
+   782
+  ],
+  "level": "date",
+  "lines": [
+   "POUTVIC 10 /ESLE CATY"
+  ],
+  "all_lines": [
+   "MOLLEJAS",
+   "POLLO",
+   "m0",
+   "roL",
+   "PHI",
+   "TOENEN",
+   "POUTVIC 10 /ESLE CATY",
+   "111",
+   "1221011",
+   "Peso Neto:0.315kg",
+   "Lote 263239",
+   "41520 EI Viso Sel Ak",
+   "dr (o roles an",
+   "de iar rmelen sal e ada",
+   "CT",
+   "9h i",
+   "107558",
+   "Seveu)",
+   "@aKa22",
+   "T5",
+   "C",
+   "natur",
+   "POLLO",
+   "YRQUITOS",
+   "POLLO",
+   "RS"
+  ],
+  "crop_wh": [
+   96,
+   138
+  ],
+  "sharpness": 257.3,
+  "ocr_s": 0.5
+ },
+ "f036.jpg": {
+  "n_lines": 28,
+  "box": [
+   677,
+   596,
+   1154,
+   922
+  ],
+  "level": "digits",
+  "lines": [
+   "10 T5.0 CRTY",
+   "122108",
+   "Peso Neto:0.315kg",
+   "Lote 263238",
+   "Fabricado pon"
+  ],
+  "all_lines": [
+   "MOLLEJAS",
+   "POLLO",
+   "m",
+   "Agio",
+   "PI!",
+   "TRE DF MESEO YCEMTSAUTIBY-POI1O S",
+   "10 T5.0 CRTY",
+   "111",
+   "122108",
+   "Ctra. ElViso del Alcor",
+   "Fabricado pon",
+   "Peso Neto:0.315kg",
+   "Lote 263238",
+   "2",
+   "hatme",
+   "de lo roales aaer",
+   "ibatm de tart",
+   "DUCCIONE",
+   "a",
+   "DONA",
+   "Sevela)",
+   "AKm22",
+   "4",
+   "natur",
+   "Gi",
+   "POLLO",
+   "POLLO",
+   "2.580"
+  ],
+  "crop_wh": [
+   477,
+   326
+  ],
+  "sharpness": 258.5,
+  "ocr_s": 0.51
+ }
+}

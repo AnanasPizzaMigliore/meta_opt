@@ -1,0 +1,297 @@
+{
+ "f000.jpg": {
+  "n_lines": 14,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Torla",
+   "nerial",
+   "de",
+   "HACENDADO",
+   "FIGURrTAS",
+   "NDDO",
+   "275e",
+   "de Mazapán",
+   "Maçapão",
+   "30€",
+   "AUBH",
+   "200s",
+   "Cuculmd",
+   "irtdl"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 299.4,
+  "ocr_s": 0.22
+ },
+ "f006.jpg": {
+  "n_lines": 25,
+  "box": [
+   1131,
+   1138,
+   1257,
+   1246
+  ],
+  "level": "digits",
+  "lines": [
+   "2700"
+  ],
+  "all_lines": [
+   "Torta",
+   "nerial",
+   "明辅",
+   "0C",
+   "lmprial",
+   "HACENDADO",
+   "FIGURITAS",
+   "de Mazapán",
+   "295",
+   "HACENDADO",
+   "275c",
+   "Maçapão",
+   "2,30€",
+   "Crom",
+   "t.06C",
+   "iellana",
+   "Ctmtm",
+   "cdo",
+   "Aocllana",
+   "185",
+   "200",
+   "2700",
+   "200c",
+   "Esro",
+   "Cacatnm"
+  ],
+  "crop_wh": [
+   126,
+   108
+  ],
+  "sharpness": 300.6,
+  "ocr_s": 0.23
+ },
+ "f012.jpg": {
+  "n_lines": 26,
+  "box": [
+   1478,
+   1044,
+   1574,
+   1140
+  ],
+  "level": "digits",
+  "lines": [
+   "1858"
+  ],
+  "all_lines": [
+   "LIALEDDD",
+   "Torlo",
+   "DeT",
+   "Pal",
+   "de soto",
+   "e Tun",
+   "HACENDADO",
+   "FJGURITAS",
+   "米·茶",
+   "de Mazapán",
+   "28",
+   "LACEDADO",
+   "275c",
+   "Maçapão",
+   "2,30€",
+   "onE0e",
+   "Aiellana",
+   "FCmin",
+   "1858",
+   "200",
+   "270c",
+   "2,00c",
+   "Ccatmd",
+   "Puruente",
+   "sicnte",
+   "Fnte"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 303.1,
+  "ocr_s": 0.24
+ },
+ "f018.jpg": {
+  "n_lines": 22,
+  "box": [
+   1338,
+   1102,
+   1453,
+   1204
+  ],
+  "level": "digits",
+  "lines": [
+   "1200"
+  ],
+  "all_lines": [
+   "Torla",
+   "enerlal",
+   "de son",
+   "e Tur",
+   "1号",
+   "HACENDADO",
+   "FIGURITAS",
+   "de Mazapán",
+   "235",
+   "HACENDADO",
+   "275c",
+   "Maçapão",
+   "2,30€",
+   "Aiellana",
+   "TTmn",
+   "lvrli",
+   "1200",
+   "270cd",
+   "200c",
+   "Earrir",
+   "icute",
+   "SNErte"
+  ],
+  "crop_wh": [
+   115,
+   102
+  ],
+  "sharpness": 296.0,
+  "ocr_s": 0.24
+ },
+ "f024.jpg": {
+  "n_lines": 19,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "IKCENDADO",
+   "Torta",
+   "lenerial",
+   "de Soo",
+   "HACENDADO",
+   "FIGURITAS",
+   "de Mazapán",
+   "235",
+   "TACENDADO",
+   "Maçapãc",
+   "275k",
+   "2,30€",
+   "na 150s",
+   "fTinreen",
+   "dvellana",
+   "Irllkana",
+   "200",
+   "270c",
+   "200c"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 306.0,
+  "ocr_s": 0.23
+ },
+ "f030.jpg": {
+  "n_lines": 23,
+  "box": [
+   158,
+   731,
+   412,
+   885
+  ],
+  "level": "digits",
+  "lines": [
+   "2,306"
+  ],
+  "all_lines": [
+   "HACENIATO",
+   "laAa",
+   "Leperial",
+   "de Soro",
+   "kTur",
+   "HACENDADO",
+   "FIGURITAS",
+   "de Mazapán",
+   "295",
+   "CENDADO",
+   "Maçapão",
+   "275t",
+   "2,306",
+   "-150X",
+   "maiou",
+   "Avellana",
+   "Arclkane",
+   "lLanr",
+   "18",
+   "200.",
+   "270%",
+   "200c",
+   "netdn"
+  ],
+  "crop_wh": [
+   254,
+   154
+  ],
+  "sharpness": 306.9,
+  "ocr_s": 0.24
+ },
+ "f036.jpg": {
+  "n_lines": 23,
+  "box": [
+   308,
+   791,
+   429,
+   887
+  ],
+  "level": "digits",
+  "lines": [
+   "1606"
+  ],
+  "all_lines": [
+   "BAONOTIO",
+   "Turta",
+   "nerlal",
+   "Ceapàn",
+   "de Soo",
+   " Tun",
+   "HACENDADO",
+   "FIGURITAS",
+   "de Mazapán",
+   "ACENDDd",
+   "256",
+   "Maçapão",
+   "275c",
+   "2,30€",
+   "1606",
+   "iiiEU",
+   "Avellana",
+   "cla",
+   "rellna",
+   "185",
+   "200",
+   "270c",
+   "200c"
+  ],
+  "crop_wh": [
+   121,
+   96
+  ],
+  "sharpness": 302.4,
+  "ocr_s": 0.26
+ }
+}
