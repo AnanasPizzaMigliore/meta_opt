@@ -26,13 +26,14 @@ from pathlib import Path
 
 import reading_policy as rp
 
-SET = Path("/home/user/qwen/phone_bench/questcap_captures/pilot2")
-L = SET / "loc"
+REPO = Path(__file__).resolve().parent.parent
+SET = REPO / "data" / "real"
+L = SET / "clips"
 TRUTH = json.load(open(SET / "truth.json"))
-spec = importlib.util.spec_from_file_location("ob", "/home/user/qwen/ocr_baseline.py")
+spec = importlib.util.spec_from_file_location("ob", Path(__file__).resolve().parent / "ocr_baseline.py")
 ob = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(ob)
-READ_S, LOC_S = 2.23, 1.2         # median read (Table 1, all three changes, default clocks); localisation per frame
+READ_S, LOC_S = 2.23, 3.27         # rough per-frame model only: median read (Table 1) and median localisation of a real frame (headset replay)
 
 
 def match(a, t):

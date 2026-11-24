@@ -9,7 +9,7 @@ import random
 import statistics as st
 from pathlib import Path
 
-D = Path(__file__).parent
+D = Path(__file__).resolve().parent.parent / "data" / "measurements"
 CFGS = ["orig", "+gpu_vit", "+task_vocab", "+stop_if", "orig_max", "+stop_if_max", "+cap384_if_max"]
 REF = {c: ("orig_max" if c.endswith("_max") else "orig") for c in CFGS}
 

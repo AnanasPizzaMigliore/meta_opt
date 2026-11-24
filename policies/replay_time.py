@@ -20,7 +20,7 @@ import numpy as np
 import real_eval as re_
 import reading_policy as rp
 
-DV = Path("/home/user/qwen/phone_bench/dvfs/revision")
+DV = Path(__file__).resolve().parent.parent / "data" / "measurements"
 VLM = Path(sys.argv[1]) if len(sys.argv) > 1 else DV / "replay_vlm.jsonl"
 LOCT = Path(sys.argv[2]) if len(sys.argv) > 2 else DV / "replay_loc.tsv"
 B = rp.BUDGET
@@ -91,11 +91,25 @@ def ocr_until2(fr):
     return "abstain", len(fr), []
 
 
+def ocr_confirmed_skip(fr):
+    """VLM confirmed by OCR, reading only frames on which the OCR rules parsed a date (a frame without one cannot
+    confirm); identical decisions and stopping frames by construction. Added after the replay."""
+    read = []
+    for i, x in enumerate(fr):
+        if x["ocr"] == rp.NONE:
+            continue
+        read.append(i)
+        if x["v"] != rp.NONE and x["v"] == x["ocr"]:
+            return x["v"], i + 1, read
+    return "abstain", len(fr), read
+
+
 RULES = {
     "Until 2 agree": lambda fr: until2(fr),
     "Fixed policy (gated, calendar)": lambda fr: until2(fr, gated=True, check_valid=True),
     "Until OCR confirms or 2 agree": lambda fr: until2(fr, confirm=True),
     "VLM confirmed by OCR": ocr_confirmed,
+    "  ..., read only frames with OCR date": ocr_confirmed_skip,
     "OCR only: first parsed date": ocr_first,
     "OCR only: until 2 OCR dates agree": ocr_until2,
 }
@@ -157,5 +171,28 @@ def main():
                   f"{cnt['false']:5d} {100 * cnt['correct'] / max(1, em):6.1f} {st.mean(nl):4.1f} {st.mean(nr):5.1f} | {tt}")
 
 
+def paired(src="vlm", n=5000, seed=1):
+    """Dated clips: VLM confirmed by OCR vs OCR only (until 2 OCR dates agree); product-level paired bootstrap."""
+    import random
+    hv = {json.loads(l)["image"]: json.loads(l) for l in open(VLM)} if VLM.exists() else {}
+    products = [p for p in sorted(re_.TRUTH) if p >= "p004"]
+    trans, net = collections.Counter(), {p: 0 for p in products}
+    for p in products:
+        for c in "abd":
+            fr = clip_frames(p, c, hv, {})
+            for x in fr:
+                x["v"] = x[src]
+            t = tuple(re_.TRUTH[p])
+            a = re_.outcome(ocr_confirmed(fr)[0], t)
+            b = re_.outcome(ocr_until2(fr)[0], t)
+            trans[(a, b)] += 1
+            net[p] += (a == "correct") - (b == "correct")
+    rng = random.Random(seed)
+    v = sorted(sum(net[rng.choice(products)] for _ in products) for _ in range(n))
+    print(f"\npaired, dated clips (confirmed, OCR-only): {dict(trans)}")
+    print(f"net extra correct clips {sum(net.values())}, 95% product bootstrap {v[int(0.025 * n)]} to {v[int(0.975 * n)]}")
+
+
 if __name__ == "__main__":
     main()
+    paired()

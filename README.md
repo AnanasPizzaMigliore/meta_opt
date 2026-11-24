@@ -24,19 +24,25 @@ the stopping rules, and the per-frame data behind every table and figure.
 
 ## Reproducing the main results
 
+Run from the repository root with Python 3 and numpy; the commands below read only files in `data/`.
+
 ```
+python bench/table1.py              # Table 1: latency of the three changes (3 rounds x 40 crops x 7 configurations)
 cd policies
-python real_eval.py          # Table 3 outcomes on the 37 held-out products (p004-p040)
-python replay_time.py ../data/measurements/replay_vlm.jsonl ../data/measurements/replay_loc.tsv
-                             # Table 3 time column: per-frame headset costs summed along each rule's stopping path
-python ../bench/table1.py    # Table 1 from the latency rounds
+python real_eval.py                 # Table 3 outcomes on the 37 held-out products (p004-p040), with bootstrap CIs
+python replay_time.py               # Table 3 time column, all seven rows including "read only frames with an OCR
+                                    # date", decisions from desktop reads and from headset reads, and the paired
+                                    # comparison with OCR only (net correct clips, product bootstrap interval)
 ```
 
-Scripts keep the absolute paths of the original setup (`/home/user/...`); adjust them to where the data is.
+`replay_time.py` sums per-frame costs measured on the headset (`data/measurements/replay_loc.tsv`: localisation;
+`replay_vlm.jsonl`: VLM reads) along each rule's stopping path. The other scripts (capture, benchmarks on the
+headset, simulation) keep the absolute paths of the original setup (`/home/user/...`) and need the headset, the
+model files or the test-set photos.
 
 ## Not included
 
-- The 160 passthrough clips (about 3 GB) and the model weights are distributed separately.
+- The 160 passthrough clips (about 10 GB of frames) and the model weights are distributed separately.
 - The test-set photos used for the simulated frames.
 
 ## Measurement notes
