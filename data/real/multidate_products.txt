@@ -1,0 +1,8 @@
+Products whose packaging prints a second, non-expiry date next to the expiry date (checked against the
+packaging by the author; truth.json holds the expiry date only):
+p006 packing date (FECHA DE ENVASADO)
+p011 manufacture date (F.Fab)
+p013 packing date (FECHA DE ENVASADO)
+p014 packing date (FECHA DE ENVASADO)
+p015 packing date (FECHA DE ENVASADO)
+p026 production date
