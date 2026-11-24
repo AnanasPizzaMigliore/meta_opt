@@ -1,0 +1,397 @@
+{
+ "chosen_at": "2026-11-24T16:23:20",
+ "rule": "Tuned OCR-only baseline, step 1 (development data only): choose an OCR-only stopping rule that uses the",
+ "dev_reference": {
+  "correct": 194,
+  "wrong": 8,
+  "false": 0,
+  "abstain": 318,
+  "prec": 0.9603960396039604
+ },
+ "choice": null,
+ "grid": [
+  {
+   "correct": 191,
+   "wrong": 67,
+   "false": 2,
+   "abstain": 262,
+   "prec": 0.7346153846153847,
+   "k": 1,
+   "tau": 0.0,
+   "frames": 4.4513761467889905
+  },
+  {
+   "correct": 191,
+   "wrong": 61,
+   "false": 2,
+   "abstain": 268,
+   "prec": 0.7519685039370079,
+   "k": 1,
+   "tau": 0.5,
+   "frames": 4.482568807339449
+  },
+  {
+   "correct": 190,
+   "wrong": 60,
+   "false": 2,
+   "abstain": 270,
+   "prec": 0.753968253968254,
+   "k": 1,
+   "tau": 0.6,
+   "frames": 4.488073394495413
+  },
+  {
+   "correct": 190,
+   "wrong": 59,
+   "false": 2,
+   "abstain": 271,
+   "prec": 0.7569721115537849,
+   "k": 1,
+   "tau": 0.7,
+   "frames": 4.497247706422018
+  },
+  {
+   "correct": 190,
+   "wrong": 55,
+   "false": 1,
+   "abstain": 275,
+   "prec": 0.7723577235772358,
+   "k": 1,
+   "tau": 0.8,
+   "frames": 4.539449541284403
+  },
+  {
+   "correct": 192,
+   "wrong": 51,
+   "false": 1,
+   "abstain": 277,
+   "prec": 0.7868852459016393,
+   "k": 1,
+   "tau": 0.85,
+   "frames": 4.561467889908257
+  },
+  {
+   "correct": 194,
+   "wrong": 46,
+   "false": 1,
+   "abstain": 280,
+   "prec": 0.8049792531120332,
+   "k": 1,
+   "tau": 0.9,
+   "frames": 4.653211009174312
+  },
+  {
+   "correct": 188,
+   "wrong": 46,
+   "false": 1,
+   "abstain": 286,
+   "prec": 0.8,
+   "k": 1,
+   "tau": 0.93,
+   "frames": 4.730275229357798
+  },
+  {
+   "correct": 183,
+   "wrong": 39,
+   "false": 0,
+   "abstain": 298,
+   "prec": 0.8243243243243243,
+   "k": 1,
+   "tau": 0.95,
+   "frames": 4.910091743119266
+  },
+  {
+   "correct": 171,
+   "wrong": 30,
+   "false": 0,
+   "abstain": 319,
+   "prec": 0.8507462686567164,
+   "k": 1,
+   "tau": 0.97,
+   "frames": 5.111926605504587
+  },
+  {
+   "correct": 164,
+   "wrong": 29,
+   "false": 0,
+   "abstain": 327,
+   "prec": 0.8497409326424871,
+   "k": 1,
+   "tau": 0.98,
+   "frames": 5.277064220183486
+  },
+  {
+   "correct": 148,
+   "wrong": 24,
+   "false": 0,
+   "abstain": 348,
+   "prec": 0.8604651162790697,
+   "k": 1,
+   "tau": 0.99,
+   "frames": 5.438532110091743
+  },
+  {
+   "correct": 183,
+   "wrong": 42,
+   "false": 1,
+   "abstain": 295,
+   "prec": 0.8097345132743363,
+   "k": 2,
+   "tau": 0.0,
+   "frames": 5.21651376146789
+  },
+  {
+   "correct": 183,
+   "wrong": 41,
+   "false": 1,
+   "abstain": 296,
+   "prec": 0.8133333333333334,
+   "k": 2,
+   "tau": 0.5,
+   "frames": 5.223853211009175
+  },
+  {
+   "correct": 184,
+   "wrong": 40,
+   "false": 1,
+   "abstain": 296,
+   "prec": 0.8177777777777778,
+   "k": 2,
+   "tau": 0.6,
+   "frames": 5.225688073394496
+  },
+  {
+   "correct": 184,
+   "wrong": 40,
+   "false": 0,
+   "abstain": 296,
+   "prec": 0.8214285714285714,
+   "k": 2,
+   "tau": 0.7,
+   "frames": 5.236697247706422
+  },
+  {
+   "correct": 184,
+   "wrong": 38,
+   "false": 0,
+   "abstain": 298,
+   "prec": 0.8288288288288288,
+   "k": 2,
+   "tau": 0.8,
+   "frames": 5.253211009174312
+  },
+  {
+   "correct": 182,
+   "wrong": 38,
+   "false": 0,
+   "abstain": 300,
+   "prec": 0.8272727272727273,
+   "k": 2,
+   "tau": 0.85,
+   "frames": 5.278899082568807
+  },
+  {
+   "correct": 175,
+   "wrong": 37,
+   "false": 0,
+   "abstain": 308,
+   "prec": 0.8254716981132075,
+   "k": 2,
+   "tau": 0.9,
+   "frames": 5.3559633027522935
+  },
+  {
+   "correct": 172,
+   "wrong": 33,
+   "false": 0,
+   "abstain": 315,
+   "prec": 0.8390243902439024,
+   "k": 2,
+   "tau": 0.93,
+   "frames": 5.43302752293578
+  },
+  {
+   "correct": 164,
+   "wrong": 26,
+   "false": 0,
+   "abstain": 330,
+   "prec": 0.8631578947368421,
+   "k": 2,
+   "tau": 0.95,
+   "frames": 5.561467889908257
+  },
+  {
+   "correct": 149,
+   "wrong": 23,
+   "false": 0,
+   "abstain": 348,
+   "prec": 0.8662790697674418,
+   "k": 2,
+   "tau": 0.97,
+   "frames": 5.710091743119266
+  },
+  {
+   "correct": 134,
+   "wrong": 19,
+   "false": 0,
+   "abstain": 367,
+   "prec": 0.8758169934640523,
+   "k": 2,
+   "tau": 0.98,
+   "frames": 5.851376146788991
+  },
+  {
+   "correct": 120,
+   "wrong": 15,
+   "false": 0,
+   "abstain": 385,
+   "prec": 0.8888888888888888,
+   "k": 2,
+   "tau": 0.99,
+   "frames": 5.941284403669725
+  },
+  {
+   "correct": 169,
+   "wrong": 36,
+   "false": 0,
+   "abstain": 315,
+   "prec": 0.824390243902439,
+   "k": 3,
+   "tau": 0.0,
+   "frames": 5.748623853211009
+  },
+  {
+   "correct": 169,
+   "wrong": 36,
+   "false": 0,
+   "abstain": 315,
+   "prec": 0.824390243902439,
+   "k": 3,
+   "tau": 0.5,
+   "frames": 5.748623853211009
+  },
+  {
+   "correct": 170,
+   "wrong": 35,
+   "false": 0,
+   "abstain": 315,
+   "prec": 0.8292682926829268,
+   "k": 3,
+   "tau": 0.6,
+   "frames": 5.750458715596331
+  },
+  {
+   "correct": 170,
+   "wrong": 35,
+   "false": 0,
+   "abstain": 315,
+   "prec": 0.8292682926829268,
+   "k": 3,
+   "tau": 0.7,
+   "frames": 5.757798165137615
+  },
+  {
+   "correct": 168,
+   "wrong": 34,
+   "false": 0,
+   "abstain": 318,
+   "prec": 0.8316831683168316,
+   "k": 3,
+   "tau": 0.8,
+   "frames": 5.770642201834862
+  },
+  {
+   "correct": 167,
+   "wrong": 34,
+   "false": 0,
+   "abstain": 319,
+   "prec": 0.8308457711442786,
+   "k": 3,
+   "tau": 0.85,
+   "frames": 5.790825688073395
+  },
+  {
+   "correct": 161,
+   "wrong": 32,
+   "false": 0,
+   "abstain": 327,
+   "prec": 0.8341968911917098,
+   "k": 3,
+   "tau": 0.9,
+   "frames": 5.8385321100917436
+  },
+  {
+   "correct": 158,
+   "wrong": 27,
+   "false": 0,
+   "abstain": 335,
+   "prec": 0.8540540540540541,
+   "k": 3,
+   "tau": 0.93,
+   "frames": 5.902752293577982
+  },
+  {
+   "correct": 146,
+   "wrong": 23,
+   "false": 0,
+   "abstain": 351,
+   "prec": 0.863905325443787,
+   "k": 3,
+   "tau": 0.95,
+   "frames": 5.988990825688074
+  },
+  {
+   "correct": 131,
+   "wrong": 19,
+   "false": 0,
+   "abstain": 370,
+   "prec": 0.8733333333333333,
+   "k": 3,
+   "tau": 0.97,
+   "frames": 6.143119266055046
+  },
+  {
+   "correct": 118,
+   "wrong": 15,
+   "false": 0,
+   "abstain": 387,
+   "prec": 0.8872180451127819,
+   "k": 3,
+   "tau": 0.98,
+   "frames": 6.220183486238532
+  },
+  {
+   "correct": 108,
+   "wrong": 14,
+   "false": 0,
+   "abstain": 398,
+   "prec": 0.8852459016393442,
+   "k": 3,
+   "tau": 0.99,
+   "frames": 6.299082568807339
+  }
+ ],
+ "primary_result": "No OCR-only setting reaches the cross-check's development precision; the pre-registered choice is empty.",
+ "fallback_registered_at": "2026-11-24T16:23:34",
+ "fallback_rule": "Registered before any held-out evaluation: (a) most precise OCR-only setting on development data (ties: more correct); (b) the setting whose number of answered dated products is closest to the cross-check's on development data (ties: higher precision).",
+ "fallback_a": {
+  "correct": 120,
+  "wrong": 15,
+  "false": 0,
+  "abstain": 385,
+  "prec": 0.8888888888888888,
+  "k": 2,
+  "tau": 0.99,
+  "frames": 5.941284403669725
+ },
+ "fallback_b": {
+  "correct": 168,
+  "wrong": 34,
+  "false": 0,
+  "abstain": 318,
+  "prec": 0.8316831683168316,
+  "k": 3,
+  "tau": 0.8,
+  "frames": 5.770642201834862
+ }
+}

@@ -148,3 +148,24 @@ The split is image-level. Screening every test image against its nearest trainin
 candidate pairs checked by eye) found no shared product among the screened pairs, but 13 test images whose
 product line, in another flavour, is in training; without them the headset reads 58.9 % (298/506; 95 % CI
 54.3-63.0) against 58.6 % with them. Embedding screening can miss a product photographed very differently.
+
+## Tuned OCR-only baseline (paper Sec. 5)
+
+OCR-only rule OCR(k, tau): a date counts only if the recogniser's confidence in its line is >= tau; answer the
+first date counted k times. Tuned on the simulated photos only (`policies/ocr_conf_tune.py`,
+`data/measurements/ocr_conf_choice.json`, registered before any held-out evaluation): no setting reached the
+OCR cross-check's development precision (best 88.9 % vs 96.0 %), so two fallbacks were registered: (a) the most
+precise setting, k=2, tau=0.99; (b) the coverage-matched setting, k=3, tau=0.80. Held-out (37 products,
+`policies/ocr_conf_eval.py`, output `data/measurements/ocr_conf_eval_2026-11-24.txt`):
+
+| Rule | Correct | Wrong + false | Precision | Median time (s) |
+|---|---|---|---|---|
+| OCR cross-check (OCR-date skip) | 53 | 0 | 100 % | 19.2 |
+| OCR-only (a) k=2, tau=0.99 | 28 | 0 | 100 % | 21.2 |
+| OCR-only (b) k=3, tau=0.80 | 47 | 1 | 97.9 % | 19.4 |
+| OCR repeat, k=2, no threshold | 49 | 3 | 94.2 % | 18.9 |
+
+Paired by product (5000 resamples): cross-check minus (a) +25 correct (95 % CI +14..+36), same errors; minus (b)
++6 (-2..+14), one error fewer. The pilot products are uninformative here: OCR parses a date on 1 of their 63
+dated frames. Confidence scores come from a rerun of the same OCR whose text is identical on all 1120 frames
+(`data/real/ocr_scores_v5.json`).
