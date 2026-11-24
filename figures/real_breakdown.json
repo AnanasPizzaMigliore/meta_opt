@@ -1,0 +1,111 @@
+{
+ "VLM repeat": {
+  "loc_mean": 10.6,
+  "read_mean": 16.68,
+  "med": 26.2,
+  "p90": 46.8,
+  "post": {
+   "a": {
+    "correct": 24,
+    "none": 6,
+    "wrong": 7
+   },
+   "b": {
+    "correct": 21,
+    "none": 7,
+    "wrong": 9
+   },
+   "d": {
+    "wrong": 9,
+    "none": 10,
+    "correct": 18
+   }
+  }
+ },
+ "Gated VLM repeat": {
+  "loc_mean": 13.75,
+  "read_mean": 10.59,
+  "med": 22.2,
+  "p90": 40.5,
+  "post": {
+   "a": {
+    "correct": 24,
+    "none": 7,
+    "wrong": 6
+   },
+   "b": {
+    "correct": 22,
+    "none": 7,
+    "wrong": 8
+   },
+   "d": {
+    "wrong": 10,
+    "none": 10,
+    "correct": 17
+   }
+  }
+ },
+ "OCR repeat": {
+  "loc_mean": 18.94,
+  "read_mean": 0,
+  "med": 18.9,
+  "p90": 30.2,
+  "post": {
+   "a": {
+    "correct": 21,
+    "none": 15,
+    "wrong": 1
+   },
+   "b": {
+    "correct": 19,
+    "none": 17,
+    "wrong": 1
+   },
+   "d": {
+    "none": 27,
+    "correct": 9,
+    "wrong": 1
+   }
+  }
+ },
+ "Cross-check (as specified)": {
+  "loc_mean": 17.7,
+  "read_mean": 30.75,
+  "med": 43.9,
+  "p90": 94.3,
+  "post": {
+   "a": {
+    "correct": 24,
+    "none": 13
+   },
+   "b": {
+    "correct": 18,
+    "none": 19
+   },
+   "d": {
+    "none": 26,
+    "correct": 11
+   }
+  }
+ },
+ "Cross-check": {
+  "loc_mean": 17.7,
+  "read_mean": 3.5,
+  "med": 19.2,
+  "p90": 33.8,
+  "post": {
+   "a": {
+    "correct": 24,
+    "none": 13
+   },
+   "b": {
+    "correct": 18,
+    "none": 19
+   },
+   "d": {
+    "none": 26,
+    "correct": 11
+   }
+  }
+ }
+}

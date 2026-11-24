@@ -1,6 +1,6 @@
 # Results not shown in the paper
 
-The paper keeps only the results needed for its three claims. Everything below was measured or computed in the
+The paper shows the main results; this file collects the remaining tables and numbers.
 same study; scripts and raw data are in this repository (see README.md).
 
 ## Device, build and model details
