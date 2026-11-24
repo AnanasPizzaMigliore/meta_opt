@@ -1,0 +1,360 @@
+{
+ "f000.jpg": {
+  "n_lines": 4,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   ")",
+   "7",
+   "lapuos",
+   "CAT"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 39.1,
+  "ocr_s": 0.33
+ },
+ "f006.jpg": {
+  "n_lines": 4,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "c",
+   "NOEUN",
+   "A",
+   "Cepos"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 49.6,
+  "ocr_s": 0.26
+ },
+ "f012.jpg": {
+  "n_lines": 4,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "4S",
+   "Mn",
+   "RONOs",
+   "y"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 49.0,
+  "ocr_s": 0.26
+ },
+ "f018.jpg": {
+  "n_lines": 2,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "A",
+   "haplos"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 50.2,
+  "ocr_s": 0.25
+ },
+ "f024.jpg": {
+  "n_lines": 3,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "",
+   "in",
+   "Ropuos"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 51.3,
+  "ocr_s": 0.23
+ },
+ "f030.jpg": {
+  "n_lines": 4,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "2",
+   "S",
+   "6T",
+   "lanos"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 51.1,
+  "ocr_s": 0.26
+ },
+ "f036.jpg": {
+  "n_lines": 6,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "",
+   "1",
+   "f",
+   "",
+   "Sopos",
+   "CAA"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 51.2,
+  "ocr_s": 0.27
+ },
+ "f042.jpg": {
+  "n_lines": 8,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "I",
+   "T",
+   "D",
+   "7",
+   "1s",
+   "in",
+   "3",
+   "Sapoos"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 51.7,
+  "ocr_s": 0.27
+ },
+ "f048.jpg": {
+  "n_lines": 4,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "JS",
+   "M",
+   "1T",
+   "Sapios"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 52.2,
+  "ocr_s": 0.25
+ },
+ "f054.jpg": {
+  "n_lines": 5,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "C",
+   "J",
+   "Ln",
+   "41",
+   "Sapuos"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 52.0,
+  "ocr_s": 0.27
+ },
+ "f060.jpg": {
+  "n_lines": 5,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   ")",
+   "R",
+   "0",
+   "131",
+   "Sopos"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 52.2,
+  "ocr_s": 0.27
+ },
+ "f066.jpg": {
+  "n_lines": 8,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "",
+   "X",
+   "in",
+   "2",
+   "F",
+   "sh",
+   "Kapuos",
+   "S"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 52.6,
+  "ocr_s": 0.25
+ },
+ "f072.jpg": {
+  "n_lines": 7,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "",
+   "AT",
+   "N",
+   "L7",
+   "uEi",
+   "tn",
+   "Sapus"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 52.7,
+  "ocr_s": 0.28
+ },
+ "f078.jpg": {
+  "n_lines": 3,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "2",
+   "B",
+   "Sopuos"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 52.8,
+  "ocr_s": 0.25
+ },
+ "f084.jpg": {
+  "n_lines": 6,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "",
+   "S",
+   "en",
+   "0",
+   "11",
+   "Karuos"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 53.0,
+  "ocr_s": 0.26
+ }
+}

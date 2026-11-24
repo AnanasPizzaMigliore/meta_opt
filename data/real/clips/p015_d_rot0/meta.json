@@ -1,0 +1,615 @@
+{
+ "f000.jpg": {
+  "n_lines": 26,
+  "box": [
+   1121,
+   893,
+   1328,
+   1066
+  ],
+  "level": "digits",
+  "lines": [
+   "2700200"
+  ],
+  "all_lines": [
+   "LINO dorode",
+   "LINHAÇA dourdo",
+   "SEMILLAS",
+   "SESANO",
+   "SEMENTES",
+   "Aan",
+   "LINO NO",
+   "HACENDADO",
+   "SEMILLAS",
+   "SALDADE",
+   "LINO darodo",
+   "SEMENTES",
+   "IEVO",
+   "LINHAÇA dourodo",
+   "SÉSAMO",
+   "DERRDA",
+   "CU",
+   "ADUOU",
+   "1,46e",
+   "119s",
+   "150",
+   "t",
+   "I",
+   "2700200",
+   "270c",
+   "3,40€"
+  ],
+  "crop_wh": [
+   207,
+   173
+  ],
+  "sharpness": 233.0,
+  "ocr_s": 0.44
+ },
+ "f006.jpg": {
+  "n_lines": 9,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "ISEMENTES",
+   "LINO ",
+   "SEMILLAS",
+   "UNO",
+   "SEMENTES",
+   "UNHCI",
+   "0B",
+   "",
+   "95c"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 108.6,
+  "ocr_s": 0.32
+ },
+ "f012.jpg": {
+  "n_lines": 17,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "LINO 10",
+   "NDADO",
+   "HACENDADO",
+   "SEMILLAS",
+   "LINO deredo",
+   "SEMENTES",
+   "LINHAÇA douado",
+   "SESAMO",
+   "AOU",
+   "1,46e",
+   "U3",
+   "210",
+   "270e",
+   "MEUNN",
+   "7",
+   "2,95c",
+   "PISTA"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 231.0,
+  "ocr_s": 0.36
+ },
+ "f018.jpg": {
+  "n_lines": 17,
+  "box": [
+   786,
+   1027,
+   882,
+   1123
+  ],
+  "level": "digits",
+  "lines": [
+   "0474"
+  ],
+  "all_lines": [
+   "LINO 10",
+   "HACENDADO",
+   "SEMILLAS",
+   "LINO dorodo",
+   "SEMENTES",
+   "LINHAÇA dourdo",
+   "SÉSAMO",
+   "ADO",
+   "1A6e",
+   "13",
+   "13.",
+   "F210",
+   "270c",
+   "0474",
+   "2,95c",
+   "PISTAC",
+   "ISTA"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 227.2,
+  "ocr_s": 0.36
+ },
+ "f024.jpg": {
+  "n_lines": 21,
+  "box": [
+   1316,
+   819,
+   1562,
+   1007
+  ],
+  "level": "digits",
+  "lines": [
+   "2701"
+  ],
+  "all_lines": [
+   "LINO 10",
+   "HACENDADO",
+   "SEMILLAS",
+   "LINO dorado",
+   "SEMENTES",
+   "TOOD",
+   "UINHAÇA dou",
+   "SESAMO",
+   "Loai",
+   "1.46c",
+   "19e",
+   "1",
+   "2701",
+   "2,70€",
+   "LMNE",
+   "MEVP",
+   "WENMD",
+   "GC",
+   "2,95c",
+   "PISTA",
+   "PIST"
+  ],
+  "crop_wh": [
+   246,
+   188
+  ],
+  "sharpness": 234.9,
+  "ocr_s": 0.36
+ },
+ "f030.jpg": {
+  "n_lines": 20,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "LINO 1",
+   "Oc",
+   "HACENDADO",
+   "SEMILLAS",
+   "LINO dorodo",
+   "SEMENTES",
+   "TOWA",
+   "$SAMO",
+   "LINHAÇA dourado",
+   "ADoni",
+   "1.46e",
+   "119",
+   "130",
+   "200",
+   "270",
+   "270",
+   "0D0",
+   "02",
+   "2,95€",
+   "PISTA"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 234.8,
+  "ocr_s": 0.37
+ },
+ "f036.jpg": {
+  "n_lines": 22,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "LINO O",
+   "ILACENDADO",
+   "SEMILLAS",
+   "LINO doredo",
+   "SEMENTES",
+   "NZON",
+   "UINHAÇA doumda",
+   "SÉSAMO",
+   "ADLOI",
+   "205",
+   "1,46e",
+   "119",
+   "",
+   "U",
+   " 270",
+   "270c",
+   "1A",
+   "DAYI",
+   "C",
+   "2",
+   "2,95c",
+   "U"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 236.1,
+  "ocr_s": 0.38
+ },
+ "f042.jpg": {
+  "n_lines": 20,
+  "box": [
+   1322,
+   859,
+   1471,
+   985
+  ],
+  "level": "digits",
+  "lines": [
+   "270.1"
+  ],
+  "all_lines": [
+   "LINO 1O",
+   "HACENDADO",
+   "SEMILLAS",
+   "LINO dorsdo",
+   "SEMENTES",
+   "YINA",
+   "LINHAÇA dumado",
+   "SESAMO",
+   "ADNDI",
+   "1.46e",
+   "19e",
+   "1",
+   "280",
+   "270.1",
+   "270c",
+   "nive",
+   "FEOU M E",
+   "U24",
+   "ORION ",
+   "2,95c"
+  ],
+  "crop_wh": [
+   149,
+   126
+  ],
+  "sharpness": 239.1,
+  "ocr_s": 0.37
+ },
+ "f048.jpg": {
+  "n_lines": 23,
+  "box": [
+   1303,
+   814,
+   1548,
+   1004
+  ],
+  "level": "digits",
+  "lines": [
+   " 2704"
+  ],
+  "all_lines": [
+   "LINO O",
+   "HACENDADO",
+   "SEMILLAS",
+   "LINO derado",
+   "SEMENTES",
+   "WOHO",
+   "LINHAÇA dourada",
+   "SESAMO",
+   "ACRON",
+   "1,46c",
+   "1Y9",
+   "15A",
+   "",
+   " 2704",
+   "270c",
+   " ",
+   "10.1 77",
+   "Mn",
+   "O L",
+   "D",
+   "00 40",
+   "021",
+   "2,95c"
+  ],
+  "crop_wh": [
+   245,
+   190
+  ],
+  "sharpness": 238.0,
+  "ocr_s": 0.37
+ },
+ "f054.jpg": {
+  "n_lines": 19,
+  "box": [
+   783,
+   1016,
+   898,
+   1112
+  ],
+  "level": "digits",
+  "lines": [
+   "ON14N 110"
+  ],
+  "all_lines": [
+   "LINO 1O",
+   "HACENDADO",
+   "SEMILLAS",
+   "LINO doroedo",
+   "SEMENTES",
+   "TON",
+   "LINHAÇA doumnta",
+   "SÉSAMO",
+   "ADun",
+   "146c",
+   "13",
+   "150",
+   "200",
+   "270e",
+   "LM",
+   "So",
+   "ON14N 110",
+   "02",
+   "2,95c"
+  ],
+  "crop_wh": [
+   115,
+   96
+  ],
+  "sharpness": 232.7,
+  "ocr_s": 0.37
+ },
+ "f060.jpg": {
+  "n_lines": 26,
+  "box": [
+   489,
+   772,
+   596,
+   868
+  ],
+  "level": "digits",
+  "lines": [
+   "00 500 220"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "SEMILLAS",
+   "LINO dorodo",
+   "SEMENTES",
+   "IZOA",
+   "LINHAÇA doumdoa",
+   "SESAMO",
+   "LORO",
+   "1.46e",
+   "l.",
+   "13",
+   "ACIO",
+   "00 500 220",
+   "20 20",
+   "270c",
+   "1",
+   "0010",
+   "FEOMA OE (NtA",
+   "60 10",
+   "WN",
+   "",
+   "VINDU",
+   "a",
+   "3.40",
+   "2,95c",
+   "PISTA"
+  ],
+  "crop_wh": [
+   107,
+   96
+  ],
+  "sharpness": 211.9,
+  "ocr_s": 0.37
+ },
+ "f066.jpg": {
+  "n_lines": 21,
+  "box": [
+   1271,
+   884,
+   1400,
+   996
+  ],
+  "level": "digits",
+  "lines": [
+   "2,706"
+  ],
+  "all_lines": [
+   "DADO",
+   "SEMILLAS",
+   "LINO darodo",
+   "SEMENTES",
+   "IT0A",
+   "SESUNO",
+   "LINHAÇA d",
+   "2L",
+   "1,46e",
+   "19.",
+   "1",
+   "1",
+   "2,706",
+   "100% /",
+   "EOP",
+   "WLN I",
+   "UE",
+   "3,40c",
+   "2,95c",
+   "PISTA",
+   "VATURAL"
+  ],
+  "crop_wh": [
+   129,
+   112
+  ],
+  "sharpness": 203.1,
+  "ocr_s": 0.37
+ },
+ "f072.jpg": {
+  "n_lines": 19,
+  "box": [
+   578,
+   750,
+   674,
+   846
+  ],
+  "level": "digits",
+  "lines": [
+   "00500"
+  ],
+  "all_lines": [
+   "ACENDADO",
+   "SEMILLAS",
+   "LINO deeodo",
+   "SEMENTES",
+   "NUOA",
+   "LINHAÇA ur",
+   "SSAO",
+   "AouS",
+   "146e",
+   "19",
+   "U",
+   "00500",
+   "",
+   "LN",
+   "m00",
+   "GA D",
+   "3,40€",
+   "2,95c",
+   "PISTAC"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 207.6,
+  "ocr_s": 0.36
+ },
+ "f078.jpg": {
+  "n_lines": 25,
+  "box": [
+   816,
+   942,
+   927,
+   1038
+  ],
+  "level": "digits",
+  "lines": [
+   "LOSTA /74730"
+  ],
+  "all_lines": [
+   "ACENDADO",
+   "HACENDADO",
+   "SEMILLAS",
+   "LINO dorado",
+   "SEMENTES",
+   "RAON",
+   "UINHAÇA doute",
+   "SESAUS",
+   "LBDI",
+   "1.46e",
+   "1S",
+   "AS",
+   "24 ",
+   "270c",
+   "LOSTA /74730",
+   "Ban",
+   "FEINA SE (NINCA",
+   "A L",
+   "ORDOEN ONIAER",
+   "2",
+   "3,40c",
+   "2,95c",
+   "C",
+   "PISTACK",
+   "PISTA"
+  ],
+  "crop_wh": [
+   111,
+   96
+  ],
+  "sharpness": 217.9,
+  "ocr_s": 0.38
+ },
+ "f084.jpg": {
+  "n_lines": 23,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "NDADO",
+   "HACENDADO",
+   "SEMILLAS",
+   "LINO derodo",
+   "SEMENTES",
+   "NVS",
+   "LINHAÇA dou",
+   "SISAMO",
+   "tOLe",
+   "1A6c",
+   "U9",
+   "Era",
+   "mvo",
+   "270c",
+   "TEEMA IE (NGATA",
+   "1T",
+   "OLE DE",
+   "DATE  EM",
+   "DREN ",
+   "097",
+   "3,40€",
+   "2,95€",
+   "PISTACK"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 219.9,
+  "ocr_s": 0.37
+ }
+}

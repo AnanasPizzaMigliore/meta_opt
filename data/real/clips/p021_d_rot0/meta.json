@@ -1,0 +1,698 @@
+{
+ "f000.jpg": {
+  "n_lines": 23,
+  "box": [
+   606,
+   819,
+   707,
+   923
+  ],
+  "level": "digits",
+  "lines": [
+   "0.315kg",
+   "25.1128"
+  ],
+  "all_lines": [
+   "MEDIO MAGRET",
+   "MOLLEJAS",
+   "FOLIO",
+   "HIGADOS",
+   "POLLO",
+   "POLLO",
+   "POLLO",
+   "POLLO",
+   "POLLO",
+   "0.315kg",
+   "DOM",
+   "25.1128",
+   "TAQUITOS DE",
+   "2,36€",
+   "1V",
+   "7.50 C",
+   "PO",
+   "R22",
+   "POLLO",
+   "211/56461236",
+   "nGu",
+   "POLLD",
+   "7"
+  ],
+  "crop_wh": [
+   101,
+   104
+  ],
+  "sharpness": 238.9,
+  "ocr_s": 0.44
+ },
+ "f006.jpg": {
+  "n_lines": 21,
+  "box": [
+   653,
+   759,
+   760,
+   866
+  ],
+  "level": "digits",
+  "lines": [
+   "0.315kg",
+   "25.1126"
+  ],
+  "all_lines": [
+   "POLLO",
+   "MOLLEJAS",
+   "POLLO",
+   "WOADOS",
+   "POLTO",
+   "TATLD",
+   "NEX",
+   "POLLO",
+   "POLLO",
+   "POLL0",
+   "POLY",
+   "7.50 C",
+   "0.315kg",
+   "AVNIA",
+   "25.1126",
+   "FLUAR (REOKDMO)",
+   "2,36€",
+   "TAQUITOS DE",
+   "R22",
+   "POLLO",
+   "71U/564307363"
+  ],
+  "crop_wh": [
+   107,
+   107
+  ],
+  "sharpness": 234.4,
+  "ocr_s": 0.34
+ },
+ "f012.jpg": {
+  "n_lines": 23,
+  "box": [
+   647,
+   742,
+   753,
+   849
+  ],
+  "level": "digits",
+  "lines": [
+   "0.315kg",
+   "25.1126"
+  ],
+  "all_lines": [
+   "POLLO",
+   "POLLO",
+   "FOLLO",
+   "MOILEJAS",
+   "POLLO",
+   "NGADOL",
+   "POLLO",
+   "19D",
+   "POLLO",
+   "POLLO",
+   "OLlO",
+   "POLSA",
+   "2,36€",
+   "7,50 C",
+   "0.315kg",
+   "25.1126",
+   "TELAR CMOULTRAE",
+   "TAQUITOS DE",
+   "R22",
+   "POLLO",
+   "1U/5642073%",
+   "",
+   "F"
+  ],
+  "crop_wh": [
+   106,
+   107
+  ],
+  "sharpness": 242.8,
+  "ocr_s": 0.34
+ },
+ "f018.jpg": {
+  "n_lines": 26,
+  "box": [
+   655,
+   751,
+   762,
+   858
+  ],
+  "level": "digits",
+  "lines": [
+   "0.315kg",
+   "25.1126"
+  ],
+  "all_lines": [
+   "MEDIO MAGRET",
+   "ENTEU",
+   "POLLO",
+   "POLLO",
+   "FOLLO",
+   "MOLLEIAS",
+   "POLLO",
+   "MIOADOS",
+   "POLLO",
+   "03",
+   "",
+   "POLLO",
+   "POLLO",
+   "FOLLO",
+   "POLLO",
+   "0.315kg",
+   "RVNIA",
+   "25.1126",
+   "FLEANG LAGRTAE",
+   "2,36€",
+   "PV",
+   "TAQUITOS DE",
+   "R22",
+   "POLLO",
+   "POL.D",
+   "UE"
+  ],
+  "crop_wh": [
+   107,
+   107
+  ],
+  "sharpness": 245.7,
+  "ocr_s": 0.34
+ },
+ "f024.jpg": {
+  "n_lines": 23,
+  "box": [
+   631,
+   744,
+   735,
+   850
+  ],
+  "level": "digits",
+  "lines": [
+   "0.315kg",
+   "25.1128"
+  ],
+  "all_lines": [
+   "LLO",
+   "POLLO",
+   "MOLLEJAS",
+   "FOLLO",
+   "NOADCS",
+   "POLLO",
+   "POLLO",
+   "POLLO",
+   "POLLO",
+   "0.315kg",
+   "RAND",
+   "25.1128",
+   "TL(O (90 ",
+   "750 C",
+   "TAQUITOS DE",
+   "2,36€",
+   "POLLO",
+   "R22",
+   "POLLO",
+   "711/5840234",
+   "7",
+   "La0",
+   ""
+  ],
+  "crop_wh": [
+   104,
+   106
+  ],
+  "sharpness": 246.3,
+  "ocr_s": 0.34
+ },
+ "f030.jpg": {
+  "n_lines": 20,
+  "box": [
+   628,
+   741,
+   734,
+   848
+  ],
+  "level": "digits",
+  "lines": [
+   "0.315kg",
+   "25.1126"
+  ],
+  "all_lines": [
+   "OLLO",
+   "FOLLO",
+   "MOLLLJAS",
+   "HIGADOS",
+   "POLLO",
+   "POLLO",
+   "FEM",
+   "POLLO",
+   "POLLO",
+   "POLLO",
+   "POLLO",
+   "0.315kg",
+   "PUDMEA",
+   "25.1126",
+   "NUR LEE",
+   "TAQUITOS DE",
+   "2,36€",
+   "POLLO",
+   "R22",
+   ""
+  ],
+  "crop_wh": [
+   106,
+   107
+  ],
+  "sharpness": 247.7,
+  "ocr_s": 0.32
+ },
+ "f036.jpg": {
+  "n_lines": 25,
+  "box": [
+   561,
+   723,
+   737,
+   961
+  ],
+  "level": "digits",
+  "lines": [
+   "0.315kg",
+   "25.1126",
+   "77756402235"
+  ],
+  "all_lines": [
+   "LO",
+   "POLIO",
+   "MOLLEIAS",
+   "MOADOS",
+   "POLLO",
+   "POLO",
+   "UTTT",
+   "roiso",
+   "FeOE",
+   "POLLO",
+   "POLLO",
+   "FOLLO",
+   "0.315kg",
+   "25.1126",
+   "R (VA",
+   "TAQUITOS DE",
+   "2,36€",
+   "750",
+   "MC",
+   "R22",
+   "POLLO",
+   "77756402235",
+   "5",
+   "D",
+   ""
+  ],
+  "crop_wh": [
+   176,
+   238
+  ],
+  "sharpness": 245.4,
+  "ocr_s": 0.34
+ },
+ "f042.jpg": {
+  "n_lines": 23,
+  "box": [
+   611,
+   741,
+   719,
+   849
+  ],
+  "level": "digits",
+  "lines": [
+   "0.315kg",
+   "25.1128"
+  ],
+  "all_lines": [
+   "POLLO",
+   "MOLLEJAS",
+   "HIGADOS",
+   "POLIO",
+   "POLLG",
+   "POLLO",
+   "POLLO",
+   "POLLO",
+   "POLLD",
+   "POLLO",
+   "PME",
+   "0.315kg",
+   "BUMEU",
+   "25.1128",
+   "FLLND (UOTK I",
+   "TAQUITOS DE",
+   "2,36€",
+   "7,50 C",
+   "POLLO",
+   "R22",
+   "711755438734",
+   "EEPS",
+   ""
+  ],
+  "crop_wh": [
+   108,
+   108
+  ],
+  "sharpness": 244.8,
+  "ocr_s": 0.32
+ },
+ "f048.jpg": {
+  "n_lines": 24,
+  "box": [
+   603,
+   734,
+   715,
+   844
+  ],
+  "level": "digits",
+  "lines": [
+   "0.315kg",
+   "25.1128"
+  ],
+  "all_lines": [
+   "POLLO",
+   "MOLLEJAS",
+   "HIGADOS",
+   "POLLO",
+   "POLLO",
+   "POLLO",
+   "",
+   "POLLO",
+   "POLLO",
+   "POLLO",
+   "0.315kg",
+   "25.1128",
+   "FYLOD CAROXT",
+   "TAQUITOS DE",
+   "2,36€",
+   "7.50",
+   "POLLO",
+   "R22",
+   "POLLO",
+   "71U643715",
+   "TROUTC",
+   "35",
+   "1",
+   "OH"
+  ],
+  "crop_wh": [
+   112,
+   110
+  ],
+  "sharpness": 246.6,
+  "ocr_s": 0.32
+ },
+ "f054.jpg": {
+  "n_lines": 23,
+  "box": [
+   536,
+   715,
+   733,
+   963
+  ],
+  "level": "digits",
+  "lines": [
+   "0315kg",
+   "25.1128",
+   "771/56403736",
+   "FU CAD"
+  ],
+  "all_lines": [
+   "LEC",
+   "POLLO",
+   "MOLLEJAS",
+   "HIDADES",
+   "POLLO",
+   "POLLO",
+   "SRXS",
+   "POLLO",
+   "POLLO",
+   "POLLO",
+   "0315kg",
+   "RVMEID",
+   "25.1128",
+   "FU CAD",
+   "TAQUITOS DE",
+   "2,36€",
+   "7.50 C",
+   "MOIX",
+   "POLLO",
+   "R22",
+   "771/56403736",
+   "HAREN",
+   "XO"
+  ],
+  "crop_wh": [
+   197,
+   248
+  ],
+  "sharpness": 247.7,
+  "ocr_s": 0.3
+ },
+ "f060.jpg": {
+  "n_lines": 24,
+  "box": [
+   578,
+   743,
+   674,
+   839
+  ],
+  "level": "digits",
+  "lines": [
+   "0.315kg"
+  ],
+  "all_lines": [
+   "POLLO",
+   "MOLLEJAS",
+   "1EOADOS",
+   "POLLO",
+   "POUO",
+   "",
+   "ON",
+   "POLLO",
+   "POLLO",
+   "POLLO",
+   "POLIO",
+   "0.315kg",
+   "TLUNG UUK",
+   "TAQUITOS DE",
+   "2,36€",
+   "7.50",
+   "VUOR",
+   "K",
+   "POLLO",
+   "R22",
+   "771754403735",
+   "U",
+   "1",
+   "E"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 246.6,
+  "ocr_s": 0.31
+ },
+ "f066.jpg": {
+  "n_lines": 33,
+  "box": [
+   591,
+   735,
+   699,
+   844
+  ],
+  "level": "digits",
+  "lines": [
+   "0.315kg",
+   "25.1126"
+  ],
+  "all_lines": [
+   "606",
+   "MEDIO MAGRET",
+   "N MNTHEO",
+   "rS",
+   "1",
+   "",
+   "POLLO",
+   "MOLLEJAS",
+   "POLLO",
+   "KIDADOS",
+   "FOLO",
+   "SAA",
+   "POLLO",
+   "POLLO",
+   "BOU",
+   "NOLO",
+   "0.315kg",
+   "AVNE1",
+   "25.1126",
+   "FLOR (RX NO",
+   "TAQUITOS DE",
+   "2,36€",
+   "P",
+   "7.50 €",
+   "WEDO",
+   "POLL",
+   "-",
+   "POLLO",
+   "R22",
+   "NUMO0S",
+   "",
+   "Bak",
+   ""
+  ],
+  "crop_wh": [
+   108,
+   109
+  ],
+  "sharpness": 246.5,
+  "ocr_s": 0.37
+ },
+ "f072.jpg": {
+  "n_lines": 29,
+  "box": [
+   536,
+   722,
+   710,
+   947
+  ],
+  "level": "digits",
+  "lines": [
+   "0.315kg",
+   "25.1126",
+   "71U/56400"
+  ],
+  "all_lines": [
+   "6 EN ",
+   "Gia",
+   "3.0",
+   "T",
+   "",
+   "POLLO",
+   "MOLLELIS",
+   "HIOADOS",
+   "POLLO",
+   "POLO",
+   "POLLO",
+   "PRM",
+   "POLLO",
+   "POLLO",
+   "LOL",
+   "POLLO",
+   "0.315kg",
+   "DUIE",
+   "25.1126",
+   "FUM CRUDVE",
+   "TAQUITOS DE",
+   "2,36€",
+   "7.50 C",
+   "POLLO",
+   "R22",
+   "71U/56400",
+   "E",
+   "7",
+   "E"
+  ],
+  "crop_wh": [
+   174,
+   225
+  ],
+  "sharpness": 245.5,
+  "ocr_s": 0.34
+ },
+ "f078.jpg": {
+  "n_lines": 22,
+  "box": [
+   586,
+   734,
+   694,
+   841
+  ],
+  "level": "digits",
+  "lines": [
+   "0.315kg",
+   "25.1128"
+  ],
+  "all_lines": [
+   "POLLO",
+   "MOLLEIAS",
+   "HIGADOS",
+   "POLLO",
+   "POLLO",
+   "FR",
+   "POLLO",
+   "POLLO",
+   "FOLIO",
+   "POLO",
+   "0.315kg",
+   "25.1128",
+   "FUR CAI",
+   "TAQUITOS DE",
+   "2,36€",
+   "C",
+   "POLLO",
+   "R22",
+   "73U/56400738",
+   "LO",
+   "91",
+   ""
+  ],
+  "crop_wh": [
+   108,
+   107
+  ],
+  "sharpness": 248.9,
+  "ocr_s": 0.33
+ },
+ "f084.jpg": {
+  "n_lines": 24,
+  "box": [
+   589,
+   735,
+   693,
+   841
+  ],
+  "level": "digits",
+  "lines": [
+   "0315kg",
+   "25.1126"
+  ],
+  "all_lines": [
+   "POLLO",
+   "MOLLEIAS",
+   "MICADOS",
+   "POLLO",
+   "FOLLO",
+   "POLLO",
+   "POLLO",
+   "POLLO",
+   "POLLO",
+   "0315kg",
+   "25.1126",
+   "FLLO (N)",
+   "TAQUITOS DE",
+   "2,36€",
+   "7,50 C",
+   "1CD",
+   "1",
+   "POLLO",
+   "R22",
+   "73175640073",
+   "0",
+   "P",
+   "s",
+   "B"
+  ],
+  "crop_wh": [
+   104,
+   106
+  ],
+  "sharpness": 246.7,
+  "ocr_s": 0.33
+ }
+}

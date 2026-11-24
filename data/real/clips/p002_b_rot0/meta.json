@@ -1,0 +1,468 @@
+{
+ "f000.jpg": {
+  "n_lines": 13,
+  "box": [
+   275,
+   565,
+   766,
+   1060
+  ],
+  "level": "digits",
+  "lines": [
+   "2.09,20277"
+  ],
+  "all_lines": [
+   "2.09,20277",
+   "os SA.U. PoL. Ind. El Saladar [I.",
+   "0",
+   "Film/E",
+   "OD",
+   "D",
+   "MENTE",
+   "Unhe",
+   "ENTE",
+   "II",
+   "a",
+   ".",
+   "R"
+  ],
+  "crop_wh": [
+   491,
+   495
+  ],
+  "sharpness": 13.3,
+  "ocr_s": 0.38
+ },
+ "f006.jpg": {
+  "n_lines": 14,
+  "box": [
+   269,
+   560,
+   759,
+   1056
+  ],
+  "level": "digits",
+  "lines": [
+   "2.92,20277"
+  ],
+  "all_lines": [
+   " ",
+   "2.92,20277",
+   "e det",
+   "VT-ZI",
+   "S.A.U. Pot Ind. El Saladas L.",
+   "63",
+   "J",
+   "Film/F1",
+   "",
+   "MENTE",
+   "D",
+   "MENTE",
+   "inbd",
+   ""
+  ],
+  "crop_wh": [
+   490,
+   496
+  ],
+  "sharpness": 13.9,
+  "ocr_s": 0.27
+ },
+ "f012.jpg": {
+  "n_lines": 12,
+  "box": [
+   272,
+   567,
+   754,
+   1056
+  ],
+  "level": "digits",
+  "lines": [
+   "2.09.20277"
+  ],
+  "all_lines": [
+   "2.09.20277",
+   "dS",
+   "/A",
+   "baNe",
+   "J",
+   "LAR",
+   "Film/F1",
+   "COR",
+   "FRETA",
+   "D",
+   "Unbo.",
+   "MENTE"
+  ],
+  "crop_wh": [
+   482,
+   489
+  ],
+  "sharpness": 13.6,
+  "ocr_s": 0.28
+ },
+ "f018.jpg": {
+  "n_lines": 9,
+  "box": [
+   260,
+   576,
+   739,
+   1054
+  ],
+  "level": "digits",
+  "lines": [
+   "2.2077"
+  ],
+  "all_lines": [
+   "2.2077",
+   "res dei",
+   "SA.U. Pol. Ind. El Saladar [I.",
+   "J",
+   "NO",
+   "MENTE",
+   "D",
+   "h.",
+   ""
+  ],
+  "crop_wh": [
+   479,
+   478
+  ],
+  "sharpness": 13.5,
+  "ocr_s": 0.28
+ },
+ "f024.jpg": {
+  "n_lines": 7,
+  "box": [
+   236,
+   585,
+   720,
+   1073
+  ],
+  "level": "date",
+  "lines": [
+   "2.029,2027.7"
+  ],
+  "all_lines": [
+   "C",
+   "2.029,2027.7",
+   "7S",
+   "MENTE",
+   "Unhd",
+   "D",
+   "A.1"
+  ],
+  "crop_wh": [
+   484,
+   488
+  ],
+  "sharpness": 14.0,
+  "ocr_s": 0.28
+ },
+ "f030.jpg": {
+  "n_lines": 12,
+  "box": [
+   244,
+   593,
+   705,
+   1059
+  ],
+  "level": "date",
+  "lines": [
+   "272.09,2027"
+  ],
+  "all_lines": [
+   "C ",
+   "272.09,2027",
+   "2",
+   "det",
+   "B",
+   "Film/F1",
+   "CO",
+   "AMENTE",
+   "Unhe",
+   "D",
+   "ENTE",
+   "1.1"
+  ],
+  "crop_wh": [
+   461,
+   466
+  ],
+  "sharpness": 14.1,
+  "ocr_s": 0.29
+ },
+ "f036.jpg": {
+  "n_lines": 11,
+  "box": [
+   239,
+   591,
+   727,
+   1085
+  ],
+  "level": "digits",
+  "lines": [
+   "2.0920277"
+  ],
+  "all_lines": [
+   "C d",
+   "2.0920277",
+   "t deL",
+   "J",
+   "e",
+   "",
+   "Fllm/FHr",
+   "D",
+   "ENTE",
+   "C",
+   "b.l"
+  ],
+  "crop_wh": [
+   488,
+   494
+  ],
+  "sharpness": 14.4,
+  "ocr_s": 0.29
+ },
+ "f042.jpg": {
+  "n_lines": 7,
+  "box": [
+   234,
+   586,
+   710,
+   1068
+  ],
+  "level": "digits",
+  "lines": [
+   "2.09. 22077"
+  ],
+  "all_lines": [
+   "2.09. 22077",
+   "Fllm/F",
+   "0",
+   "MENTE",
+   "lob",
+   "UM",
+   "b.l"
+  ],
+  "crop_wh": [
+   476,
+   482
+  ],
+  "sharpness": 14.4,
+  "ocr_s": 0.28
+ },
+ "f048.jpg": {
+  "n_lines": 12,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   " ",
+   "2.92",
+   "ons det",
+   "",
+   "SA.U. Pol. Ind El Saladar",
+   "uX",
+   "Film/F1",
+   ".",
+   "D",
+   "nho",
+   "MENTE",
+   "h.l"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 14.4,
+  "ocr_s": 0.28
+ },
+ "f054.jpg": {
+  "n_lines": 10,
+  "box": [
+   229,
+   578,
+   697,
+   1056
+  ],
+  "level": "digits",
+  "lines": [
+   "2.027"
+  ],
+  "all_lines": [
+   "2.027",
+   "Or",
+   "sSA.U, PoL. Ind. El Saladar II",
+   "Fllm/F",
+   "MENTE",
+   "Unbo",
+   "0",
+   "ENTY",
+   "I.",
+   "1"
+  ],
+  "crop_wh": [
+   468,
+   478
+  ],
+  "sharpness": 14.1,
+  "ocr_s": 0.29
+ },
+ "f060.jpg": {
+  "n_lines": 9,
+  "box": [
+   228,
+   578,
+   706,
+   1056
+  ],
+  "level": "digits",
+  "lines": [
+   "2.09.20277"
+  ],
+  "all_lines": [
+   "2.09.20277",
+   "J",
+   "AU., Pol. Ind. El Saladar II.",
+   "RICICLAR",
+   "RECICLAR",
+   "9",
+   "AMENTE",
+   "/",
+   "II."
+  ],
+  "crop_wh": [
+   478,
+   478
+  ],
+  "sharpness": 14.4,
+  "ocr_s": 0.29
+ },
+ "f066.jpg": {
+  "n_lines": 11,
+  "box": [
+   228,
+   575,
+   710,
+   1060
+  ],
+  "level": "digits",
+  "lines": [
+   "22.0927"
+  ],
+  "all_lines": [
+   "22.0927",
+   "CL",
+   "AU. Pot. Ind. El Satadas II",
+   "U",
+   "Film/F",
+   "TAMENTE",
+   "D",
+   "MENTE",
+   "Unb",
+   "I",
+   "i"
+  ],
+  "crop_wh": [
+   482,
+   485
+  ],
+  "sharpness": 14.1,
+  "ocr_s": 0.3
+ },
+ "f072.jpg": {
+  "n_lines": 10,
+  "box": [
+   227,
+   572,
+   701,
+   1051
+  ],
+  "level": "digits",
+  "lines": [
+   "2.0927"
+  ],
+  "all_lines": [
+   "2.0927",
+   "D",
+   "3",
+   "S.AU., PoL. Ind. El Saladar ",
+   "V",
+   "Unhe",
+   "D",
+   "INTE",
+   "1/",
+   "Ie"
+  ],
+  "crop_wh": [
+   474,
+   479
+  ],
+  "sharpness": 13.9,
+  "ocr_s": 0.29
+ },
+ "f078.jpg": {
+  "n_lines": 7,
+  "box": [
+   229,
+   575,
+   697,
+   1053
+  ],
+  "level": "digits",
+  "lines": [
+   "2.09.22077"
+  ],
+  "all_lines": [
+   "2.09.22077",
+   "SAU, Pot Ind. El Saladar I.",
+   "J",
+   "RICICLAR",
+   "Film/F",
+   "D",
+   "h.l"
+  ],
+  "crop_wh": [
+   468,
+   478
+  ],
+  "sharpness": 14.1,
+  "ocr_s": 0.28
+ },
+ "f084.jpg": {
+  "n_lines": 9,
+  "box": [
+   224,
+   576,
+   700,
+   1058
+  ],
+  "level": "digits",
+  "lines": [
+   "2.92027"
+  ],
+  "all_lines": [
+   "2.92027",
+   " det",
+   "P",
+   "J",
+   "Fllm/F1",
+   "AMENTE",
+   "D",
+   "MENTE",
+   "h.1"
+  ],
+  "crop_wh": [
+   476,
+   482
+  ],
+  "sharpness": 14.2,
+  "ocr_s": 0.29
+ }
+}

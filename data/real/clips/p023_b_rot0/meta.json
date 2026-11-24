@@ -1,0 +1,529 @@
+{
+ "f000.jpg": {
+  "n_lines": 21,
+  "box": [
+   0,
+   406,
+   868,
+   1450
+  ],
+  "level": "digits",
+  "lines": [
+   "0,388kg",
+   "01.1226 R25.",
+   "L: 363239",
+   "2321235003344",
+   "105338",
+   "FECHA CROUCIDAD/CONSUMIR ATE"
+  ],
+  "all_lines": [
+   "GLUTEN",
+   "CIOS",
+   "8,60 €",
+   "0,388kg",
+   "PRECIO/PREÇO KILO",
+   "PESO NETO/LIQUIDO:",
+   "01.1226 R25.",
+   "P.VP",
+   "FECHA CROUCIDAD/CONSUMIR ATE",
+   "3",
+   "B,34€",
+   "LAGRIMITAS AL LIMÓN",
+   "DELICÍAS LIMÃO",
+   "8 min",
+   "L: 363239",
+   "2321235003344",
+   "EA",
+   "105338",
+   "0",
+   "A",
+   "min"
+  ],
+  "crop_wh": [
+   868,
+   1044
+  ],
+  "sharpness": 32.5,
+  "ocr_s": 0.45
+ },
+ "f006.jpg": {
+  "n_lines": 20,
+  "box": [
+   1034,
+   317,
+   1231,
+   761
+  ],
+  "level": "date",
+  "lines": [
+   "01.12.26 R25."
+  ],
+  "all_lines": [
+   "QUANCIALE",
+   "TACO",
+   "LACTOS",
+   "GLUTEN",
+   "han",
+   "3,34€",
+   "8,60 €",
+   "PRECIO/PREÇO KILO",
+   "0,388kg",
+   "PVP",
+   "PESO NETO/LIQUIDO",
+   "01.12.26 R25.",
+   "LAGRIMITAS AL LIMÓN",
+   "DELICÍAS LIMÃO",
+   "L: 363239",
+   "105338",
+   "2321235003344",
+   "O",
+   "CE CCAR CEE",
+   "H"
+  ],
+  "crop_wh": [
+   197,
+   444
+  ],
+  "sharpness": 39.4,
+  "ocr_s": 0.36
+ },
+ "f012.jpg": {
+  "n_lines": 20,
+  "box": [
+   986,
+   253,
+   1254,
+   891
+  ],
+  "level": "date",
+  "lines": [
+   "01.12.26 R 25.",
+   "FECHA CAOUCIDAO/CONSUMIR ATE"
+  ],
+  "all_lines": [
+   "GUANCIALE",
+   "GLUTEN",
+   "TACO",
+   "SIN/SEM",
+   "3,34€",
+   "8,60 €",
+   "PRECIO/PREÇO KILO",
+   "0,388kg",
+   "",
+   "PESO NETO/LIQUIDO",
+   "01.12.26 R 25.",
+   "PVP",
+   "FECHA CAOUCIDAO/CONSUMIR ATE",
+   "TOS",
+   "LAGRIMITAS AL LIMÓN",
+   "DELICÍAS LIMÃO",
+   "L: 363239",
+   "105330",
+   "2321235003344",
+   "H"
+  ],
+  "crop_wh": [
+   268,
+   638
+  ],
+  "sharpness": 36.0,
+  "ocr_s": 0.37
+ },
+ "f018.jpg": {
+  "n_lines": 21,
+  "box": [
+   955,
+   157,
+   1236,
+   842
+  ],
+  "level": "date",
+  "lines": [
+   "01.12.26 R 25",
+   "FECHA CADUCIDAO/CONSUMIR ATE"
+  ],
+  "all_lines": [
+   "GLUTEN",
+   "SIN/SEM",
+   "SIN/SEM",
+   "3,34€",
+   "8,60 €",
+   "0,388kg",
+   "PRECIO/PREÇO KILO",
+   "GUANCIALE",
+   "PESO NETO/LIQUIDO",
+   "01.12.26 R 25",
+   "PVP",
+   "FECHA CADUCIDAO/CONSUMIR ATE",
+   "YACO",
+   "Ta",
+   "LAGRIMITAS AL LIMÓN",
+   "DELICÍAS LIMÃO",
+   "L: 363239",
+   "105130",
+   "2321235003344",
+   "0",
+   "H"
+  ],
+  "crop_wh": [
+   281,
+   685
+  ],
+  "sharpness": 26.3,
+  "ocr_s": 0.38
+ },
+ "f024.jpg": {
+  "n_lines": 4,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "0 0a",
+   "HTO",
+   "H",
+   "LIMÓN"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 8.9,
+  "ocr_s": 0.32
+ },
+ "f030.jpg": {
+  "n_lines": 2,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "e",
+   ""
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 7.8,
+  "ocr_s": 0.32
+ },
+ "f036.jpg": {
+  "n_lines": 1,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "1EB"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 6.1,
+  "ocr_s": 0.31
+ },
+ "f042.jpg": {
+  "n_lines": 12,
+  "box": [
+   399,
+   132,
+   692,
+   625
+  ],
+  "level": "digits",
+  "lines": [
+   "2321235003344",
+   "363239"
+  ],
+  "all_lines": [
+   "R2S",
+   "AGRIMITAS AL LIMÓN",
+   "DELICÍAS LIMÃO",
+   "2321235003344",
+   "MO OTE",
+   "363239",
+   "D",
+   "O",
+   "GUAN",
+   "TA",
+   "X",
+   "MTNO"
+  ],
+  "crop_wh": [
+   293,
+   493
+  ],
+  "sharpness": 10.6,
+  "ocr_s": 0.34
+ },
+ "f048.jpg": {
+  "n_lines": 20,
+  "box": [
+   960,
+   0,
+   1241,
+   682
+  ],
+  "level": "date",
+  "lines": [
+   "01.12.26 R 25.",
+   "FECHA CADUCIDAD/CONSUMIR ATE"
+  ],
+  "all_lines": [
+   "LUTEN",
+   "3,34€",
+   "8,60 €",
+   "PRECIO/PREÇO KILO",
+   "0,388kg",
+   "PESO NETO/LIQUIDO",
+   "01.12.26 R 25.",
+   "FECHA CADUCIDAD/CONSUMIR ATE",
+   "V/SEM",
+   "P.V.P",
+   "LAGRIMITAS AL LIMÓN",
+   "QUANGIALE",
+   "TACO",
+   "DELICÍAS LIMÃO",
+   "NTOE",
+   "L: 363239",
+   "2321235003344",
+   "105110",
+   "O",
+   "H"
+  ],
+  "crop_wh": [
+   281,
+   682
+  ],
+  "sharpness": 31.1,
+  "ocr_s": 0.37
+ },
+ "f054.jpg": {
+  "n_lines": 20,
+  "box": [
+   927,
+   43,
+   1187,
+   701
+  ],
+  "level": "date",
+  "lines": [
+   "01.12.26 R 25.",
+   "FECHA CADUCIDAD/CONSUMIR ATE"
+  ],
+  "all_lines": [
+   "GLUTEN",
+   "SIN/SEM",
+   "3,34€",
+   "8,60 €",
+   "PRECIO/PREÇO KILO",
+   "0,388kg",
+   "PESO NETO/LIQUIDO",
+   "P.V.P",
+   "01.12.26 R 25.",
+   "FECHA CADUCIDAD/CONSUMIR ATE",
+   "LAGRIMITAS AL LIMÓN",
+   "GUANCIALE",
+   "TACO",
+   "D",
+   "DELICÍAS LIMÃO",
+   "L: 363239",
+   "105330",
+   "2321235003344",
+   "O",
+   "H"
+  ],
+  "crop_wh": [
+   260,
+   658
+  ],
+  "sharpness": 32.7,
+  "ocr_s": 0.37
+ },
+ "f060.jpg": {
+  "n_lines": 19,
+  "box": [
+   861,
+   0,
+   1125,
+   659
+  ],
+  "level": "date",
+  "lines": [
+   "01.12.26 R 25.",
+   "FECHA CADUCIDAD/CONSUMIR ATE"
+  ],
+  "all_lines": [
+   "0,388kg",
+   "UTEN",
+   "3,34€",
+   "8,60 €",
+   "PRECIO/PREÇO KILO",
+   "PESO NETO/LIQUIDO",
+   "01.12.26 R 25.",
+   "FECHA CADUCIDAD/CONSUMIR ATE",
+   "ISEM",
+   "PVP",
+   "LAGRIMITAS AL LIMÓN",
+   "QUANCIALF",
+   "TACO",
+   "DELICÍAS LIMÃO",
+   "L: 363239",
+   "105130",
+   "2321235003344",
+   "D",
+   "H"
+  ],
+  "crop_wh": [
+   264,
+   659
+  ],
+  "sharpness": 27.0,
+  "ocr_s": 0.37
+ },
+ "f066.jpg": {
+  "n_lines": 18,
+  "box": [
+   184,
+   0,
+   1242,
+   844
+  ],
+  "level": "digits",
+  "lines": [
+   "L: 363239",
+   "2321235003344",
+   "105330",
+   "CROUCIDAD/CONSUMIR ATE"
+  ],
+  "all_lines": [
+   "34€",
+   "/PREÇO KILO",
+   "8kg",
+   "NETO/LIQUIDO",
+   "",
+   "CROUCIDAD/CONSUMIR ATE",
+   "LAGRIMITAS AL LIMÓN",
+   "R 25",
+   "DELICÍAS LIMÃO",
+   "GUANC",
+   "TAC",
+   "L: 363239",
+   "2321235003344",
+   "105330",
+   "O",
+   "O",
+   "d",
+   "H"
+  ],
+  "crop_wh": [
+   1058,
+   844
+  ],
+  "sharpness": 21.0,
+  "ocr_s": 0.34
+ },
+ "f072.jpg": {
+  "n_lines": 9,
+  "box": [
+   34,
+   0,
+   438,
+   562
+  ],
+  "level": "digits",
+  "lines": [
+   "L: 363239",
+   "2321235003344"
+  ],
+  "all_lines": [
+   "NSUMIR ATE",
+   "RIMITAS AL LIMÓN",
+   "ELICÍAS LIMÃO",
+   "L: 363239",
+   "2321235003344",
+   "D",
+   "OK",
+   "H",
+   "O"
+  ],
+  "crop_wh": [
+   404,
+   562
+  ],
+  "sharpness": 15.1,
+  "ocr_s": 0.31
+ },
+ "f078.jpg": {
+  "n_lines": 11,
+  "box": [
+   95,
+   61,
+   339,
+   489
+  ],
+  "level": "digits",
+  "lines": [
+   "1235003344"
+  ],
+  "all_lines": [
+   "MIR ATE",
+   "IMITAS AL LIMÓN",
+   "O",
+   "O",
+   "ICÍAS LIMÃO",
+   "I",
+   "1235003344",
+   "SC",
+   "",
+   "nO",
+   "U"
+  ],
+  "crop_wh": [
+   244,
+   428
+  ],
+  "sharpness": 13.5,
+  "ocr_s": 0.34
+ },
+ "f084.jpg": {
+  "n_lines": 5,
+  "box": [
+   52,
+   0,
+   321,
+   439
+  ],
+  "level": "digits",
+  "lines": [
+   "235003344"
+  ],
+  "all_lines": [
+   "T",
+   "ICÍAS LIMÃO",
+   "ITAS AL LIMÓN",
+   "235003344",
+   "FO"
+  ],
+  "crop_wh": [
+   269,
+   439
+  ],
+  "sharpness": 11.1,
+  "ocr_s": 0.31
+ }
+}

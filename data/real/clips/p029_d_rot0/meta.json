@@ -1,0 +1,675 @@
+{
+ "f000.jpg": {
+  "n_lines": 24,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "",
+   "C",
+   "0o",
+   "295",
+   "Cabra",
+   "QUESO",
+   "7",
+   "%",
+   "M",
+   "Shac",
+   "Fatias",
+   "LOH",
+   "S",
+   "o",
+   "1OI",
+   "2,90€",
+   "AE",
+   "QUESITOS",
+   "HACENDADO",
+   "COLESSSS",
+   "ENTREINABES",
+   "208",
+   "LOS",
+   "500g"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 340.2,
+  "ocr_s": 0.43
+ },
+ "f006.jpg": {
+  "n_lines": 22,
+  "box": [
+   953,
+   861,
+   1049,
+   957
+  ],
+  "level": "digits",
+  "lines": [
+   "0.185k"
+  ],
+  "all_lines": [
+   "Cabra",
+   "Smacks",
+   "QUESO-QU",
+   "Fatias",
+   "S",
+   "SScks",
+   "8",
+   "",
+   "0.185k",
+   "0V0/0",
+   "LH917",
+   "35",
+   "38",
+   "TEOZ E CA0",
+   "C1",
+   "HACENDADO",
+   "ENTREPINARES",
+   "0",
+   "",
+   "205",
+   "ouda",
+   "5009"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 274.3,
+  "ocr_s": 0.35
+ },
+ "f012.jpg": {
+  "n_lines": 29,
+  "box": [
+   963,
+   859,
+   1059,
+   955
+  ],
+  "level": "digits",
+  "lines": [
+   "0,196kg"
+  ],
+  "all_lines": [
+   "E",
+   "RADO",
+   "Cabra",
+   "-",
+   "",
+   "Snack",
+   "E",
+   "QUO0",
+   "Fatias",
+   "A",
+   "%",
+   "OA",
+   "SaSs",
+   "M",
+   "2,90€",
+   "",
+   "0,196kg",
+   "HE",
+   "CVE2D",
+   "U",
+   "1H9T7",
+   "A",
+   "CT",
+   "HACENDADO",
+   "2",
+   "ENTREFINARES",
+   "LO",
+   "P",
+   "2"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 290.4,
+  "ocr_s": 0.35
+ },
+ "f018.jpg": {
+  "n_lines": 20,
+  "box": [
+   958,
+   860,
+   1059,
+   956
+  ],
+  "level": "digits",
+  "lines": [
+   "0,196kg"
+  ],
+  "all_lines": [
+   "",
+   "HEDDAR",
+   "AIRADO",
+   "295c",
+   "Cabra",
+   "Fatias",
+   "-",
+   "s",
+   "2,90 ",
+   "0,196kg",
+   "",
+   "14",
+   "C",
+   "1HOI7",
+   "BE A 0",
+   "2",
+   "HACENDADO",
+   "ENTREFINARES",
+   "2502",
+   "Gouda"
+  ],
+  "crop_wh": [
+   101,
+   96
+  ],
+  "sharpness": 301.1,
+  "ocr_s": 0.36
+ },
+ "f024.jpg": {
+  "n_lines": 21,
+  "box": [
+   938,
+   860,
+   1034,
+   956
+  ],
+  "level": "digits",
+  "lines": [
+   "0,196kg"
+  ],
+  "all_lines": [
+   "E",
+   "SHEDOIAL",
+   "DURADO",
+   "Cabra",
+   "Shacks",
+   "Fatias",
+   "QUENO0",
+   "",
+   "Sc",
+   "0,196kg",
+   "",
+   "C90",
+   "LHOT",
+   "ATIONAONONAL GEOCOGIO",
+   "G",
+   "HACENDADO",
+   "ENTREPINARIES",
+   "CO",
+   "",
+   "202",
+   "C"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 297.3,
+  "ocr_s": 0.35
+ },
+ "f030.jpg": {
+  "n_lines": 22,
+  "box": [
+   849,
+   1239,
+   945,
+   1335
+  ],
+  "level": "digits",
+  "lines": [
+   "3502"
+  ],
+  "all_lines": [
+   "E",
+   "VADO",
+   "Cabra",
+   "Shack",
+   "Fatias",
+   "(UEX0-(C0",
+   "2,90€",
+   "MUS",
+   "MEE",
+   "",
+   "",
+   "3$",
+   "LHEI",
+   "TO20L S0",
+   "c",
+   "HACENDADO",
+   "ENTREPINARES",
+   "S",
+   "OOG",
+   "S",
+   "3502",
+   "9"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 302.1,
+  "ocr_s": 0.36
+ },
+ "f036.jpg": {
+  "n_lines": 21,
+  "box": [
+   957,
+   874,
+   1053,
+   970
+  ],
+  "level": "digits",
+  "lines": [
+   "0,196k"
+  ],
+  "all_lines": [
+   "h",
+   "EDOLR",
+   "D",
+   "anell",
+   "Cabra",
+   "-",
+   "Snacke",
+   "Fatias",
+   "S",
+   "2,90",
+   "LO",
+   "0,196k",
+   "ASE",
+   "LHOIT",
+   "CHin",
+   "EAO  C0",
+   "HACENDADO",
+   "ENTREPINARES",
+   "Cn",
+   "3502",
+   "500 g"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 304.6,
+  "ocr_s": 0.34
+ },
+ "f042.jpg": {
+  "n_lines": 24,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "",
+   "EOOM",
+   "TDO",
+   "Cabra",
+   "Fatias",
+   "5",
+   "AS",
+   "S",
+   "2,9€",
+   "",
+   "",
+   "4",
+   "C3",
+   "39",
+   "AOI",
+   "ATINAOZNL G CAC",
+   "7",
+   "HACENDADO",
+   "ENTREPINARES",
+   "LO",
+   "502",
+   "",
+   "Gouda",
+   "500g"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 304.1,
+  "ocr_s": 0.33
+ },
+ "f048.jpg": {
+  "n_lines": 28,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "",
+   "HEDDAR",
+   "CADO",
+   "Cabra",
+   "",
+   "Shacks",
+   "Fatias",
+   "I",
+   "0",
+   "e",
+   "",
+   "LIGH",
+   "",
+   "MBE",
+   "",
+   "O",
+   "CS",
+   "LHON",
+   "tChO",
+   "SEOCAOO",
+   "C",
+   "HACENDADO",
+   "ENTBEPINARES",
+   "",
+   "302",
+   "",
+   "ouda",
+   "500g"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 304.0,
+  "ocr_s": 0.36
+ },
+ "f054.jpg": {
+  "n_lines": 26,
+  "box": [
+   963,
+   866,
+   1059,
+   962
+  ],
+  "level": "digits",
+  "lines": [
+   "0,196k"
+  ],
+  "all_lines": [
+   "S",
+   "E",
+   "-",
+   "anelli",
+   "Cabra",
+   "Shacks",
+   "Fatias",
+   "QUEXO(C0",
+   "",
+   "B",
+   "2,9€",
+   "0,196k",
+   "B",
+   "",
+   "",
+   "OVELTO",
+   "1HOT",
+   "BE O O",
+   "Ct",
+   "e",
+   "HACENDADO",
+   "ENTREPINARES",
+   "S",
+   "00",
+   "2502",
+   "500 g"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 303.1,
+  "ocr_s": 0.36
+ },
+ "f060.jpg": {
+  "n_lines": 26,
+  "box": [
+   954,
+   911,
+   1050,
+   1007
+  ],
+  "level": "digits",
+  "lines": [
+   "0Ve2/27"
+  ],
+  "all_lines": [
+   "SC",
+   "",
+   "SUAOS",
+   "(",
+   "Cabra",
+   "0",
+   "",
+   "Snack",
+   "QLISO-0",
+   "Fatias",
+   "",
+   "7t",
+   "2,90€",
+   "0Ve2/27",
+   "AER",
+   "MONOADOZN C",
+   "Ci",
+   "e",
+   "HACENDADO",
+   "ENTREFINARES",
+   "1O",
+   "300",
+   "3502",
+   "",
+   "Gouda",
+   "500 g"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 304.6,
+  "ocr_s": 0.35
+ },
+ "f066.jpg": {
+  "n_lines": 25,
+  "box": [
+   892,
+   1234,
+   988,
+   1330
+  ],
+  "level": "digits",
+  "lines": [
+   "2507"
+  ],
+  "all_lines": [
+   "",
+   "SIEDDAR",
+   "CID",
+   "URADO",
+   "Cabra",
+   "",
+   "Fatias",
+   "Y",
+   "S",
+   "LIOHY",
+   "O",
+   "",
+   "2,90€",
+   "MRE",
+   "E",
+   "AEL",
+   "SER CODO  A",
+   "",
+   "HACENDADO",
+   "ENTREPINARES",
+   "9",
+   "IS30S",
+   "2507",
+   "E",
+   "500g"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 304.6,
+  "ocr_s": 0.33
+ },
+ "f072.jpg": {
+  "n_lines": 25,
+  "box": [
+   978,
+   885,
+   1078,
+   981
+  ],
+  "level": "digits",
+  "lines": [
+   "0.196kg"
+  ],
+  "all_lines": [
+   "",
+   "enell",
+   "/",
+   "SHEDDAR",
+   "CURADO",
+   "Cabra",
+   "Fatias",
+   "RE",
+   "S",
+   "LIGnt",
+   "3",
+   "7e",
+   "2,90€",
+   "0.196kg",
+   "ABE",
+   "",
+   "BE",
+   "CE",
+   "LHOT7",
+   "ATINADO2NL GOCG20",
+   "01",
+   "HACENDADO",
+   "ENTREPINARES",
+   "IS3O0",
+   "2202"
+  ],
+  "crop_wh": [
+   100,
+   96
+  ],
+  "sharpness": 303.4,
+  "ocr_s": 0.35
+ },
+ "f078.jpg": {
+  "n_lines": 26,
+  "box": [
+   769,
+   1015,
+   936,
+   1152
+  ],
+  "level": "digits",
+  "lines": [
+   "D 2  C220"
+  ],
+  "all_lines": [
+   "zanell",
+   "E",
+   "SHEDDAR",
+   "CEHD",
+   "URADO",
+   "295",
+   "Cabra",
+   "Fatias",
+   "5",
+   "S",
+   "X",
+   "yor",
+   "2,90 €",
+   "MEE",
+   "1OT",
+   "",
+   "I8",
+   "D 2  C220",
+   "C",
+   "HACENDADO",
+   "ENTREPINARIES",
+   "CO",
+   "1ISESE",
+   "902",
+   "Gouda",
+   "500g"
+  ],
+  "crop_wh": [
+   167,
+   137
+  ],
+  "sharpness": 305.7,
+  "ocr_s": 0.36
+ },
+ "f084.jpg": {
+  "n_lines": 25,
+  "box": [
+   497,
+   462,
+   593,
+   558
+  ],
+  "level": "digits",
+  "lines": [
+   "2950"
+  ],
+  "all_lines": [
+   "SO",
+   "SHEDDAR",
+   "CURADO",
+   "2",
+   "A",
+   "2950",
+   "",
+   "Cabra",
+   "Snack",
+   "",
+   "QUS7CUO",
+   "Fatias",
+   "",
+   "2,90€",
+   "196k",
+   "LHO1",
+   "S",
+   "MEOCO CA0",
+   "HACENDADO",
+   "ENTREPINARES",
+   "0",
+   "SO1ISEOS",
+   "",
+   "Gouda",
+   "500g"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 305.4,
+  "ocr_s": 0.36
+ }
+}

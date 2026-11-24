@@ -1,0 +1,612 @@
+{
+ "f000.jpg": {
+  "n_lines": 31,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "ESO CROSSO",
+   "MACARRUN",
+   "CRUESO",
+   "MACARRÃO",
+   "II.",
+   "SO CROSSSO",
+   "AN",
+   "FIDE",
+   "FHO",
+   "CLÁSSICA",
+   "eseco",
+   "wmlr de",
+   "CLASSICA",
+   "0,85c",
+   "1",
+   "EIAS SS",
+   "CLROCE",
+   "7",
+   "NOODLES DE",
+   "NCODIES DE",
+   "ARROZ",
+   "SINUSEM",
+   "ARROZ",
+   "GLUTEN",
+   "100% LENTEJAS RQJAS",
+   "LENTILHAS IERVELHAS",
+   "TAX",
+   "NOODLESD",
+   "AROO",
+   "CENDAI",
+   "DE"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 188.7,
+  "ocr_s": 0.53
+ },
+ "f006.jpg": {
+  "n_lines": 21,
+  "box": [
+   193,
+   457,
+   438,
+   573
+  ],
+  "level": "digits",
+  "lines": [
+   "0.950"
+  ],
+  "all_lines": [
+   "CLÁSSICA",
+   "CO",
+   "0.950",
+   "RRO",
+   "NOODLES DE",
+   "ARROZ",
+   "SIM/SEM",
+   "GLUTEN",
+   "DE",
+   "NCODLES DE",
+   "100% LENTEJ",
+   "AROZ",
+   "LENTILHASIER",
+   "NOODLES DE",
+   "ARROZ",
+   "GLUTEN",
+   "HACENDADO",
+   "APREODE E",
+   "NOC",
+   "tap",
+   "rT"
+  ],
+  "crop_wh": [
+   245,
+   116
+  ],
+  "sharpness": 156.7,
+  "ocr_s": 0.34
+ },
+ "f012.jpg": {
+  "n_lines": 23,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "CLÁSSICA",
+   "eco",
+   "7",
+   "0.95c",
+   "RLRROOE",
+   "LETAS",
+   "RUAS",
+   "NOODTES DE",
+   "AROZ",
+   "SIN/SEM",
+   "GLUTEN",
+   "DOLES DE",
+   "100% LENTEL",
+   "NOODLES DE",
+   "LENTILHASIER",
+   "ARROZ",
+   "NOODLES DE",
+   "ARROZ",
+   "CURTDA",
+   "S",
+   "HACENDADO",
+   "MAPROZE E",
+   "U"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 165.4,
+  "ocr_s": 0.35
+ },
+ "f018.jpg": {
+  "n_lines": 18,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "CLÁSSICA",
+   "ICO",
+   "mirde",
+   "0.95e",
+   "BRROELE",
+   "NOODTES DE",
+   "ARROZ",
+   "SIN/SEM",
+   "GLUTEN",
+   "IOODLES DE",
+   "DDRO",
+   "100% LENTE",
+   "NCODLES DI",
+   "LENTILRASIE",
+   "AROZ",
+   "ARROZ",
+   "HACENDADO",
+   "NAREO DE AE"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 165.1,
+  "ocr_s": 0.33
+ },
+ "f024.jpg": {
+  "n_lines": 17,
+  "box": [
+   189,
+   468,
+   435,
+   592
+  ],
+  "level": "digits",
+  "lines": [
+   "0.950"
+  ],
+  "all_lines": [
+   "CLÁSSICA",
+   "0.950",
+   "CRRRE",
+   "NOODTES DE",
+   "AROZ",
+   "SIN/SEM",
+   "GLUTEN",
+   "NOODLES DE",
+   "100% LENTE",
+   "NOODLES",
+   "LEVTILRASIE",
+   "ARO",
+   "NOODLES DE",
+   "ARROZ",
+   "CAUTEN",
+   "HACENDADO",
+   "NARCDE AE"
+  ],
+  "crop_wh": [
+   246,
+   124
+  ],
+  "sharpness": 166.2,
+  "ocr_s": 0.34
+ },
+ "f030.jpg": {
+  "n_lines": 19,
+  "box": [
+   191,
+   472,
+   437,
+   594
+  ],
+  "level": "digits",
+  "lines": [
+   "0950"
+  ],
+  "all_lines": [
+   "CLÁSSICA",
+   "0950",
+   "RROR",
+   "NOODTES DE",
+   "ARROZ",
+   "SINUSEM",
+   "2",
+   "GLUTEN",
+   "NGODLES DE",
+   "DRO",
+   "100% LENTE",
+   "NCODLES",
+   "ARO",
+   "LENTILHISIT",
+   "NOODLES DE",
+   "ARROZ",
+   "DUUTEN",
+   "HACENDADO",
+   "ARIRSDE E"
+  ],
+  "crop_wh": [
+   246,
+   122
+  ],
+  "sharpness": 164.8,
+  "ocr_s": 0.33
+ },
+ "f036.jpg": {
+  "n_lines": 19,
+  "box": [
+   190,
+   468,
+   437,
+   598
+  ],
+  "level": "digits",
+  "lines": [
+   "0.950"
+  ],
+  "all_lines": [
+   "CLÁSSICA",
+   "0.950",
+   "NOODTES DE",
+   "RRRRRE",
+   "ARROZ",
+   "SIN/SEM",
+   "J",
+   "GLUTEN",
+   "NOODIES DE",
+   "DRO",
+   "100% LENTE",
+   "NOODLES",
+   "ARR",
+   "LENTILHASIE",
+   "NOODLES DE",
+   "ARROZ",
+   "CLATEN",
+   "HACENDADO",
+   "ARROZ"
+  ],
+  "crop_wh": [
+   247,
+   130
+  ],
+  "sharpness": 165.0,
+  "ocr_s": 0.33
+ },
+ "f042.jpg": {
+  "n_lines": 19,
+  "box": [
+   195,
+   473,
+   442,
+   601
+  ],
+  "level": "digits",
+  "lines": [
+   "0.950"
+  ],
+  "all_lines": [
+   "CLÁSSICA",
+   "C10O",
+   "mir de",
+   "0.950",
+   "NOODLES DE",
+   "RRROE",
+   "SIN/SEM",
+   "ARROZ",
+   "GLUTEN",
+   "GODIES DE",
+   "100% LENTE",
+   "NOODLEC",
+   "LENTILHASIT",
+   "ARP",
+   "NOODLES DE",
+   "ARROZ",
+   "GUTEN",
+   "HACENDADO",
+   "NARDE E"
+  ],
+  "crop_wh": [
+   247,
+   128
+  ],
+  "sharpness": 159.5,
+  "ocr_s": 0.33
+ },
+ "f048.jpg": {
+  "n_lines": 17,
+  "box": [
+   204,
+   480,
+   444,
+   606
+  ],
+  "level": "digits",
+  "lines": [
+   "0.950"
+  ],
+  "all_lines": [
+   "CLÁSSICA",
+   "C",
+   "0.950",
+   "NOODTES DE",
+   "CRCR",
+   "SARROZ",
+   "SIN/SEM",
+   "GLUTEN",
+   "GOLES DE",
+   "100% LENTE",
+   "NOODLE",
+   "ARD",
+   "LENTILIHASVE",
+   "NOODLES DE",
+   "ARROZ",
+   "CLUTEN",
+   "HACENDADO"
+  ],
+  "crop_wh": [
+   240,
+   126
+  ],
+  "sharpness": 160.1,
+  "ocr_s": 0.32
+ },
+ "f054.jpg": {
+  "n_lines": 18,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "PhUos",
+   "FIOEK",
+   "SG",
+   "CLÁSSICA",
+   "095e",
+   "NOODTES DE",
+   "RRROE",
+   "ARROZ",
+   "GLUTEN",
+   "ODLES DE",
+   "100% LENTE",
+   "NCODLE",
+   "ARD",
+   "LENTIHISIE",
+   "NOODLES DE",
+   "ARROZ",
+   "CLUTEN",
+   "HACENDAD"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 160.1,
+  "ocr_s": 0.34
+ },
+ "f060.jpg": {
+  "n_lines": 19,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "CLÁSSICA",
+   "0.95c",
+   "NOODLES DE",
+   "RLROOE",
+   "LAT",
+   "ARROZ",
+   "SIN/SEMA",
+   "GLUTEN",
+   "ODIES DE",
+   "C",
+   "100% LENTE",
+   "NCODLE",
+   "AR",
+   "LEVTILHISIE",
+   "NCODLES DE",
+   "ARROZ",
+   "CUTEN",
+   "HACENDAD",
+   "ANAOPRO DE OE"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 161.1,
+  "ocr_s": 0.34
+ },
+ "f066.jpg": {
+  "n_lines": 23,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "PM7",
+   "10 GROSS",
+   "FlOE",
+   "00",
+   "CLÁSSICA",
+   "M80O",
+   "0.95c",
+   "NOODIES DE",
+   "CRROE",
+   "ARROZ",
+   "SINU/SEM",
+   "GLUTEN",
+   "GDLES DE",
+   "L",
+   "100% LENTE",
+   "NCODLE",
+   "ARD",
+   "LENTILHASIE",
+   "NOODLES DE",
+   "ARROZ",
+   "CLUTSH",
+   "HACENDAD",
+   "ANARS DE E"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 161.9,
+  "ocr_s": 0.37
+ },
+ "f072.jpg": {
+  "n_lines": 23,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "UnoLo",
+   "Ga020",
+   "U",
+   "GRUSS",
+   "FlOE",
+   "CLÁSSICA",
+   "0",
+   "0.95c",
+   "NOODIES DE",
+   "RRE",
+   "ARROZ",
+   "SIN/SEM",
+   "GLUTEN",
+   "DLES DE",
+   "100% LENTE",
+   "NOODLE",
+   "AR",
+   "LENTILHASIE",
+   "NOODLES DE",
+   "ARROZ",
+   "GLUTEN",
+   "HACENDAD",
+   "NARRCDE E"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 162.9,
+  "ocr_s": 0.37
+ },
+ "f078.jpg": {
+  "n_lines": 23,
+  "box": [
+   212,
+   502,
+   446,
+   618
+  ],
+  "level": "digits",
+  "lines": [
+   "0.950"
+  ],
+  "all_lines": [
+   "NDX",
+   "U GHUSSI",
+   "FIDE",
+   "CLÁSSICA",
+   "eCO",
+   "8",
+   "0.950",
+   "NOODIES DE",
+   "BERROOR",
+   "ARROZ",
+   "SIN/SEM",
+   "GLUTEN",
+   "FOLES DE",
+   "100% LENTE",
+   "NCODLE",
+   "AR",
+   "LENTILHASIF",
+   "NOODLES DE",
+   "ARROZ",
+   "CLSTIN",
+   "HACENDAD",
+   "ARS ZE AE",
+   "U"
+  ],
+  "crop_wh": [
+   234,
+   116
+  ],
+  "sharpness": 161.9,
+  "ocr_s": 0.37
+ },
+ "f084.jpg": {
+  "n_lines": 19,
+  "box": [
+   1334,
+   248,
+   1430,
+   344
+  ],
+  "level": "digits",
+  "lines": [
+   "1000"
+  ],
+  "all_lines": [
+   "CLÁSSICA",
+   "1000",
+   "Tyde",
+   "0.950",
+   "NOODLES DE",
+   "RRRO",
+   "ARROZ",
+   "SIN/SEM",
+   "GLUTEN",
+   "ODIES DE",
+   "C",
+   "100% LENTE",
+   "NOODLES",
+   "LENTIIHISII",
+   "ARP",
+   "O",
+   "GLUTIN",
+   "HACENDADO",
+   "TARODE E"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 160.8,
+  "ocr_s": 0.36
+ }
+}

@@ -1,0 +1,493 @@
+{
+ "f000.jpg": {
+  "n_lines": 10,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "*",
+   "HACENDADO",
+   "Ssole",
+   "O",
+   "",
+   "10",
+   "Se",
+   "4,20€",
+   "Ce",
+   "ODXOM"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 45.9,
+  "ocr_s": 0.4
+ },
+ "f006.jpg": {
+  "n_lines": 6,
+  "box": [
+   896,
+   897,
+   992,
+   993
+  ],
+  "level": "digits",
+  "lines": [
+   "2000"
+  ],
+  "all_lines": [
+   "€",
+   "a",
+   "2000",
+   "FEK",
+   "ROC",
+   "Junsucg"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 43.5,
+  "ocr_s": 0.32
+ },
+ "f012.jpg": {
+  "n_lines": 7,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "O1",
+   "KHI",
+   "2",
+   "e200",
+   "4.20€",
+   "€",
+   "munaucO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 46.0,
+  "ocr_s": 0.32
+ },
+ "f018.jpg": {
+  "n_lines": 9,
+  "box": [
+   878,
+   889,
+   974,
+   985
+  ],
+  "level": "digits",
+  "lines": [
+   "2200"
+  ],
+  "all_lines": [
+   "053d",
+   "HRO",
+   "a u/ ae sa",
+   "ae  ",
+   "2200",
+   "RO",
+   "4.20k",
+   "6",
+   "aunauco"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 46.9,
+  "ocr_s": 0.32
+ },
+ "f024.jpg": {
+  "n_lines": 8,
+  "box": [
+   873,
+   881,
+   969,
+   977
+  ],
+  "level": "digits",
+  "lines": [
+   "e2000"
+  ],
+  "all_lines": [
+   "O ",
+   "R",
+   "CC",
+   "e2000",
+   "102",
+   "4,204",
+   "munsuco",
+   "O€"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 46.8,
+  "ocr_s": 0.33
+ },
+ "f030.jpg": {
+  "n_lines": 7,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "MLN ",
+   "R",
+   "",
+   "e200",
+   "Juntuco",
+   "4.20c",
+   "€"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 45.7,
+  "ocr_s": 0.32
+ },
+ "f036.jpg": {
+  "n_lines": 13,
+  "box": [
+   1587,
+   932,
+   1683,
+   1063
+  ],
+  "level": "digits",
+  "lines": [
+   "3107"
+  ],
+  "all_lines": [
+   "*",
+   "Stooe",
+   "",
+   "0 ",
+   "G0",
+   "D",
+   "s",
+   "D",
+   "e s ",
+   "200",
+   "3107",
+   "Oe",
+   "OXOHD"
+  ],
+  "crop_wh": [
+   96,
+   131
+  ],
+  "sharpness": 57.6,
+  "ocr_s": 0.34
+ },
+ "f042.jpg": {
+  "n_lines": 10,
+  "box": [
+   1414,
+   1228,
+   1512,
+   1393
+  ],
+  "level": "digits",
+  "lines": [
+   "000H0"
+  ],
+  "all_lines": [
+   "*",
+   "Stoll",
+   "0",
+   "B",
+   "  ",
+   "2",
+   "",
+   "NLMTUCO",
+   "Ooe",
+   "000H0"
+  ],
+  "crop_wh": [
+   98,
+   165
+  ],
+  "sharpness": 57.3,
+  "ocr_s": 0.33
+ },
+ "f048.jpg": {
+  "n_lines": 11,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "O€",
+   "*",
+   "A",
+   "Stoll",
+   "O",
+   " 5",
+   "10",
+   "e toa",
+   "no",
+   "Oee",
+   "ODOID"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 55.6,
+  "ocr_s": 0.34
+ },
+ "f054.jpg": {
+  "n_lines": 15,
+  "box": [
+   876,
+   884,
+   972,
+   980
+  ],
+  "level": "digits",
+  "lines": [
+   "0200"
+  ],
+  "all_lines": [
+   "Relleno Rech",
+   "B0€",
+   "*",
+   "Stoll",
+   "O",
+   "EC",
+   "  2",
+   "10",
+   "ae snd",
+   "a s ",
+   "0200",
+   "",
+   "",
+   "Ooe",
+   "000HD"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 56.3,
+  "ocr_s": 0.32
+ },
+ "f060.jpg": {
+  "n_lines": 12,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "80c",
+   "*",
+   "Stole",
+   "",
+   " 1 ",
+   "KO",
+   "",
+   "a u",
+   "307",
+   "a",
+   "D0",
+   "O"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 55.6,
+  "ocr_s": 0.32
+ },
+ "f066.jpg": {
+  "n_lines": 14,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "80c",
+   "*",
+   "HACENDADO",
+   "",
+   "O",
+   "2 5",
+   "L0",
+   "00",
+   "WTOUA",
+   "e200g",
+   "",
+   "ooee",
+   "00OH0",
+   ""
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 57.4,
+  "ocr_s": 0.34
+ },
+ "f072.jpg": {
+  "n_lines": 13,
+  "box": [
+   1451,
+   1246,
+   1547,
+   1403
+  ],
+  "level": "digits",
+  "lines": [
+   "00010"
+  ],
+  "all_lines": [
+   "Relleno Recheado",
+   "80€",
+   "*",
+   "HACENDADO",
+   "Stoll",
+   "",
+   "-",
+   "22  ",
+   "10",
+   "O",
+   " sae",
+   "ooee",
+   "00010"
+  ],
+  "crop_wh": [
+   96,
+   157
+  ],
+  "sharpness": 61.1,
+  "ocr_s": 0.34
+ },
+ "f078.jpg": {
+  "n_lines": 15,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Relleno Recheado",
+   "OLATE",
+   "80€",
+   "*",
+   "MACENDADO",
+   "Stole",
+   "O",
+   ".",
+   "21 2",
+   "apau",
+   "  a",
+   "NTSuO",
+   "aW",
+   "Oee",
+   "OOW"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 60.6,
+  "ocr_s": 0.33
+ },
+ "f084.jpg": {
+  "n_lines": 12,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Relleno Recheado",
+   "80c",
+   "BACENDADO",
+   "to",
+   "Stooe",
+   "O",
+   " 1 ",
+   "-",
+   "WAAN",
+   "Junsue",
+   "am",
+   "anue"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 61.9,
+  "ocr_s": 0.33
+ },
+ "f090.jpg": {
+  "n_lines": 11,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "30c",
+   "*",
+   "HACENDADO",
+   "Stoll",
+   "O",
+   "22  ",
+   "10",
+   "o",
+   "1",
+   "Cee",
+   "ODOHD"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 59.7,
+  "ocr_s": 0.32
+ }
+}

@@ -1,0 +1,736 @@
+{
+ "f000.jpg": {
+  "n_lines": 19,
+  "box": [
+   573,
+   1015,
+   669,
+   1134
+  ],
+  "level": "digits",
+  "lines": [
+   "Lote 263239"
+  ],
+  "all_lines": [
+   "MEDIO MAGRET",
+   "m",
+   "POLLO",
+   "MOLLEJAS",
+   "HGADOS",
+   "POLLO",
+   "POLLO",
+   "TDED",
+   "POLLO",
+   "POLLO",
+   "POLLO",
+   "pH",
+   "122wm",
+   "Lote 263239",
+   "M",
+   "2",
+   "I",
+   "atur",
+   "9"
+  ],
+  "crop_wh": [
+   96,
+   119
+  ],
+  "sharpness": 275.8,
+  "ocr_s": 0.45
+ },
+ "f006.jpg": {
+  "n_lines": 24,
+  "box": [
+   1020,
+   840,
+   1116,
+   936
+  ],
+  "level": "date",
+  "lines": [
+   "FEV8 100C"
+  ],
+  "all_lines": [
+   "OLLO",
+   "MOLLEJAS",
+   "POLLO",
+   "Lages",
+   "OO",
+   "POLLO",
+   "POLLO",
+   "PHEI",
+   "LWINE (OENTEA",
+   "1-1-1",
+   "122w0n",
+   "Peso Neto:0,315kg",
+   "Lote 263239",
+   "B00 0 C0220",
+   "IO V",
+   "",
+   "de cwh",
+   "4",
+   "FEV8 100C",
+   "00",
+   "e",
+   "atr",
+   "9",
+   "POI"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 259.5,
+  "ocr_s": 0.34
+ },
+ "f012.jpg": {
+  "n_lines": 22,
+  "box": [
+   611,
+   620,
+   1009,
+   922
+  ],
+  "level": "digits",
+  "lines": [
+   "12210n",
+   "Peso Neto:0,315kg",
+   "Lote 263239",
+   "002 220",
+   "4K0.22",
+   "Fabricado por"
+  ],
+  "all_lines": [
+   "MOLLEJAS",
+   "POLLO",
+   "TEEOD",
+   "POUD",
+   "=",
+   "141",
+   "12210n",
+   "AVICOLASSLU",
+   "2",
+   "Fabricado por",
+   "Peso Neto:0,315kg",
+   "Lote 263239",
+   "002 220",
+   "ldat",
+   "4K0.22",
+   "25",
+   "1",
+   "atur",
+   "FUS",
+   "9.",
+   "MO",
+   "naur"
+  ],
+  "crop_wh": [
+   398,
+   302
+  ],
+  "sharpness": 256.7,
+  "ocr_s": 0.31
+ },
+ "f018.jpg": {
+  "n_lines": 22,
+  "box": [
+   754,
+   636,
+   987,
+   920
+  ],
+  "level": "digits",
+  "lines": [
+   "122w0n",
+   "Peso Neto:0,315kg",
+   "Lote 263239"
+  ],
+  "all_lines": [
+   "MOLLEJAS",
+   "POLLO",
+   "FGam",
+   "WOC0",
+   "COLLO",
+   "LM INE (TELNTER",
+   "144",
+   "122w0n",
+   "Peso Neto:0,315kg",
+   "Lote 263239",
+   "0 2 20",
+   "Var mrgitien",
+   "OaCe",
+   "AKm22",
+   "E",
+   "3",
+   " atr",
+   "4",
+   "9.",
+   "E",
+   "YAOUPILIS ",
+   "I"
+  ],
+  "crop_wh": [
+   233,
+   284
+  ],
+  "sharpness": 256.6,
+  "ocr_s": 0.3
+ },
+ "f024.jpg": {
+  "n_lines": 30,
+  "box": [
+   761,
+   632,
+   994,
+   916
+  ],
+  "level": "digits",
+  "lines": [
+   "122408",
+   "Peso Neto:0,315kg",
+   "Lote 263239"
+  ],
+  "all_lines": [
+   "MOLLEJAS",
+   "POLLO",
+   "CACOT",
+   "YOOO",
+   "ROLO",
+   "Fil",
+   "CI MIS1O- Y-(EMTVANNS)",
+   "122408",
+   " (OE",
+   "144",
+   "AVICOLASSLU",
+   "Peso Neto:0,315kg",
+   "Lote 263239",
+   "B0 2 20",
+   ".",
+   "Tale at-",
+   "ina50",
+   ":",
+   "de carto",
+   "",
+   "3",
+   "8Km.2.2",
+   "AS",
+   "C",
+   "atr",
+   "9",
+   "POLS",
+   "MIE",
+   "",
+   ""
+  ],
+  "crop_wh": [
+   233,
+   284
+  ],
+  "sharpness": 257.7,
+  "ocr_s": 0.33
+ },
+ "f030.jpg": {
+  "n_lines": 28,
+  "box": [
+   782,
+   640,
+   971,
+   818
+  ],
+  "level": "digits",
+  "lines": [
+   "122101",
+   "Lote 263239"
+  ],
+  "all_lines": [
+   "MOLLEJAS",
+   "POLLO",
+   "UDASOS",
+   "amom",
+   "FOLO",
+   "Mi",
+   "OENTE",
+   "POUTICTO FRESCO CATY",
+   "B MESTO Y CONTVAMASI",
+   "1-1-1",
+   "122101",
+   "Lote 263239",
+   "C7M ",
+   "00 2N 0220",
+   "COLASS.LU",
+   "t aa",
+   "00",
+   "P0  914",
+   "@Km.22",
+   "C",
+   "atr",
+   "5",
+   "C",
+   "TLO",
+   "POLIS S",
+   "SES",
+   "DI",
+   "E"
+  ],
+  "crop_wh": [
+   189,
+   178
+  ],
+  "sharpness": 257.8,
+  "ocr_s": 0.33
+ },
+ "f036.jpg": {
+  "n_lines": 23,
+  "box": [
+   634,
+   623,
+   928,
+   919
+  ],
+  "level": "digits",
+  "lines": [
+   "Peso Neto:0315kg",
+   "Lote 263239",
+   "41520 B Veo del Al"
+  ],
+  "all_lines": [
+   "MOLLEJAS",
+   "POLLO",
+   "momm",
+   "2",
+   "M",
+   "LOM DV IDGSNTT R",
+   "N44",
+   "122um",
+   "Cra. El Viso de/ Alcor",
+   "Peso Neto:0315kg",
+   "Lote 263239",
+   "",
+   "41520 B Veo del Al",
+   "Hdt-",
+   "",
+   "05",
+   "C",
+   "atr",
+   "5",
+   "Bo",
+   "2",
+   "POLLO",
+   ""
+  ],
+  "crop_wh": [
+   294,
+   296
+  ],
+  "sharpness": 259.1,
+  "ocr_s": 0.3
+ },
+ "f042.jpg": {
+  "n_lines": 20,
+  "box": [
+   747,
+   626,
+   980,
+   911
+  ],
+  "level": "digits",
+  "lines": [
+   "122100",
+   "Peso Neto:0315kg",
+   "Lote 263239"
+  ],
+  "all_lines": [
+   "MOLLEJAS",
+   "POLLO",
+   "MACC",
+   "Miom",
+   "POLO",
+   "Mi",
+   "PRGUCTO /RESD CATT",
+   "1-4-1",
+   "122100",
+   "Peso Neto:0315kg",
+   "Lote 263239",
+   "B00 S220",
+   "tO",
+   "cal0 sl  a",
+   "1",
+   "atr",
+   "2",
+   "5.",
+   "ODA",
+   ""
+  ],
+  "crop_wh": [
+   233,
+   285
+  ],
+  "sharpness": 259.7,
+  "ocr_s": 0.29
+ },
+ "f048.jpg": {
+  "n_lines": 24,
+  "box": [
+   779,
+   628,
+   1017,
+   824
+  ],
+  "level": "digits",
+  "lines": [
+   "12210",
+   "Lote 263239",
+   "Vali roergation"
+  ],
+  "all_lines": [
+   "MOLLEJAS",
+   "POLLO",
+   "Tmm",
+   "POUS",
+   "PIII",
+   "144",
+   "12210",
+   "Lote 263239",
+   "AT0N2NL S0020",
+   "SEE ",
+   "529 E Viso del Ak",
+   "SaCA",
+   "Vali roergation",
+   "Alcx",
+   "70 001",
+   "TOPONN",
+   "2",
+   "C",
+   "-",
+   "103",
+   "atr",
+   "5",
+   "DIE",
+   "I"
+  ],
+  "crop_wh": [
+   238,
+   196
+  ],
+  "sharpness": 258.1,
+  "ocr_s": 0.29
+ },
+ "f054.jpg": {
+  "n_lines": 31,
+  "box": [
+   741,
+   632,
+   974,
+   914
+  ],
+  "level": "digits",
+  "lines": [
+   "12218",
+   "PesoNeto:0,315kg",
+   "Lote 263239"
+  ],
+  "all_lines": [
+   "MOLLEJAS",
+   "POLLO",
+   "PSA0OS",
+   "mom",
+   "POLLO",
+   "HT",
+   "Mo",
+   "(O ITHTE R",
+   "BE MESI Y COMTVANOS",
+   "1-1-1",
+   "12218",
+   "",
+   "PesoNeto:0,315kg",
+   "Lote 263239",
+   "0 N2 220",
+   "U",
+   "2",
+   "ver mergalin",
+   "de Lw",
+   "",
+   "A",
+   "92 GM",
+   "O1",
+   "7",
+   "F00",
+   "4",
+   " atr",
+   "9",
+   "O",
+   "DIE",
+   "S"
+  ],
+  "crop_wh": [
+   233,
+   282
+  ],
+  "sharpness": 259.0,
+  "ocr_s": 0.34
+ },
+ "f060.jpg": {
+  "n_lines": 29,
+  "box": [
+   741,
+   633,
+   973,
+   919
+  ],
+  "level": "digits",
+  "lines": [
+   "122108",
+   "Peso Neto:0.315kg",
+   "Lote 263239"
+  ],
+  "all_lines": [
+   "MOLLEJAS",
+   "POLLO",
+   "Eouam",
+   "I",
+   "Mo",
+   "ENINTE",
+   "1-1-1",
+   "122108",
+   "Peso Neto:0.315kg",
+   "Lote 263239",
+   "COLASSLU",
+   " ",
+   "BN 220",
+   "ATURPP",
+   "o ecplico",
+   "SINRTH",
+   "AA",
+   "COUCCIONE",
+   ".",
+   "IMD GNN I0N",
+   "B",
+   "",
+   "a",
+   "a",
+   ".",
+   "atr",
+   "9",
+   "OL",
+   "AD"
+  ],
+  "crop_wh": [
+   232,
+   286
+  ],
+  "sharpness": 257.7,
+  "ocr_s": 0.33
+ },
+ "f066.jpg": {
+  "n_lines": 33,
+  "box": [
+   738,
+   635,
+   971,
+   919
+  ],
+  "level": "digits",
+  "lines": [
+   "12210n",
+   "Peso Neto:0.315kg",
+   "Lote 263239"
+  ],
+  "all_lines": [
+   "MOLLEJAS",
+   "POLLO",
+   "ADABOT",
+   "Emman",
+   "POILO",
+   "e",
+   "M",
+   "RETO TRESO CRTE",
+   "OF MESTO  COMTERNASI",
+   "HOOSHER",
+   "144",
+   "12210n",
+   "Peso Neto:0.315kg",
+   "Lote 263239",
+   "B00N2 0",
+   "1520 B io del Ak",
+   "VCOLASS.LL",
+   "Sa",
+   "Vaor eu giicn",
+   "d ta",
+   "d al to carb",
+   "Acor",
+   "ales ",
+   "",
+   ".",
+   "1Km 2,2",
+   "E",
+   "-",
+   "atr",
+   "5.",
+   "POLLO",
+   "O",
+   ""
+  ],
+  "crop_wh": [
+   233,
+   284
+  ],
+  "sharpness": 259.7,
+  "ocr_s": 0.35
+ },
+ "f072.jpg": {
+  "n_lines": 27,
+  "box": [
+   584,
+   624,
+   986,
+   932
+  ],
+  "level": "digits",
+  "lines": [
+   "1221m",
+   "Peso0.315kg",
+   "Lote 263239",
+   "0 520",
+   "ricadops"
+  ],
+  "all_lines": [
+   "MOLLEJAS",
+   "POLLO",
+   "K04001",
+   "JOOmn",
+   "POLO",
+   "D",
+   "PIL",
+   "DI MISID Y-CONTSANST)",
+   "144",
+   "1221m",
+   "Peso0.315kg",
+   "Lote 263239",
+   "0 520",
+   "COLASSL",
+   "ricadops",
+   "1",
+   "aVao d",
+   "",
+   "NSA",
+   "Alcor",
+   " ",
+   "M",
+   "atr",
+   "5",
+   "V",
+   "DI",
+   ""
+  ],
+  "crop_wh": [
+   402,
+   308
+  ],
+  "sharpness": 259.4,
+  "ocr_s": 0.34
+ },
+ "f078.jpg": {
+  "n_lines": 26,
+  "box": [
+   778,
+   647,
+   1013,
+   838
+  ],
+  "level": "digits",
+  "lines": [
+   "122103",
+   "totr 263239",
+   "Valer margotin"
+  ],
+  "all_lines": [
+   "MOLLEJAS",
+   "POLLO",
+   "HOADOS",
+   "momn",
+   "POLLC",
+   "-",
+   "I",
+   "IN (OROLANTE R",
+   "e",
+   "M4",
+   "122103",
+   "totr 263239",
+   "0022 520",
+   "COLASS.LUL",
+   "Valer margotin",
+   "E4",
+   "ONA",
+   "A",
+   "C",
+   "C",
+   "(vo",
+   "atur",
+   "IK",
+   "5",
+   "20",
+   ""
+  ],
+  "crop_wh": [
+   235,
+   191
+  ],
+  "sharpness": 258.5,
+  "ocr_s": 0.32
+ },
+ "f084.jpg": {
+  "n_lines": 33,
+  "box": [
+   845,
+   662,
+   941,
+   758
+  ],
+  "level": "date",
+  "lines": [
+   "1-14"
+  ],
+  "all_lines": [
+   "MOLLEJAS",
+   "POLLO",
+   "PIOMOOS",
+   "TOD0D1",
+   "FOLLD",
+   "M",
+   "E MESTO-T COMTAMOS",
+   "O",
+   "1-14",
+   "122100",
+   "Fabricadopor",
+   "Peso Neto:0.315kg",
+   "3",
+   "1",
+   "Lote",
+   "EN ATYE",
+   "B0  2 S0",
+   "EIViso di",
+   "263239",
+   "& le",
+   "INT R",
+   "DOCCON",
+   "0 ",
+   "Km.2,2",
+   "o",
+   "T",
+   ">",
+   "atr",
+   "5",
+   "0",
+   "R0",
+   "O",
+   ""
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 258.7,
+  "ocr_s": 0.36
+ }
+}

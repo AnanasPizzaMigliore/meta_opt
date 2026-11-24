@@ -1,0 +1,499 @@
+{
+ "f000.jpg": {
+  "n_lines": 14,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "zanell",
+   "SDA ",
+   "SOAN",
+   "a",
+   "R5",
+   "QUESITOS",
+   "LHEI",
+   "QUESITOS",
+   "i",
+   "SOLSISS",
+   "P",
+   "L",
+   "Gouda",
+   "500g"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 301.5,
+  "ocr_s": 0.42
+ },
+ "f006.jpg": {
+  "n_lines": 13,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "NEN",
+   "HL",
+   "295c",
+   "0",
+   "3S",
+   "Yo",
+   "",
+   "LHOT",
+   "ESITOS",
+   "C",
+   "SOOSSSS",
+   "ouda",
+   "500"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 262.9,
+  "ocr_s": 0.32
+ },
+ "f012.jpg": {
+  "n_lines": 14,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "anell",
+   "UAO",
+   "H",
+   "LIGin",
+   "S",
+   "",
+   "4",
+   "CHOT",
+   "ITOS",
+   "\"",
+   "SOLSIIS",
+   "",
+   "Gouda",
+   "500 g"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 269.8,
+  "ocr_s": 0.31
+ },
+ "f018.jpg": {
+  "n_lines": 15,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "SIL",
+   "mAA",
+   "STOD",
+   "zanelli",
+   "0",
+   "K",
+   "SSs",
+   "h",
+   "S",
+   "O",
+   "1HOI",
+   "B8",
+   "TOS",
+   "SOLSSSS",
+   "500 g"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 262.6,
+  "ocr_s": 0.34
+ },
+ "f024.jpg": {
+  "n_lines": 13,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "UDO",
+   "ED",
+   "295:",
+   "Sracks",
+   "ue",
+   "",
+   "i",
+   "MER",
+   "EXITOS",
+   "SOOSISS",
+   "Gouda",
+   "500g",
+   "oud"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 265.5,
+  "ocr_s": 0.34
+ },
+ "f030.jpg": {
+  "n_lines": 17,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "zanell",
+   "HEDOAR",
+   "RADO",
+   "Snacks",
+   "4",
+   "1",
+   "LIGH",
+   "p",
+   "",
+   "",
+   "1HOI",
+   "DESITOS",
+   "",
+   "SOOISISS",
+   "Gouda",
+   "Gouda",
+   "500g"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 261.1,
+  "ocr_s": 0.35
+ },
+ "f036.jpg": {
+  "n_lines": 15,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "zanell",
+   "TRADO",
+   "90",
+   "2",
+   "295",
+   "",
+   ":",
+   "ON",
+   "QUESITOS",
+   "SOLTISS",
+   "",
+   "/",
+   "Couda",
+   "Couda",
+   "500g"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 261.1,
+  "ocr_s": 0.34
+ },
+ "f042.jpg": {
+  "n_lines": 15,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "MEDDAR",
+   "CHD",
+   "CURADO",
+   "R",
+   ".",
+   "Shacks",
+   "(U0(00",
+   "26",
+   ":",
+   "LHOIT",
+   "VUESITOS",
+   "COLSIIS",
+   "Gouda",
+   "500",
+   "o"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 260.6,
+  "ocr_s": 0.34
+ },
+ "f048.jpg": {
+  "n_lines": 12,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "DA4",
+   "zanelli",
+   "SUPAIO ",
+   "LL",
+   "Snacks",
+   "QE",
+   "",
+   "LHON",
+   "UESITOS",
+   "",
+   "SOLISISS",
+   "Gouda"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 250.9,
+  "ocr_s": 0.33
+ },
+ "f054.jpg": {
+  "n_lines": 13,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "zenell",
+   "OO",
+   "zanell",
+   "A",
+   "Sad",
+   "Q",
+   "",
+   "LHEL",
+   "00",
+   "ESITOS",
+   "d",
+   "SOLSSLSS",
+   "2"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 257.0,
+  "ocr_s": 0.32
+ },
+ "f060.jpg": {
+  "n_lines": 12,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "zanelli",
+   "EDO4N",
+   "0A0O",
+   "Sra",
+   ":",
+   "LHOI",
+   "EXITOS",
+   "SOLISSS",
+   "",
+   "Gouda",
+   "P",
+   "500 g"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 251.5,
+  "ocr_s": 0.31
+ },
+ "f066.jpg": {
+  "n_lines": 14,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Zanell",
+   "JUOA",
+   "D",
+   "Shack",
+   "QCESO",
+   "BS",
+   "3",
+   "",
+   "LHEIT",
+   "SITOS",
+   "EL",
+   "SOLISSS",
+   "507",
+   ""
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 247.6,
+  "ocr_s": 0.32
+ },
+ "f072.jpg": {
+  "n_lines": 14,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "8n",
+   "SO",
+   "1",
+   "Snack",
+   "",
+   "Sha",
+   "(",
+   "",
+   "1HOI7",
+   "SITOS",
+   "COOIIS",
+   "",
+   "Gouda",
+   "500"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 243.7,
+  "ocr_s": 0.31
+ },
+ "f078.jpg": {
+  "n_lines": 13,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "21",
+   "HEDOAR",
+   "VRADO",
+   "zane",
+   "/",
+   "X",
+   "S",
+   ":",
+   "LHOI",
+   "ESITOS",
+   "SOLISSIS",
+   "502",
+   "500"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 247.0,
+  "ocr_s": 0.32
+ },
+ "f084.jpg": {
+  "n_lines": 16,
+  "box": [
+   921,
+   1250,
+   1017,
+   1354
+  ],
+  "level": "digits",
+  "lines": [
+   "3502"
+  ],
+  "all_lines": [
+   "zanelli",
+   "MEDDAR",
+   "VRADO",
+   "ED",
+   "zanell",
+   "295",
+   "42",
+   "Y",
+   "",
+   ":",
+   "LHOI",
+   "ESITOS",
+   "SOLSISS",
+   "3502",
+   "Couda",
+   "500"
+  ],
+  "crop_wh": [
+   96,
+   104
+  ],
+  "sharpness": 245.0,
+  "ocr_s": 0.32
+ }
+}

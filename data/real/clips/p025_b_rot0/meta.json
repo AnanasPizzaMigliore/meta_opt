@@ -1,0 +1,591 @@
+{
+ "f000.jpg": {
+  "n_lines": 14,
+  "box": [
+   1034,
+   529,
+   1333,
+   1172
+  ],
+  "level": "date",
+  "lines": [
+   "01/12/2026"
+  ],
+  "all_lines": [
+   "150ge",
+   "gerenca de",
+   "C",
+   "QUSO",
+   "FASCO",
+   "VICA",
+   "01/12/2026",
+   "Burrate",
+   "R28",
+   "ua",
+   "1307",
+   "NATURO",
+   "URAL",
+   "NATURAL"
+  ],
+  "crop_wh": [
+   299,
+   643
+  ],
+  "sharpness": 52.1,
+  "ocr_s": 0.4
+ },
+ "f006.jpg": {
+  "n_lines": 12,
+  "box": [
+   1134,
+   170,
+   1508,
+   965
+  ],
+  "level": "date",
+  "lines": [
+   "01/12/2026"
+  ],
+  "all_lines": [
+   "01/12/2026",
+   "Burrata",
+   "-",
+   "R28",
+   "107",
+   "NATURAL",
+   "DOD",
+   "NATURAL",
+   "ER",
+   "NATURAL",
+   "NAIURAL",
+   "NATURAL"
+  ],
+  "crop_wh": [
+   374,
+   795
+  ],
+  "sharpness": 57.8,
+  "ocr_s": 0.32
+ },
+ "f012.jpg": {
+  "n_lines": 9,
+  "box": [
+   1081,
+   212,
+   1434,
+   994
+  ],
+  "level": "date",
+  "lines": [
+   "01/12/2026"
+  ],
+  "all_lines": [
+   "01/12/2026",
+   "R28",
+   "U07",
+   "NATURAL",
+   "A",
+   "RRKO",
+   "NATURAL",
+   "IRA",
+   "NATURAL"
+  ],
+  "crop_wh": [
+   353,
+   782
+  ],
+  "sharpness": 46.7,
+  "ocr_s": 0.28
+ },
+ "f018.jpg": {
+  "n_lines": 11,
+  "box": [
+   1086,
+   142,
+   1445,
+   943
+  ],
+  "level": "date",
+  "lines": [
+   "01/12/2026"
+  ],
+  "all_lines": [
+   "01/12/2026",
+   "Burrata",
+   "R28",
+   "1307",
+   "",
+   "NATURAL",
+   "0.90",
+   "NATURAL",
+   "IRA",
+   "URAL",
+   "NAIURAL"
+  ],
+  "crop_wh": [
+   359,
+   801
+  ],
+  "sharpness": 49.4,
+  "ocr_s": 0.28
+ },
+ "f024.jpg": {
+  "n_lines": 9,
+  "box": [
+   1074,
+   203,
+   1412,
+   982
+  ],
+  "level": "date",
+  "lines": [
+   "01/12/2026"
+  ],
+  "all_lines": [
+   "01/12/2026",
+   "urrata",
+   "R28",
+   "1307",
+   "NATURAL",
+   "MATURAL",
+   "RUM",
+   "NATURAL",
+   "NATURAL"
+  ],
+  "crop_wh": [
+   338,
+   779
+  ],
+  "sharpness": 45.7,
+  "ocr_s": 0.27
+ },
+ "f030.jpg": {
+  "n_lines": 8,
+  "box": [
+   1042,
+   230,
+   1380,
+   991
+  ],
+  "level": "date",
+  "lines": [
+   "01/12/2026"
+  ],
+  "all_lines": [
+   "01/12/2026",
+   "urrata",
+   "R28",
+   "1307",
+   "NATURAL",
+   "NATURRAL",
+   "NATURAL",
+   "ORAL"
+  ],
+  "crop_wh": [
+   338,
+   761
+  ],
+  "sharpness": 44.8,
+  "ocr_s": 0.28
+ },
+ "f036.jpg": {
+  "n_lines": 11,
+  "box": [
+   1039,
+   242,
+   1365,
+   990
+  ],
+  "level": "date",
+  "lines": [
+   "01/12/2026"
+  ],
+  "all_lines": [
+   "01/12/2026",
+   "urrata",
+   "3",
+   "R28",
+   "107",
+   "NATURAL",
+   "10943",
+   "NGS",
+   "NATURAL",
+   "NATURAL",
+   "URAL"
+  ],
+  "crop_wh": [
+   326,
+   748
+  ],
+  "sharpness": 47.0,
+  "ocr_s": 0.29
+ },
+ "f042.jpg": {
+  "n_lines": 11,
+  "box": [
+   1033,
+   240,
+   1350,
+   984
+  ],
+  "level": "date",
+  "lines": [
+   "01/12/2026"
+  ],
+  "all_lines": [
+   "01/12/2026",
+   "atrata",
+   "R28",
+   "",
+   "107",
+   "NATURAL",
+   "NV",
+   "PLRIAM",
+   "NATURAL",
+   "NATURAL",
+   "On"
+  ],
+  "crop_wh": [
+   317,
+   744
+  ],
+  "sharpness": 45.5,
+  "ocr_s": 0.27
+ },
+ "f048.jpg": {
+  "n_lines": 9,
+  "box": [
+   1029,
+   239,
+   1343,
+   988
+  ],
+  "level": "date",
+  "lines": [
+   "01/12/2026"
+  ],
+  "all_lines": [
+   "01/12/2026",
+   "rata",
+   "R28",
+   "1X07",
+   "NATURAL",
+   "BC",
+   "G",
+   "NATURAL",
+   "NATURAL"
+  ],
+  "crop_wh": [
+   314,
+   749
+  ],
+  "sharpness": 42.4,
+  "ocr_s": 0.27
+ },
+ "f054.jpg": {
+  "n_lines": 10,
+  "box": [
+   1030,
+   234,
+   1344,
+   979
+  ],
+  "level": "date",
+  "lines": [
+   "01/12/2026"
+  ],
+  "all_lines": [
+   "01/12/2026",
+   "rrata",
+   "EE",
+   "R28",
+   "1307",
+   "NATURAL",
+   "NATURAL",
+   "RPOG",
+   "VRAL",
+   "NATURAL"
+  ],
+  "crop_wh": [
+   314,
+   745
+  ],
+  "sharpness": 44.5,
+  "ocr_s": 0.27
+ },
+ "f060.jpg": {
+  "n_lines": 9,
+  "box": [
+   1012,
+   234,
+   1334,
+   984
+  ],
+  "level": "date",
+  "lines": [
+   "01/12/2026"
+  ],
+  "all_lines": [
+   "01/12/2026",
+   "ata",
+   "B",
+   "R28",
+   "1307",
+   "NATURAL",
+   "ULRCS",
+   "NA AURAL",
+   "NATURAL"
+  ],
+  "crop_wh": [
+   322,
+   750
+  ],
+  "sharpness": 42.4,
+  "ocr_s": 0.27
+ },
+ "f066.jpg": {
+  "n_lines": 10,
+  "box": [
+   1011,
+   237,
+   1329,
+   984
+  ],
+  "level": "date",
+  "lines": [
+   "01/12/2026"
+  ],
+  "all_lines": [
+   "01/12/2026",
+   "ata",
+   "B",
+   "R28",
+   "U07",
+   "NATURAL",
+   "BUSOE",
+   "NA NAURAL",
+   "NAIURAL",
+   "DA"
+  ],
+  "crop_wh": [
+   318,
+   747
+  ],
+  "sharpness": 41.6,
+  "ocr_s": 0.27
+ },
+ "f072.jpg": {
+  "n_lines": 10,
+  "box": [
+   1012,
+   243,
+   1324,
+   982
+  ],
+  "level": "date",
+  "lines": [
+   "01/12/2026"
+  ],
+  "all_lines": [
+   "01/12/2026",
+   "ata",
+   "3",
+   "T",
+   "o",
+   "R28",
+   "1307",
+   "NATURAL",
+   "NATURAL",
+   "NATURAL"
+  ],
+  "crop_wh": [
+   312,
+   739
+  ],
+  "sharpness": 41.5,
+  "ocr_s": 0.28
+ },
+ "f078.jpg": {
+  "n_lines": 11,
+  "box": [
+   1009,
+   248,
+   1315,
+   980
+  ],
+  "level": "date",
+  "lines": [
+   "01/12/2026"
+  ],
+  "all_lines": [
+   "01/12/2026",
+   "ta",
+   "R28",
+   "1307",
+   "NATURAL",
+   "UURIS",
+   "NATURAL",
+   "BOC",
+   "NATURAL",
+   "NATURAL",
+   "RAL"
+  ],
+  "crop_wh": [
+   306,
+   732
+  ],
+  "sharpness": 43.7,
+  "ocr_s": 0.28
+ },
+ "f084.jpg": {
+  "n_lines": 10,
+  "box": [
+   1007,
+   256,
+   1306,
+   979
+  ],
+  "level": "date",
+  "lines": [
+   "01/12/2026"
+  ],
+  "all_lines": [
+   "01/12/2026",
+   "EE",
+   "R28",
+   "1X07",
+   "BRSGOS",
+   "NATURAL",
+   "NATURAL",
+   "1005",
+   "NATURAL",
+   "NATURAL"
+  ],
+  "crop_wh": [
+   299,
+   723
+  ],
+  "sharpness": 43.5,
+  "ocr_s": 0.28
+ },
+ "f090.jpg": {
+  "n_lines": 10,
+  "box": [
+   988,
+   256,
+   1286,
+   976
+  ],
+  "level": "date",
+  "lines": [
+   "01/12/2026"
+  ],
+  "all_lines": [
+   "01/12/2026",
+   "R28",
+   "U",
+   "1307",
+   "NATURAL",
+   "BEM",
+   "RREOS",
+   "NATURAL",
+   "RA",
+   "NATURAL"
+  ],
+  "crop_wh": [
+   298,
+   720
+  ],
+  "sharpness": 39.2,
+  "ocr_s": 0.29
+ },
+ "f096.jpg": {
+  "n_lines": 8,
+  "box": [
+   993,
+   252,
+   1292,
+   978
+  ],
+  "level": "date",
+  "lines": [
+   "01/12/2026"
+  ],
+  "all_lines": [
+   "01/12/2026",
+   "R28",
+   "L30D",
+   "109C4Y)",
+   "NATURAL",
+   "KUSCOS",
+   "NATURAL",
+   "NATURAL"
+  ],
+  "crop_wh": [
+   299,
+   726
+  ],
+  "sharpness": 40.5,
+  "ocr_s": 0.29
+ },
+ "f102.jpg": {
+  "n_lines": 8,
+  "box": [
+   992,
+   251,
+   1297,
+   985
+  ],
+  "level": "date",
+  "lines": [
+   "01/12/2026"
+  ],
+  "all_lines": [
+   "01/12/2026",
+   "R28",
+   "(307",
+   "D",
+   "NATURAL",
+   "BSOX",
+   "NATURAL",
+   "NATURAL"
+  ],
+  "crop_wh": [
+   305,
+   734
+  ],
+  "sharpness": 38.4,
+  "ocr_s": 0.28
+ },
+ "f108.jpg": {
+  "n_lines": 10,
+  "box": [
+   1004,
+   215,
+   1327,
+   984
+  ],
+  "level": "date",
+  "lines": [
+   "01/12/2026"
+  ],
+  "all_lines": [
+   "01/12/2026",
+   "E",
+   "R28",
+   "17",
+   "NATURAL",
+   "NATURAL",
+   "PAROUS",
+   "NATURAL",
+   "URAL",
+   "NATURAL"
+  ],
+  "crop_wh": [
+   323,
+   769
+  ],
+  "sharpness": 37.8,
+  "ocr_s": 0.28
+ }
+}

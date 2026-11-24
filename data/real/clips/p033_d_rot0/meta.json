@@ -1,0 +1,652 @@
+{
+ "f000.jpg": {
+  "n_lines": 27,
+  "box": [
+   1040,
+   1112,
+   1151,
+   1208
+  ],
+  "level": "date",
+  "lines": [
+   "18:18 03-20"
+  ],
+  "all_lines": [
+   "MACAROW PEDE",
+   "RAYADO DIGATE",
+   "1e",
+   "12",
+   "UCLND",
+   "N2T",
+   "De",
+   "T",
+   "CLASSICA",
+   "BLSEL",
+   "CLÁSSICA",
+   "0.85c",
+   "HÉLICESE",
+   "HÉLICES",
+   "CUSK",
+   "LICESTSPIR",
+   "CLÁSSICA",
+   "HÉLICES ESPIRA",
+   "1,20c",
+   "L 03627317 2 003",
+   "18:18 03-20",
+   "0,85c",
+   "7",
+   "SSICA",
+   "SPAGHETTI",
+   "SPAGHETTI",
+   "ACI"
+  ],
+  "crop_wh": [
+   111,
+   96
+  ],
+  "sharpness": 212.5,
+  "ocr_s": 0.45
+ },
+ "f006.jpg": {
+  "n_lines": 19,
+  "box": [
+   902,
+   892,
+   1048,
+   990
+  ],
+  "level": "digits",
+  "lines": [
+   "L 03827317 2000",
+   "18:18 03-202*"
+  ],
+  "all_lines": [
+   "S",
+   "MACARRONVEXUTE",
+   "RAYADO EE",
+   "MACADOIR",
+   "RAVAM",
+   "CLASSICA",
+   "CLÁSSICA",
+   "0,85€",
+   "HÉLICESES",
+   "HÉLICES",
+   "LICESES",
+   "kg",
+   "CLÁSSICA",
+   "L 03827317 2000",
+   "18:18 03-202*",
+   "LICESESPIRA",
+   "1,20c",
+   "0,85c",
+   "SPAGHETTI"
+  ],
+  "crop_wh": [
+   146,
+   98
+  ],
+  "sharpness": 184.7,
+  "ocr_s": 0.33
+ },
+ "f012.jpg": {
+  "n_lines": 19,
+  "box": [
+   941,
+   865,
+   1065,
+   961
+  ],
+  "level": "date",
+  "lines": [
+   "18:18 03-2028"
+  ],
+  "all_lines": [
+   "MACARRON VENE",
+   "RAYADO BISATT",
+   "LACAD",
+   "101",
+   "",
+   "CLASSICA",
+   "CLÁSSICA",
+   "O8S",
+   "0.85e",
+   "HELICESESA",
+   "HÉLICES ESP",
+   "LICESESPIR",
+   "L03627317 2000",
+   "18:18 03-2028",
+   "CLASSICA",
+   "ELICES ESPIR",
+   "120c",
+   "0,85c",
+   "SPACHETTI"
+  ],
+  "crop_wh": [
+   124,
+   96
+  ],
+  "sharpness": 207.8,
+  "ocr_s": 0.33
+ },
+ "f018.jpg": {
+  "n_lines": 24,
+  "box": [
+   945,
+   877,
+   1068,
+   973
+  ],
+  "level": "date",
+  "lines": [
+   "18:18 03-2028"
+  ],
+  "all_lines": [
+   "2",
+   "MACARRON PEANE",
+   "RAY",
+   "RAYADO NIGATE",
+   "MACADIOON O",
+   "RAYADO ",
+   "MACAM",
+   "12",
+   "ACLI",
+   "CLÁSSICA",
+   "CLÁSSICA",
+   "0,85c",
+   "HELICESES",
+   "CUSK",
+   "HÉLICES",
+   "LICESESPIR",
+   "L 03627317 2000",
+   "18:18 03-2028",
+   "CLÁSSICA",
+   "",
+   "ELICES ESPIR",
+   "1,20c",
+   "0,85€",
+   "SPAGHETTI"
+  ],
+  "crop_wh": [
+   123,
+   96
+  ],
+  "sharpness": 209.6,
+  "ocr_s": 0.34
+ },
+ "f024.jpg": {
+  "n_lines": 18,
+  "box": [
+   946,
+   865,
+   1072,
+   961
+  ],
+  "level": "date",
+  "lines": [
+   "18:18 03-2028"
+  ],
+  "all_lines": [
+   "LACARRON PEIE",
+   "RAY",
+   "RAYADO EIT",
+   "1",
+   "CLÁSSICA",
+   "CLÁSSICA",
+   "0,85c",
+   "HÉLICESESI",
+   "CUSO",
+   "HÉLICES",
+   "LICESESPI",
+   "L 03627317 2 000",
+   "18:18 03-2028",
+   "CLÁSSICA",
+   "ÉLICES ESPIR",
+   "1,20c",
+   "0,85c",
+   "SPAGHETTI"
+  ],
+  "crop_wh": [
+   126,
+   96
+  ],
+  "sharpness": 209.6,
+  "ocr_s": 0.33
+ },
+ "f030.jpg": {
+  "n_lines": 23,
+  "box": [
+   961,
+   858,
+   1087,
+   954
+  ],
+  "level": "date",
+  "lines": [
+   "18:18 03-2028"
+  ],
+  "all_lines": [
+   "V",
+   "X",
+   "SACARDONPENE",
+   "RA",
+   "RAYADO RISAT",
+   "MACAMORA VE",
+   "RAYA",
+   "CUE",
+   "CLÁSSICA",
+   "CLÁSSICA",
+   "0.85c",
+   "HÉLICESES",
+   "HÉLICES",
+   "eSd",
+   "1 kg",
+   "LICESESPIR",
+   "L03627317 2000",
+   "18:18 03-2028",
+   "CLÁSSICA",
+   "ELICES ESPIR",
+   "1,20c",
+   "0,85c",
+   "SPACHETTI"
+  ],
+  "crop_wh": [
+   126,
+   96
+  ],
+  "sharpness": 208.1,
+  "ocr_s": 0.33
+ },
+ "f036.jpg": {
+  "n_lines": 24,
+  "box": [
+   972,
+   861,
+   1099,
+   957
+  ],
+  "level": "date",
+  "lines": [
+   "18:18 03-2028"
+  ],
+  "all_lines": [
+   "MACARRON",
+   "MENS",
+   "RAYADO ",
+   "WeM",
+   "DGL",
+   "LAPN",
+   "enr",
+   "",
+   "CLÁSSICA",
+   "CLÁSSICA",
+   "LAPY",
+   "0,85€",
+   "0",
+   "HÉLICESES",
+   "HÉLICES ESPIR",
+   "LICESESPIR",
+   "o",
+   "L03627317 2000",
+   "18:18 03-2028",
+   "CLÁSSICA",
+   "HÉLICES ESPIRA",
+   "1,20c",
+   "0,85c",
+   "SPAGHETTI"
+  ],
+  "crop_wh": [
+   127,
+   96
+  ],
+  "sharpness": 209.4,
+  "ocr_s": 0.34
+ },
+ "f042.jpg": {
+  "n_lines": 26,
+  "box": [
+   981,
+   874,
+   1104,
+   970
+  ],
+  "level": "date",
+  "lines": [
+   "18:18 03-2028"
+  ],
+  "all_lines": [
+   "E",
+   "NACARDONPENE",
+   "RA",
+   "VS",
+   "RAYADO RIGAT",
+   "MICAT",
+   "MX0",
+   "1",
+   "E",
+   "CLÁSSICA",
+   "CLÁSSICA",
+   "015",
+   "0.85c",
+   "HELICESES",
+   "HÉLICES",
+   "1kgt",
+   "05002",
+   "S",
+   "LICESESPIR",
+   "L03627317 2000",
+   "18:18 03-2028",
+   "CLÁSSICA",
+   "HÉLICES ESPIR",
+   "1,20c",
+   "0,85c",
+   "SPAGHETTI"
+  ],
+  "crop_wh": [
+   123,
+   96
+  ],
+  "sharpness": 210.7,
+  "ocr_s": 0.33
+ },
+ "f048.jpg": {
+  "n_lines": 22,
+  "box": [
+   982,
+   878,
+   1108,
+   974
+  ],
+  "level": "date",
+  "lines": [
+   "18:18 03-2028"
+  ],
+  "all_lines": [
+   "2",
+   "ACARRON PERE",
+   "RAY",
+   "RAYADO DGA",
+   "MLACAIBOA PEN",
+   "RAYAM ",
+   "SC",
+   "CN",
+   "CLASSICA",
+   "CLÁSSICA",
+   "0,85c",
+   "HÉLICESES",
+   "HÉLICES ESPIM",
+   "CILSo",
+   "LICESESPIR",
+   "L 03627317 2000",
+   "18:18 03-2028",
+   "CLASSICA",
+   "HÉLICES ESPIB",
+   "1,20c",
+   "0,85c",
+   "SPAGHETTI"
+  ],
+  "crop_wh": [
+   126,
+   96
+  ],
+  "sharpness": 210.6,
+  "ocr_s": 0.34
+ },
+ "f054.jpg": {
+  "n_lines": 18,
+  "box": [
+   981,
+   876,
+   1107,
+   972
+  ],
+  "level": "date",
+  "lines": [
+   "18:18 03-2028"
+  ],
+  "all_lines": [
+   "MACARDONPEXE",
+   "RAYADO DIGATE",
+   "MACLN",
+   "CLASSICA",
+   "CLÁSSICA",
+   "OEPLA",
+   "0,85c",
+   "HELICESES",
+   "HÉLICES",
+   "CSI",
+   "LICESESPIR",
+   "L03627317 2000",
+   "18:18 03-2028",
+   "CLÁSSICA",
+   "HÉLICESESPIRA",
+   "120e",
+   "0.85c",
+   "SPACHETTI"
+  ],
+  "crop_wh": [
+   126,
+   96
+  ],
+  "sharpness": 212.5,
+  "ocr_s": 0.32
+ },
+ "f060.jpg": {
+  "n_lines": 18,
+  "box": [
+   978,
+   872,
+   1101,
+   968
+  ],
+  "level": "date",
+  "lines": [
+   "18:18 03-2028"
+  ],
+  "all_lines": [
+   "RAYADO VIGATE",
+   "MAPN",
+   "10",
+   "CLASSIA",
+   "CLÁSSICA",
+   "0.85€",
+   "HÉLICESES",
+   "HÉLICES ESPIR",
+   "CLSIL",
+   "kg",
+   "LICESESPIR",
+   "L03627317 2000",
+   "18:18 03-2028",
+   "CLASSICA",
+   "HÉLICES ESPIR",
+   "1,20cl",
+   "0,85c",
+   "SPAGHETTI"
+  ],
+  "crop_wh": [
+   123,
+   96
+  ],
+  "sharpness": 213.1,
+  "ocr_s": 0.33
+ },
+ "f066.jpg": {
+  "n_lines": 25,
+  "box": [
+   973,
+   870,
+   1099,
+   966
+  ],
+  "level": "date",
+  "lines": [
+   "18:18 03-2028"
+  ],
+  "all_lines": [
+   "MACARRON PENE",
+   "RAY",
+   "RAYADO MICATE",
+   "3",
+   "MACADRON E",
+   "RAYADO",
+   "MACAD",
+   "NIELO",
+   "CIT",
+   "CLASSICA",
+   "CLÁSSICA",
+   "OSn",
+   "0.85€",
+   "HÉLICESES",
+   "CLSA",
+   "002",
+   "HÉLICES ESPIR",
+   "LICESESPIR",
+   "L 03627317 2000",
+   "18:18 03-2028",
+   "CLASSICA",
+   "HÉLICESESPIR",
+   "1,20c",
+   "0,85c",
+   "SPAGHETTI"
+  ],
+  "crop_wh": [
+   126,
+   96
+  ],
+  "sharpness": 211.8,
+  "ocr_s": 0.34
+ },
+ "f072.jpg": {
+  "n_lines": 25,
+  "box": [
+   980,
+   873,
+   1104,
+   969
+  ],
+  "level": "date",
+  "lines": [
+   "18:18 03-2028"
+  ],
+  "all_lines": [
+   "JACA",
+   "MACARRON PONE",
+   "RAY",
+   "RAYADO RIGATE",
+   "MACADROR ME",
+   "RAYAM ",
+   "MACAI",
+   "12I",
+   "1CAM",
+   "TEL",
+   "CLÁSSICA",
+   "CLÁSSICA",
+   "0.85c",
+   "HÉLICESES",
+   "HÉLICESE",
+   "CLASOC",
+   "1kgT",
+   "LICESESPIR",
+   "L03627317 2000",
+   "18:18 03-2028",
+   "CLÁSSICA",
+   "HÉLICESESPIRA",
+   "1,20c",
+   "0,85c",
+   "SPAGHETTI"
+  ],
+  "crop_wh": [
+   124,
+   96
+  ],
+  "sharpness": 210.9,
+  "ocr_s": 0.34
+ },
+ "f078.jpg": {
+  "n_lines": 25,
+  "box": [
+   980,
+   874,
+   1105,
+   970
+  ],
+  "level": "date",
+  "lines": [
+   "18:18 03-2028"
+  ],
+  "all_lines": [
+   "MACARRON PENE",
+   "RAY",
+   "RAYADO MGATE",
+   "MACAIM",
+   "MIRO",
+   "LCAME",
+   "IRT",
+   "AS",
+   "PTT",
+   "CLÁSSICA",
+   "CLÁSSICA",
+   "0,85e",
+   "HÉLICES",
+   "CLSOC",
+   "HÉLICES ESP",
+   "1kg",
+   "00S",
+   "LICESESPIR",
+   "L03627317 2000",
+   "18:18 03-2028",
+   "CLÁSSICA",
+   "HÉLICES ESPIR",
+   "1,20c",
+   "0,85c",
+   "SPAGHETTI"
+  ],
+  "crop_wh": [
+   125,
+   96
+  ],
+  "sharpness": 212.0,
+  "ocr_s": 0.35
+ },
+ "f084.jpg": {
+  "n_lines": 21,
+  "box": [
+   985,
+   873,
+   1108,
+   969
+  ],
+  "level": "date",
+  "lines": [
+   "18:18 03-2028"
+  ],
+  "all_lines": [
+   "NACARRON VEUE",
+   "RAYAMO T",
+   "WACLON",
+   "1",
+   "th",
+   "CLASSICA",
+   "CLÁSSICA",
+   "ONUTA",
+   "0,85c",
+   "HÉLICESES",
+   "HÉLICES ESP",
+   "CLASORA",
+   "1kgt",
+   "LICESESPIR",
+   "L 03627317 2 000",
+   "18:18 03-2028",
+   "CLÁSSICA",
+   "HÉLICES ESPIRA",
+   "1,20c",
+   "0,85c",
+   "SPAGHETTI"
+  ],
+  "crop_wh": [
+   123,
+   96
+  ],
+  "sharpness": 209.8,
+  "ocr_s": 0.34
+ }
+}

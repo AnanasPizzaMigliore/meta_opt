@@ -1,0 +1,514 @@
+{
+ "f000.jpg": {
+  "n_lines": 13,
+  "box": [
+   949,
+   626,
+   1635,
+   1048
+  ],
+  "level": "date",
+  "lines": [
+   "22102:83 92/60/02"
+  ],
+  "all_lines": [
+   "1",
+   "DALCK",
+   "QUESO",
+   "Y",
+   "N",
+   "HACENDADO",
+   "HACENDADO",
+   "MALSACE QUE",
+   "1,65",
+   "22102:83 92/60/02",
+   "TUTRO 5.8",
+   "622 122 022229",
+   "WENAX"
+  ],
+  "crop_wh": [
+   686,
+   422
+  ],
+  "sharpness": 127.7,
+  "ocr_s": 0.37
+ },
+ "f006.jpg": {
+  "n_lines": 12,
+  "box": [
+   942,
+   624,
+   1617,
+   1044
+  ],
+  "level": "date",
+  "lines": [
+   "2/2102:883 92/60/02"
+  ],
+  "all_lines": [
+   "1,75e",
+   "11",
+   "SALSA",
+   "QUESO",
+   "HACENDADO",
+   "MO",
+   "HACENDADO",
+   "1,65",
+   "2/2102:883 92/60/02",
+   "Samo 5.8",
+   "1622 1222 022229",
+   "VENAY"
+  ],
+  "crop_wh": [
+   675,
+   420
+  ],
+  "sharpness": 127.2,
+  "ocr_s": 0.28
+ },
+ "f012.jpg": {
+  "n_lines": 16,
+  "box": [
+   939,
+   610,
+   1656,
+   1042
+  ],
+  "level": "date",
+  "lines": [
+   "22102:83 92/60/021"
+  ],
+  "all_lines": [
+   "1,75e",
+   "te",
+   "BiLek",
+   "QUESO",
+   "eto",
+   "HACENDADO",
+   "1IO",
+   "3",
+   "E30",
+   "HACENDADO",
+   "QUESO",
+   "1,65",
+   "22102:83 92/60/021",
+   "2622 122 022223",
+   "VENAY",
+   ""
+  ],
+  "crop_wh": [
+   717,
+   432
+  ],
+  "sharpness": 127.9,
+  "ocr_s": 0.3
+ },
+ "f018.jpg": {
+  "n_lines": 11,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "175e",
+   "in",
+   "QUESO",
+   "CPK",
+   "HACENDADO",
+   "Pon",
+   "BL",
+   "ReO",
+   "HACENDADO",
+   "MO",
+   "VENA"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 122.9,
+  "ocr_s": 0.28
+ },
+ "f024.jpg": {
+  "n_lines": 13,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "175c",
+   "110",
+   "GUESO",
+   "OE",
+   "HACENDADO",
+   "OR",
+   "1GO",
+   "Wang",
+   "Q",
+   "HACENDADO",
+   "SADE QUESO",
+   "VENA",
+   ""
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 122.3,
+  "ocr_s": 0.29
+ },
+ "f030.jpg": {
+  "n_lines": 14,
+  "box": [
+   453,
+   504,
+   694,
+   602
+  ],
+  "level": "digits",
+  "lines": [
+   "2809B"
+  ],
+  "all_lines": [
+   "175",
+   "Lin",
+   "BALON",
+   "QUESO",
+   "2809B",
+   "HACENDADO",
+   "atn",
+   "SO",
+   "HACENDADO",
+   "10",
+   "22/2102:83 92/600Ed",
+   "2622 12 02297",
+   "VENA",
+   "N"
+  ],
+  "crop_wh": [
+   241,
+   98
+  ],
+  "sharpness": 121.0,
+  "ocr_s": 0.31
+ },
+ "f036.jpg": {
+  "n_lines": 14,
+  "box": [
+   900,
+   536,
+   1673,
+   1009
+  ],
+  "level": "date",
+  "lines": [
+   "22102:88 92/60/02d"
+  ],
+  "all_lines": [
+   "175c",
+   "10",
+   "BILSA",
+   "GUECO",
+   "YNE3",
+   "S",
+   "HACENDADO",
+   "GUES",
+   "HACENDADO",
+   "22102:88 92/60/02d",
+   "",
+   "2622 1222 0",
+   "VENA",
+   ""
+  ],
+  "crop_wh": [
+   773,
+   473
+  ],
+  "sharpness": 118.2,
+  "ocr_s": 0.3
+ },
+ "f042.jpg": {
+  "n_lines": 13,
+  "box": [
+   911,
+   541,
+   1687,
+   1001
+  ],
+  "level": "date",
+  "lines": [
+   "22/2102:88 92/60/02d"
+  ],
+  "all_lines": [
+   "175c",
+   "10",
+   "GIESO",
+   "20",
+   "HACENDADO",
+   "W1O",
+   "CUES",
+   "QF",
+   "tA",
+   "HACENDADO",
+   "22/2102:88 92/60/02d",
+   "2622 1E22 00223",
+   "VENA"
+  ],
+  "crop_wh": [
+   776,
+   460
+  ],
+  "sharpness": 118.0,
+  "ocr_s": 0.29
+ },
+ "f048.jpg": {
+  "n_lines": 16,
+  "box": [
+   932,
+   609,
+   1724,
+   1059
+  ],
+  "level": "digits",
+  "lines": [
+   "6221222 022297"
+  ],
+  "all_lines": [
+   ".75€",
+   "1",
+   "SALSK",
+   "QUESO",
+   "O",
+   "Yn",
+   "LO",
+   "HACENDADO",
+   "S",
+   "146",
+   "E8O",
+   "HACENDADO",
+   "n",
+   "CQUESO",
+   "6221222 022297",
+   "VENA"
+  ],
+  "crop_wh": [
+   792,
+   450
+  ],
+  "sharpness": 118.7,
+  "ocr_s": 0.29
+ },
+ "f054.jpg": {
+  "n_lines": 12,
+  "box": [
+   918,
+   542,
+   1709,
+   1016
+  ],
+  "level": "date",
+  "lines": [
+   "2/3102:83 92/60/02d"
+  ],
+  "all_lines": [
+   "1,75e",
+   "1",
+   "SALOA",
+   "QUESO",
+   "C",
+   "HACENDADO",
+   "OUES",
+   "230",
+   "HACENDADO",
+   "2/3102:83 92/60/02d",
+   "622 22 2227",
+   "VENA"
+  ],
+  "crop_wh": [
+   791,
+   474
+  ],
+  "sharpness": 118.0,
+  "ocr_s": 0.29
+ },
+ "f060.jpg": {
+  "n_lines": 12,
+  "box": [
+   917,
+   553,
+   1685,
+   1008
+  ],
+  "level": "date",
+  "lines": [
+   "22102:88 92/60/0E"
+  ],
+  "all_lines": [
+   "175c",
+   "18",
+   "BALSX",
+   "GUEBO",
+   "LKE",
+   "HACENDADO",
+   "HACENDADO",
+   "22102:88 92/60/0E",
+   "T",
+   "2622 1222 0202297",
+   "VENA",
+   "N"
+  ],
+  "crop_wh": [
+   768,
+   455
+  ],
+  "sharpness": 118.0,
+  "ocr_s": 0.27
+ },
+ "f066.jpg": {
+  "n_lines": 10,
+  "box": [
+   912,
+   546,
+   1693,
+   1019
+  ],
+  "level": "date",
+  "lines": [
+   "2/2102:883 92/60/02:d"
+  ],
+  "all_lines": [
+   "75c",
+   "1",
+   "SALCK",
+   "QUESO",
+   "CEL",
+   "HACENDADO",
+   "HACENDADO",
+   "2/2102:883 92/60/02:d",
+   "622 122 0222297",
+   "VENAY"
+  ],
+  "crop_wh": [
+   781,
+   473
+  ],
+  "sharpness": 119.5,
+  "ocr_s": 0.27
+ },
+ "f072.jpg": {
+  "n_lines": 14,
+  "box": [
+   911,
+   563,
+   1681,
+   1023
+  ],
+  "level": "date",
+  "lines": [
+   "22102:88 92/60/0E"
+  ],
+  "all_lines": [
+   "75e",
+   "m",
+   "UESO",
+   "2U",
+   "HACENDADO",
+   "220",
+   "HACENDADO",
+   "O",
+   "22102:88 92/60/0E",
+   "622 1E22 0E229",
+   "6",
+   "S",
+   "JEA",
+   "VENA"
+  ],
+  "crop_wh": [
+   770,
+   460
+  ],
+  "sharpness": 119.8,
+  "ocr_s": 0.28
+ },
+ "f078.jpg": {
+  "n_lines": 19,
+  "box": [
+   887,
+   558,
+   1708,
+   1104
+  ],
+  "level": "digits",
+  "lines": [
+   "2/2102:83 92/6008",
+   "622 1E22 02502297"
+  ],
+  "all_lines": [
+   "1,75c",
+   "10",
+   "SILSA",
+   "QUESO",
+   "20",
+   "HACENDADO",
+   "VE",
+   "VPI",
+   "YQUES",
+   "C20",
+   "nUS",
+   "HACENDADO",
+   "2/2102:83 92/6008",
+   "1,6",
+   ".S",
+   "622 1E22 02502297",
+   "LMRS",
+   "C",
+   "VENAX"
+  ],
+  "crop_wh": [
+   821,
+   546
+  ],
+  "sharpness": 121.5,
+  "ocr_s": 0.3
+ },
+ "f084.jpg": {
+  "n_lines": 11,
+  "box": [
+   903,
+   587,
+   1613,
+   1018
+  ],
+  "level": "date",
+  "lines": [
+   "22/E102:88 92/60/0E"
+  ],
+  "all_lines": [
+   "175c",
+   "10",
+   "ORLS",
+   "QUESO",
+   "HACENDADO",
+   "n",
+   "HACENDADO",
+   "22/E102:88 92/60/0E",
+   "2622 1E22 0250229",
+   "UTR",
+   "VENAW"
+  ],
+  "crop_wh": [
+   710,
+   431
+  ],
+  "sharpness": 120.5,
+  "ocr_s": 0.27
+ }
+}

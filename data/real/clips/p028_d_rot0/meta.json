@@ -1,0 +1,558 @@
+{
+ "f000.jpg": {
+  "n_lines": 19,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "360:",
+   "TAO",
+   "NACENDADO",
+   "GRANA",
+   "PADANO",
+   "RDR",
+   "RACENDADO",
+   "1.90e",
+   "GRANA",
+   "PADANO",
+   "8",
+   "",
+   "t",
+   "u0ge",
+   "IR",
+   "I",
+   "L",
+   "MLEOU",
+   "3"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 370.6,
+  "ocr_s": 0.44
+ },
+ "f006.jpg": {
+  "n_lines": 18,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "C7GL",
+   "MACENDADO",
+   "RAL",
+   "GRANA",
+   "PADANO",
+   "HACENDADO",
+   "GRANA",
+   "PADANO",
+   "1.90e",
+   "I",
+   "PT",
+   "QUESOS",
+   "QUEIJOS",
+   "2",
+   "Lod",
+   "9",
+   "E",
+   "HIE"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 335.0,
+  "ocr_s": 0.35
+ },
+ "f012.jpg": {
+  "n_lines": 16,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "NACENDADQ",
+   "TALL",
+   "GRANA",
+   "PADANO",
+   "HACENDADO",
+   "GRANA",
+   "PADANO",
+   "190e",
+   "4 au",
+   "ULLUH",
+   "HELN",
+   "QUESOS",
+   "QUEIJOS",
+   "7",
+   "0",
+   "ILE"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 349.8,
+  "ocr_s": 0.35
+ },
+ "f018.jpg": {
+  "n_lines": 20,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "HACENDADO",
+   "AL",
+   "GRANA",
+   "PADANO",
+   "HACENDADO",
+   "GRANA",
+   "PADANO",
+   "1.90c",
+   "QUES",
+   "POUE",
+   "P",
+   "",
+   "ULT",
+   "/",
+   "10A",
+   "EO",
+   "QUESOS",
+   "",
+   "QUEIJOS",
+   "YLD"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 351.4,
+  "ocr_s": 0.38
+ },
+ "f024.jpg": {
+  "n_lines": 16,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "INCLNDADO",
+   "TOEEN",
+   "GRANA",
+   "PADANO",
+   "FLACENDADO",
+   "GRANA",
+   "PADANO",
+   "1.90",
+   "",
+   "UUE",
+   "ETID",
+   "QUESOS",
+   "QUEIJOS",
+   "E",
+   "SD N ",
+   "LLD"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 352.6,
+  "ocr_s": 0.35
+ },
+ "f030.jpg": {
+  "n_lines": 19,
+  "box": [
+   1092,
+   163,
+   1205,
+   263
+  ],
+  "level": "digits",
+  "lines": [
+   "1700"
+  ],
+  "all_lines": [
+   "1700",
+   "ACETADO",
+   "AL",
+   "GRANA",
+   "PADANO",
+   "HACENDADO",
+   "GRANA",
+   "PADANO",
+   "190",
+   "RU",
+   "7",
+   ".",
+   "FY",
+   "QUESOS",
+   "QUEIJOS",
+   "k",
+   "9",
+   "E",
+   "1LE"
+  ],
+  "crop_wh": [
+   113,
+   100
+  ],
+  "sharpness": 354.4,
+  "ocr_s": 0.36
+ },
+ "f036.jpg": {
+  "n_lines": 17,
+  "box": [
+   588,
+   783,
+   767,
+   919
+  ],
+  "level": "digits",
+  "lines": [
+   "65052-314 23:077B"
+  ],
+  "all_lines": [
+   "MACENDADQ",
+   "AIR",
+   "GRANA",
+   "PADANO",
+   "RACENDADO",
+   "GRANA",
+   "PADANO",
+   "1.90",
+   "POLE",
+   "M",
+   "",
+   "65052-314 23:077B",
+   "UAME",
+   "QUESOS",
+   "QUEIJOS",
+   "A",
+   "ILHEY"
+  ],
+  "crop_wh": [
+   179,
+   136
+  ],
+  "sharpness": 350.2,
+  "ocr_s": 0.36
+ },
+ "f042.jpg": {
+  "n_lines": 17,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "NACENDADO",
+   "SIR",
+   "GRANA",
+   "r",
+   "PADANO",
+   "MACENDADO",
+   "GRANA",
+   "PADANO",
+   "1.90c",
+   "NSNEN",
+   "4",
+   "U",
+   "QUESOS",
+   "gE",
+   "0",
+   "QUEIJOS",
+   "LIY"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 356.2,
+  "ocr_s": 0.36
+ },
+ "f048.jpg": {
+  "n_lines": 13,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "HACENDADO",
+   "KIR",
+   "GRANA",
+   "PADANO",
+   "NACENDADO",
+   "GRANA",
+   "PADANO",
+   "190c",
+   "2",
+   "",
+   "QUESOS",
+   "QUEIJOS",
+   "ILEY"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 356.4,
+  "ocr_s": 0.35
+ },
+ "f054.jpg": {
+  "n_lines": 17,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "AL",
+   "NACENDADO",
+   "GRANA",
+   "PDANO",
+   "HACENDADO",
+   "GRANA",
+   "PADANO",
+   "190",
+   "pred",
+   "-",
+   "/",
+   "AL",
+   "C",
+   "",
+   "QUESOS",
+   "QUEIJOS",
+   "VLIVY"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 355.9,
+  "ocr_s": 0.36
+ },
+ "f060.jpg": {
+  "n_lines": 18,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "MAL",
+   "NICENDADO",
+   "GRANA",
+   "PADANO",
+   "HACENDADO",
+   "GRANA",
+   "PADANO",
+   "1.90.",
+   "-",
+   "C",
+   "7",
+   "U",
+   "",
+   "2)g",
+   "QUESOS",
+   "QUEIJOS",
+   "W",
+   "LHEY"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 356.9,
+  "ocr_s": 0.36
+ },
+ "f066.jpg": {
+  "n_lines": 18,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "2AL",
+   "JACENADO",
+   "",
+   "GRANA",
+   "PADANO",
+   "NACENDADO",
+   "GRANA",
+   "PADANO",
+   "1.90:",
+   "QUES",
+   "aU",
+   "",
+   "/",
+   "ULUY",
+   "OgC",
+   "QUESOS",
+   "QUEIJOS",
+   "HLEY"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 356.3,
+  "ocr_s": 0.35
+ },
+ "f072.jpg": {
+  "n_lines": 19,
+  "box": [
+   571,
+   805,
+   745,
+   939
+  ],
+  "level": "digits",
+  "lines": [
+   "65052-314 23:07 78"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "TIR",
+   "GRANA",
+   "PADANO",
+   "RACENDADO",
+   "GRANA",
+   "1.90s",
+   "PADANO",
+   "65052-314 23:07 78",
+   "/",
+   "",
+   "UAUVH",
+   "C",
+   "QUESOS",
+   "E",
+   "g",
+   "FACE",
+   "QUEIJOS",
+   "HLEY"
+  ],
+  "crop_wh": [
+   174,
+   134
+  ],
+  "sharpness": 357.1,
+  "ocr_s": 0.36
+ },
+ "f078.jpg": {
+  "n_lines": 21,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "2",
+   "NACZNDADO",
+   "R",
+   "GRANA",
+   "PADANO",
+   "HACENDADO",
+   "GRANA",
+   "PADANO",
+   "190c",
+   "NEI",
+   "QUES",
+   "Pae",
+   "7",
+   "O",
+   "d",
+   "un",
+   "A",
+   "S",
+   "QUESOS",
+   "QUEIJOS",
+   "LLEY"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 355.9,
+  "ocr_s": 0.37
+ },
+ "f084.jpg": {
+  "n_lines": 17,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "RLAN",
+   "ML",
+   "HACENDADO",
+   "GRANA",
+   "PADANO",
+   "HACENDADO",
+   "GRANA",
+   "PADANO",
+   "1.90c",
+   "A",
+   "QUES",
+   "",
+   "QUESOS",
+   "7",
+   "QUEIJOS",
+   "P",
+   "LTY"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 355.8,
+  "ocr_s": 0.35
+ }
+}

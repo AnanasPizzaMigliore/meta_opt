@@ -1,0 +1,710 @@
+{
+ "f000.jpg": {
+  "n_lines": 25,
+  "box": [
+   959,
+   600,
+   1728,
+   1421
+  ],
+  "level": "date",
+  "lines": [
+   "02/05/27",
+   "46469 Benipanrel (Valencia). España/E",
+   "Fabricado en/Produzido em ROSEAA 20",
+   "FECHA DE ENVASADO"
+  ],
+  "all_lines": [
+   "Carbono",
+   "de los cuales/dos qua",
+   "Azúcares/",
+   "Açúcares",
+   "Fibra alimentaria/",
+   "Fibra",
+   "Proteinas",
+   "Sal",
+   "1,9",
+   "Contiene 3 unidades de 90 g/",
+   "Contem 3 unidades de 90 g.",
+   "BPORTACO CASA PONS S.A.U.",
+   "Poligono Norte, C/ Barranco, 20",
+   "46469 Benipanrel (Valencia). España/E",
+   "Fabricado en/Produzido em ROSEAA 20",
+   "temente antes det /Lcte (Dia",
+   "prelertecie sntes de /oe (DiM",
+   "02/05/27",
+   "L000197 9056C0",
+   "FECHA DE ENVASADO",
+   "DATA DE EMBALAGEM:",
+   "03/1126",
+   "ORIGEN:/ORIGEM.",
+   "08.58",
+   "ESPANAESPANHA"
+  ],
+  "crop_wh": [
+   769,
+   821
+  ],
+  "sharpness": 40.3,
+  "ocr_s": 0.52
+ },
+ "f006.jpg": {
+  "n_lines": 25,
+  "box": [
+   596,
+   256,
+   1721,
+   1234
+  ],
+  "level": "date",
+  "lines": [
+   "02/05/27",
+   "03/11/26",
+   "46469 Benipamel (Valencia)",
+   "Fabricado eN/Produzido em: RCSEAA 20.42552/V",
+   "FECHA DE"
+  ],
+  "all_lines": [
+   "Proteinas",
+   "9,8",
+   "Sal",
+   "Contiene 3 unidades de 90 g/",
+   "1.79",
+   "Contem 3 unidades de 90 g.",
+   "IMPORTACO CASA PONS, S.A.U.",
+   "Poligono Norte, C/ Baranco, 20",
+   "46469 Benipamel (Valencia)",
+   "Fabricado eN/Produzido em: RCSEAA 20.42552/V",
+   "Espala/Espanha",
+   "pretn",
+   "emente anters detAote (DlA MESAMc)",
+   "de prfenéros antes de Ae (DAvESA )",
+   "02/05/27",
+   "L000197 9058C0",
+   "FECHA DE",
+   "ENVASADO",
+   "DATA DE",
+   "EMBALAGEM",
+   "03/11/26",
+   "08:58",
+   "ORIGENJORIGEM:",
+   "C",
+   "ESPAÑAVESPANHA"
+  ],
+  "crop_wh": [
+   1125,
+   978
+  ],
+  "sharpness": 21.1,
+  "ocr_s": 0.42
+ },
+ "f012.jpg": {
+  "n_lines": 27,
+  "box": [
+   627,
+   263,
+   1728,
+   1265
+  ],
+  "level": "date",
+  "lines": [
+   "02/05/27",
+   "03/11/26",
+   "45469 Benipanell (Valencia)",
+   "Fabricado en/Produzido em:",
+   "Comsume preferentenente antes det Aote (bluMEsAÑo)",
+   "FECHA"
+  ],
+  "all_lines": [
+   "Proteínas",
+   "9,8g",
+   "Sal",
+   "1,9 g",
+   "Contiene 3 unidades de 90 g!",
+   "1.70",
+   "Contem 3 unidades de 90 g.",
+   "IMPORTACO CASA PONS, S.A.U.",
+   "Poligono Norte, C/ Barranco,",
+   "45469 Benipanell (Valencia)",
+   "20",
+   "Fabricado en/Produzido em:",
+   "Espala/Espanha",
+   "RGSEAA 20.42552/V",
+   "Comsume preferentenente antes det Aote (bluMEsAÑo)",
+   "Comsamu de goelerénca antes de Aone (Dut S/A )",
+   "02/05/27",
+   "L000197 9056C0",
+   "FECHA",
+   "DE ENVASADO",
+   "DATA DE",
+   "EMBALAGEM",
+   "03/11/26",
+   "08:58",
+   "ORIGEN:ORIGEM:",
+   "c",
+   "ESPANA/ESPANHA"
+  ],
+  "crop_wh": [
+   1101,
+   1002
+  ],
+  "sharpness": 25.4,
+  "ocr_s": 0.41
+ },
+ "f018.jpg": {
+  "n_lines": 24,
+  "box": [
+   628,
+   249,
+   1728,
+   1256
+  ],
+  "level": "date",
+  "lines": [
+   "02/05/27",
+   "03/11/26",
+   "46469 Benipanell (Valencia).",
+   "Fabricado en/Pioduzido em: ROSEAA 20.4255 2/V",
+   "Consume preferentemente aentes del./cte (blA/MEsAÑO)",
+   "Consume de prferbrcia antes de Lete (tuufsa y)",
+   "FECHA DE ENVASADO"
+  ],
+  "all_lines": [
+   "Proteinas",
+   "Sal",
+   "1,9",
+   "Contiene 3 unidades de 90 g/",
+   "6",
+   "Contem 3 unidades de 90 g",
+   "IMPORTACO CASA PONS, S.A.U.",
+   "Poligono Norte, C/ Bartanco, 20",
+   "46469 Benipanell (Valencia).",
+   "Fabricado en/Pioduzido em: ROSEAA 20.4255 2/V",
+   "Espala/Espanha",
+   "Consume preferentemente aentes del./cte (blA/MEsAÑO)",
+   "Consume de prferbrcia antes de Lete (tuufsa y)",
+   "02/05/27",
+   "L000197 9056C0",
+   "FECHA DE ENVASADO",
+   "DATA DE",
+   "EMBALAGEM:",
+   "03/11/26",
+   "08:58",
+   "ORIGEN JORIGEM:",
+   "C",
+   "ESPANAESPANHA",
+   "3x"
+  ],
+  "crop_wh": [
+   1100,
+   1007
+  ],
+  "sharpness": 25.5,
+  "ocr_s": 0.39
+ },
+ "f024.jpg": {
+  "n_lines": 23,
+  "box": [
+   650,
+   295,
+   1728,
+   1272
+  ],
+  "level": "date",
+  "lines": [
+   "02/05/27",
+   "03/11/26",
+   "46469 Benipanel (Valencia)",
+   "Fabricado en/Produzido em:",
+   "umie preferentemente antes det/Lete (olAuesAÑo)",
+   "FECHA DE ENVASADO"
+  ],
+  "all_lines": [
+   "Proteinas",
+   "9.8g",
+   "1.9 g",
+   "Contiene 3 unidades de 90 g/",
+   "Contem 3 unidades de 90 g.",
+   "IUPORTACO CASA PONS, S.A.U.",
+   "Poligono Norte, C/ Baranco, 20",
+   "46469 Benipanel (Valencia)",
+   "Fabricado en/Produzido em:",
+   "Espala/Espanha",
+   "RGSEAA 20.42552/V",
+   "umie preferentemente antes det/Lete (olAuesAÑo)",
+   "Eonaume de prferiecia anes de ete (DA/MES/AN)",
+   "02/05/27",
+   "L000197 9056C0",
+   "FECHA DE ENVASADO",
+   "DATA DE",
+   "EMBALAGEM",
+   "03/11/26",
+   "08:58",
+   "ORIGEN:ORIGEM:",
+   "c",
+   "ESPAÑA/ESPANHA"
+  ],
+  "crop_wh": [
+   1078,
+   977
+  ],
+  "sharpness": 28.4,
+  "ocr_s": 0.4
+ },
+ "f030.jpg": {
+  "n_lines": 22,
+  "box": [
+   621,
+   214,
+   1728,
+   1230
+  ],
+  "level": "date",
+  "lines": [
+   "02/05/27",
+   "03/11/26",
+   "46469 Benipanell (Valencia).",
+   "Fabricado en/Produzido em, RGSEAA 20.4255 2/Y",
+   "Consumie preferentemene antes det Aete (DlAMESIAÑO)",
+   "Consume de preferincia antes de Aate (C vtSA Vo)",
+   "FECHA DE ENVASADO"
+  ],
+  "all_lines": [
+   "9,8",
+   "Sal",
+   "1,9 g",
+   "Contiene 3 unidades de 90 g/",
+   "Contem 3 unidades de 90 g.",
+   "IMPORTACO CASA PONS S.A.U.",
+   "Poligono Norte, C/ Bartanco, 20",
+   "46469 Benipanell (Valencia).",
+   "Fabricado en/Produzido em, RGSEAA 20.4255 2/Y",
+   "Espala/Espanha",
+   "Consumie preferentemene antes det Aete (DlAMESIAÑO)",
+   "Consume de preferincia antes de Aate (C vtSA Vo)",
+   "02/05/27",
+   "L000197 9066C0",
+   "FECHA DE ENVASADO",
+   "DATA DE",
+   "EMBALAGEM:",
+   "03/11/26",
+   "08:58",
+   "ORIGEN JORIGEM:",
+   "c",
+   "ESPANAESPANHA"
+  ],
+  "crop_wh": [
+   1107,
+   1016
+  ],
+  "sharpness": 24.0,
+  "ocr_s": 0.4
+ },
+ "f036.jpg": {
+  "n_lines": 19,
+  "box": [
+   611,
+   34,
+   1728,
+   1078
+  ],
+  "level": "date",
+  "lines": [
+   "02/05/27",
+   "03/11/26",
+   "46469 Benipanell (Valencia)",
+   "Fabricado en/Produzido em: RGSEAA 20.4255 trv",
+   "Espala/Expanha",
+   "Consume preferentemente antes det/Ate (biA/MEsAÑo)",
+   "Consuna de prefericia antes de Aete (DAMEsiAN)",
+   "FECHA DE ENVASADO"
+  ],
+  "all_lines": [
+   "Contem 3 unidades de 90 g.",
+   "IMPORTACO CASA PONS, S.A.U.",
+   "Poligono Norte, C/ Barranco, 20",
+   "46469 Benipanell (Valencia)",
+   "Fabricado en/Produzido em: RGSEAA 20.4255 trv",
+   "Espala/Expanha",
+   "Consume preferentemente antes det/Ate (biA/MEsAÑo)",
+   "Consuna de prefericia antes de Aete (DAMEsiAN)",
+   "02/05/27",
+   "L000197",
+   "9066C0",
+   "FECHA DE ENVASADO",
+   "DATA DE",
+   "EMBALAGEM:",
+   "03/11/26",
+   "08.58",
+   "ORIOEN:ORIGEM:",
+   "c",
+   "ESPANA/ESPANHA"
+  ],
+  "crop_wh": [
+   1117,
+   1044
+  ],
+  "sharpness": 26.9,
+  "ocr_s": 0.41
+ },
+ "f042.jpg": {
+  "n_lines": 20,
+  "box": [
+   561,
+   0,
+   1728,
+   1007
+  ],
+  "level": "date",
+  "lines": [
+   "02/05/27",
+   "03/11/26",
+   "Fabricado ev/Produzido ent",
+   "Consume de preferincia antes de Atate (DA/MEs/A)",
+   "FECHA DE"
+  ],
+  "all_lines": [
+   "Poligono Norte, C/ Barranco, 20",
+   "SAU",
+   "46459 Benipanrell (Valencia)",
+   "Fabricado ev/Produzido ent",
+   "España/Espanha",
+   "RGSEAA 20.42552/V",
+   "Comsume prefesentemente antes detote (AMes AÑo)",
+   "",
+   "Consume de preferincia antes de Atate (DA/MEs/A)",
+   "02/05/27",
+   "L000197 9056C0",
+   "FECHA DE",
+   "ENVASADO",
+   "DATA DE",
+   "EMBALAGEM:",
+   "03/11/26",
+   "08:58",
+   "ORIGEN /ORIGEM:",
+   "c",
+   "ESPAÑAESPANHA"
+  ],
+  "crop_wh": [
+   1167,
+   1007
+  ],
+  "sharpness": 25.7,
+  "ocr_s": 0.38
+ },
+ "f048.jpg": {
+  "n_lines": 19,
+  "box": [
+   524,
+   0,
+   1728,
+   989
+  ],
+  "level": "date",
+  "lines": [
+   "02/05/27",
+   "03/11/26",
+   "Fabricado en/Produzido ea",
+   "mpreferentemente anes dette (DAMESAÑ)",
+   "FECHA DE ENVASADO:"
+  ],
+  "all_lines": [
+   "ono Norte, C/ Barranco, 20",
+   "46469 Benipanell (Valencia).",
+   "Fabricado en/Produzido ea",
+   "España/Espanha",
+   "RGSEAA 20.4255DV",
+   "LoMO",
+   "mpreferentemente anes dette (DAMESAÑ)",
+   "Conm de pra aes de Ae ()",
+   "",
+   "02/05/27",
+   "L000197 9056C0",
+   "FECHA DE ENVASADO:",
+   "DATA DE",
+   "EMBALAGEM",
+   "03/11/26",
+   "08:58",
+   "ORIGENJORIGEM:",
+   "c",
+   "ESPANAESPANHA"
+  ],
+  "crop_wh": [
+   1204,
+   989
+  ],
+  "sharpness": 26.9,
+  "ocr_s": 0.4
+ },
+ "f054.jpg": {
+  "n_lines": 23,
+  "box": [
+   529,
+   0,
+   1728,
+   983
+  ],
+  "level": "date",
+  "lines": [
+   "02/05/27",
+   "03/11/26",
+   "Fabricado en/Preduzido em: RGSEAA 20.42553/v",
+   "ume preferentemente antes det Acte (biAugs (AÑO)",
+   "Consume de prelebrca antes de Aete (DAES/A)",
+   "FECHA DE"
+  ],
+  "all_lines": [
+   "gaod Norte,",
+   "C/ Barranco, 20",
+   "ASAU",
+   "45459 Beniparel (Valencia)",
+   "Fabricado en/Preduzido em: RGSEAA 20.42553/v",
+   "España/Espanhe",
+   "ume preferentemente antes det Acte (biAugs (AÑO)",
+   "Consume de prelebrca antes de Aete (DAES/A)",
+   "02/05/27",
+   "L000197",
+   "9056C0",
+   "FECHA DE",
+   "ENVASADO",
+   "DATADE",
+   "EMBALAGEM",
+   "O",
+   "03/11/26",
+   "O",
+   "08:58",
+   "ORIGENJORIGEM:",
+   "c",
+   "ESPANAESPANHA",
+   "0O"
+  ],
+  "crop_wh": [
+   1199,
+   983
+  ],
+  "sharpness": 27.7,
+  "ocr_s": 0.4
+ },
+ "f060.jpg": {
+  "n_lines": 23,
+  "box": [
+   535,
+   0,
+   1728,
+   984
+  ],
+  "level": "date",
+  "lines": [
+   "02/05/27",
+   "03/11/26",
+   "Fabricado en/Produzido em",
+   "Consumr de prelendrcia antes de /ate (DMS/A v)",
+   "FECHA DE"
+  ],
+  "all_lines": [
+   "igoto Norte,",
+   "C/ Banranco, 20",
+   "46459 Benipanel (Valencia)",
+   "Fabricado en/Produzido em",
+   "Espala/Espanha",
+   "RGSEAA 20.42552/V",
+   "Conum prefeteme anes de (A)",
+   "",
+   "Consumr de prelendrcia antes de /ate (DMS/A v)",
+   "02/05/27",
+   "L000197",
+   "9056C0",
+   "FECHA DE",
+   "ENVASADO:",
+   "DATA DE",
+   "EMBALAGEM",
+   "03/11/26",
+   "08.58",
+   "0",
+   "ORIGEN JORIGEM:",
+   "c",
+   "ESPARAESPANHA",
+   "3"
+  ],
+  "crop_wh": [
+   1193,
+   984
+  ],
+  "sharpness": 28.0,
+  "ocr_s": 0.39
+ },
+ "f066.jpg": {
+  "n_lines": 19,
+  "box": [
+   537,
+   0,
+   1728,
+   973
+  ],
+  "level": "date",
+  "lines": [
+   "02/05/27",
+   "03/11/26",
+   "Fabricado en/PIoduzido em: ROSEAA 20.425S 3/V",
+   "FECHA DE ENVASADO"
+  ],
+  "all_lines": [
+   "46459 Beniparell(Valencia).",
+   "mone, C/ Barranco, 20",
+   "Fabricado en/PIoduzido em: ROSEAA 20.425S 3/V",
+   "España/Espanha",
+   "prelevtemente antes dette (tiugs AÑ)",
+   "3O",
+   "mr de prrlerinca anes de Aete (DAÉS/A N)",
+   "02/05/27",
+   "L000197",
+   "9056C0",
+   "FECHA DE ENVASADO",
+   "DATA DE",
+   "EMBALAGEM",
+   "03/11/26",
+   "S",
+   "08:58",
+   "ORIGENJORIGEM",
+   "c",
+   "ESPARAVESPANHA"
+  ],
+  "crop_wh": [
+   1191,
+   973
+  ],
+  "sharpness": 28.3,
+  "ocr_s": 0.37
+ },
+ "f072.jpg": {
+  "n_lines": 20,
+  "box": [
+   522,
+   0,
+   1728,
+   962
+  ],
+  "level": "date",
+  "lines": [
+   "02/05/27",
+   "03/11/26",
+   "Fabricado en/Produzido em;",
+   "Consumir de prefeico artes de Aete (DAutSAN)",
+   "FECHA"
+  ],
+  "all_lines": [
+   "46469 Benipamell (Valencia).",
+   "Fabricado en/Produzido em;",
+   "España/Espanha",
+   "RCSEAA 20.42552/Y",
+   "Comm preeentemete antes dete (s)",
+   "Consumir de prefeico artes de Aete (DAutSAN)",
+   "02/05/27",
+   "L000197",
+   "9056C0",
+   "FECHA",
+   "DE",
+   "ENVASADO",
+   "DATA DE",
+   "EMBALAGEM",
+   "O8",
+   "03/11/26",
+   "08:58",
+   "ORIGEN:/ORIGEM:",
+   "c",
+   "ESPARAESPANHA"
+  ],
+  "crop_wh": [
+   1206,
+   962
+  ],
+  "sharpness": 27.9,
+  "ocr_s": 0.38
+ },
+ "f078.jpg": {
+  "n_lines": 20,
+  "box": [
+   649,
+   504,
+   1061,
+   820
+  ],
+  "level": "date",
+  "lines": [
+   "03/11/26",
+   "FECHA DE"
+  ],
+  "all_lines": [
+   "16469 Beniparrell (Valencia).",
+   "Fabricado en/PrOduzido em: RGSEAA 20.42552/V",
+   "Españla/Espanha",
+   "cood",
+   "mpreleeemente ants dte ()",
+   "",
+   "umir de preleriecia antes de/Lete (vtSiAv)",
+   "02/0527",
+   "L000197 9056C0",
+   "FECHA DE",
+   "ENVASADO",
+   "DATA DE",
+   "EMBALAGEM:",
+   "087",
+   "03/11/26",
+   "08:58",
+   "ORIGEN/ORIGEM:",
+   "c",
+   "ESPANAESPANHA",
+   "8"
+  ],
+  "crop_wh": [
+   412,
+   316
+  ],
+  "sharpness": 28.8,
+  "ocr_s": 0.37
+ },
+ "f084.jpg": {
+  "n_lines": 18,
+  "box": [
+   539,
+   0,
+   1728,
+   973
+  ],
+  "level": "date",
+  "lines": [
+   "02/05/27",
+   "03/11/26",
+   "Fabricado en/Produzido em: RGSEAA 20.42552/V",
+   "Comumi preferentennte ates dete ( o)",
+   "Consumir de preferincia antes de Aete (DAMESAV)",
+   "FECHA DE"
+  ],
+  "all_lines": [
+   "yono Norte, C/ Barranco, 20",
+   "46459 Beniparrel (Valencia)",
+   "Fabricado en/Produzido em: RGSEAA 20.42552/V",
+   "España/Espanha",
+   "Comumi preferentennte ates dete ( o)",
+   "Consumir de preferincia antes de Aete (DAMESAV)",
+   "02/05/27",
+   "L000197",
+   "9056C0",
+   "FECHA DE",
+   "ENVASADO",
+   "DATA DE",
+   "EMBALAGEM",
+   "03/11/26",
+   "08.58",
+   "ORIGENJORIGEM:",
+   "c",
+   "ESPARAESPANHA"
+  ],
+  "crop_wh": [
+   1189,
+   973
+  ],
+  "sharpness": 28.1,
+  "ocr_s": 0.36
+ }
+}

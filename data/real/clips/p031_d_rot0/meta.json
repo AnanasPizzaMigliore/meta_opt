@@ -1,0 +1,616 @@
+{
+ "f000.jpg": {
+  "n_lines": 18,
+  "box": [
+   337,
+   1250,
+   433,
+   1346
+  ],
+  "level": "digits",
+  "lines": [
+   "2007"
+  ],
+  "all_lines": [
+   "GAS",
+   "MAS",
+   "ACELUAS",
+   "LAVADAS",
+   "1,35c",
+   "TERNA",
+   "CYADA",
+   "LAVADA",
+   "I",
+   "E",
+   "a",
+   "0,95€",
+   "RÚCUL",
+   "2007",
+   " 0M11",
+   "C",
+   "o",
+   "0.85c"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 362.2,
+  "ocr_s": 0.41
+ },
+ "f006.jpg": {
+  "n_lines": 21,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "ACELGAS",
+   "Gean",
+   "LAVADAS",
+   "ACELUAS",
+   "LAVAOAS",
+   "135",
+   "ICEBE",
+   "2",
+   "TERNA",
+   "LAVADA",
+   "CADA",
+   "U",
+   "R0M11",
+   "0,95c",
+   "LAVADA",
+   "EspañaEspanha",
+   "RÚCUL",
+   "",
+   "4",
+   "0,85c",
+   "oe"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 299.0,
+  "ocr_s": 0.35
+ },
+ "f012.jpg": {
+  "n_lines": 18,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "",
+   "ACELGAS",
+   "CENDADO",
+   "LAVADAS",
+   "ALELUAS",
+   "LAVAOAS",
+   "1,35",
+   "ICEB",
+   "TERNA",
+   "LAVADA",
+   "3R2",
+   "S",
+   " R0M11",
+   "95c",
+   "RÚCUL",
+   "VS",
+   "0,85€",
+   "Pte"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 320.2,
+  "ocr_s": 0.35
+ },
+ "f018.jpg": {
+  "n_lines": 23,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "ACELGAS",
+   "Frest",
+   "ACENDADO",
+   "LAVADAS",
+   "ACELUAS",
+   "LAVADAS",
+   "135",
+   "CEBLM",
+   "TERNA",
+   "LAVADA",
+   "",
+   "22",
+   "R0M11",
+   "Espada/Espanha",
+   "0,95c",
+   "LAVAO",
+   "RÚCUL",
+   "X",
+   "",
+   "EAA",
+   "AAAA",
+   "0.85€",
+   "Coaa"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 342.9,
+  "ocr_s": 0.36
+ },
+ "f024.jpg": {
+  "n_lines": 18,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "ACELGAS",
+   "ACENDADO",
+   "LAVADAS",
+   "ACELUAS",
+   "LAVAOAS",
+   "135",
+   "12",
+   "TERNA",
+   "LAVADA",
+   "AYADA",
+   "",
+   "0,95c",
+   "RÚCUL",
+   "Ie",
+   "A",
+   "AAA",
+   "0.85c",
+   "cot"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 347.7,
+  "ocr_s": 0.35
+ },
+ "f030.jpg": {
+  "n_lines": 21,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "HACENDADO",
+   "ACELGAS",
+   "CENDADO",
+   "LAVADAS",
+   "ACELGAS",
+   "LAVACAS",
+   "135c",
+   "IER",
+   "LAVAD",
+   "STADA",
+   "11",
+   "22",
+   "",
+   "0.95c",
+   "AVADA",
+   "RÚCUL",
+   "LAVL",
+   "BAAA",
+   "LAAAAA",
+   "0,85€",
+   "oie"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 356.0,
+  "ocr_s": 0.35
+ },
+ "f036.jpg": {
+  "n_lines": 21,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "HACENDADO",
+   "ACELGAS",
+   "Feste",
+   "PACENDADO",
+   "LAVADAS",
+   "ALELGAS",
+   "LAVACAS",
+   "1,35",
+   "",
+   "T2",
+   "TERNA",
+   "LAVADA",
+   "NACA",
+   "11",
+   "C",
+   "0.95c",
+   "RÚCUL",
+   "",
+   "VAAAA",
+   "TOON",
+   "0,85c"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 361.0,
+  "ocr_s": 0.35
+ },
+ "f042.jpg": {
+  "n_lines": 25,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "HACENDADO",
+   "",
+   "ACELGAS",
+   "Fresh",
+   "ICENDADO",
+   "LAVADAS",
+   "ACELUAS",
+   "LAVAOAS",
+   "1,35e",
+   "S",
+   "UEDLR",
+   "TERNA",
+   "LAVADA",
+   "CRDA",
+   "22",
+   "spanna",
+   "EspañaE",
+   "E",
+   "0.95c",
+   "RÚCUL",
+   "<",
+   "E",
+   "VAAAA",
+   "0,85c",
+   "oae"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 330.3,
+  "ocr_s": 0.37
+ },
+ "f048.jpg": {
+  "n_lines": 21,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "HACENDADO",
+   "ACELGAS",
+   "resh",
+   "SCENDADO",
+   "LAVADAS",
+   "GAS",
+   "S",
+   "ALELUAS",
+   "LAVAOAS",
+   "1,35",
+   "UCI",
+   "TERNA",
+   "LAVADA",
+   "CYADA",
+   "",
+   "0,95c",
+   "RÚCUL",
+   "",
+   "A",
+   "AAAA",
+   "0,85c"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 357.4,
+  "ocr_s": 0.33
+ },
+ "f054.jpg": {
+  "n_lines": 22,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "HACENDADO",
+   "ACELGAS",
+   "Fresh",
+   "ECENDADO",
+   "LAVADAS",
+   "ACELUAS",
+   "LAVACAS",
+   "135c",
+   "ULDLm",
+   "TERNA",
+   "LAVADA",
+   "EADA",
+   " 0M11",
+   "",
+   "t",
+   "0.95e",
+   "RÚCUL",
+   "",
+   "RAA",
+   "VAAA",
+   "0.85c",
+   "ome"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 366.2,
+  "ocr_s": 0.35
+ },
+ "f060.jpg": {
+  "n_lines": 25,
+  "box": [
+   607,
+   865,
+   819,
+   1029
+  ],
+  "level": "digits",
+  "lines": [
+   "22.11 26"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "ACELGAS",
+   "Fresh",
+   "CENDAD",
+   "LAVADAS",
+   "AS",
+   "AS",
+   "ACELGAS",
+   "LAVADAS",
+   "1,35",
+   "",
+   "SRG",
+   "TiEN",
+   "TERNA",
+   "LAVADA",
+   "LVADA",
+   "22.11 26",
+   " 0M11",
+   "",
+   "0,95€",
+   "RÚCUL",
+   "o ",
+   "RAA",
+   "LAAAA",
+   "0.85€"
+  ],
+  "crop_wh": [
+   212,
+   164
+  ],
+  "sharpness": 370.0,
+  "ocr_s": 0.36
+ },
+ "f066.jpg": {
+  "n_lines": 23,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "HACENDADO",
+   "",
+   "ACELGAS",
+   "Fresh",
+   "ACENDADA",
+   "LAVADAS",
+   "AS",
+   "AS",
+   "ALELUAS",
+   "LAVAOAS",
+   "1,35",
+   "TERN",
+   "LAVADA",
+   "EA0A",
+   "C",
+   "0.95€",
+   "LAVADA",
+   "RÚCUL",
+   "A",
+   "",
+   "LAAAAA",
+   "0.85c",
+   "Oca"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 369.1,
+  "ocr_s": 0.36
+ },
+ "f072.jpg": {
+  "n_lines": 18,
+  "box": [
+   1107,
+   796,
+   1203,
+   892
+  ],
+  "level": "digits",
+  "lines": [
+   "23.1126"
+  ],
+  "all_lines": [
+   "ACELGAS",
+   "VACENDADO",
+   "LAVADAS",
+   "ACELUAS",
+   "LAVAOAS",
+   "135c",
+   "ULDL",
+   "TERNA",
+   "LAVADA",
+   "CYADA",
+   "23.1126",
+   "22 11 26",
+   "S",
+   "0,95e",
+   "RÚCUL",
+   "FEAA",
+   "AAAAA",
+   "0.85c"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 364.2,
+  "ocr_s": 0.35
+ },
+ "f078.jpg": {
+  "n_lines": 20,
+  "box": [
+   619,
+   864,
+   816,
+   1022
+  ],
+  "level": "digits",
+  "lines": [
+   "22 112"
+  ],
+  "all_lines": [
+   "-",
+   "ACELGAS",
+   "SACENDADO",
+   "LAVADAS",
+   "ACELUAS",
+   "LAVADAS",
+   "1.35c",
+   "TERNA",
+   "LAVADA",
+   "VYACA",
+   "22 112",
+   "Origen/Origem:",
+   "MC",
+   "0.95c",
+   "RÚCUL",
+   "V",
+   "RAA",
+   "AAAAA",
+   "0,85€",
+   "Ce"
+  ],
+  "crop_wh": [
+   197,
+   158
+  ],
+  "sharpness": 366.8,
+  "ocr_s": 0.35
+ },
+ "f084.jpg": {
+  "n_lines": 25,
+  "box": [
+   1096,
+   804,
+   1192,
+   900
+  ],
+  "level": "digits",
+  "lines": [
+   "23112"
+  ],
+  "all_lines": [
+   "",
+   "ACELGAS",
+   "CENDADO",
+   "LAVADAS",
+   "AS",
+   "iS",
+   "ACELUAS",
+   "LAVADAS",
+   "1,35e",
+   "",
+   "02",
+   "TERNA",
+   "ULD",
+   "LAVADA",
+   "LDELDA",
+   "23112",
+   "2211 26",
+   "",
+   "0,95c",
+   "RÚCUL",
+   "K",
+   "",
+   "RAA",
+   "AA",
+   "0.85c"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 367.5,
+  "ocr_s": 0.35
+ }
+}

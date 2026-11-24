@@ -1,0 +1,689 @@
+{
+ "f000.jpg": {
+  "n_lines": 23,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Torla",
+   "aperial",
+   "En",
+   "de Soto",
+   "VI",
+   "de Turn",
+   "QUTU",
+   "OLUTEN",
+   "AS",
+   "Imperial",
+   "HACENDADO",
+   "O",
+   ".",
+   "295",
+   "PIGURITAS",
+   "2,75e",
+   "ENDDO",
+   "de Mazapán",
+   "Maçapão",
+   "30€",
+   "llana",
+   "LOR",
+   "200"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 299.6,
+  "ocr_s": 0.46
+ },
+ "f006.jpg": {
+  "n_lines": 25,
+  "box": [
+   867,
+   395,
+   963,
+   537
+  ],
+  "level": "digits",
+  "lines": [
+   "0991185"
+  ],
+  "all_lines": [
+   "Torla",
+   "Lepall",
+   "de Soio",
+   "Ra1",
+   "de Turt",
+   "0991185",
+   "GLUTES",
+   "GLUTC",
+   "Imperial",
+   "",
+   "FIGURITAS",
+   "2%%",
+   "NACENDADO",
+   "de Mazapán",
+   "275t",
+   "Maçapão",
+   "2,30€",
+   "Croat",
+   "10600",
+   "Ivellana",
+   "Clmion",
+   "lvelo",
+   "270c",
+   "2,00c",
+   "Ceate"
+  ],
+  "crop_wh": [
+   96,
+   142
+  ],
+  "sharpness": 300.8,
+  "ocr_s": 0.4
+ },
+ "f012.jpg": {
+  "n_lines": 25,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "UACENDADO",
+   "",
+   "Tora",
+   "merial",
+   "pall",
+   "de Soto",
+   "de Tur",
+   "GLUTE",
+   "HACEND",
+   "FIGURITAS",
+   "O",
+   "de Mazapán",
+   "2",
+   "HACENDADO",
+   "275e",
+   "Maçapão",
+   "2,30€",
+   "750€",
+   "Ivellana",
+   "FONTDON",
+   "Avela",
+   "200c",
+   "270c",
+   "2,00c",
+   "Ceaml"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 303.3,
+  "ocr_s": 0.39
+ },
+ "f018.jpg": {
+  "n_lines": 25,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "CCAND-DO",
+   "Torta",
+   "anerial",
+   "pal",
+   "de Sor",
+   "de Tur",
+   "GLUT",
+   "20",
+   "LT",
+   "HACENDA",
+   "FIGURITAS",
+   "",
+   "de Mazapán",
+   "29",
+   "HACENDADO",
+   "275c",
+   "Maçapão",
+   "2,30€",
+   "115",
+   "Avellana",
+   "Min",
+   "lvrla",
+   "270c",
+   "200c",
+   "can"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 296.2,
+  "ocr_s": 0.37
+ },
+ "f024.jpg": {
+  "n_lines": 28,
+  "box": [
+   287,
+   794,
+   404,
+   890
+  ],
+  "level": "digits",
+  "lines": [
+   "1150"
+  ],
+  "all_lines": [
+   "LACENDRDO",
+   "",
+   "Torla",
+   "merial",
+   "pul",
+   "de Solo",
+   "t",
+   "Tum",
+   "OLUTDS",
+   "4",
+   "2",
+   "",
+   "CEN",
+   "CLUTDI",
+   "HACENDAN",
+   "FIGURITAS",
+   "de Mazapán",
+   "2.",
+   "TACENDADO",
+   "Maçapão",
+   "2,75c",
+   "2,30€",
+   "1150",
+   "vellana",
+   "IiTroen",
+   "lvela",
+   "270€",
+   "200€"
+  ],
+  "crop_wh": [
+   117,
+   96
+  ],
+  "sharpness": 306.2,
+  "ocr_s": 0.38
+ },
+ "f030.jpg": {
+  "n_lines": 26,
+  "box": [
+   302,
+   787,
+   415,
+   883
+  ],
+  "level": "digits",
+  "lines": [
+   "11.50"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "",
+   "e",
+   "mA",
+   "Lemerial",
+   "Lepan",
+   "de Soro",
+   "be Turn",
+   "UTEH",
+   "FL",
+   "HACE",
+   "FIGURITAS",
+   "",
+   "de Mazapán",
+   "255",
+   "HACENDADO",
+   "Maçapão",
+   "275e",
+   "2,30€",
+   "11.50",
+   "miO0",
+   "Avellana",
+   "liela",
+   "S",
+   "270",
+   "200c"
+  ],
+  "crop_wh": [
+   113,
+   96
+  ],
+  "sharpness": 307.2,
+  "ocr_s": 0.42
+ },
+ "f036.jpg": {
+  "n_lines": 25,
+  "box": [
+   311,
+   791,
+   429,
+   887
+  ],
+  "level": "digits",
+  "lines": [
+   "11506"
+  ],
+  "all_lines": [
+   "",
+   "HACENOADO",
+   "lorta",
+   "erial",
+   "Span",
+   "de Soto",
+   "de Tur",
+   "CLUTO",
+   "GLUTEN",
+   "HACENDAD",
+   "FIGURITAS",
+   "",
+   "de Mazapán",
+   "HACENDADO",
+   "Maçapão",
+   "275c",
+   "2,30€",
+   "11506",
+   "Tameo",
+   "Avellana",
+   "bcla",
+   "1&5",
+   "270c",
+   "2,00€",
+   "ESIO"
+  ],
+  "crop_wh": [
+   118,
+   96
+  ],
+  "sharpness": 302.6,
+  "ocr_s": 0.37
+ },
+ "f042.jpg": {
+  "n_lines": 24,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "NACENOADO",
+   "emcrial",
+   "pan",
+   "de Soto",
+   "de Turn",
+   "UTEN",
+   "LUTU",
+   "CLUTEN",
+   "HACENDAD",
+   "FIGURITAS",
+   "",
+   "de Mazapán",
+   "2%",
+   "RACENDADO",
+   "Maçapão",
+   "2,75e",
+   "2,30€",
+   "l150e",
+   "Mm",
+   "Avellona",
+   "alh",
+   "270s",
+   "2,00c",
+   "csinte"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 303.4,
+  "ocr_s": 0.39
+ },
+ "f048.jpg": {
+  "n_lines": 27,
+  "box": [
+   297,
+   800,
+   416,
+   896
+  ],
+  "level": "digits",
+  "lines": [
+   "1500"
+  ],
+  "all_lines": [
+   "TARCENDADO",
+   "",
+   "lorta",
+   "lencrial",
+   "EPuI",
+   "de Soto",
+   "CC",
+   "Ture",
+   "CLUTUL",
+   "UTEN",
+   "",
+   "CLUTD",
+   "HACENDADO",
+   "FIGURITAS",
+   "de Mazapán",
+   "2.55",
+   "NACEADADO",
+   "Maçapão",
+   "275e",
+   "2,30€",
+   "1500",
+   "",
+   "FTOMOnE",
+   "Avellana",
+   "vela",
+   "2.70c",
+   "2,00c"
+  ],
+  "crop_wh": [
+   119,
+   96
+  ],
+  "sharpness": 299.2,
+  "ocr_s": 0.41
+ },
+ "f054.jpg": {
+  "n_lines": 28,
+  "box": [
+   316,
+   792,
+   427,
+   888
+  ],
+  "level": "digits",
+  "lines": [
+   "-11500"
+  ],
+  "all_lines": [
+   "LACENOADO",
+   "S",
+   "Torta",
+   "uerial",
+   "copon",
+   "de Soto",
+   "de Turne",
+   "X",
+   "OLUTUN",
+   "ALUTEN",
+   "GLUTEN",
+   "HACENDA",
+   "FIGURIIAS",
+   "",
+   "de Mazapán",
+   "HACENDIDO",
+   "2",
+   "Maçapão",
+   "275t",
+   "2,30€",
+   "-11500",
+   "mam",
+   "Cream",
+   "Avellana",
+   "lurla",
+   "270c",
+   "200c",
+   "deamt"
+  ],
+  "crop_wh": [
+   111,
+   96
+  ],
+  "sharpness": 302.4,
+  "ocr_s": 0.41
+ },
+ "f060.jpg": {
+  "n_lines": 27,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "ACEND ADO",
+   "SO",
+   "lorto",
+   "Iemerial",
+   "de Soio",
+   "JAy",
+   "de Turn",
+   "CLUTU",
+   "CLUTET",
+   "OLUTON",
+   "HACENDADO",
+   "FIGURITAS",
+   "de Mazapán",
+   "",
+   "2.",
+   "NACENDADO",
+   "Maçapão",
+   "2,75e",
+   "2,30€",
+   "100",
+   "Avellana",
+   "O",
+   "mm",
+   "lueli",
+   "270",
+   "2,00c",
+   "CEuTe"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 305.3,
+  "ocr_s": 0.4
+ },
+ "f066.jpg": {
+  "n_lines": 26,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "RACENDRDO",
+   "",
+   "Torto",
+   "Iemerial",
+   "nepan",
+   "de Soro",
+   "de Turn",
+   "UTEN",
+   "",
+   "GLUTENY",
+   "HACENDAD",
+   "PIGURITAS",
+   "de Mazapán",
+   "2.9%",
+   "HACENDADO",
+   "Maçapão",
+   "275c",
+   "2,30€",
+   "110",
+   "(rcam",
+   "Muhoit",
+   "Avellana",
+   "Avela",
+   "200.",
+   "2,70c",
+   "2,00€"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 302.9,
+  "ocr_s": 0.4
+ },
+ "f072.jpg": {
+  "n_lines": 24,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "HACENDRDO",
+   "",
+   "Torla",
+   "Ieocrial",
+   "capall",
+   "de oto",
+   "de Turna",
+   "GLUTUN",
+   "TEN",
+   "CLUTEN",
+   "HACENDA",
+   "FIGURITAS",
+   "de Mazapán",
+   "",
+   "25",
+   "Maçapão",
+   "BACENDADO",
+   "2,75€",
+   "2,30",
+   "1E04",
+   "mimim",
+   "200",
+   "270c",
+   "2,00€"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 300.3,
+  "ocr_s": 0.39
+ },
+ "f078.jpg": {
+  "n_lines": 26,
+  "box": [
+   292,
+   809,
+   410,
+   905
+  ],
+  "level": "digits",
+  "lines": [
+   "11150"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "",
+   "nerial",
+   "CLapan",
+   "de Soto",
+   "de Turo",
+   "TON",
+   "GLUTE",
+   "HACENDAD",
+   "FGURITAS",
+   "de Mazapán",
+   "295",
+   "Maçapão",
+   "HACENDIDO",
+   "275e",
+   "2,30€",
+   "11150",
+   "Avellana",
+   "TO0",
+   "Ivela",
+   "amM",
+   "200",
+   "270e",
+   "2,00c",
+   "PCAEE",
+   "95cl"
+  ],
+  "crop_wh": [
+   118,
+   96
+  ],
+  "sharpness": 306.2,
+  "ocr_s": 0.4
+ },
+ "f084.jpg": {
+  "n_lines": 27,
+  "box": [
+   285,
+   809,
+   409,
+   905
+  ],
+  "level": "digits",
+  "lines": [
+   "10160€"
+  ],
+  "all_lines": [
+   "NACENDADO",
+   "",
+   "Torla",
+   "ernerial",
+   "0apol",
+   "de Soto",
+   "RLD",
+   "de Turne",
+   "20",
+   "CLUTEN",
+   "HACENDAD",
+   "RIGURITAS",
+   "de Mazapán",
+   "",
+   "2",
+   "Maçapão",
+   "TACENDUO",
+   "2,75c",
+   "2,30€",
+   "10160€",
+   "Crpaa",
+   "Avellana",
+   "MEvio",
+   "lirka",
+   "270c",
+   "2,00€",
+   "95cl"
+  ],
+  "crop_wh": [
+   124,
+   96
+  ],
+  "sharpness": 302.7,
+  "ocr_s": 0.4
+ }
+}

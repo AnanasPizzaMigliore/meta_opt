@@ -1,0 +1,412 @@
+{
+ "f000.jpg": {
+  "n_lines": 9,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "MITAS",
+   "PIFOCAS",
+   "MICROONDAS",
+   "SAL",
+   "A",
+   "3x",
+   "90",
+   "HACENDADO",
+   "37"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 79.3,
+  "ocr_s": 0.4
+ },
+ "f006.jpg": {
+  "n_lines": 9,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "DBD",
+   "PALOMITAS",
+   "POCAS",
+   "MICROONDAS",
+   "SAL",
+   "4",
+   "3x",
+   "90",
+   "HACENDADO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 93.1,
+  "ocr_s": 0.32
+ },
+ "f012.jpg": {
+  "n_lines": 8,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "EB0",
+   "PALOMITAS",
+   "PICAS",
+   "ONDAS",
+   "SAL",
+   "3x",
+   "90",
+   "HACENDADO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 87.5,
+  "ocr_s": 0.32
+ },
+ "f018.jpg": {
+  "n_lines": 8,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "LEE",
+   "PALOMITAS",
+   "PIPOCAS",
+   "MICROONDAS",
+   "SAL",
+   "3x",
+   "90",
+   "HACENDADO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 87.7,
+  "ocr_s": 0.32
+ },
+ "f024.jpg": {
+  "n_lines": 9,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   ":",
+   "080",
+   "PALOMITAS",
+   "PIPOCAS",
+   "MICROONDAS",
+   "SAL",
+   "3x",
+   "90",
+   "HACENDADO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 88.5,
+  "ocr_s": 0.29
+ },
+ "f030.jpg": {
+  "n_lines": 8,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "E0",
+   "PALOMITAS",
+   "PIPOCAS",
+   "MICROONDAS",
+   "SAL",
+   "3x",
+   "90",
+   "HACENDADO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 88.0,
+  "ocr_s": 0.28
+ },
+ "f036.jpg": {
+  "n_lines": 8,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "CE0",
+   "PALOMITAS",
+   "PIPOCAS",
+   "MICROONDAS",
+   "SAL",
+   "3x",
+   "90",
+   "HACENDADO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 87.5,
+  "ocr_s": 0.29
+ },
+ "f042.jpg": {
+  "n_lines": 9,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "BBC",
+   "PALOMITAS",
+   "PIPOCAS",
+   "MICR",
+   "ONDAS",
+   "SAL",
+   "3x",
+   "90",
+   "HACENDADO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 88.4,
+  "ocr_s": 0.29
+ },
+ "f048.jpg": {
+  "n_lines": 9,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "MBE",
+   "PALOMITAS",
+   "PIPOCAS",
+   "MV",
+   "NDAS",
+   "SAL",
+   "3x",
+   "90",
+   "HACENDADO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 87.5,
+  "ocr_s": 0.29
+ },
+ "f054.jpg": {
+  "n_lines": 8,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "PALOMITAS",
+   "PIPOCAS",
+   "MM",
+   "ONDAS",
+   "SAL",
+   "3x",
+   "90",
+   "HACENDADO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 87.4,
+  "ocr_s": 0.29
+ },
+ "f060.jpg": {
+  "n_lines": 8,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "PALOMITAS",
+   "PIPOCAS",
+   "M",
+   "ONDAS",
+   "SAL",
+   "3x",
+   "90",
+   "HACENDADO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 87.2,
+  "ocr_s": 0.3
+ },
+ "f066.jpg": {
+  "n_lines": 9,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "",
+   "PALOMITAS",
+   "PIPOCAS",
+   "M",
+   "ONDAS",
+   "SAL",
+   "3x",
+   "90",
+   "HACENDADO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 86.8,
+  "ocr_s": 0.29
+ },
+ "f072.jpg": {
+  "n_lines": 8,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "",
+   "PALOMITAS",
+   "PIPOCAS",
+   "ONDAS",
+   "SAL",
+   "3x",
+   "90",
+   "HACENDADO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 86.9,
+  "ocr_s": 0.29
+ },
+ "f078.jpg": {
+  "n_lines": 8,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Ma",
+   "PALOMITAS",
+   "PIPOCAS",
+   "ONDAS",
+   "SAL",
+   "3x",
+   "90",
+   "HACENDADO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 86.9,
+  "ocr_s": 0.29
+ },
+ "f084.jpg": {
+  "n_lines": 7,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "PALOMITAS",
+   "PIPOCAS",
+   "ONDAS",
+   "SAL",
+   "3x",
+   "90",
+   "HACENDADO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 86.7,
+  "ocr_s": 0.29
+ }
+}

@@ -1,0 +1,586 @@
+{
+ "f000.jpg": {
+  "n_lines": 18,
+  "box": [
+   57,
+   1368,
+   214,
+   1486
+  ],
+  "level": "digits",
+  "lines": [
+   "81C010100"
+  ],
+  "all_lines": [
+   "JESO",
+   "HACENDADO",
+   "HACENDADO",
+   "CALBA DE QUE",
+   "1,65€",
+   " S ",
+   "O",
+   "51%0",
+   "VENAN",
+   "PRINGLES",
+   "Wraps",
+   "ORIGINAL",
+   "NAU",
+   "6 TORTILLAS",
+   "AVENA/AVEI/",
+   "2",
+   "81C010100",
+   ",85c"
+  ],
+  "crop_wh": [
+   157,
+   118
+  ],
+  "sharpness": 207.7,
+  "ocr_s": 0.39
+ },
+ "f006.jpg": {
+  "n_lines": 24,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "GUESO",
+   "yns",
+   "HACENDADO",
+   "NIIO",
+   "T",
+   "ECO",
+   "HACENDADO",
+   "ALSA DE QUEG",
+   "1,65€",
+   "FEDQUE",
+   "VURO 58OS",
+   "PRINGLES",
+   "VENANA 510",
+   "Wraps",
+   "d4",
+   "ORIGINAL",
+   "NAU",
+   "6 TORTILLAS",
+   "AVENA/AVEIA",
+   "2",
+   "AME DADO",
+   "1",
+   "oto",
+   "1.85"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 209.2,
+  "ocr_s": 0.33
+ },
+ "f012.jpg": {
+  "n_lines": 19,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "QUESO",
+   "HACENDADO",
+   "MO",
+   "HACENDADO",
+   "SALSA DE QUESO",
+   "1,65€",
+   "UU",
+   "Ln0O",
+   "903",
+   "51%0",
+   "PRINGLES",
+   "VENANEIA",
+   "Wraps",
+   "CRIGINAL",
+   "NAU",
+   "6 TORTILLAS",
+   "AVENA/AVEIA",
+   "2",
+   "C"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 213.4,
+  "ocr_s": 0.32
+ },
+ "f018.jpg": {
+  "n_lines": 18,
+  "box": [
+   402,
+   682,
+   649,
+   798
+  ],
+  "level": "digits",
+  "lines": [
+   "1U 5.880 1 0"
+  ],
+  "all_lines": [
+   "SALCH",
+   "QUESO",
+   "HACENDADO",
+   "OUE",
+   "HACENDADO",
+   "SALSA DE QUE",
+   "1,65€",
+   "1U 5.880 1 0",
+   "510",
+   "PRINGLES",
+   "VENANEIA5",
+   "Wraps",
+   "ORIGINAL",
+   "RN",
+   "NAU",
+   "6 TORTILLAS",
+   "AVENAIAVEI",
+   "C"
+  ],
+  "crop_wh": [
+   247,
+   116
+  ],
+  "sharpness": 213.2,
+  "ocr_s": 0.31
+ },
+ "f024.jpg": {
+  "n_lines": 21,
+  "box": [
+   156,
+   682,
+   671,
+   976
+  ],
+  "level": "digits",
+  "lines": [
+   "1UTO5893",
+   "VENAXVEIA 5100"
+  ],
+  "all_lines": [
+   "SAL",
+   "QUESO",
+   "Yn",
+   "HACENDADO",
+   "VO",
+   "C00",
+   "HACENDADO",
+   "BALSA DE QUESO",
+   "1,65€",
+   "WIOBRN",
+   "1UTO5893",
+   "PRINGLES",
+   "VENAXVEIA 5100",
+   "ORIGINAL",
+   "Wraps",
+   "NAU",
+   "IE",
+   "6 TORTILLAS",
+   "AE",
+   "",
+   "3"
+  ],
+  "crop_wh": [
+   515,
+   294
+  ],
+  "sharpness": 214.3,
+  "ocr_s": 0.32
+ },
+ "f030.jpg": {
+  "n_lines": 19,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "OAPP",
+   "GUESO",
+   "ne",
+   "HACENDADO",
+   "HACENDADO",
+   "1,65€",
+   "UTRO SA TU",
+   "PRINGLES",
+   "51%0",
+   "VENANVEIA",
+   "ORIGINAL",
+   "Wraps",
+   "RLN",
+   "NAN",
+   "6 TORTILLAS",
+   "2",
+   "E",
+   "S",
+   "."
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 215.3,
+  "ocr_s": 0.3
+ },
+ "f036.jpg": {
+  "n_lines": 22,
+  "box": [
+   152,
+   672,
+   681,
+   992
+  ],
+  "level": "digits",
+  "lines": [
+   "5893 WIHUE",
+   "VENAVEIA 5100"
+  ],
+  "all_lines": [
+   "OALSA",
+   "QUESO",
+   "M",
+   "W",
+   "HACENDADO",
+   "VIO",
+   "ESO",
+   "FACENDADO",
+   ".",
+   "1,65€",
+   "5893 WIHUE",
+   "1URO",
+   "PRINGLES",
+   "VENAVEIA 5100",
+   "ORIGINAL",
+   "Wraps",
+   "dS",
+   "C",
+   "6 TORTILLAS",
+   "VEA",
+   "E",
+   "ES"
+  ],
+  "crop_wh": [
+   529,
+   320
+  ],
+  "sharpness": 214.4,
+  "ocr_s": 0.3
+ },
+ "f042.jpg": {
+  "n_lines": 19,
+  "box": [
+   452,
+   761,
+   630,
+   898
+  ],
+  "level": "digits",
+  "lines": [
+   "5100"
+  ],
+  "all_lines": [
+   "DALBA",
+   "GUECO",
+   "HACENDADO",
+   "et",
+   "28O",
+   "HACENDADO",
+   "1,65€",
+   "DATCOONE",
+   "PRINGLES",
+   "5100",
+   "VENANVEIA",
+   "ORIGINAL",
+   "Wraps",
+   "CAY",
+   "NAU",
+   "6 TORTILLAS",
+   "VE",
+   "ED",
+   "2"
+  ],
+  "crop_wh": [
+   178,
+   137
+  ],
+  "sharpness": 215.2,
+  "ocr_s": 0.29
+ },
+ "f048.jpg": {
+  "n_lines": 14,
+  "box": [
+   155,
+   741,
+   646,
+   991
+  ],
+  "level": "digits",
+  "lines": [
+   "VENA 4EIA 5100"
+  ],
+  "all_lines": [
+   "CALS",
+   "QUESO",
+   "HACENDADO",
+   "HACENDADO",
+   "SA",
+   "1,65€",
+   "TOBUO",
+   "PRINGLES",
+   "VENA 4EIA 5100",
+   "ORIGINAL",
+   "Wraps",
+   "NAU",
+   "6 TORTILLAS",
+   "U"
+  ],
+  "crop_wh": [
+   491,
+   250
+  ],
+  "sharpness": 215.4,
+  "ocr_s": 0.27
+ },
+ "f054.jpg": {
+  "n_lines": 18,
+  "box": [
+   154,
+   740,
+   657,
+   990
+  ],
+  "level": "digits",
+  "lines": [
+   "VENANVEIA 5100"
+  ],
+  "all_lines": [
+   "QUESO",
+   "YUN",
+   "HACENDADO",
+   "30",
+   "280",
+   "HACENDADO",
+   "1,65€",
+   "SUT 5 0 (",
+   "PRINGLES",
+   "VENANVEIA 5100",
+   "ORIGINAL",
+   "Wraps",
+   "AS",
+   "NAU",
+   "XS",
+   "6 TORTIL",
+   "2H",
+   "2"
+  ],
+  "crop_wh": [
+   503,
+   250
+  ],
+  "sharpness": 214.8,
+  "ocr_s": 0.28
+ },
+ "f060.jpg": {
+  "n_lines": 12,
+  "box": [
+   152,
+   753,
+   644,
+   1001
+  ],
+  "level": "digits",
+  "lines": [
+   "ENANEIA 5100"
+  ],
+  "all_lines": [
+   "QUESO",
+   "HACENDADO",
+   "HACENDADO",
+   "1,65€",
+   "UROOU",
+   "PRINGLES",
+   "ENANEIA 5100",
+   "ORIGINAL",
+   "Wraps",
+   "dLS",
+   "NAU",
+   "6 TORTILLA"
+  ],
+  "crop_wh": [
+   492,
+   248
+  ],
+  "sharpness": 217.0,
+  "ocr_s": 0.26
+ },
+ "f066.jpg": {
+  "n_lines": 15,
+  "box": [
+   137,
+   711,
+   654,
+   1009
+  ],
+  "level": "digits",
+  "lines": [
+   "umo 5693",
+   "VENAX4EIA 5100"
+  ],
+  "all_lines": [
+   "OASA",
+   "GUECO",
+   "HACENDADO",
+   "HACENDADO",
+   "1,65€",
+   "RTTEDRO",
+   "umo 5693",
+   "PRINGLES",
+   "VENAX4EIA 5100",
+   "ORIGINAL",
+   "Wraps",
+   "M",
+   "NAN",
+   "6 TORTILLAS",
+   "VE"
+  ],
+  "crop_wh": [
+   517,
+   298
+  ],
+  "sharpness": 216.2,
+  "ocr_s": 0.27
+ },
+ "f072.jpg": {
+  "n_lines": 14,
+  "box": [
+   452,
+   769,
+   633,
+   911
+  ],
+  "level": "digits",
+  "lines": [
+   "5100"
+  ],
+  "all_lines": [
+   "QUESO",
+   "HACENDADO",
+   "HACENDADO",
+   "SALSADE",
+   "1,65€",
+   "FOT",
+   "Umo 5.F93",
+   "PRINGLES",
+   "5100",
+   "VENANVEIA",
+   "ORIGINAL",
+   "Wraps",
+   "6 TORTILLAS",
+   "E"
+  ],
+  "crop_wh": [
+   181,
+   142
+  ],
+  "sharpness": 216.3,
+  "ocr_s": 0.27
+ },
+ "f078.jpg": {
+  "n_lines": 18,
+  "box": [
+   379,
+   712,
+   657,
+   930
+  ],
+  "level": "digits",
+  "lines": [
+   " 5893 0",
+   "5100"
+  ],
+  "all_lines": [
+   "LSI",
+   "QUESO",
+   "HACENDADO",
+   "HACENDADO",
+   "",
+   "LBADFQUE",
+   "1,65€",
+   " 5893 0",
+   "PRINGLES",
+   "5100",
+   "VENAMVEIA",
+   "ORIGINAL",
+   "Wraps",
+   "MN",
+   "NAU",
+   "6 TORTILLAS",
+   "PE",
+   "C"
+  ],
+  "crop_wh": [
+   278,
+   218
+  ],
+  "sharpness": 216.8,
+  "ocr_s": 0.29
+ },
+ "f084.jpg": {
+  "n_lines": 19,
+  "box": [
+   383,
+   730,
+   636,
+   927
+  ],
+  "level": "digits",
+  "lines": [
+   "vA 6 803",
+   "5100"
+  ],
+  "all_lines": [
+   "OUESO",
+   "PnY",
+   "HACENDADO",
+   "VO",
+   "HACENDADO",
+   "1,65€",
+   "D",
+   "vA 6 803",
+   "PRINGLES",
+   "5100",
+   "VENANVEIA",
+   "ORIGINAL",
+   "Wraps",
+   "2A",
+   "NAU",
+   "6 TORTILLAS",
+   "2/5",
+   "E",
+   "K"
+  ],
+  "crop_wh": [
+   253,
+   197
+  ],
+  "sharpness": 216.1,
+  "ocr_s": 0.28
+ }
+}

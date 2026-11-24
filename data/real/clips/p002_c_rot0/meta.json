@@ -1,0 +1,414 @@
+{
+ "f000.jpg": {
+  "n_lines": 10,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Valores natricionais médios",
+   "Infurmación nutricional/",
+   "sSaGes",
+   "S",
+   "BE",
+   "E3",
+   "S",
+   "190ge",
+   "seol",
+   "GR"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 39.5,
+  "ocr_s": 0.36
+ },
+ "f006.jpg": {
+  "n_lines": 7,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Valores cutricionals médles",
+   "Informacion nutricional",
+   "S",
+   "190ge",
+   "E",
+   "C",
+   "OREE"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 34.6,
+  "ocr_s": 0.26
+ },
+ "f012.jpg": {
+  "n_lines": 6,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Valores mutricionsis medios",
+   "C",
+   "CE",
+   "190ge",
+   "Ca",
+   "Mrr"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 33.8,
+  "ocr_s": 0.27
+ },
+ "f018.jpg": {
+  "n_lines": 6,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "4",
+   "CE",
+   "",
+   "190ge",
+   "0l0",
+   "pyde t"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 38.3,
+  "ocr_s": 0.26
+ },
+ "f024.jpg": {
+  "n_lines": 9,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Valeres mutricionals medos",
+   "Enformación nutriciomal/",
+   "SreeReg",
+   "e",
+   "007",
+   "190ge",
+   "de f",
+   "C",
+   "Eeus"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 39.0,
+  "ocr_s": 0.28
+ },
+ "f030.jpg": {
+  "n_lines": 3,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Valores eutriclomais médios",
+   "Infermacion nutrticional",
+   "190ge"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 37.0,
+  "ocr_s": 0.27
+ },
+ "f036.jpg": {
+  "n_lines": 3,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "G",
+   "190ge",
+   "F2"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 31.3,
+  "ocr_s": 0.27
+ },
+ "f042.jpg": {
+  "n_lines": 14,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "PELPMAN",
+   "Valores mutriclonals médios",
+   "Información mutricional/",
+   "COGE",
+   "ee",
+   "SsS9Sss",
+   "",
+   "-",
+   "se",
+   "190ge",
+   "d",
+   "sde fu",
+   "C",
+   "a"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 48.5,
+  "ocr_s": 0.3
+ },
+ "f048.jpg": {
+  "n_lines": 18,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "M",
+   "F",
+   "Valores nutriclonals médios",
+   "Información mutricional/",
+   "SE",
+   "",
+   "e",
+   "424",
+   "7",
+   "",
+   " de m ",
+   "190ge",
+   "H",
+   "jos de fruds",
+   "",
+   "PTE",
+   "C",
+   "SE"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 54.7,
+  "ocr_s": 0.31
+ },
+ "f054.jpg": {
+  "n_lines": 10,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Valares nutriclonals médies",
+   "Infermacion eutricional/",
+   "C",
+   "9iss",
+   "3",
+   "0",
+   "7",
+   "C",
+   "190ge",
+   "d0m"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 40.5,
+  "ocr_s": 0.29
+ },
+ "f060.jpg": {
+  "n_lines": 9,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "④",
+   "Valeres nutriclomals médios",
+   "Iefarmacion eutricional",
+   "-",
+   "3S",
+   "E",
+   "190ge",
+   " ds t",
+   "1"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 37.5,
+  "ocr_s": 0.28
+ },
+ "f066.jpg": {
+  "n_lines": 4,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "T",
+   "Valeres eutriclomals médios",
+   "EE",
+   "190ge"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 36.4,
+  "ocr_s": 0.26
+ },
+ "f072.jpg": {
+  "n_lines": 5,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "1",
+   "190ge",
+   "",
+   "c",
+   "Soous"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 32.0,
+  "ocr_s": 0.24
+ },
+ "f078.jpg": {
+  "n_lines": 7,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Valres muzriclonals médios",
+   "informacon nutricional",
+   "e",
+   "B",
+   "e",
+   "190ge",
+   "S"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 39.1,
+  "ocr_s": 0.28
+ },
+ "f084.jpg": {
+  "n_lines": 16,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Valores eutricionals médios",
+   "Infurmacton nutricional/",
+   "ee",
+   "LUA",
+   "S",
+   "CS",
+   "ONT",
+   "-",
+   "H",
+   "C",
+   "-",
+   "190ge",
+   "40m",
+   "plt de ",
+   "c",
+   "Saas"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 46.4,
+  "ocr_s": 0.3
+ }
+}

@@ -1,0 +1,659 @@
+{
+ "f000.jpg": {
+  "n_lines": 32,
+  "box": [
+   832,
+   171,
+   1494,
+   746
+  ],
+  "level": "digits",
+  "lines": [
+   "800 500 220",
+   "RGSEAA: 21.1654"
+  ],
+  "all_lines": [
+   "9,99",
+   "1,65",
+   "s/Saturados",
+   "20g",
+   "aturadas/",
+   "saturados",
+   "18g",
+   "turadas/",
+   "10g",
+   "turados",
+   "Ci",
+   "Carbono",
+   "6,5g",
+   "11a",
+   "25g",
+   "800 500 220",
+   "Produzido em:",
+   "PONS, SAU",
+   "mo159%",
+   "7",
+   "lencia",
+   "458 mo (65%)",
+   "RGSEAA: 21.1654",
+   "TO",
+   "400 g",
+   "Neto",
+   "1,30€",
+   "L0001987",
+   "TA DE EMBALAA",
+   "23:14",
+   "28",
+   "EN/ORIGEM"
+  ],
+  "crop_wh": [
+   662,
+   575
+  ],
+  "sharpness": 38.3,
+  "ocr_s": 0.44
+ },
+ "f006.jpg": {
+  "n_lines": 45,
+  "box": [
+   1268,
+   49,
+   1728,
+   567
+  ],
+  "level": "digits",
+  "lines": [
+   "SEAA:21165",
+   "46469 Beniparell, V",
+   "MERCADONA",
+   "Vencia"
+  ],
+  "all_lines": [
+   "de las cuale",
+   "20g",
+   "Saturadas/Satu",
+   "-Monoinsaturadas/",
+   "18g",
+   "Monoinsaturados",
+   "10g",
+   "-Polinsaturadas/",
+   "Polinsaturados",
+   "65g",
+   "C",
+   "Hidratos de Carbono",
+   "HACENDADO",
+   "110",
+   "de los cuales/dos quais:",
+   "Azúcares/Açúcares",
+   "25g",
+   "dacahuete",
+   "MERCADONA",
+   "acahue",
+   "Fibra alimentaria/Fibra",
+   "0g",
+   "80",
+   "mendo",
+   "a1",
+   "220 mo (59%",
+   "458mg (65%",
+   "Vencia",
+   "SEAA:21165",
+   "46469 Beniparell, V",
+   "(España/Espanha).",
+   "400",
+   "Peso Neto/",
+   "Uquido:",
+   "HACENDADO",
+   "2,75€",
+   "RH",
+   "09102/21",
+   "L000198 2788L0",
+   "FECHA DE ENVASADO:",
+   "DATA DE EMBALAGEM:",
+   "23:14 0",
+   "1111/26",
+   "ORIGEN:/ ORIGEM.",
+   "CHINA"
+  ],
+  "crop_wh": [
+   460,
+   518
+  ],
+  "sharpness": 83.7,
+  "ocr_s": 0.43
+ },
+ "f012.jpg": {
+  "n_lines": 25,
+  "box": [
+   738,
+   768,
+   1180,
+   1025
+  ],
+  "level": "date",
+  "lines": [
+   "08/02/21",
+   "FECHA DE ENVASADO"
+  ],
+  "all_lines": [
+   "MES",
+   "800",
+   "IACENDADO",
+   "220 mg (59%",
+   "dacahuete",
+   "ahue",
+   "458 mg (65%)",
+   "amendoim",
+   "end",
+   "149 de protelnas",
+   "70",
+   "400",
+   "Peso Neto/",
+   "Iguido",
+   "HACENDADO",
+   "2,75c",
+   "08/02/21",
+   "LO00198 2758L0",
+   "FECHA DE ENVASADO",
+   "DATA DE EMBALAGEM",
+   "23:14 03",
+   "1111/26",
+   "ORGEN-/ORIGEM:",
+   "CHINA",
+   "."
+  ],
+  "crop_wh": [
+   442,
+   257
+  ],
+  "sharpness": 58.9,
+  "ocr_s": 0.35
+ },
+ "f018.jpg": {
+  "n_lines": 26,
+  "box": [
+   702,
+   748,
+   1198,
+   1120
+  ],
+  "level": "digits",
+  "lines": [
+   "09/02m21",
+   "L000198 2758L0",
+   "23:14 00",
+   "1171026",
+   "FECHA DE ENVASADO"
+  ],
+  "all_lines": [
+   "8005",
+   "HLACEADADO",
+   "220 mg (59%",
+   "MAPORADD CAS",
+   "458 mg (65%)",
+   "dacahuete",
+   "oNone",
+   "ahue",
+   "NOT",
+   "endo",
+   "amendoim.",
+   "14 g de proteinas'",
+   "400",
+   "Peo eto",
+   "HACENDADO",
+   "2,75",
+   "Cntot",
+   "09/02m21",
+   "L000198 2758L0",
+   "FECHA DE ENVASADO",
+   "DATA DE EMBALAGEM",
+   "23:14 00",
+   "1171026",
+   "CRGEN/ORIGEM",
+   "CHINA",
+   "8"
+  ],
+  "crop_wh": [
+   496,
+   372
+  ],
+  "sharpness": 55.2,
+  "ocr_s": 0.34
+ },
+ "f024.jpg": {
+  "n_lines": 24,
+  "box": [
+   648,
+   800,
+   1163,
+   1130
+  ],
+  "level": "digits",
+  "lines": [
+   "L000198 27E8L9",
+   "23:14 50",
+   "111/26",
+   "FECHA DE ENVASADO:"
+  ],
+  "all_lines": [
+   "220 cm9 (59%",
+   "458 mg (655%)",
+   "RACTEDATO",
+   "4469 Bent",
+   "dacahue",
+   "Espala/E",
+   "ahue",
+   "ndo",
+   "aimer",
+   "400 g",
+   "149dep",
+   " e",
+   "(UANO)",
+   "HACENDADO",
+   "2,7",
+   "camm",
+   "L000198 27E8L9",
+   "FECHA DE ENVASADO:",
+   "CATA DE EMBALAGEM",
+   "23:14 50",
+   "111/26",
+   "ORGEN/ORIGEM",
+   "CHNA",
+   "•."
+  ],
+  "crop_wh": [
+   515,
+   330
+  ],
+  "sharpness": 39.6,
+  "ocr_s": 0.33
+ },
+ "f030.jpg": {
+  "n_lines": 23,
+  "box": [
+   633,
+   792,
+   1156,
+   1128
+  ],
+  "level": "digits",
+  "lines": [
+   "LO00198 27E8LA",
+   "23:14 en",
+   "111/26",
+   "FECHA DE ENVASADO"
+  ],
+  "all_lines": [
+   "220m9(59%)",
+   "458 mg (65%",
+   "Polcomo",
+   "HACANDADO",
+   "46469 Beni",
+   "(EspañaE",
+   "dacahuo",
+   "hue",
+   "ndo",
+   "ame",
+   "Peso  /40 g",
+   "14901",
+   "HACENDADO",
+   "2,7",
+   "0s0am",
+   "LO00198 27E8LA",
+   "FECHA DE ENVASADO",
+   "DATA DE EMBALAGEM",
+   "23:14 en",
+   "111/26",
+   "CRGENJORIGEM",
+   "CHINA",
+   "8"
+  ],
+  "crop_wh": [
+   523,
+   336
+  ],
+  "sharpness": 36.3,
+  "ocr_s": 0.34
+ },
+ "f036.jpg": {
+  "n_lines": 19,
+  "box": [
+   613,
+   728,
+   1167,
+   1146
+  ],
+  "level": "digits",
+  "lines": [
+   "040221",
+   "LO00198 2758L0",
+   "23:14 52",
+   "111/26",
+   "FECHA DE ENVASADO"
+  ],
+  "all_lines": [
+   "220m",
+   "458 mg (65%",
+   "VACENDADO",
+   "dacahun",
+   "ame",
+   "400 g",
+   "Pero ett",
+   "149de",
+   "HACENDAD",
+   "2,",
+   "040221",
+   "LO00198 2758L0",
+   "FECHA DE ENVASADO",
+   "DATA DE EMBALAGEM",
+   "23:14 52",
+   "111/26",
+   "CRGEN /ORIGEM:",
+   "CHINA",
+   "8"
+  ],
+  "crop_wh": [
+   554,
+   418
+  ],
+  "sharpness": 34.4,
+  "ocr_s": 0.3
+ },
+ "f042.jpg": {
+  "n_lines": 12,
+  "box": [
+   596,
+   800,
+   1154,
+   1158
+  ],
+  "level": "digits",
+  "lines": [
+   "LO00108 2T88L0",
+   "23:14 50",
+   "M11126",
+   "FECHA DE ENVASADO:"
+  ],
+  "all_lines": [
+   "HACENDMO",
+   "G",
+   "Pe4 g",
+   "HACE",
+   "csmam",
+   "LO00108 2T88L0",
+   "FECHA DE ENVASADO:",
+   "DATA DE EMBALAGEM",
+   "23:14 50",
+   "M11126",
+   "CROEN-/ORIGEM",
+   "CHINA"
+  ],
+  "crop_wh": [
+   558,
+   358
+  ],
+  "sharpness": 24.8,
+  "ocr_s": 0.29
+ },
+ "f048.jpg": {
+  "n_lines": 14,
+  "box": [
+   585,
+   812,
+   1146,
+   1170
+  ],
+  "level": "digits",
+  "lines": [
+   "L000198 2788L9",
+   "2314 en",
+   "11126",
+   "FECHA DE ENVASADO"
+  ],
+  "all_lines": [
+   "ACENONDO",
+   "ahue",
+   "es 40 g",
+   "ndo",
+   "HAC",
+   "0smam",
+   "L000198 2788L9",
+   "FECHA DE ENVASADO",
+   "CATA DE EMBALAGEM",
+   "2314 en",
+   "11126",
+   "CRKEN/ORIGEM",
+   "CHIMA",
+   "8"
+  ],
+  "crop_wh": [
+   561,
+   358
+  ],
+  "sharpness": 23.4,
+  "ocr_s": 0.28
+ },
+ "f054.jpg": {
+  "n_lines": 13,
+  "box": [
+   595,
+   811,
+   1162,
+   1161
+  ],
+  "level": "digits",
+  "lines": [
+   "L000198 2758L0",
+   "23:14 en",
+   "FECHA DE ENVASADO"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "Peo 400 g",
+   "hue",
+   "HAC",
+   "0M0am",
+   "L000198 2758L0",
+   "FECHA DE ENVASADO",
+   "CATA DE EMBALAGEM",
+   "23:14 en",
+   "M126",
+   "CRGENIORIGEM.",
+   "CHNA",
+   "8"
+  ],
+  "crop_wh": [
+   567,
+   350
+  ],
+  "sharpness": 22.8,
+  "ocr_s": 0.29
+ },
+ "f060.jpg": {
+  "n_lines": 13,
+  "box": [
+   574,
+   757,
+   1167,
+   1189
+  ],
+  "level": "digits",
+  "lines": [
+   "CM0221",
+   "LO00198 2768L0",
+   "23:14 €0",
+   "FECHA DE ENVASADO"
+  ],
+  "all_lines": [
+   "HACENGADO",
+   "hue",
+   "Pes  40 g.",
+   "HACF",
+   "CM0221",
+   "LO00198 2768L0",
+   "FECHA DE ENVASADO",
+   "CATA DE EMBALAGEM",
+   "23:14 €0",
+   "M124",
+   "CROEN/ORIGEM:",
+   "CHIUA",
+   "8"
+  ],
+  "crop_wh": [
+   593,
+   432
+  ],
+  "sharpness": 22.1,
+  "ocr_s": 0.28
+ },
+ "f066.jpg": {
+  "n_lines": 14,
+  "box": [
+   585,
+   837,
+   1153,
+   1187
+  ],
+  "level": "digits",
+  "lines": [
+   "L000198 2158L0",
+   "23:14 e3",
+   "FECHA DE EINVASADO"
+  ],
+  "all_lines": [
+   "458 mg(6o10",
+   "HACENIADO",
+   "Peo  40 g.",
+   "14",
+   "HACEN",
+   "0s0an",
+   "L000198 2158L0",
+   "FECHA DE EINVASADO",
+   "CATA DE EMBALAGEM:",
+   "23:14 e3",
+   "M125",
+   "CROENYORIGEM",
+   "CHIUA",
+   "8"
+  ],
+  "crop_wh": [
+   568,
+   350
+  ],
+  "sharpness": 23.4,
+  "ocr_s": 0.28
+ },
+ "f072.jpg": {
+  "n_lines": 11,
+  "box": [
+   581,
+   855,
+   1141,
+   1202
+  ],
+  "level": "digits",
+  "lines": [
+   "LO00198 2788L0",
+   "23:14 €2",
+   "FECHA DE RNVASADO"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "Peso  400 g",
+   "HACEND",
+   "Camam",
+   "LO00198 2788L0",
+   "FECHA DE RNVASADO",
+   "DATA DE EMBALAQEM:",
+   "23:14 €2",
+   "M128",
+   "CRCENY ORIGEM:",
+   "CHIU"
+  ],
+  "crop_wh": [
+   560,
+   347
+  ],
+  "sharpness": 23.8,
+  "ocr_s": 0.27
+ },
+ "f078.jpg": {
+  "n_lines": 16,
+  "box": [
+   576,
+   867,
+   1137,
+   1213
+  ],
+  "level": "digits",
+  "lines": [
+   "L000198 2758L0",
+   "23:14 09",
+   "FECHA DE ENVASACO"
+  ],
+  "all_lines": [
+   "458 mg (60",
+   "HACENTADO",
+   "dacahn",
+   "71",
+   "eo 40 g.",
+   "14",
+   "HACENDA",
+   "2",
+   "osnan",
+   "L000198 2758L0",
+   "FECHA DE ENVASACO",
+   "CATA DE EMBALAGEM",
+   "23:14 09",
+   "M1/25",
+   "CRCEN/ORIGEM:",
+   "CHNA"
+  ],
+  "crop_wh": [
+   561,
+   346
+  ],
+  "sharpness": 24.0,
+  "ocr_s": 0.3
+ },
+ "f084.jpg": {
+  "n_lines": 17,
+  "box": [
+   566,
+   871,
+   1122,
+   1218
+  ],
+  "level": "digits",
+  "lines": [
+   "L000198 2788L0",
+   "23:14 69",
+   "FECHA DE RNVASADO"
+  ],
+  "all_lines": [
+   "220 mg (59",
+   "458 mg (65)",
+   "NACENIADO",
+   "cacahus",
+   "am",
+   "14",
+   "Pes  400 g.",
+   "HACENDA",
+   "2",
+   "Canan",
+   "L000198 2788L0",
+   "FECHA DE RNVASADO",
+   "DATA DE EMBALAGEM",
+   "23:14 69",
+   "M126",
+   "ORDEN/ORIGEM",
+   "CHIA"
+  ],
+  "crop_wh": [
+   556,
+   347
+  ],
+  "sharpness": 24.7,
+  "ocr_s": 0.3
+ }
+}

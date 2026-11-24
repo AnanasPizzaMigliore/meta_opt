@@ -1,0 +1,524 @@
+{
+ "f000.jpg": {
+  "n_lines": 12,
+  "box": [
+   1265,
+   1043,
+   1361,
+   1201
+  ],
+  "level": "digits",
+  "lines": [
+   "500 g(2x250 g)"
+  ],
+  "all_lines": [
+   "LEGADO",
+   "AC",
+   "290c",
+   "3,90c",
+   "2,80",
+   "3,20",
+   "A AOA  ",
+   "9",
+   "",
+   "500 g(2x250 g)",
+   "e",
+   "X"
+  ],
+  "crop_wh": [
+   96,
+   158
+  ],
+  "sharpness": 336.2,
+  "ocr_s": 0.4
+ },
+ "f006.jpg": {
+  "n_lines": 16,
+  "box": [
+   848,
+   772,
+   968,
+   951
+  ],
+  "level": "digits",
+  "lines": [
+   "600 O00",
+   "500 g(2x250 g)"
+  ],
+  "all_lines": [
+   "FACA",
+   "290c",
+   " T",
+   "270c",
+   "2,80",
+   "o",
+   "600 O00",
+   "500 g(2x250 g)",
+   "ECMEOINA",
+   "S",
+   "540",
+   "osC",
+   "39",
+   "SxS)0 00",
+   "",
+   "7"
+  ],
+  "crop_wh": [
+   120,
+   179
+  ],
+  "sharpness": 306.7,
+  "ocr_s": 0.34
+ },
+ "f012.jpg": {
+  "n_lines": 13,
+  "box": [
+   931,
+   761,
+   1057,
+   944
+  ],
+  "level": "digits",
+  "lines": [
+   "ATNOL S80G220",
+   "500 g(2x250 g)"
+  ],
+  "all_lines": [
+   "290c",
+   "90c",
+   "210c",
+   "2,80.",
+   "viZ aber",
+   "E-",
+   "ATNOL S80G220",
+   "500 g(2x250 g)",
+   "RADCS CA",
+   "ECMEDIN",
+   "TO",
+   "DS)p00",
+   ""
+  ],
+  "crop_wh": [
+   126,
+   183
+  ],
+  "sharpness": 305.9,
+  "ocr_s": 0.33
+ },
+ "f018.jpg": {
+  "n_lines": 7,
+  "box": [
+   870,
+   781,
+   1056,
+   979
+  ],
+  "level": "digits",
+  "lines": [
+   "00  S0 0",
+   "500 g(2x250 g)",
+   "01407"
+  ],
+  "all_lines": [
+   "2,90",
+   "",
+   "2,80",
+   "00  S0 0",
+   "500 g(2x250 g)",
+   "01407",
+   "Th"
+  ],
+  "crop_wh": [
+   186,
+   198
+  ],
+  "sharpness": 322.1,
+  "ocr_s": 0.31
+ },
+ "f024.jpg": {
+  "n_lines": 12,
+  "box": [
+   917,
+   806,
+   1037,
+   977
+  ],
+  "level": "digits",
+  "lines": [
+   "ATIONOL OS00G20",
+   "500 g(2x250g"
+  ],
+  "all_lines": [
+   "VACK",
+   "290",
+   "A ",
+   "270",
+   "2.80",
+   "0",
+   "ATIONOL OS00G20",
+   "500 g(2x250g",
+   ".",
+   "ECMEDIN",
+   "x)0 00",
+   ""
+  ],
+  "crop_wh": [
+   120,
+   171
+  ],
+  "sharpness": 328.2,
+  "ocr_s": 0.32
+ },
+ "f030.jpg": {
+  "n_lines": 18,
+  "box": [
+   916,
+   805,
+   1038,
+   979
+  ],
+  "level": "digits",
+  "lines": [
+   "ATN0L S00 G220",
+   "500 g(2x250 g"
+  ],
+  "all_lines": [
+   "2.90:",
+   "",
+   "2.70",
+   "tork Une vez",
+   "le",
+   "BIGREDUATES",
+   "3",
+   "2,60",
+   "a de s",
+   "KN",
+   "ACL",
+   "ATN0L S00 G220",
+   "500 g(2x250 g",
+   "",
+   "5",
+   "ECHEDIN",
+   "x)0 00",
+   ""
+  ],
+  "crop_wh": [
+   122,
+   174
+  ],
+  "sharpness": 330.9,
+  "ocr_s": 0.31
+ },
+ "f036.jpg": {
+  "n_lines": 11,
+  "box": [
+   483,
+   624,
+   582,
+   720
+  ],
+  "level": "digits",
+  "lines": [
+   "2701"
+  ],
+  "all_lines": [
+   "2.90",
+   "Oc",
+   "B",
+   "2701",
+   "PRTC",
+   "2,60",
+   "0L S0G22.",
+   "500 g(2x250g",
+   "ECMEDINA",
+   "x)p00",
+   ""
+  ],
+  "crop_wh": [
+   99,
+   96
+  ],
+  "sharpness": 330.7,
+  "ocr_s": 0.31
+ },
+ "f042.jpg": {
+  "n_lines": 15,
+  "box": [
+   917,
+   824,
+   1013,
+   964
+  ],
+  "level": "digits",
+  "lines": [
+   "B00 S0220"
+  ],
+  "all_lines": [
+   "O",
+   "VACA",
+   "290c",
+   "Oc",
+   "",
+   "70",
+   "2.60",
+   "nd",
+   "B00 S0220",
+   "3",
+   "ECMEDINA",
+   "S",
+   "n",
+   "xSle 00",
+   ""
+  ],
+  "crop_wh": [
+   96,
+   140
+  ],
+  "sharpness": 326.3,
+  "ocr_s": 0.32
+ },
+ "f048.jpg": {
+  "n_lines": 14,
+  "box": [
+   951,
+   834,
+   1047,
+   991
+  ],
+  "level": "digits",
+  "lines": [
+   "500 g(2x250 g)"
+  ],
+  "all_lines": [
+   "VACA",
+   "2.90",
+   ",90c",
+   "",
+   "2,80",
+   "a",
+   "end",
+   "VEZ",
+   "S",
+   "ATONOL OCSO G20",
+   "500 g(2x250 g)",
+   "P",
+   "D",
+   ""
+  ],
+  "crop_wh": [
+   96,
+   157
+  ],
+  "sharpness": 330.8,
+  "ocr_s": 0.31
+ },
+ "f054.jpg": {
+  "n_lines": 14,
+  "box": [
+   935,
+   822,
+   1057,
+   995
+  ],
+  "level": "digits",
+  "lines": [
+   "0L S0 220",
+   "500 g(2x250 g"
+  ],
+  "all_lines": [
+   "290",
+   "90",
+   "",
+   "270:",
+   "cOn",
+   "2.80",
+   "VerAD",
+   "0L S0 220",
+   "500 g(2x250 g",
+   "3",
+   "ECMEDINA",
+   "8",
+   ")0 00",
+   ""
+  ],
+  "crop_wh": [
+   122,
+   173
+  ],
+  "sharpness": 329.7,
+  "ocr_s": 0.32
+ },
+ "f060.jpg": {
+  "n_lines": 13,
+  "box": [
+   958,
+   830,
+   1054,
+   993
+  ],
+  "level": "digits",
+  "lines": [
+   "500 g(2x250 g)"
+  ],
+  "all_lines": [
+   "VIC",
+   "290",
+   "3,90c",
+   " ",
+   "2,80.",
+   "L",
+   "9",
+   "TIOOL SOGO",
+   "500 g(2x250 g)",
+   "ECMEDIN",
+   "370",
+   "xS)e 00",
+   ""
+  ],
+  "crop_wh": [
+   96,
+   163
+  ],
+  "sharpness": 331.9,
+  "ocr_s": 0.31
+ },
+ "f066.jpg": {
+  "n_lines": 14,
+  "box": [
+   934,
+   822,
+   1058,
+   1002
+  ],
+  "level": "digits",
+  "lines": [
+   "P00  0220",
+   "500 g(2x250 g)"
+  ],
+  "all_lines": [
+   "2,90",
+   "90c",
+   "B   ",
+   "270.",
+   "2.80",
+   "LAX",
+   "wea de",
+   "vErab",
+   "P00  0220",
+   "500 g(2x250 g)",
+   "L",
+   "e",
+   "x5sle 00",
+   ""
+  ],
+  "crop_wh": [
+   124,
+   180
+  ],
+  "sharpness": 333.1,
+  "ocr_s": 0.29
+ },
+ "f072.jpg": {
+  "n_lines": 8,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "VACA",
+   "290",
+   "90c",
+   "2,80:",
+   "ECV",
+   "Ss)0 00",
+   "",
+   "e"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 273.2,
+  "ocr_s": 0.29
+ },
+ "f078.jpg": {
+  "n_lines": 15,
+  "box": [
+   988,
+   596,
+   1092,
+   771
+  ],
+  "level": "digits",
+  "lines": [
+   "500 g(2x250 g"
+  ],
+  "all_lines": [
+   "OvaCa",
+   "",
+   "2.90",
+   "Oc",
+   "g",
+   "BL S220",
+   "500 g(2x250 g",
+   "9",
+   "ADCS CAR",
+   "ECHEDINA",
+   "L",
+   "2.80",
+   "$xS/e 00",
+   "",
+   "1"
+  ],
+  "crop_wh": [
+   104,
+   175
+  ],
+  "sharpness": 306.6,
+  "ocr_s": 0.31
+ },
+ "f084.jpg": {
+  "n_lines": 18,
+  "box": [
+   971,
+   599,
+   1107,
+   791
+  ],
+  "level": "digits",
+  "lines": [
+   "ATOOCOL S00 220",
+   "500 g(2x250 g"
+  ],
+  "all_lines": [
+   "VACA",
+   "2.90:",
+   "90",
+   "UCIONES/PRECA",
+   "orca",
+   "antes do",
+   "vesz abert",
+   "9",
+   "ATOOCOL S00 220",
+   "500 g(2x250 g",
+   "9",
+   "ADOSCAR",
+   "cdn, s/",
+   "8",
+   "2,80",
+   "Sxs/e 00",
+   "TO",
+   "156"
+  ],
+  "crop_wh": [
+   136,
+   192
+  ],
+  "sharpness": 309.9,
+  "ocr_s": 0.34
+ }
+}

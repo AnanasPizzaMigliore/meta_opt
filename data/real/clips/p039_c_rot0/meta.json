@@ -1,0 +1,601 @@
+{
+ "f000.jpg": {
+  "n_lines": 26,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "NEULES",
+   "HACENDADO",
+   "2,30€",
+   "TLaamO",
+   "223",
+   "225",
+   "*",
+   "",
+   "Trufas",
+   "herries",
+   "Cherri",
+   "Lico",
+   "Cherries",
+   "Licor",
+   "Licor",
+   "LINDOR",
+   "Cnerries",
+   "Licor",
+   "320",
+   "Trufas",
+   "ies Licor",
+   "190c",
+   "7,95€",
+   "20€",
+   "Trufas",
+   "o"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 295.4,
+  "ocr_s": 0.49
+ },
+ "f006.jpg": {
+  "n_lines": 20,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Trufas",
+   "Trufas",
+   "Trufas",
+   "herries",
+   "Cherries",
+   "Licor",
+   "Licor",
+   "Cherries",
+   "Licor",
+   "sar",
+   "Truf",
+   "HACENDADO",
+   "Trufas",
+   "Trufas",
+   "Trufas",
+   "7,95c",
+   "2,15€",
+   "Men",
+   "COcX",
+   "124"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 214.7,
+  "ocr_s": 0.38
+ },
+ "f012.jpg": {
+  "n_lines": 16,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Trufas",
+   "Trufas",
+   "Trufas",
+   "erries",
+   "Cherries",
+   "Licor",
+   "Licor",
+   "Cherries",
+   "Licor",
+   "HACENDADO",
+   "Trufas",
+   "Trufas",
+   "Trufas",
+   "7.95c",
+   "2,15€",
+   "Coleen"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 205.8,
+  "ocr_s": 0.37
+ },
+ "f018.jpg": {
+  "n_lines": 19,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "225c",
+   "Trufas",
+   "Trufas",
+   "Trufas",
+   "herries",
+   "Cherrie",
+   "Licor",
+   "Licor",
+   "Cherries",
+   "Licor",
+   "LINDOR",
+   "HACENDIDO",
+   "Trufas",
+   "Trufas",
+   "Trufas",
+   "7,95c",
+   "2,15€",
+   "Mnan",
+   "12M"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 209.0,
+  "ocr_s": 0.39
+ },
+ "f024.jpg": {
+  "n_lines": 22,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Jant",
+   "225c",
+   "Trufas",
+   "Trufas",
+   "Trufas",
+   "herries",
+   "Cherrie",
+   "icol",
+   "Licor",
+   "Cherries",
+   "Licor",
+   "LINDOR",
+   "HATENDADO",
+   "Trufas",
+   "Trufas",
+   "Trufas",
+   "7,95c",
+   "2,15€",
+   "Tohe",
+   "colit.",
+   "COC",
+   "12LA"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 205.1,
+  "ocr_s": 0.37
+ },
+ "f030.jpg": {
+  "n_lines": 20,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "225e",
+   "Trufas",
+   "Trufas",
+   "Trufas",
+   "nerries",
+   "Cherrie",
+   "icor",
+   "Licor",
+   "Cherries",
+   "Licor",
+   "LINDOR",
+   "HACENDIDO",
+   "Trufas",
+   "Trufas",
+   "Trufas",
+   "7,95c",
+   "2,15€",
+   "Mat",
+   "colits",
+   "COX"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 209.4,
+  "ocr_s": 0.38
+ },
+ "f036.jpg": {
+  "n_lines": 20,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "225.",
+   "Trufas",
+   "Trufas",
+   "Trufas",
+   "herries",
+   "Cherrie",
+   "Licor",
+   "Licor",
+   "Cherries",
+   "Licor",
+   "LINDOR",
+   "HATENDADO",
+   "Trufas",
+   "Trufas",
+   "Trufas",
+   "7.95c",
+   "2,15€",
+   "zolit",
+   "cOO",
+   "12"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 209.9,
+  "ocr_s": 0.37
+ },
+ "f042.jpg": {
+  "n_lines": 21,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "225e",
+   "Trufas",
+   "Trufas",
+   "Trufas",
+   "",
+   "herries",
+   "Cherrie",
+   "Licor",
+   "Licor",
+   "Cherries",
+   "Licor",
+   "INDO",
+   "HACENDADO",
+   "Trufas",
+   "Trufas",
+   "Trufas",
+   "7,95c",
+   "2,15€",
+   "TOow",
+   "polle",
+   "COCY"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 209.6,
+  "ocr_s": 0.37
+ },
+ "f048.jpg": {
+  "n_lines": 20,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "225",
+   "Trufas",
+   "Trufas",
+   "Trufas",
+   "nerries",
+   "Cherrie",
+   "Licor",
+   "Licor",
+   "Cherries",
+   "Licor",
+   "UINDO",
+   "LICESOADO",
+   "Trufas",
+   "Trufas",
+   "Trufas",
+   "7,95c",
+   "2,15€",
+   "M",
+   "poltt",
+   "COC"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 207.7,
+  "ocr_s": 0.38
+ },
+ "f054.jpg": {
+  "n_lines": 22,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "225",
+   "Trufas",
+   "Trufas",
+   "Trufas",
+   "herries",
+   "Cherrie",
+   "Licor",
+   "Licor",
+   "Cherries",
+   "Licor",
+   "LINDOR",
+   "ILCENODO",
+   "Trufas",
+   "Trufas",
+   "Trufas",
+   "7,95c",
+   "2,15€",
+   "F",
+   "TLKP",
+   "colln",
+   "COC",
+   "2"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 210.3,
+  "ocr_s": 0.39
+ },
+ "f060.jpg": {
+  "n_lines": 21,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Vonin",
+   "225e",
+   "Trufas",
+   "Trufas",
+   "Trufas",
+   "herries",
+   "Cherrie",
+   "Licor",
+   "Licor",
+   "Cherries",
+   "Licor",
+   "UNDO",
+   "HACENDADO",
+   "Trufas",
+   "Trufas",
+   "Trufas",
+   "7,95c",
+   "2,15€",
+   "TrOL",
+   "vollts",
+   "COC"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 208.5,
+  "ocr_s": 0.39
+ },
+ "f066.jpg": {
+  "n_lines": 22,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "0",
+   "225e",
+   "Trufas",
+   "Trufas",
+   "Trufas",
+   "herries",
+   "Cherrie",
+   "Licor",
+   "Licor",
+   "Cherries",
+   "Licor",
+   "LINDOR",
+   "HECEROATO",
+   "Trufas",
+   "Trufas",
+   "Trufas",
+   "7,95c",
+   "2,15€",
+   "AILR",
+   "colite",
+   "COCY",
+   "12-LA"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 210.0,
+  "ocr_s": 0.38
+ },
+ "f072.jpg": {
+  "n_lines": 23,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Uovian",
+   "225e",
+   "Trufas",
+   "Trufas",
+   "Trufas",
+   "herries",
+   "Cherrie",
+   "Licor",
+   "Licor",
+   "Cherries",
+   "Licor",
+   "LINDOR",
+   "HACESDAIDO",
+   "Trufas",
+   "Trufas",
+   "Trufas",
+   "7,95c",
+   "2,15€",
+   "",
+   "mhen",
+   "volite",
+   "COCr",
+   "12 L"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 208.0,
+  "ocr_s": 0.38
+ },
+ "f078.jpg": {
+  "n_lines": 22,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "225c",
+   "Trufas",
+   "Trufas",
+   "Trufas",
+   "CLANI",
+   "herries",
+   "Cherrie",
+   "Licor",
+   "Licor",
+   "Cherries",
+   "Licor",
+   "LINDOR",
+   "HACENDADO",
+   "Trufas",
+   "Trufas",
+   "Trufas",
+   "7,95c",
+   "2,15€",
+   "Dne",
+   "colit",
+   "OC",
+   "12-LA"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 209.8,
+  "ocr_s": 0.38
+ },
+ "f084.jpg": {
+  "n_lines": 20,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "225",
+   "Trufas",
+   "Trufas",
+   "Trufas",
+   "herries",
+   "Cherries",
+   "Licor",
+   "Licor",
+   "Cherries",
+   "Licor",
+   "HATENDADO",
+   "Trufas",
+   "Trufas",
+   "Trufas",
+   "7,95c",
+   "2,15€",
+   "Maran",
+   "colit",
+   "COCY",
+   "12-LA"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 208.2,
+  "ocr_s": 0.38
+ }
+}

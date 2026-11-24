@@ -1,0 +1,581 @@
+{
+ "f000.jpg": {
+  "n_lines": 52,
+  "box": [
+   78,
+   850,
+   347,
+   1071
+  ],
+  "level": "date",
+  "lines": [
+   "08.02.27"
+  ],
+  "all_lines": [
+   "160c",
+   "ácticos.",
+   "-160a)).",
+   "45",
+   "MENTAL CHEDDA",
+   "elha",
+   "produto em refrigeração",
+   "atmosfera protetora.",
+   "10",
+   "entemente antes",
+   "CONSERI",
+   "50",
+   "QUFIIO",
+   "UESO CURADO)",
+   "C",
+   "08.02.27",
+   "sento de",
+   ":07 78",
+   "de vaca",
+   "ACIC",
+   "7ADO)",
+   "de",
+   "mic",
+   "vaca",
+   "una",
+   "biano,",
+   "Enva",
+   "colorante",
+   "°C Uma",
+   "prazo",
+   "AÇÃO",
+   "termentos",
+   "adade",
+   "1o",
+   "3",
+   "Valor",
+   "corante",
+   "S",
+   "(E-202))",
+   "cabra",
+   "35",
+   "toS",
+   "de",
+   "C",
+   "qu",
+   "0",
+   "100g",
+   "rbono",
+   "200",
+   "/Açúcares",
+   "qu",
+   "28g"
+  ],
+  "crop_wh": [
+   269,
+   221
+  ],
+  "sharpness": 94.2,
+  "ocr_s": 0.52
+ },
+ "f006.jpg": {
+  "n_lines": 11,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "NA",
+   "produto em",
+   "Conservar",
+   "atmosfera",
+   "ntes del:",
+   "Lote / Consumir preferentem",
+   "otetora",
+   "igeraçao",
+   "consumir no",
+   "JESOS",
+   "UELJOS"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 30.0,
+  "ocr_s": 0.31
+ },
+ "f012.jpg": {
+  "n_lines": 8,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Conservar no fria",
+   "produto em",
+   "atmosfera pro",
+   "C. Una vez abi",
+   "C",
+   "QUESE",
+   "Pol",
+   "9h"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 21.5,
+  "ocr_s": 0.32
+ },
+ "f018.jpg": {
+  "n_lines": 15,
+  "box": [
+   1585,
+   1419,
+   1728,
+   1685
+  ],
+  "level": "digits",
+  "lines": [
+   "80050022"
+  ],
+  "all_lines": [
+   "S",
+   "produto em refriger",
+   "VC",
+   "atm",
+   "osfera protetora",
+   "CON",
+   "ESOS",
+   "JEL",
+   "aura",
+   "80050022",
+   "QUESER",
+   "Pol lad",
+   "",
+   "0",
+   "Espach"
+  ],
+  "crop_wh": [
+   143,
+   266
+  ],
+  "sharpness": 20.1,
+  "ocr_s": 0.33
+ },
+ "f024.jpg": {
+  "n_lines": 15,
+  "box": [
+   868,
+   303,
+   1241,
+   577
+  ],
+  "level": "date",
+  "lines": [
+   "08.02.27"
+  ],
+  "all_lines": [
+   "lácticos, coagi",
+   "O",
+   "sfera protetora.",
+   "e",
+   "08.02.27",
+   "coag",
+   "65052-31423:07 7B",
+   "QUESO",
+   "OLT",
+   "A",
+   "Lefue",
+   "Fabricato por",
+   "800500220",
+   "Espalia Espanta",
+   "39792R88s"
+  ],
+  "crop_wh": [
+   373,
+   274
+  ],
+  "sharpness": 22.0,
+  "ocr_s": 0.32
+ },
+ "f030.jpg": {
+  "n_lines": 17,
+  "box": [
+   837,
+   278,
+   1208,
+   553
+  ],
+  "level": "date",
+  "lines": [
+   "08.02.27"
+  ],
+  "all_lines": [
+   "prduto em refrigeraça",
+   "S",
+   "sfera protetora.",
+   "08.02.27",
+   "CONSERV",
+   "65052-31423:0778",
+   "1",
+   "0",
+   "/CO",
+   "Fabricacopo",
+   "efuet",
+   "Pol. lnd Heras",
+   "39792Her2s",
+   "Espala Espanta",
+   "-",
+   "00220",
+   "ONA"
+  ],
+  "crop_wh": [
+   371,
+   275
+  ],
+  "sharpness": 20.0,
+  "ocr_s": 0.32
+ },
+ "f036.jpg": {
+  "n_lines": 18,
+  "box": [
+   811,
+   262,
+   1187,
+   549
+  ],
+  "level": "date",
+  "lines": [
+   "08.02.27"
+  ],
+  "all_lines": [
+   "V",
+   "Iha",
+   "CO",
+   "duto em refrigeraca",
+   "pasteurizado.",
+   "coagu",
+   "sfera protetora",
+   "nte",
+   "08.02.27",
+   "coa",
+   "lante",
+   "65052-314 23:07 78",
+   "2",
+   "N/CONSER",
+   "Fabricado",
+   "efuent",
+   "QUESERA",
+   "39712"
+  ],
+  "crop_wh": [
+   376,
+   287
+  ],
+  "sharpness": 19.7,
+  "ocr_s": 0.31
+ },
+ "f042.jpg": {
+  "n_lines": 15,
+  "box": [
+   813,
+   254,
+   1183,
+   536
+  ],
+  "level": "date",
+  "lines": [
+   "08.02.27"
+  ],
+  "all_lines": [
+   "ctic",
+   "duto em refrigeração",
+   "sfera protetora.",
+   "Queijo",
+   "coagulante",
+   "08.02.27",
+   "65052-31423:07 7B",
+   "VACIÓN/CONSER",
+   "Lefurte",
+   "800 500220",
+   "Fabricado pur",
+   "QUESERIA LARU",
+   "Pol. lnd Heras,",
+   "39792He",
+   "España/Espunta"
+  ],
+  "crop_wh": [
+   370,
+   282
+  ],
+  "sharpness": 20.2,
+  "ocr_s": 0.36
+ },
+ "f048.jpg": {
+  "n_lines": 18,
+  "box": [
+   801,
+   248,
+   1169,
+   529
+  ],
+  "level": "date",
+  "lines": [
+   "08.02.27"
+  ],
+  "all_lines": [
+   "rel",
+   "-",
+   "apasteurizado.",
+   "A",
+   "M",
+   "coagul",
+   "sfera protetora.",
+   "08.02.27",
+   "CONSERV",
+   "65052-31423:07 7B",
+   "CION/CONSERVA",
+   "80050",
+   "QUESERIA LARUENT",
+   "Pod Ind Heras, p",
+   "39792 Heras Ca",
+   "C",
+   "EspaisEspante",
+   "ON"
+  ],
+  "crop_wh": [
+   368,
+   281
+  ],
+  "sharpness": 20.0,
+  "ocr_s": 0.34
+ },
+ "f054.jpg": {
+  "n_lines": 19,
+  "box": [
+   801,
+   248,
+   1171,
+   532
+  ],
+  "level": "date",
+  "lines": [
+   "08.02.27"
+  ],
+  "all_lines": [
+   "e",
+   "O",
+   "pasteurizado.",
+   "asfera protetora.",
+   "S",
+   "8",
+   "coagulante",
+   "08.02.27",
+   "CONS",
+   "65052-31423:07 78",
+   "N/CONSERV",
+   "ME",
+   "Lefuento",
+   "Fabricado pur",
+   "QUESERIALARUENTE",
+   "Pol ind Heas pa",
+   "39792Hers Cant",
+   "Espala Espanta",
+   "ADOHA"
+  ],
+  "crop_wh": [
+   370,
+   284
+  ],
+  "sharpness": 19.8,
+  "ocr_s": 0.35
+ },
+ "f060.jpg": {
+  "n_lines": 15,
+  "box": [
+   803,
+   247,
+   1175,
+   531
+  ],
+  "level": "date",
+  "lines": [
+   "08.02.27"
+  ],
+  "all_lines": [
+   "LC",
+   "DO",
+   "sfera protetora",
+   "0",
+   "ante",
+   "08.02.27",
+   "65052-314 23:07 7B",
+   "ACIÓN/CONSERV",
+   "Lofuent",
+   "800500220",
+   "Fabricado pur",
+   "QUESERIA LAPUENTE",
+   "Pol tnd Heras, pa",
+   "39792Hers (Ca",
+   "Espala/Espanta"
+  ],
+  "crop_wh": [
+   372,
+   284
+  ],
+  "sharpness": 19.9,
+  "ocr_s": 0.33
+ },
+ "f066.jpg": {
+  "n_lines": 16,
+  "box": [
+   805,
+   226,
+   1191,
+   516
+  ],
+  "level": "date",
+  "lines": [
+   "08.02.27"
+  ],
+  "all_lines": [
+   "S",
+   "duto em refrigeração",
+   "pasteurizado.",
+   "coagul",
+   "asfera protetora.",
+   ".",
+   "inte",
+   "coagu",
+   "08.02.27",
+   "65052-314 23:07 7B",
+   "nL",
+   "ACIÓN/CONSER",
+   "ofueato",
+   "Pal ind Hers.",
+   "39712He(C",
+   "EspalaEspanta"
+  ],
+  "crop_wh": [
+   386,
+   290
+  ],
+  "sharpness": 18.6,
+  "ocr_s": 0.35
+ },
+ "f072.jpg": {
+  "n_lines": 18,
+  "box": [
+   809,
+   226,
+   1195,
+   524
+  ],
+  "level": "date",
+  "lines": [
+   "08.02.27"
+  ],
+  "all_lines": [
+   "atm",
+   "pasteurizado.",
+   "coagul",
+   "sfera protetora.",
+   "nte mic",
+   "coagulan",
+   "08.02.27",
+   "65052-314 23:07 7B",
+   "4",
+   "1e",
+   "4",
+   "Lojente",
+   "80050022",
+   "Fabrica",
+   "QUESERIALAF",
+   "Poal. ind Heres",
+   "39792Her(0",
+   "Espala Espanta"
+  ],
+  "crop_wh": [
+   386,
+   298
+  ],
+  "sharpness": 18.6,
+  "ocr_s": 0.32
+ },
+ "f078.jpg": {
+  "n_lines": 16,
+  "box": [
+   811,
+   208,
+   1210,
+   507
+  ],
+  "level": "date",
+  "lines": [
+   "08.02.27"
+  ],
+  "all_lines": [
+   "ha",
+   "S",
+   "duto em refrigeração",
+   "asfera protetora.",
+   "nte mic",
+   "coagula",
+   "08.02.27",
+   "65052-314 23:07 7B",
+   "−",
+   "Una vez abierto, conser",
+   "ae",
+   "MERC",
+   "Fabricado",
+   "afurate",
+   "Esca",
+   "DOHA"
+  ],
+  "crop_wh": [
+   399,
+   299
+  ],
+  "sharpness": 17.7,
+  "ocr_s": 0.31
+ },
+ "f084.jpg": {
+  "n_lines": 15,
+  "box": [
+   814,
+   212,
+   1207,
+   508
+  ],
+  "level": "date",
+  "lines": [
+   "08.02.27"
+  ],
+  "all_lines": [
+   "%O",
+   "duto em refrigeração",
+   "steurizado,",
+   "sfera protetora.",
+   "nte mic",
+   "CONSERV",
+   "coagula",
+   "08.02.27",
+   "65052-314 23:07 7B",
+   "svent",
+   "QUESERIA",
+   "Pol ind",
+   "Es0I",
+   "He",
+   "Expank"
+  ],
+  "crop_wh": [
+   393,
+   296
+  ],
+  "sharpness": 17.7,
+  "ocr_s": 0.32
+ }
+}

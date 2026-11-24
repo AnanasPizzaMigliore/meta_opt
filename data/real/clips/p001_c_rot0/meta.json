@@ -1,0 +1,449 @@
+{
+ "f000.jpg": {
+  "n_lines": 10,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Biscotto",
+   "MINI COOKIES",
+   "Cenpepias",
+   "de checoate.",
+   "x4",
+   "PACKS",
+   "25%",
+   "/SO",
+   "E",
+   "160g"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 25.3,
+  "ocr_s": 0.37
+ },
+ "f006.jpg": {
+  "n_lines": 12,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Biscotto",
+   "MINI COOKIES",
+   "Conpepiles/",
+   "de chocolate",
+   "x4",
+   "PACKS",
+   "C",
+   "Apans",
+   "25% ICCLAT",
+   "NUTRI-SCORE",
+   "W",
+   "160g"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 25.4,
+  "ocr_s": 0.29
+ },
+ "f012.jpg": {
+  "n_lines": 9,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Biscotto",
+   "MINI COOKIES",
+   "Con pepitos/",
+   "de chocolate",
+   "x4",
+   "PACKS",
+   "25% CHUCELATE",
+   "NUTRI-SCORE",
+   "160g"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 27.1,
+  "ocr_s": 0.28
+ },
+ "f018.jpg": {
+  "n_lines": 10,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Biscotto",
+   "MINI COOKIES",
+   "Con pepilas/a",
+   "de chocolate",
+   "x4",
+   "PACKS",
+   "25% COMCRLATE",
+   "NUTRI-SCORE",
+   "E",
+   "160g"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 27.4,
+  "ocr_s": 0.28
+ },
+ "f024.jpg": {
+  "n_lines": 10,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Biscotto",
+   "MINI COOKIES",
+   "Con pepitas",
+   "de chocolate",
+   "x4",
+   "PACKS",
+   "25% CANCELAT",
+   "NUTRI-SCORE",
+   "E",
+   "160g"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 28.1,
+  "ocr_s": 0.27
+ },
+ "f030.jpg": {
+  "n_lines": 11,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Biscotto",
+   "MINI COOKIES",
+   "\"Con pepitas/",
+   "de chocolate",
+   "x4",
+   "PACKS",
+   "25% CHOCOLAT",
+   "NUTRI-SCONE",
+   "160g",
+   "C",
+   "SORES"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 27.8,
+  "ocr_s": 0.29
+ },
+ "f036.jpg": {
+  "n_lines": 10,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Biscotto",
+   "MINI COOKIES",
+   "Con pepilos",
+   "de chocolate",
+   "x4",
+   "PACKS",
+   "25% CUCOLATT",
+   "NUTRI-SCORE",
+   "E",
+   "160g"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 28.6,
+  "ocr_s": 0.28
+ },
+ "f042.jpg": {
+  "n_lines": 10,
+  "box": [
+   812,
+   1310,
+   929,
+   1406
+  ],
+  "level": "digits",
+  "lines": [
+   "1609"
+  ],
+  "all_lines": [
+   "Biscotto",
+   "MINI COOKIES",
+   "Conpepitos/ccm",
+   "de chocolate",
+   "x4",
+   "PACKS",
+   "25% CHCOLATE",
+   "NUTRI-SCORE",
+   "E",
+   "1609"
+  ],
+  "crop_wh": [
+   117,
+   96
+  ],
+  "sharpness": 28.3,
+  "ocr_s": 0.28
+ },
+ "f048.jpg": {
+  "n_lines": 10,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Biscotto",
+   "MINI COOKIES",
+   "Conpepues/",
+   "de chocolate",
+   "x4",
+   "PACKS",
+   "25% CINCOLAVE",
+   "NUTRI-SCORE",
+   "E",
+   "160g"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 28.6,
+  "ocr_s": 0.28
+ },
+ "f054.jpg": {
+  "n_lines": 9,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Biscotto",
+   "MINI COOKIES",
+   "Conpepitas/",
+   "de chocolate",
+   "x4",
+   "PACKS",
+   "25% OICELATT",
+   "NUTRI-SCORE",
+   "160g"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 28.5,
+  "ocr_s": 0.27
+ },
+ "f060.jpg": {
+  "n_lines": 10,
+  "box": [
+   806,
+   1310,
+   928,
+   1411
+  ],
+  "level": "digits",
+  "lines": [
+   "1609"
+  ],
+  "all_lines": [
+   "Biscotto",
+   "MINI COOKIES",
+   "Con pepitas/",
+   "de chocolate",
+   "x4",
+   "PACKS",
+   "25% COCULTE",
+   "NUTRI-SCORE",
+   "1609",
+   ""
+  ],
+  "crop_wh": [
+   122,
+   101
+  ],
+  "sharpness": 28.5,
+  "ocr_s": 0.28
+ },
+ "f066.jpg": {
+  "n_lines": 12,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Biscotto",
+   "MINI COOKIES",
+   "Con pepilas",
+   "de chocolate",
+   "x4",
+   "PACKS",
+   "25% CICOLATE",
+   "NUTRI-SCORE",
+   "W",
+   "160g",
+   "TD",
+   ""
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 28.5,
+  "ocr_s": 0.27
+ },
+ "f072.jpg": {
+  "n_lines": 10,
+  "box": [
+   806,
+   1312,
+   926,
+   1410
+  ],
+  "level": "digits",
+  "lines": [
+   "1609"
+  ],
+  "all_lines": [
+   "Biscotto",
+   "MINI COOKIES",
+   "Con pepitas/",
+   "de chocolate",
+   "x4",
+   "PACKS",
+   "25%",
+   "NUTRI-SCORE",
+   "E",
+   "1609"
+  ],
+  "crop_wh": [
+   120,
+   98
+  ],
+  "sharpness": 28.9,
+  "ocr_s": 0.29
+ },
+ "f078.jpg": {
+  "n_lines": 11,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Biscotto",
+   "MINI COOKIES",
+   "Can pepitas",
+   "de chocolate",
+   "x4",
+   "PACKS",
+   "25% CICOLAT",
+   "NUTRI-SCORE",
+   "160g",
+   "",
+   "Srre"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 28.4,
+  "ocr_s": 0.28
+ },
+ "f084.jpg": {
+  "n_lines": 12,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Biscotto",
+   "MINI COOKIES",
+   "Con pepitas/",
+   "de chocolate",
+   "x4",
+   "PACKS",
+   "25% CUCATE",
+   "NUTRI-SCORE",
+   "160g",
+   "E",
+   "",
+   "Snpans"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 29.1,
+  "ocr_s": 0.28
+ }
+}

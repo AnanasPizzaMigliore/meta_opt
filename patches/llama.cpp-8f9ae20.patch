@@ -1,0 +1,176 @@
+diff --git a/src/llama-arch.cpp b/src/llama-arch.cpp
+index 850737eca..163214ac8 100644
+--- a/src/llama-arch.cpp
++++ b/src/llama-arch.cpp
+@@ -446,6 +446,8 @@ static const std::map<llm_tensor, const char *> LLM_TENSOR_NAMES = {
+     { LLM_TENSOR_OUTPUT_NORM,                            "output_norm" },
+     { LLM_TENSOR_OUTPUT_NORM_LFM2,                       "token_embd_norm" }, // fix for wrong tensor name
+     { LLM_TENSOR_OUTPUT,                                 "output" },
++    { LLM_TENSOR_OUTPUT_SUB,                             "output_sub" },
++    { LLM_TENSOR_OUTPUT_SUB_MAP,                         "output_sub_map" },
+     { LLM_TENSOR_ROPE_FREQS,                             "rope_freqs" },
+     { LLM_TENSOR_HRM_Z_L_INIT,                           "hrm.z_l_init" },
+     { LLM_TENSOR_ATTN_NORM,                              "blk.%d.attn_norm" },
+@@ -753,6 +755,8 @@ static const std::map<llm_tensor, llm_tensor_info> LLM_TENSOR_INFOS = {
+     {LLM_TENSOR_HRM_Z_L_INIT,               {LLM_TENSOR_LAYER_REPEATING, GGML_OP_ADD}},
+     {LLM_TENSOR_TOKEN_EMBD_NORM,            {LLM_TENSOR_LAYER_REPEATING, GGML_OP_MUL}},  // do the norms on the first layer (not the input layer)
+     {LLM_TENSOR_OUTPUT,                     {LLM_TENSOR_LAYER_OUTPUT,    GGML_OP_MUL_MAT}},
++    {LLM_TENSOR_OUTPUT_SUB,                 {LLM_TENSOR_LAYER_OUTPUT,    GGML_OP_MUL_MAT}},
++    {LLM_TENSOR_OUTPUT_SUB_MAP,             {LLM_TENSOR_LAYER_OUTPUT,    GGML_OP_GET_ROWS}},
+     {LLM_TENSOR_CLS,                        {LLM_TENSOR_LAYER_OUTPUT,    GGML_OP_MUL_MAT}},
+     {LLM_TENSOR_CLS_OUT,                    {LLM_TENSOR_LAYER_OUTPUT,    GGML_OP_MUL_MAT}},
+     {LLM_TENSOR_CLS_NORM,                   {LLM_TENSOR_LAYER_OUTPUT,    GGML_OP_MUL}},
+diff --git a/src/llama-arch.h b/src/llama-arch.h
+index 24068fb7a..f7ec3724f 100644
+--- a/src/llama-arch.h
++++ b/src/llama-arch.h
+@@ -454,6 +454,8 @@ enum llm_tensor {
+     LLM_TENSOR_DENSE_2_OUT,
+     LLM_TENSOR_DENSE_3_OUT,
+     LLM_TENSOR_OUTPUT,
++    LLM_TENSOR_OUTPUT_SUB,      // task-vocabulary LM head: rows of the output matrix + bias (-inf pad row)
++    LLM_TENSOR_OUTPUT_SUB_MAP,  // I32 [n_vocab]: full-vocab id -> row of OUTPUT_SUB (pad row if absent)
+     LLM_TENSOR_OUTPUT_NORM,
+     LLM_TENSOR_OUTPUT_NORM_LFM2, // fix for wrong tensor name
+     LLM_TENSOR_ROPE_FREQS,
+diff --git a/src/llama-model.h b/src/llama-model.h
+index 2243377cc..4c1052cc8 100644
+--- a/src/llama-model.h
++++ b/src/llama-model.h
+@@ -658,6 +658,10 @@ struct llama_model {
+     struct ggml_tensor * output_res_score = nullptr; // kimi-k3: final cross-layer residual mix
+     struct ggml_tensor * output_norm_b   = nullptr;
+     struct ggml_tensor * output          = nullptr;
++    // optional task-vocabulary LM head (see llm_graph_context::build_lm_head_sub)
++    struct ggml_tensor * output_sub      = nullptr;
++    struct ggml_tensor * output_sub_b    = nullptr;
++    struct ggml_tensor * output_sub_map  = nullptr;
+     struct ggml_tensor * output_b        = nullptr;
+     struct ggml_tensor * output_norm_enc = nullptr;
+ 
+diff --git a/src/models/qwen35.cpp b/src/models/qwen35.cpp
+index ab98744a5..294071596 100644
+--- a/src/models/qwen35.cpp
++++ b/src/models/qwen35.cpp
+@@ -30,6 +30,24 @@ void llama_model_qwen35::load_arch_hparams(llama_model_loader & ml) {
+     }
+ }
+ 
++// Task-vocabulary LM head. When the GGUF carries output_sub (rows of the output matrix for the
++// tokens a task can emit, plus one zero pad row) only those rows are multiplied; every other
++// token gets the pad row's bias (-inf). The result is scattered back to the full vocabulary with
++// get_rows, so samplers and speculative decoding see ordinary [n_vocab, n_out] logits.
++// Disable with LLAMA_FULL_VOCAB=1.
++static bool qwen35_use_lm_head_sub(const llama_model & model) {
++    static const bool off = getenv("LLAMA_FULL_VOCAB") && atoi(getenv("LLAMA_FULL_VOCAB")) != 0;
++    return model.output_sub && !off;
++}
++
++static ggml_tensor * qwen35_lm_head_sub(ggml_context * ctx0, const llama_model & model, ggml_tensor * cur) {
++    ggml_tensor * l = ggml_mul_mat(ctx0, model.output_sub, cur);   // [n_sub, n_out]
++    l = ggml_add(ctx0, l, model.output_sub_b);                      // pad row -> -inf
++    l = ggml_cont(ctx0, ggml_transpose(ctx0, l));                   // [n_out, n_sub]
++    l = ggml_get_rows(ctx0, l, model.output_sub_map);               // [n_out, n_vocab]
++    return ggml_cont(ctx0, ggml_transpose(ctx0, l));                // [n_vocab, n_out]
++}
++
+ void llama_model_qwen35::load_arch_tensors(llama_model_loader & ml) {
+     LLAMA_LOAD_LOCALS;
+ 
+@@ -52,6 +70,14 @@ void llama_model_qwen35::load_arch_tensors(llama_model_loader & ml) {
+         output = create_tensor(tn(LLM_TENSOR_TOKEN_EMBD, "weight"), { n_embd, n_vocab }, TENSOR_DUPLICATED);
+     }
+ 
++    // optional task-vocabulary LM head
++    if (const ggml_tensor * meta = ml.get_tensor_meta(tn(LLM_TENSOR_OUTPUT_SUB, "weight").str().c_str())) {
++        const int64_t n_sub = meta->ne[1];
++        output_sub     = create_tensor(tn(LLM_TENSOR_OUTPUT_SUB,     "weight"), { n_embd, n_sub }, 0);
++        output_sub_b   = create_tensor(tn(LLM_TENSOR_OUTPUT_SUB,     "bias"),   { n_sub },         0);
++        output_sub_map = create_tensor(tn(LLM_TENSOR_OUTPUT_SUB_MAP, "weight"), { n_vocab },       0);
++    }
++
+     auto load_block_trunk = [&](int il, int flags) {
+         auto & layer = layers[il];
+ 
+@@ -230,7 +256,8 @@ llama_model_qwen35::graph::graph(const llama_model & model, const llm_graph_para
+     }
+ 
+     // LM head
+-    cur = build_lora_mm(model.output, cur, model.output_s);
++    cur = qwen35_use_lm_head_sub(model) ? qwen35_lm_head_sub(ctx0, model, cur)
++                                        : build_lora_mm(model.output, cur, model.output_s);
+ 
+     cb(cur, "result_output", -1);
+     res->t_logits = cur;
+@@ -651,7 +678,8 @@ llama_model_qwen35::graph_mtp::graph_mtp(const llama_model & model, const llm_gr
+     ggml_tensor * head_w = layer.nextn.shared_head_head ? layer.nextn.shared_head_head : model.output;
+     ggml_tensor * head_s = layer.nextn.shared_head_head ? layer.nextn.shared_head_head_s : model.output_s;
+     GGML_ASSERT(head_w && "QWEN35 MTP: missing LM head (nextn.shared_head_head or model.output)");
+-    cur = build_lora_mm(head_w, cur, head_s);
++    cur = (!layer.nextn.shared_head_head && qwen35_use_lm_head_sub(model)) ? qwen35_lm_head_sub(ctx0, model, cur)
++                                                                           : build_lora_mm(head_w, cur, head_s);
+     cb(cur, "result_output", -1);
+ 
+     res->t_logits = cur;
+diff --git a/tools/mtmd/clip.cpp b/tools/mtmd/clip.cpp
+index 50fb6c408..6068450c6 100644
+--- a/tools/mtmd/clip.cpp
++++ b/tools/mtmd/clip.cpp
+@@ -775,8 +775,17 @@ ggml_tensor * clip_graph::build_attn(
+     if (flash_attn_type == CLIP_FLASH_ATTN_TYPE_ENABLED) {
+         ggml_tensor * v = ggml_permute(ctx0, v_cur, 0, 2, 1, 3);
+ 
+-        k = ggml_cast(ctx0, k, GGML_TYPE_F16);
+-        v = ggml_cast(ctx0, v, GGML_TYPE_F16);
++        // MTMD_FA_F32_KV=1 keeps K/V in F32: the OpenCL backend only runs uniform-type flash attention
++        // on Adreno 7xx (its mixed f32-Q/f16-KV program crashes that compiler), so this moves the ViT
++        // attention onto the GPU instead of falling back to the CPU.
++        static const bool fa_f32_kv = getenv("MTMD_FA_F32_KV") && atoi(getenv("MTMD_FA_F32_KV")) != 0;
++        if (!fa_f32_kv) {
++            k = ggml_cast(ctx0, k, GGML_TYPE_F16);
++            v = ggml_cast(ctx0, v, GGML_TYPE_F16);
++        } else {
++            k = ggml_cont(ctx0, k);
++            v = ggml_cont(ctx0, v);
++        }
+         if (kq_mask) {
+             kq_mask = ggml_cast(ctx0, kq_mask, GGML_TYPE_F16);
+         }
+@@ -791,7 +800,13 @@ ggml_tensor * clip_graph::build_attn(
+ 
+     } else {
+         ggml_tensor * v = ggml_permute(ctx0, v_cur, 1, 2, 0, 3);
+-        v = ggml_cont(ctx0, v);
++        // MTMD_ATTN_F16=1: K and V^T in F16 for the two attention matmuls (halves their memory traffic;
++        // on OpenCL this selects the f16 x f32 tiled GEMM)
++        static const bool attn_f16 = getenv("MTMD_ATTN_F16") && atoi(getenv("MTMD_ATTN_F16")) != 0;
++        v = attn_f16 ? ggml_cast(ctx0, v, GGML_TYPE_F16) : ggml_cont(ctx0, v);
++        if (attn_f16) {
++            k = ggml_cast(ctx0, k, GGML_TYPE_F16);
++        }
+ 
+         ggml_tensor * kq = ggml_mul_mat(ctx0, k, q);
+         // F32 may not needed for vision encoders?
+diff --git a/tools/server/server-context.cpp b/tools/server/server-context.cpp
+index 13be63acd..47440f991 100644
+--- a/tools/server/server-context.cpp
++++ b/tools/server/server-context.cpp
+@@ -3739,6 +3739,18 @@ private:
+                             break;
+                         }
+ 
++                        // checkpoint the state right before a media chunk: lets a fixed text prefix placed
++                        // before the image (e.g. task instructions) be restored on the next request for models
++                        // whose memory cannot be rolled back (recurrent / hybrid), instead of re-processing it
++                        if (do_checkpoint && cur_token_idx > 0 &&
++                                (slot.prompt.checkpoints.empty() || slot.prompt.checkpoints.back().n_tokens < cur_token_idx)) {
++                            const auto pos_min = llama_memory_seq_pos_min(llama_get_memory(ctx_tgt), slot.id);
++                            const auto pos_max = llama_memory_seq_pos_max(llama_get_memory(ctx_tgt), slot.id);
++                            if (pos_min >= 0) {
++                                create_checkpoint(slot, 0, pos_min, pos_max);
++                            }
++                        }
++
+                         // process the mtmd chunk
+                         // note: it submits its own decode, potentially be async
+                         //       so the timing is queued and flushed on the next sync

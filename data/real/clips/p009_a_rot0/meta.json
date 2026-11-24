@@ -1,0 +1,606 @@
+{
+ "f000.jpg": {
+  "n_lines": 20,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "175",
+   "11",
+   "SALSR",
+   "QUECO",
+   "HACENDADO",
+   "OR",
+   "128O",
+   "HACENDADO",
+   "1,65€",
+   "Umo SA9 EU",
+   "VENA XVEIA S1O",
+   "Wraps",
+   "",
+   "E",
+   "51%",
+   "NAU",
+   "PACMY",
+   "DE",
+   "A",
+   "51%"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 196.7,
+  "ocr_s": 0.4
+ },
+ "f006.jpg": {
+  "n_lines": 22,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "SALCR",
+   "QUESO",
+   "HACENDADO",
+   "e",
+   "LOA",
+   "EGO",
+   "HACENDADO",
+   "1,65€",
+   "uno  ",
+   "VENAXEIA 51%",
+   "ROAEA",
+   "Wraps",
+   "LAS DE",
+   "51%",
+   "EIA",
+   "raps",
+   "NAU",
+   "HCE",
+   "RTILLAS DE",
+   "A/AVEIA 51%",
+   "U)",
+   "SO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 184.9,
+  "ocr_s": 0.33
+ },
+ "f012.jpg": {
+  "n_lines": 25,
+  "box": [
+   645,
+   769,
+   827,
+   865
+  ],
+  "level": "digits",
+  "lines": [
+   "68434(010"
+  ],
+  "all_lines": [
+   "SALSK",
+   "QUECO",
+   "PRY",
+   "R",
+   "WBPO",
+   "HACENDADO",
+   "BUn",
+   "E80",
+   "HACENDADO",
+   "SALSA DE QUESO",
+   "1,65€",
+   "1UT",
+   "68434(010",
+   "VENAEIA 51",
+   "Ra",
+   "Wraps",
+   "AS DE",
+   "51%",
+   "EIA",
+   "aps",
+   "NAU",
+   "PACE",
+   "51%",
+   "TILLAS DE",
+   "VAVEIA"
+  ],
+  "crop_wh": [
+   182,
+   96
+  ],
+  "sharpness": 192.5,
+  "ocr_s": 0.34
+ },
+ "f018.jpg": {
+  "n_lines": 21,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "BALCA",
+   "UECO",
+   "HACENDADO",
+   "3R",
+   "E8O",
+   "FACENDADO",
+   ".",
+   "1,65€",
+   "U 5 P",
+   "VENAMWEIA 51",
+   "REERBA",
+   "Wraps",
+   "AS DE",
+   "51%",
+   "EIA",
+   "aps",
+   "NAU",
+   "HAEY",
+   "TILLAS DE",
+   "51%",
+   "IAVEIA"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 192.1,
+  "ocr_s": 0.32
+ },
+ "f024.jpg": {
+  "n_lines": 24,
+  "box": [
+   605,
+   790,
+   822,
+   886
+  ],
+  "level": "digits",
+  "lines": [
+   "1uro 5 093 bn "
+  ],
+  "all_lines": [
+   "BALSK",
+   "GUESO",
+   "MNE",
+   "BRCS",
+   "O",
+   "HACENDADO",
+   "LOA",
+   "ECO",
+   "HACENDADO",
+   "OUESO",
+   "1,65€",
+   "1uro 5 093 bn ",
+   "VENAXEIA 510",
+   "REMARE",
+   "Wraps",
+   "AS DE",
+   "51%",
+   "EIA",
+   "aps",
+   "NAU",
+   "51%/",
+   "TILLAS DE",
+   "/AVEIA",
+   "N"
+  ],
+  "crop_wh": [
+   217,
+   96
+  ],
+  "sharpness": 192.3,
+  "ocr_s": 0.33
+ },
+ "f030.jpg": {
+  "n_lines": 22,
+  "box": [
+   632,
+   801,
+   728,
+   897
+  ],
+  "level": "digits",
+  "lines": [
+   "5.893"
+  ],
+  "all_lines": [
+   "BALEA",
+   "QUECO",
+   "R",
+   "HACENDADO",
+   "P8O",
+   "HACENDADO",
+   "1,65€",
+   "5.893",
+   "Thag0",
+   "LTO",
+   "VENANWEIA 510",
+   "RERA",
+   "Wraps",
+   "AS DE",
+   "51%",
+   "IA",
+   "NAU",
+   "ps",
+   "RCA",
+   "AS DE",
+   "ILLA",
+   "AVEIA 51%"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 191.1,
+  "ocr_s": 0.33
+ },
+ "f036.jpg": {
+  "n_lines": 22,
+  "box": [
+   622,
+   809,
+   718,
+   905
+  ],
+  "level": "digits",
+  "lines": [
+   "6010"
+  ],
+  "all_lines": [
+   "OALCA",
+   "GUESO",
+   "E",
+   "F",
+   "HACENDADO",
+   "HACENDADO",
+   "1,65€",
+   "6010",
+   "DnLtE",
+   "SUTRO",
+   "VENAXEIA 51",
+   "REBARAS",
+   "Wraps",
+   "S DE",
+   "A",
+   "51%",
+   "os",
+   "NAU",
+   "DE",
+   "ILLAS",
+   "51%",
+   "AVEIA"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 193.0,
+  "ocr_s": 0.31
+ },
+ "f042.jpg": {
+  "n_lines": 21,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "SALSA",
+   "QUECO",
+   "YUE",
+   "HACENDADO",
+   "",
+   "GO",
+   "HACENDADO",
+   "TO",
+   "1,65€",
+   "u 500 Metur",
+   "VENANVEIAS1",
+   "BELROOREA",
+   "Wraps",
+   "S DE",
+   "51%",
+   "S",
+   "NAU",
+   "DE",
+   "51%",
+   "U",
+   "IVEIA"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 192.6,
+  "ocr_s": 0.33
+ },
+ "f048.jpg": {
+  "n_lines": 21,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "BALGA",
+   "QUESO",
+   "4",
+   "HACENDADO",
+   "LeA",
+   "IESO",
+   "HACENDADO",
+   "1,65€",
+   "SOrLE",
+   "UTRO 6 8",
+   "VENA MVEIA 510",
+   "ROAEA",
+   "Wraps",
+   "DE",
+   "51%",
+   "NAU",
+   "DE",
+   "POV",
+   "LLAS",
+   "NO",
+   "VEIA 51%"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 192.9,
+  "ocr_s": 0.32
+ },
+ "f054.jpg": {
+  "n_lines": 21,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "175c",
+   "BALOR",
+   "QUESO",
+   "HnRE",
+   "HACENDADO",
+   "2RO",
+   "HACENDADO",
+   "SALSA DE QUE",
+   "1,65€",
+   "TA",
+   "YLARO 580D",
+   "VENAMWEIA S10",
+   "ROEARAY",
+   "Wraps",
+   "DE",
+   "51%",
+   "NAU",
+   "DE",
+   "LAS",
+   "VEIA 51%",
+   "NI"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 195.1,
+  "ocr_s": 0.31
+ },
+ "f060.jpg": {
+  "n_lines": 17,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "175c",
+   "SALSK",
+   "GUESO",
+   "OFERRO",
+   "HACENDADO",
+   "HACENDADO",
+   "1O",
+   "CALSACE",
+   "1,65€",
+   "VENANVEIA 51",
+   "ROEARY",
+   "Wraps",
+   "DE",
+   "51%",
+   "INAU",
+   "LAS DE",
+   "VEIA 51%"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 196.0,
+  "ocr_s": 0.31
+ },
+ "f066.jpg": {
+  "n_lines": 19,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "1,75c",
+   "PALSK",
+   "GUESO",
+   "HACENDADO",
+   "0",
+   "HACENDADO",
+   "SALSA DE OU",
+   "1,65€",
+   "BUNE",
+   "VENANVEIA 51",
+   "RRALT",
+   "Wraps",
+   "DE",
+   "51%",
+   "NAU",
+   "AS DE",
+   "51%",
+   "NO",
+   "EIA"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 189.2,
+  "ocr_s": 0.34
+ },
+ "f072.jpg": {
+  "n_lines": 19,
+  "box": [
+   578,
+   828,
+   674,
+   924
+  ],
+  "level": "digits",
+  "lines": [
+   "5.605"
+  ],
+  "all_lines": [
+   "1.75c",
+   "BALSA",
+   "GUESO",
+   "HACENDADO",
+   "LOA",
+   "E3O",
+   "HACENDADO",
+   "1,65€",
+   "5.605",
+   "LOEUE",
+   "VENAMVEIA S1",
+   "AGARA",
+   "Wraps",
+   "DE",
+   "51%",
+   "NAU",
+   "BAOLNDAD",
+   "AS DE",
+   "EIA 51%"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 192.4,
+  "ocr_s": 0.31
+ },
+ "f078.jpg": {
+  "n_lines": 17,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "175c",
+   "DALSK",
+   "GUECO",
+   "HACENDADO",
+   "HACENDADO",
+   "1,65€",
+   "PIEO0G",
+   "VENANWEIA 510",
+   "20",
+   "Wraps",
+   "DE",
+   "51%",
+   "NAU",
+   "acro",
+   "AS DE",
+   "NO",
+   "EIA 51%"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 192.3,
+  "ocr_s": 0.31
+ },
+ "f084.jpg": {
+  "n_lines": 18,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "PAZCA",
+   "QUESO",
+   "WRER",
+   "5",
+   "HACENDADO",
+   "ESO",
+   "FACENDADO",
+   "1,65€",
+   "UTRO",
+   "Se ",
+   "VENAXVEIA 510",
+   "CEARA",
+   "Wraps",
+   "DE",
+   "51%",
+   "INAU",
+   "AS DE",
+   "EIA 51%"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 192.9,
+  "ocr_s": 0.31
+ }
+}

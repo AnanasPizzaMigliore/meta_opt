@@ -1,0 +1,592 @@
+{
+ "f000.jpg": {
+  "n_lines": 23,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "4,95e",
+   "NEGRO",
+   "GR",
+   "NEGRO",
+   "85",
+   "NEGRO",
+   "NEGR",
+   "5",
+   "85%",
+   "%",
+   "85%",
+   "85%",
+   "1EE",
+   "ENDADO",
+   "HACENDADO",
+   "O",
+   "CLASSIC",
+   "3x",
+   "210S",
+   "HACENDADO",
+   "Energeti",
+   "1,10€",
+   "MAS"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 135.0,
+  "ocr_s": 0.4
+ },
+ "f006.jpg": {
+  "n_lines": 24,
+  "box": [
+   808,
+   388,
+   936,
+   486
+  ],
+  "level": "digits",
+  "lines": [
+   "01058"
+  ],
+  "all_lines": [
+   "MSE",
+   "NEGRO",
+   "GR",
+   "NEGRO",
+   "85",
+   "5%",
+   "NEGRO",
+   "NEGR",
+   "85",
+   "%",
+   "85%",
+   "01058",
+   "MRSER",
+   "HACENDADO",
+   "HACENDADO",
+   "10",
+   "CLASSIC",
+   "3X",
+   "3x",
+   "Mlo",
+   "HACENDADO",
+   "Energe",
+   "GI",
+   "1,10€"
+  ],
+  "crop_wh": [
+   128,
+   98
+  ],
+  "sharpness": 126.7,
+  "ocr_s": 0.33
+ },
+ "f012.jpg": {
+  "n_lines": 19,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "NEGRO",
+   "85%",
+   "GR",
+   "NEGRO",
+   "NEGRO",
+   "5",
+   "85%",
+   "%",
+   "85",
+   "",
+   "%G38",
+   "NNRO",
+   "ENDAD",
+   "HACENDADO",
+   "CLASSIC",
+   "E",
+   "LOS",
+   "HACENDADO",
+   "1,10€"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 125.7,
+  "ocr_s": 0.28
+ },
+ "f018.jpg": {
+  "n_lines": 17,
+  "box": [
+   839,
+   365,
+   958,
+   461
+  ],
+  "level": "digits",
+  "lines": [
+   "01038"
+  ],
+  "all_lines": [
+   "NEGRO",
+   "85%",
+   "GR",
+   "NEGRO",
+   "5%",
+   "NEGRO",
+   "85%",
+   "85%",
+   "01038",
+   "ORGEN",
+   "HACENDADO",
+   "HACENDADO",
+   "CLASSIC",
+   "3",
+   "HACENDADO",
+   "1,10€",
+   "TO12"
+  ],
+  "crop_wh": [
+   119,
+   96
+  ],
+  "sharpness": 130.5,
+  "ocr_s": 0.29
+ },
+ "f024.jpg": {
+  "n_lines": 19,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "NEGRO",
+   "GR",
+   "NEGRO",
+   "85",
+   "5%",
+   "NEGRO",
+   "%",
+   "85",
+   "85%",
+   "%938",
+   "MNGEO",
+   "HACENDADO",
+   "CLASSIC",
+   "3x",
+   "3x",
+   "ACEDS",
+   "HACENDADO",
+   "1,10€",
+   "PA"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 131.1,
+  "ocr_s": 0.3
+ },
+ "f030.jpg": {
+  "n_lines": 17,
+  "box": [
+   831,
+   361,
+   952,
+   457
+  ],
+  "level": "digits",
+  "lines": [
+   "01038"
+  ],
+  "all_lines": [
+   "NEGRO",
+   "GR",
+   "NEGRO",
+   "85",
+   "NEGRO",
+   "5%",
+   "%",
+   "85%",
+   "85%",
+   "01038",
+   "MUSEN",
+   "HACENDADO",
+   "O",
+   "CLASSIC",
+   "BX",
+   "HACENDADO",
+   "1,10€"
+  ],
+  "crop_wh": [
+   121,
+   96
+  ],
+  "sharpness": 127.1,
+  "ocr_s": 0.26
+ },
+ "f036.jpg": {
+  "n_lines": 17,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "NEGRO",
+   "85%",
+   "GR",
+   "NEGRO",
+   "5%",
+   "NEGRO",
+   "85",
+   "85%",
+   "%958",
+   "MREO",
+   "HACENDADO",
+   "S",
+   "CLASSIC",
+   "3X",
+   "3x",
+   "HACENDADO",
+   "1,10€"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 127.0,
+  "ocr_s": 0.29
+ },
+ "f042.jpg": {
+  "n_lines": 22,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "NEGRO",
+   "GR",
+   "NEGRO",
+   "85",
+   "5%",
+   "NEGRO",
+   "%",
+   "85",
+   "85",
+   "MDO",
+   "HACENDADO",
+   "8",
+   "CLASSIC",
+   "3x",
+   "3x",
+   "TKESE",
+   "Mor",
+   "HACENDADO",
+   "Enei",
+   "1,10€",
+   "TOEL",
+   "M"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 129.5,
+  "ocr_s": 0.32
+ },
+ "f048.jpg": {
+  "n_lines": 19,
+  "box": [
+   833,
+   358,
+   962,
+   456
+  ],
+  "level": "digits",
+  "lines": [
+   "0038"
+  ],
+  "all_lines": [
+   "NEGRO",
+   "GR",
+   "NEGRO",
+   "85",
+   "NEGRO",
+   "5%",
+   "%",
+   "85",
+   "85",
+   "%",
+   "0038",
+   "MRREE",
+   "HACENDADO",
+   "C",
+   "CLASSIC",
+   "EX",
+   "4EAGO",
+   "HACENDADO",
+   "1,10€"
+  ],
+  "crop_wh": [
+   129,
+   98
+  ],
+  "sharpness": 128.6,
+  "ocr_s": 0.3
+ },
+ "f054.jpg": {
+  "n_lines": 19,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "NEGRO",
+   "GR",
+   "NEGRO",
+   "85",
+   "5%",
+   "NEGRO",
+   "%",
+   "85%",
+   "85",
+   "MRREE",
+   "HACENDADO",
+   "CLASSIC",
+   "3X",
+   "NOLOE",
+   "HACENDADO",
+   "1,10c",
+   "-",
+   "",
+   "S"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 128.6,
+  "ocr_s": 0.3
+ },
+ "f060.jpg": {
+  "n_lines": 19,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "NEGRO",
+   "GR",
+   "NEGRO",
+   "85",
+   "5%",
+   "NEGRO",
+   "85%",
+   "%",
+   "85",
+   "NRREO",
+   "HACENDADO",
+   "O",
+   "ASSIC",
+   "CLASSIC",
+   "3X",
+   "00",
+   "ELTDSA",
+   "HACENDADO",
+   "1,10€"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 128.7,
+  "ocr_s": 0.3
+ },
+ "f066.jpg": {
+  "n_lines": 19,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "NEGRO",
+   "GR",
+   "NEGRO",
+   "85",
+   "5%",
+   "NEGRO",
+   "85%",
+   "%",
+   "85",
+   "NNEE",
+   "HACENDADO",
+   "O",
+   "ASSIC",
+   "CLASSIC",
+   "EX",
+   "HACENDADO",
+   "1,10€",
+   "BAREE",
+   ""
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 127.1,
+  "ocr_s": 0.3
+ },
+ "f072.jpg": {
+  "n_lines": 20,
+  "box": [
+   825,
+   354,
+   951,
+   450
+  ],
+  "level": "digits",
+  "lines": [
+   "01038"
+  ],
+  "all_lines": [
+   "NEGRO",
+   "GR",
+   "NEGRO",
+   "85",
+   "5%",
+   "NEGRO",
+   "",
+   "85",
+   "%",
+   "85",
+   "%",
+   "01038",
+   "MGRE",
+   "ENDADO",
+   "HACENDADO",
+   "",
+   "CLASSIC",
+   "BX",
+   "HACENDADO",
+   "1,10€"
+  ],
+  "crop_wh": [
+   126,
+   96
+  ],
+  "sharpness": 123.3,
+  "ocr_s": 0.3
+ },
+ "f078.jpg": {
+  "n_lines": 19,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "NEGRO",
+   "85%",
+   "GR",
+   "NEGRO",
+   "NEGRO",
+   "5%",
+   "85",
+   "85",
+   "%",
+   "%c58",
+   "GRGEO",
+   "ENDADO",
+   "HACENDADO",
+   "t0",
+   "CLASSIC",
+   "3",
+   "US0",
+   "HACENDADO",
+   "1,10€"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 122.5,
+  "ocr_s": 0.3
+ },
+ "f084.jpg": {
+  "n_lines": 20,
+  "box": [
+   0,
+   1031,
+   81,
+   1127
+  ],
+  "level": "digits",
+  "lines": [
+   "2300"
+  ],
+  "all_lines": [
+   "NEGRO",
+   "GR",
+   "NEGRO",
+   "85",
+   "5%",
+   "NEGRO",
+   "85%",
+   "%",
+   "85",
+   "/G",
+   "RRGO",
+   "ENDADO",
+   "HACENDADO",
+   "g",
+   "CLASSIC",
+   "2300",
+   "EVNLT",
+   "HACENDADO",
+   "1,10€",
+   "."
+  ],
+  "crop_wh": [
+   81,
+   96
+  ],
+  "sharpness": 121.7,
+  "ocr_s": 0.31
+ }
+}

@@ -1,0 +1,455 @@
+{
+ "f000.jpg": {
+  "n_lines": 8,
+  "box": [
+   841,
+   658,
+   1017,
+   927
+  ],
+  "level": "digits",
+  "lines": [
+   "10002"
+  ],
+  "all_lines": [
+   "Mambra",
+   "MOICIONAL",
+   "t",
+   "AMSTEL",
+   "CARVEL",
+   "TA",
+   "Radle",
+   "10002"
+  ],
+  "crop_wh": [
+   176,
+   269
+  ],
+  "sharpness": 31.3,
+  "ocr_s": 0.5
+ },
+ "f006.jpg": {
+  "n_lines": 7,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "thambra",
+   "CICIONAL",
+   "AMSTEL'",
+   "CERVEZA",
+   "",
+   "Radle",
+   "O"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 29.8,
+  "ocr_s": 0.35
+ },
+ "f012.jpg": {
+  "n_lines": 8,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "thambra",
+   "ADICIONAL",
+   "AMSTEL",
+   "CERYEZA",
+   "2",
+   "TA",
+   "Rulle",
+   "900"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 29.6,
+  "ocr_s": 0.34
+ },
+ "f018.jpg": {
+  "n_lines": 7,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "a",
+   "hambra",
+   "BCICIONAL",
+   "AMSTEL",
+   "f",
+   "CRVIZA",
+   "r"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 27.5,
+  "ocr_s": 0.29
+ },
+ "f024.jpg": {
+  "n_lines": 6,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "thambra",
+   "CIONAL",
+   "AMSTEL",
+   "(",
+   "CERVEZA",
+   "M"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 26.8,
+  "ocr_s": 0.26
+ },
+ "f030.jpg": {
+  "n_lines": 7,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "B",
+   "a",
+   "thambra",
+   "CIONAL",
+   "AMSTEL",
+   "A",
+   "CERVE"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 25.4,
+  "ocr_s": 0.27
+ },
+ "f036.jpg": {
+  "n_lines": 5,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "C",
+   "MTu",
+   "Chambra",
+   "ICIONAL",
+   "Q"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 24.1,
+  "ocr_s": 0.27
+ },
+ "f042.jpg": {
+  "n_lines": 6,
+  "box": [
+   338,
+   133,
+   434,
+   255
+  ],
+  "level": "digits",
+  "lines": [
+   "40110"
+  ],
+  "all_lines": [
+   "1B",
+   "uyu",
+   "40110",
+   "Cambra",
+   "CIONA",
+   "Q"
+  ],
+  "crop_wh": [
+   96,
+   122
+  ],
+  "sharpness": 20.6,
+  "ocr_s": 0.28
+ },
+ "f048.jpg": {
+  "n_lines": 5,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "EO",
+   "Ur",
+   "Chambro",
+   "RCICION",
+   "A"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 20.8,
+  "ocr_s": 0.26
+ },
+ "f054.jpg": {
+  "n_lines": 4,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "SEW",
+   "@",
+   "thamb",
+   "(*"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 21.1,
+  "ocr_s": 0.27
+ },
+ "f060.jpg": {
+  "n_lines": 3,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "20",
+   "GAI",
+   "("
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 20.0,
+  "ocr_s": 0.27
+ },
+ "f066.jpg": {
+  "n_lines": 3,
+  "box": [
+   325,
+   152,
+   421,
+   254
+  ],
+  "level": "digits",
+  "lines": [
+   "40111"
+  ],
+  "all_lines": [
+   "M",
+   "40111",
+   "Q"
+  ],
+  "crop_wh": [
+   96,
+   102
+  ],
+  "sharpness": 19.6,
+  "ocr_s": 0.27
+ },
+ "f072.jpg": {
+  "n_lines": 2,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "wny",
+   "G"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 20.2,
+  "ocr_s": 0.26
+ },
+ "f078.jpg": {
+  "n_lines": 1,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "A"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 20.3,
+  "ocr_s": 0.26
+ },
+ "f084.jpg": {
+  "n_lines": 2,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "AMm",
+   "A"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 18.9,
+  "ocr_s": 0.33
+ },
+ "f090.jpg": {
+  "n_lines": 4,
+  "box": [
+   334,
+   153,
+   430,
+   249
+  ],
+  "level": "digits",
+  "lines": [
+   "0114"
+  ],
+  "all_lines": [
+   "my",
+   "0114",
+   "-",
+   "G"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 18.4,
+  "ocr_s": 0.31
+ },
+ "f096.jpg": {
+  "n_lines": 4,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Ae",
+   "BOTEI",
+   "O",
+   "G"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 16.8,
+  "ocr_s": 0.27
+ },
+ "f102.jpg": {
+  "n_lines": 1,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "A"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 17.2,
+  "ocr_s": 0.28
+ },
+ "f108.jpg": {
+  "n_lines": 1,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Q"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 18.7,
+  "ocr_s": 0.26
+ }
+}

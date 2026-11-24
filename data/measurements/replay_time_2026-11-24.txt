@@ -1,0 +1,22 @@
+148 clips, 1036 frames; headset localisation for 1036, headset read for 1036
+localisation per frame: median 3.27 s, p90 5.09 s
+read per frame: median 2.68 s, p90 12.06 s
+headset read = server read on 871/1036 frames
+
+=== decisions from server reads (Table 3) ===
+rule                                 corr wrong nodate abst false   prec  loc reads |  time to answer or abstain (s)
+Until 2 agree                          63    25     20    3    16   60.6  3.0   3.0 | median  26.2  p90  46.8  mean  27.3
+Fixed policy (gated, calendar)         63    24     13   11    11   64.3  4.0   2.8 | median  22.2  p90  40.5  mean  24.3
+Until OCR confirms or 2 agree          65    24     20    2    16   61.9  2.7   2.7 | median  22.4  p90  45.1  mean  24.3
+VLM confirmed by OCR                   53     0      0   58     0  100.0  5.1   5.1 | median  43.9  p90  94.3  mean  48.4
+OCR only: first parsed date            53    15      0   43     2   75.7  4.6   0.0 | median  15.6  p90  28.9  mean  15.4
+OCR only: until 2 OCR dates agree      49     3      0   59     0   94.2  5.5   0.0 | median  18.9  p90  30.2  mean  18.9
+
+=== decisions from headset reads (deployed) ===
+rule                                 corr wrong nodate abst false   prec  loc reads |  time to answer or abstain (s)
+Until 2 agree                          62    26     21    2    13   61.4  3.0   3.0 | median  24.9  p90  46.8  mean  27.1
+Fixed policy (gated, calendar)         62    25     15    9    10   63.9  3.9   2.7 | median  22.1  p90  38.0  mean  23.7
+Until OCR confirms or 2 agree          63    26     21    1    13   61.8  2.7   2.7 | median  22.0  p90  45.8  mean  24.2
+VLM confirmed by OCR                   54     0      0   57     0  100.0  5.1   5.1 | median  43.9  p90  94.3  mean  48.4
+OCR only: first parsed date            53    15      0   43     2   75.7  4.6   0.0 | median  15.6  p90  28.9  mean  15.4
+OCR only: until 2 OCR dates agree      49     3      0   59     0   94.2  5.5   0.0 | median  18.9  p90  30.2  mean  18.9

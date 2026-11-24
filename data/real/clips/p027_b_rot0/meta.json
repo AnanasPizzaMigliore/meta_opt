@@ -1,0 +1,488 @@
+{
+ "f000.jpg": {
+  "n_lines": 13,
+  "box": [
+   1302,
+   614,
+   1583,
+   1152
+  ],
+  "level": "date",
+  "lines": [
+   "09/01/2027"
+  ],
+  "all_lines": [
+   "30",
+   "e",
+   "ese",
+   "2000",
+   "cottag",
+   "cheese",
+   "chees",
+   "LIST",
+   "LC24921",
+   "05 19:38",
+   "ottago",
+   "09/01/2027",
+   "014155"
+  ],
+  "crop_wh": [
+   281,
+   538
+  ],
+  "sharpness": 108.9,
+  "ocr_s": 0.44
+ },
+ "f006.jpg": {
+  "n_lines": 13,
+  "box": [
+   1360,
+   519,
+   1647,
+   1088
+  ],
+  "level": "date",
+  "lines": [
+   "09/01/2027"
+  ],
+  "all_lines": [
+   "U",
+   "LC24921",
+   "cottage",
+   "cottag",
+   "cheese",
+   "cheest",
+   "05 19:38",
+   "LIOTO",
+   "ottas",
+   "ottago",
+   "09/01/2027",
+   ".",
+   "014155"
+  ],
+  "crop_wh": [
+   287,
+   569
+  ],
+  "sharpness": 101.4,
+  "ocr_s": 0.33
+ },
+ "f012.jpg": {
+  "n_lines": 12,
+  "box": [
+   1317,
+   524,
+   1613,
+   1093
+  ],
+  "level": "date",
+  "lines": [
+   "09/01/2027"
+  ],
+  "all_lines": [
+   "lage",
+   "MESC",
+   "cottag",
+   "LC24921",
+   "cheese",
+   "chees",
+   "05 19:38",
+   "EN",
+   "ottas",
+   "ottago",
+   "09/01/2027",
+   "014155"
+  ],
+  "crop_wh": [
+   296,
+   569
+  ],
+  "sharpness": 98.2,
+  "ocr_s": 0.32
+ },
+ "f018.jpg": {
+  "n_lines": 13,
+  "box": [
+   1320,
+   509,
+   1610,
+   1044
+  ],
+  "level": "date",
+  "lines": [
+   "09/01/2027"
+  ],
+  "all_lines": [
+   "age",
+   "ese",
+   "200g",
+   "cottage",
+   "cottag",
+   "LC24921",
+   "cheese",
+   "cheest",
+   "05 19:38",
+   "TLSLX",
+   "ottag",
+   "09/01/2027",
+   "014155"
+  ],
+  "crop_wh": [
+   290,
+   535
+  ],
+  "sharpness": 103.0,
+  "ocr_s": 0.33
+ },
+ "f024.jpg": {
+  "n_lines": 12,
+  "box": [
+   1289,
+   521,
+   1555,
+   1010
+  ],
+  "level": "date",
+  "lines": [
+   "09/01/2027"
+  ],
+  "all_lines": [
+   "200",
+   "cottage",
+   "cottaga",
+   "cheese",
+   "chees",
+   "LC24921",
+   "05 19:38",
+   "TNO",
+   "ottago",
+   "2IRE",
+   "09/01/2027",
+   "014155"
+  ],
+  "crop_wh": [
+   266,
+   489
+  ],
+  "sharpness": 106.7,
+  "ocr_s": 0.33
+ },
+ "f030.jpg": {
+  "n_lines": 12,
+  "box": [
+   1293,
+   491,
+   1571,
+   1025
+  ],
+  "level": "date",
+  "lines": [
+   "09/01/2027"
+  ],
+  "all_lines": [
+   "T",
+   "C",
+   "LC24921",
+   "cottas",
+   "05 19:38",
+   "cheese",
+   "cheet",
+   "INTALX",
+   "ottas",
+   "ottag",
+   "09/01/2027",
+   "014155"
+  ],
+  "crop_wh": [
+   278,
+   534
+  ],
+  "sharpness": 87.7,
+  "ocr_s": 0.32
+ },
+ "f036.jpg": {
+  "n_lines": 9,
+  "box": [
+   1292,
+   495,
+   1596,
+   1048
+  ],
+  "level": "date",
+  "lines": [
+   "09/01/2027"
+  ],
+  "all_lines": [
+   "LC24921",
+   "cottage",
+   "cottag",
+   "05 19:38",
+   "cheese",
+   "cheese",
+   "ottago",
+   "09/01/2027",
+   "014155"
+  ],
+  "crop_wh": [
+   304,
+   553
+  ],
+  "sharpness": 87.9,
+  "ocr_s": 0.33
+ },
+ "f042.jpg": {
+  "n_lines": 13,
+  "box": [
+   1286,
+   484,
+   1582,
+   1042
+  ],
+  "level": "date",
+  "lines": [
+   "09/01/2027"
+  ],
+  "all_lines": [
+   "lage",
+   "O",
+   "LC24921",
+   "05 19:38",
+   "cottage",
+   "cottag",
+   "cheese",
+   "chees",
+   "ALINOAN",
+   "ottas",
+   "ottago",
+   "09/01/2027",
+   "014155"
+  ],
+  "crop_wh": [
+   296,
+   558
+  ],
+  "sharpness": 82.7,
+  "ocr_s": 0.31
+ },
+ "f048.jpg": {
+  "n_lines": 12,
+  "box": [
+   1303,
+   486,
+   1583,
+   1024
+  ],
+  "level": "date",
+  "lines": [
+   "09/01/2027"
+  ],
+  "all_lines": [
+   "lage",
+   "LC24921",
+   "05 19:38",
+   "cottage",
+   "cottag",
+   "cheest",
+   "chees",
+   "ENDE",
+   "ottac",
+   "ottago",
+   "09/01/2027",
+   "014155"
+  ],
+  "crop_wh": [
+   280,
+   538
+  ],
+  "sharpness": 83.6,
+  "ocr_s": 0.32
+ },
+ "f054.jpg": {
+  "n_lines": 11,
+  "box": [
+   1308,
+   479,
+   1598,
+   1027
+  ],
+  "level": "date",
+  "lines": [
+   "09/01/2027"
+  ],
+  "all_lines": [
+   "LC24921",
+   "05 19:38",
+   "cottag",
+   "cottag",
+   "cheese",
+   "cheese",
+   "RCRA",
+   "otta",
+   "ottago",
+   "09/01/2027",
+   "014155"
+  ],
+  "crop_wh": [
+   290,
+   548
+  ],
+  "sharpness": 83.5,
+  "ocr_s": 0.32
+ },
+ "f060.jpg": {
+  "n_lines": 10,
+  "box": [
+   1219,
+   471,
+   1515,
+   1009
+  ],
+  "level": "date",
+  "lines": [
+   "09/01/2027"
+  ],
+  "all_lines": [
+   "Nse",
+   "LC24921",
+   "05 19:38",
+   "cotta",
+   "cheese",
+   "che",
+   "ottas",
+   "09/01/2027",
+   "ottag",
+   "014155"
+  ],
+  "crop_wh": [
+   296,
+   538
+  ],
+  "sharpness": 86.7,
+  "ocr_s": 0.31
+ },
+ "f066.jpg": {
+  "n_lines": 10,
+  "box": [
+   1235,
+   466,
+   1533,
+   1011
+  ],
+  "level": "date",
+  "lines": [
+   "09/01/2027"
+  ],
+  "all_lines": [
+   "tage",
+   "LC24921",
+   "05 19:38",
+   "cotta",
+   "cheese",
+   "chee",
+   "RED",
+   "09/01/2027",
+   "oltaga",
+   "014155"
+  ],
+  "crop_wh": [
+   298,
+   545
+  ],
+  "sharpness": 85.7,
+  "ocr_s": 0.31
+ },
+ "f072.jpg": {
+  "n_lines": 11,
+  "box": [
+   1221,
+   463,
+   1529,
+   1018
+  ],
+  "level": "date",
+  "lines": [
+   "09/01/2027"
+  ],
+  "all_lines": [
+   "lage",
+   "LC24921",
+   "05 19:38",
+   "cotta",
+   "cheese",
+   "che",
+   "TKINDUX",
+   "ottas",
+   "09/01/2027",
+   "ottag",
+   "014155"
+  ],
+  "crop_wh": [
+   308,
+   555
+  ],
+  "sharpness": 81.0,
+  "ocr_s": 0.32
+ },
+ "f078.jpg": {
+  "n_lines": 9,
+  "box": [
+   1238,
+   458,
+   1550,
+   1017
+  ],
+  "level": "date",
+  "lines": [
+   "09/01/2027"
+  ],
+  "all_lines": [
+   "LC24921",
+   "05 19:38",
+   "cotta",
+   "cheest",
+   "che",
+   "TUD",
+   "09/01/2027",
+   "ottago",
+   "014155"
+  ],
+  "crop_wh": [
+   312,
+   559
+  ],
+  "sharpness": 83.2,
+  "ocr_s": 0.31
+ },
+ "f084.jpg": {
+  "n_lines": 11,
+  "box": [
+   1243,
+   466,
+   1547,
+   1021
+  ],
+  "level": "date",
+  "lines": [
+   "09/01/2027"
+  ],
+  "all_lines": [
+   "rse",
+   "LC24921",
+   "05 19:38",
+   "cottage",
+   "cottar",
+   "cheese",
+   "chee",
+   "RNS",
+   "09/01/2027",
+   "ottago",
+   "014155"
+  ],
+  "crop_wh": [
+   304,
+   555
+  ],
+  "sharpness": 83.6,
+  "ocr_s": 0.32
+ }
+}

@@ -1,0 +1,360 @@
+{
+ "f000.jpg": {
+  "n_lines": 5,
+  "box": [
+   1138,
+   1173,
+   1359,
+   1277
+  ],
+  "level": "digits",
+  "lines": [
+   "70230"
+  ],
+  "all_lines": [
+   "MINI COOKIES",
+   "Biscotto",
+   "Con peples/o",
+   "de chocolcte",
+   "70230"
+  ],
+  "crop_wh": [
+   221,
+   104
+  ],
+  "sharpness": 10.9,
+  "ocr_s": 0.35
+ },
+ "f006.jpg": {
+  "n_lines": 4,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "MINI COOKIES",
+   "Biscotto",
+   "Con pepilas",
+   "de chooclate"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 10.6,
+  "ocr_s": 0.27
+ },
+ "f012.jpg": {
+  "n_lines": 6,
+  "box": [
+   1133,
+   1105,
+   1287,
+   1201
+  ],
+  "level": "date",
+  "lines": [
+   "2027"
+  ],
+  "all_lines": [
+   "MINI COOKIES",
+   "Biscotto",
+   "Conpeptas/cm",
+   "de choolate",
+   "2027",
+   ""
+  ],
+  "crop_wh": [
+   154,
+   96
+  ],
+  "sharpness": 10.3,
+  "ocr_s": 0.28
+ },
+ "f018.jpg": {
+  "n_lines": 4,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "MINI COOKIES",
+   "Biscotto",
+   "Con peples/oa peple",
+   "de chocclete"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 10.1,
+  "ocr_s": 0.27
+ },
+ "f024.jpg": {
+  "n_lines": 4,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "MINI COOKIES",
+   "Biscotto",
+   "Conpeptas/com",
+   "de choclate"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 9.8,
+  "ocr_s": 0.27
+ },
+ "f030.jpg": {
+  "n_lines": 3,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "MINI COOKIES",
+   "Biscotto",
+   "Con pepesae"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 9.5,
+  "ocr_s": 0.27
+ },
+ "f036.jpg": {
+  "n_lines": 4,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "MINI COOKIES",
+   "Biscotto",
+   "Con peples/cm",
+   "de chocolate"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 9.4,
+  "ocr_s": 0.28
+ },
+ "f042.jpg": {
+  "n_lines": 5,
+  "box": [
+   1081,
+   1141,
+   1380,
+   1237
+  ],
+  "level": "digits",
+  "lines": [
+   "11970830"
+  ],
+  "all_lines": [
+   "MINI COOKIES",
+   "Biscotto",
+   "Con pepites/",
+   "de chocolate",
+   "11970830"
+  ],
+  "crop_wh": [
+   299,
+   96
+  ],
+  "sharpness": 9.1,
+  "ocr_s": 0.26
+ },
+ "f048.jpg": {
+  "n_lines": 4,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "MINI COOKIES",
+   "Biscotto",
+   "Con peples/m",
+   "de chocolate"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 9.1,
+  "ocr_s": 0.26
+ },
+ "f054.jpg": {
+  "n_lines": 4,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "MINI COOKIES",
+   "Biscotto",
+   "Conpepites/",
+   "de chocclate"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 8.8,
+  "ocr_s": 0.25
+ },
+ "f060.jpg": {
+  "n_lines": 4,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "MINI COOKIES",
+   "Biscotto",
+   "Conpepias/opp",
+   "de chocolale"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 8.7,
+  "ocr_s": 0.26
+ },
+ "f066.jpg": {
+  "n_lines": 5,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "MINI COOKIES",
+   "Biscotto",
+   "Conpeples/a",
+   "de chocolate",
+   "B30"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 8.7,
+  "ocr_s": 0.27
+ },
+ "f072.jpg": {
+  "n_lines": 5,
+  "box": [
+   1041,
+   1120,
+   1394,
+   1222
+  ],
+  "level": "digits",
+  "lines": [
+   "61970230"
+  ],
+  "all_lines": [
+   "MINI COOKIES",
+   "Biscotto",
+   "Con pepites /cmpept",
+   "de choooate",
+   "61970230"
+  ],
+  "crop_wh": [
+   353,
+   102
+  ],
+  "sharpness": 8.6,
+  "ocr_s": 0.27
+ },
+ "f078.jpg": {
+  "n_lines": 4,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "MINI COOKIES",
+   "Biscotto",
+   "Conpeples/ag",
+   "de chucolate"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 8.4,
+  "ocr_s": 0.25
+ },
+ "f084.jpg": {
+  "n_lines": 4,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "MINI COOKIES",
+   "Biscotto",
+   "Conpepitas/com",
+   "de chacoate"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 8.4,
+  "ocr_s": 0.28
+ }
+}

@@ -1,0 +1,467 @@
+{
+ "f000.jpg": {
+  "n_lines": 12,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "P",
+   "SACENT",
+   "GAS",
+   "AS",
+   "ACELGAS",
+   "TIEAR",
+   "TERNA",
+   "B",
+   "HADA",
+   "ICEBERG",
+   "RADA",
+   "R2OM11"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 307.0,
+  "ocr_s": 0.39
+ },
+ "f006.jpg": {
+  "n_lines": 15,
+  "box": [
+   862,
+   818,
+   1202,
+   1126
+  ],
+  "level": "digits",
+  "lines": [
+   "22 11 26",
+   "L320070-382100",
+   "R20M11"
+  ],
+  "all_lines": [
+   "LCENDA",
+   "AS",
+   "AS",
+   "CENDADO",
+   "",
+   "ICEBERG",
+   "LAVADA",
+   "EBERG",
+   "RUA",
+   "22 11 26",
+   "L320070-382100",
+   "R20M11",
+   "Origen/Origem:",
+   "23 11 26",
+   "B21M11"
+  ],
+  "crop_wh": [
+   340,
+   308
+  ],
+  "sharpness": 249.6,
+  "ocr_s": 0.33
+ },
+ "f012.jpg": {
+  "n_lines": 12,
+  "box": [
+   876,
+   920,
+   1117,
+   1123
+  ],
+  "level": "digits",
+  "lines": [
+   "R20M11"
+  ],
+  "all_lines": [
+   "HN",
+   "VACENDAD",
+   "AS",
+   "AS",
+   "",
+   "ICEBERG",
+   "ARADA",
+   "Freat",
+   "ERG",
+   "R20M11",
+   "Origen/Origem:",
+   "0.85c"
+  ],
+  "crop_wh": [
+   241,
+   203
+  ],
+  "sharpness": 296.0,
+  "ocr_s": 0.32
+ },
+ "f018.jpg": {
+  "n_lines": 14,
+  "box": [
+   789,
+   856,
+   1133,
+   1162
+  ],
+  "level": "digits",
+  "lines": [
+   "22 11 26",
+   "L320070-382100"
+  ],
+  "all_lines": [
+   "CENDA",
+   "GAS",
+   "YS",
+   "E",
+   "ICEBERG",
+   "RADA",
+   "RG",
+   "22 11 26",
+   "L320070-382100",
+   "R2M11",
+   "Origen/Origem:",
+   "España/Espanha",
+   "26",
+   "0.85c"
+  ],
+  "crop_wh": [
+   344,
+   306
+  ],
+  "sharpness": 305.7,
+  "ocr_s": 0.34
+ },
+ "f024.jpg": {
+  "n_lines": 12,
+  "box": [
+   789,
+   856,
+   1142,
+   1182
+  ],
+  "level": "digits",
+  "lines": [
+   "22 11 26",
+   "L320070-382100",
+   "R20M11"
+  ],
+  "all_lines": [
+   "FNA",
+   "SACENDAD",
+   "E",
+   "ICEBERG",
+   "TADA",
+   "1",
+   "RG",
+   "22 11 26",
+   "L320070-382100",
+   "R20M11",
+   "Origen/Origem:",
+   "0,85c"
+  ],
+  "crop_wh": [
+   353,
+   326
+  ],
+  "sharpness": 301.0,
+  "ocr_s": 0.33
+ },
+ "f030.jpg": {
+  "n_lines": 8,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "",
+   "ACENDA",
+   "-",
+   "BCEDDh",
+   "ICEBERG",
+   "RADA",
+   "Origen/Origem:",
+   "0.85€"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 297.1,
+  "ocr_s": 0.33
+ },
+ "f036.jpg": {
+  "n_lines": 10,
+  "box": [
+   814,
+   867,
+   1090,
+   1100
+  ],
+  "level": "digits",
+  "lines": [
+   "11 26"
+  ],
+  "all_lines": [
+   "TA",
+   "SACENDA",
+   "h",
+   "ICEBERG",
+   "RADA",
+   "11 26",
+   "22",
+   "Origen/Origem:",
+   "España/Espanha",
+   "0,85c"
+  ],
+  "crop_wh": [
+   276,
+   233
+  ],
+  "sharpness": 296.6,
+  "ocr_s": 0.33
+ },
+ "f042.jpg": {
+  "n_lines": 9,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "CENDA",
+   "BTED",
+   "ICEBERG",
+   "ADA",
+   "R 0M11",
+   "C",
+   "Origen/Origem.",
+   "España/Espanha",
+   "0.85c"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 301.7,
+  "ocr_s": 0.32
+ },
+ "f048.jpg": {
+  "n_lines": 7,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "ACENDA",
+   "D",
+   "ICEBERG",
+   "RADA",
+   "R2M11",
+   "España/Espanha",
+   "0.85c"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 298.8,
+  "ocr_s": 0.31
+ },
+ "f054.jpg": {
+  "n_lines": 9,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "SCENON",
+   "BEmDOh",
+   "ICEBERG",
+   "RADA",
+   "R20M1",
+   "EL",
+   "España/Espanha",
+   "",
+   "0.85€"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 294.5,
+  "ocr_s": 0.32
+ },
+ "f060.jpg": {
+  "n_lines": 12,
+  "box": [
+   737,
+   847,
+   1097,
+   1185
+  ],
+  "level": "digits",
+  "lines": [
+   "22 11 26",
+   "L320070-382100",
+   "R20M11"
+  ],
+  "all_lines": [
+   "E",
+   "LCENN",
+   "BCEh",
+   "ICEBERG",
+   "ARADA",
+   "22 11 26",
+   "L320070-382100",
+   "R20M11",
+   "LS",
+   "Origen/Origem:",
+   "España/Espanha",
+   "0,85c"
+  ],
+  "crop_wh": [
+   360,
+   338
+  ],
+  "sharpness": 294.6,
+  "ocr_s": 0.33
+ },
+ "f066.jpg": {
+  "n_lines": 8,
+  "box": [
+   818,
+   945,
+   1060,
+   1159
+  ],
+  "level": "digits",
+  "lines": [
+   "R2011"
+  ],
+  "all_lines": [
+   "ACENON",
+   "ENDh",
+   "ICEBERG",
+   "ARADA",
+   "R2011",
+   "Origen/Origem:",
+   "España/Espanha",
+   "0.85c"
+  ],
+  "crop_wh": [
+   242,
+   214
+  ],
+  "sharpness": 294.0,
+  "ocr_s": 0.32
+ },
+ "f072.jpg": {
+  "n_lines": 9,
+  "box": [
+   731,
+   845,
+   1095,
+   1189
+  ],
+  "level": "digits",
+  "lines": [
+   "22 11 26",
+   "R20M11"
+  ],
+  "all_lines": [
+   "SCEND",
+   "h",
+   "ICEBERG",
+   "RADA",
+   "22 11 26",
+   "R20M11",
+   "Origen/Origem:",
+   "España/Espanha",
+   "0.850"
+  ],
+  "crop_wh": [
+   364,
+   344
+  ],
+  "sharpness": 291.9,
+  "ocr_s": 0.33
+ },
+ "f078.jpg": {
+  "n_lines": 8,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "A",
+   "PUCEND",
+   "eh",
+   "ICEBERG",
+   "0OM11",
+   "Origen/Origem.",
+   "España/Espanha",
+   "0.85c"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 292.3,
+  "ocr_s": 0.31
+ },
+ "f084.jpg": {
+  "n_lines": 9,
+  "box": [
+   799,
+   869,
+   1074,
+   1099
+  ],
+  "level": "digits",
+  "lines": [
+   "11 26"
+  ],
+  "all_lines": [
+   "HN",
+   "LACENT",
+   "h",
+   "ICEBERG",
+   "11 26",
+   "22",
+   "1e",
+   "España/Espanha",
+   "0.85e"
+  ],
+  "crop_wh": [
+   275,
+   230
+  ],
+  "sharpness": 297.1,
+  "ocr_s": 0.32
+ }
+}

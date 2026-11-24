@@ -1,0 +1,735 @@
+{
+ "f000.jpg": {
+  "n_lines": 22,
+  "box": [
+   358,
+   521,
+   454,
+   617
+  ],
+  "level": "date",
+  "lines": [
+   "11-0-127"
+  ],
+  "all_lines": [
+   "ARACUYÁ",
+   "ACUYÁ",
+   "MARACUYÁ",
+   "RACUMA",
+   "ACUJA",
+   "MARACUJA",
+   "",
+   "UAUO",
+   "48",
+   "11-0-127",
+   "ICENNDA",
+   "HACENDAD",
+   "HACENDADO",
+   "GELATINA MARACUYA",
+   "1,80€",
+   "1073",
+   "MEm",
+   "MCLULUIUN PESSEGU",
+   "ALCA",
+   "IN ALMIBSAR",
+   "MELOC",
+   "EN AL"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 166.2,
+  "ocr_s": 0.4
+ },
+ "f006.jpg": {
+  "n_lines": 25,
+  "box": [
+   340,
+   509,
+   455,
+   605
+  ],
+  "level": "digits",
+  "lines": [
+   "0116170",
+   "16 49 2621"
+  ],
+  "all_lines": [
+   "ee",
+   "ARACUYÁ",
+   "ACUYÁ",
+   "MARACUYÁ",
+   "RACUJA",
+   "ACUJA",
+   "MARACULA",
+   "00",
+   "0116170",
+   "16 49 2621",
+   "LCENNIDA",
+   "HACEN",
+   "HACENDADO",
+   "GELATINA MABACUYA",
+   "RACS",
+   "1,80€",
+   "1013",
+   "Thamimn",
+   "TRIOLUTUN PESSEGU",
+   "EMEAL",
+   "IN ALMIEAR",
+   "Lnn",
+   "MELOC",
+   "EN ALA",
+   "E"
+  ],
+  "crop_wh": [
+   115,
+   96
+  ],
+  "sharpness": 159.0,
+  "ocr_s": 0.34
+ },
+ "f012.jpg": {
+  "n_lines": 26,
+  "box": [
+   356,
+   510,
+   452,
+   606
+  ],
+  "level": "digits",
+  "lines": [
+   "1440-102"
+  ],
+  "all_lines": [
+   "e ",
+   "cee",
+   "ARACUYÁ",
+   "ACUYÁ",
+   "MARACUYÁ",
+   "RACULA",
+   "ACUJA",
+   "MARACU",
+   "IA",
+   "O",
+   "",
+   "a",
+   "1440-102",
+   "UCENTADA",
+   "HACENT",
+   "HACENDADO",
+   "GELATINAMARACUYA",
+   "1,80€",
+   "10n3e",
+   "Mam",
+   "MILKOLOTON PESSETO",
+   "4046",
+   "OOLO",
+   "ro",
+   "MELOCO",
+   "EN AL"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 158.7,
+  "ocr_s": 0.33
+ },
+ "f018.jpg": {
+  "n_lines": 24,
+  "box": [
+   357,
+   510,
+   453,
+   606
+  ],
+  "level": "date",
+  "lines": [
+   "18.04-202"
+  ],
+  "all_lines": [
+   "e ",
+   "ceaba ca",
+   "U1BA",
+   "ARACUYÁ",
+   "ACUYÁ",
+   "MARACUYÁ",
+   "ACUIA",
+   "ACUJA",
+   "MARACUA",
+   "00",
+   "912",
+   "18.04-202",
+   "ICEATUDA",
+   "HACENDADO",
+   "GELATHLARARACUYA",
+   "1,80€",
+   "nimou",
+   "MELULUIUN PESSIGU",
+   "IN ALAGBAR",
+   "",
+   "MELOC",
+   "EN ALA",
+   "-",
+   "."
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 153.4,
+  "ocr_s": 0.31
+ },
+ "f024.jpg": {
+  "n_lines": 20,
+  "box": [
+   332,
+   510,
+   428,
+   606
+  ],
+  "level": "date",
+  "lines": [
+   "15-40.122"
+  ],
+  "all_lines": [
+   "BO",
+   "ARACUYÁ",
+   "ACUYÃ",
+   "MARACUYA",
+   "ACUJA",
+   "ACUJA",
+   "MARACUJA",
+   "08",
+   "15-40.122",
+   "ENIO",
+   "HACENDADO",
+   "ELATINAMARACUYA",
+   "1,80€",
+   "Bnn",
+   "MELULUION PESSEGO",
+   "IN ALMLAR",
+   "ELOC",
+   "MELOCO",
+   "EN ALA",
+   "E"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 148.9,
+  "ocr_s": 0.31
+ },
+ "f030.jpg": {
+  "n_lines": 27,
+  "box": [
+   348,
+   512,
+   444,
+   608
+  ],
+  "level": "date",
+  "lines": [
+   "14-28 2127"
+  ],
+  "all_lines": [
+   "SIDV",
+   "O0A",
+   "ARACUYÁ",
+   "SR",
+   "ACUYA",
+   "MARACUYA",
+   "RACUJA",
+   "ACUJA",
+   "MARACU",
+   "JA",
+   "n",
+   "00",
+   "CROE",
+   "0128-26",
+   "14-28 2127",
+   "UENNM",
+   "HACENDADO",
+   "GELATINA MARACUYA",
+   "1,80€",
+   "Mr",
+   "DILLOCUTUN PESSEGU",
+   "MCA",
+   "bn",
+   "INALMIDAR",
+   "MELOC",
+   "EN ALA",
+   "F"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 150.0,
+  "ocr_s": 0.34
+ },
+ "f036.jpg": {
+  "n_lines": 24,
+  "box": [
+   544,
+   0,
+   652,
+   56
+  ],
+  "level": "digits",
+  "lines": [
+   "7100"
+  ],
+  "all_lines": [
+   "7100",
+   "oeo",
+   "cee co",
+   "ADOR",
+   "ARACUVÁ",
+   "ACUYÁ",
+   "MARACUYÁ",
+   "RACUIA",
+   "ACUJA",
+   "MARACU",
+   "o",
+   "0O",
+   "D176126",
+   "6.90 1027",
+   "LCENNIM",
+   "HACENDADO",
+   "DELATINAMARACUYA",
+   "4A/E",
+   "1,80€",
+   "tnn",
+   "TILTam",
+   "MELOCO",
+   "EN AL",
+   "E"
+  ],
+  "crop_wh": [
+   108,
+   56
+  ],
+  "sharpness": 147.7,
+  "ocr_s": 0.32
+ },
+ "f042.jpg": {
+  "n_lines": 24,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "SNIDNDO",
+   "oeo",
+   "cee o",
+   "ARACUYÁ",
+   "ACUYÁ",
+   "MARACUYÁ",
+   "RACUJA",
+   "ACUJA",
+   "MARACUJA",
+   "08",
+   "<",
+   "2E1bs",
+   "LONDM",
+   "HACENDADO",
+   "GELATUNANARACUYA",
+   "1,80€",
+   "tnn",
+   "TTne",
+   "MILLULOIUN PESSRU",
+   "MCAL",
+   "EN ALAALA",
+   "MELOCO",
+   "EN AL",
+   "E"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 148.3,
+  "ocr_s": 0.32
+ },
+ "f048.jpg": {
+  "n_lines": 27,
+  "box": [
+   332,
+   514,
+   436,
+   610
+  ],
+  "level": "digits",
+  "lines": [
+   "120100",
+   "L-0-712"
+  ],
+  "all_lines": [
+   "RENDADO",
+   "o",
+   "ARACUYÁ",
+   "ACUYA",
+   "MARACUYA",
+   " Ap ",
+   "e2",
+   "ACUIA",
+   "ACUJA",
+   "MARACULA",
+   "",
+   "S",
+   "120100",
+   "L-0-712",
+   "ECENDIM",
+   "HACENDADO",
+   "GELATINAMARACUYA",
+   "1,80€",
+   "DO10",
+   "Timom",
+   "AEM",
+   "rnn",
+   "IN ALMEAR",
+   "MELOC",
+   "EN AL",
+   "-",
+   "E"
+  ],
+  "crop_wh": [
+   104,
+   96
+  ],
+  "sharpness": 148.4,
+  "ocr_s": 0.38
+ },
+ "f054.jpg": {
+  "n_lines": 25,
+  "box": [
+   348,
+   522,
+   444,
+   618
+  ],
+  "level": "date",
+  "lines": [
+   "18.00 2027"
+  ],
+  "all_lines": [
+   "HCLNDADO",
+   "e",
+   "cee co",
+   "ABOR",
+   "ARACUYÁ",
+   "ACUYA",
+   "MARACUYA",
+   "RACUJA",
+   "ACUJA",
+   "MARACULA",
+   "00",
+   "",
+   "M",
+   "18.00 2027",
+   "LENAM",
+   "HACENDADO",
+   "GELATINA MARACUYA",
+   "1,80€",
+   "aao",
+   "ITISTOLOTUN PESSE",
+   "MC",
+   "EN ALMRAR",
+   "20",
+   "MELOCO",
+   "EN AL"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 150.2,
+  "ocr_s": 0.33
+ },
+ "f060.jpg": {
+  "n_lines": 29,
+  "box": [
+   329,
+   518,
+   442,
+   614
+  ],
+  "level": "digits",
+  "lines": [
+   "L12012",
+   "0-8027"
+  ],
+  "all_lines": [
+   "HNCENDADO",
+   "oee",
+   "ceeca",
+   "ARACUYÁ",
+   "ACUYÁ",
+   "MARACUYÁ",
+   "RACUIA",
+   "ACUJA",
+   "MARACUJA",
+   "0",
+   " ",
+   "NEL",
+   "1OS",
+   "L12012",
+   "0-8027",
+   "IONI4M",
+   "HACENDADO",
+   "GELATINAMARACUYA",
+   "1,80€",
+   "ST",
+   "Miamau",
+   "SLA",
+   "LAN",
+   "ro",
+   "MELOC",
+   "ENA",
+   "F",
+   "",
+   "S"
+  ],
+  "crop_wh": [
+   113,
+   96
+  ],
+  "sharpness": 151.2,
+  "ocr_s": 0.34
+ },
+ "f066.jpg": {
+  "n_lines": 24,
+  "box": [
+   323,
+   513,
+   419,
+   609
+  ],
+  "level": "digits",
+  "lines": [
+   "L12012e"
+  ],
+  "all_lines": [
+   "HENDADO",
+   "ae ",
+   "ceu",
+   "ARACUYA",
+   "ACUYA",
+   "0",
+   "MARACUYÃ",
+   "RACUJA",
+   "ACUJA",
+   "MARACUJA",
+   "",
+   "JUAI",
+   "L12012e",
+   "1.M27",
+   "TENM",
+   "HACENDADO",
+   "OELATINAMARACUYA",
+   "1ZE",
+   "1,80€",
+   "0100",
+   "Taae",
+   "MELOCO",
+   "EN AL",
+   "."
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 150.1,
+  "ocr_s": 0.31
+ },
+ "f072.jpg": {
+  "n_lines": 25,
+  "box": [
+   358,
+   529,
+   454,
+   625
+  ],
+  "level": "date",
+  "lines": [
+   "18.94 2027"
+  ],
+  "all_lines": [
+   "HACLNDADO",
+   "t",
+   "B0",
+   "ARACUYA",
+   "ACUYA",
+   "MARACUYÃ",
+   "ACUJA",
+   "ACUJA",
+   "MARACU",
+   "O",
+   "",
+   "TOE",
+   "0130126",
+   "18.94 2027",
+   "AIENMOA",
+   "HACENDADO",
+   "GELATINAMARACUYA",
+   "LA.CEN",
+   "1,80",
+   "TirEIan",
+   "",
+   "60",
+   "MELOCO",
+   "EN AL",
+   "S"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 149.5,
+  "ocr_s": 0.33
+ },
+ "f078.jpg": {
+  "n_lines": 26,
+  "box": [
+   358,
+   529,
+   454,
+   625
+  ],
+  "level": "date",
+  "lines": [
+   "18-99-2027"
+  ],
+  "all_lines": [
+   "LEHDNDO",
+   "ceea",
+   "BOR",
+   "Co",
+   "hak",
+   "ARACUVÁ",
+   "ACUYA",
+   "MARACUYÁ",
+   "a",
+   "RACUJA",
+   "ACUJA",
+   "MARACULA",
+   "00",
+   "HE",
+   "D128124",
+   "18-99-2027",
+   "ACENDADN",
+   "HACENDADO",
+   "GELATINAMARACUYA",
+   "1,80",
+   "Maer",
+   "6",
+   "MELOCO",
+   "",
+   "-",
+   "-"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 148.5,
+  "ocr_s": 0.33
+ },
+ "f084.jpg": {
+  "n_lines": 21,
+  "box": [
+   343,
+   525,
+   452,
+   621
+  ],
+  "level": "digits",
+  "lines": [
+   "126120",
+   "12-0107"
+  ],
+  "all_lines": [
+   "RENIDADO",
+   "nU",
+   "ARACUYÁ",
+   "ACUYĂ",
+   "MARACUYÃ",
+   "T A",
+   "RACUJA",
+   "ACUJA",
+   "MARACUJA",
+   "",
+   "2",
+   "126120",
+   "12-0107",
+   "LENDADA",
+   "HACENDADO",
+   "GELATINA MARACUYA",
+   "1,80",
+   "Tndon",
+   "ELO",
+   "MELOC",
+   "EN AL"
+  ],
+  "crop_wh": [
+   109,
+   96
+  ],
+  "sharpness": 147.5,
+  "ocr_s": 0.31
+ },
+ "f090.jpg": {
+  "n_lines": 25,
+  "box": [
+   344,
+   528,
+   455,
+   624
+  ],
+  "level": "digits",
+  "lines": [
+   "6128Y",
+   "1-0107"
+  ],
+  "all_lines": [
+   "Co",
+   "ARACUVÁ",
+   "ACUVÁ",
+   "MARACUYA",
+   "RACUJA",
+   "ACUJA",
+   "MARACULA",
+   "1e",
+   "C",
+   "08",
+   "0",
+   "6128Y",
+   "1-0107",
+   "ATGEADIOO",
+   "HACENDADO",
+   "GELATINAMARACUYA",
+   "1,80",
+   "Mna",
+   "AA",
+   "6",
+   "MELOC",
+   "EN ALA",
+   "F",
+   "S",
+   "S"
+  ],
+  "crop_wh": [
+   111,
+   96
+  ],
+  "sharpness": 149.4,
+  "ocr_s": 0.3
+ }
+}

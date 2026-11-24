@@ -1,0 +1,704 @@
+{
+ "f000.jpg": {
+  "n_lines": 23,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Burritos",
+   "SALONAODR TEMPERO",
+   "",
+   "Fajitas",
+   "BESF",
+   "NESO",
+   "tex",
+   "mex",
+   "I",
+   "O",
+   "BONA",
+   "1,",
+   ",30c",
+   "0,90€",
+   "O\"pop",
+   "ao abr",
+   "Tampa",
+   "10",
+   "CAS",
+   "PSPIHE",
+   "10",
+   "T",
+   "DZ0"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 121.3,
+  "ocr_s": 0.39
+ },
+ "f006.jpg": {
+  "n_lines": 32,
+  "box": [
+   1199,
+   560,
+   1481,
+   841
+  ],
+  "level": "date",
+  "lines": [
+   "02-60-82"
+  ],
+  "all_lines": [
+   "n",
+   "RREL",
+   "arvitos",
+   "uRD",
+   "Fajitas",
+   "SAZONADOR TENPERO",
+   "O\"pop\"",
+   "Tamp",
+   "tex",
+   "mêx",
+   "ENCTNBADO",
+   "02-60-82",
+   "A",
+   "0,90€",
+   "De",
+   "E1HE 8260927",
+   "10D",
+   "edes",
+   "IS",
+   "al",
+   "/",
+   "6 TORTILLAS",
+   "AVENA AVEIA",
+   "12",
+   "12",
+   "MINI",
+   "TILLB",
+   "RIGO",
+   "MINE",
+   "FOO",
+   "12",
+   "TORTLLAS"
+  ],
+  "crop_wh": [
+   282,
+   281
+  ],
+  "sharpness": 66.7,
+  "ocr_s": 0.35
+ },
+ "f012.jpg": {
+  "n_lines": 27,
+  "box": [
+   1216,
+   565,
+   1490,
+   839
+  ],
+  "level": "date",
+  "lines": [
+   "02-60-82"
+  ],
+  "all_lines": [
+   "TO",
+   "tritos",
+   "Fajitas",
+   "SAZONADOR TEMAERD",
+   "O\"pop\"",
+   "Tampa",
+   "tex",
+   "mex",
+   "©X",
+   "TEONPDO",
+   "rança.",
+   "2",
+   "02-60-82",
+   "0,90€",
+   "2242 8260927",
+   "sapedel",
+   "51",
+   "6 TORTILLAS",
+   "AVENA AVEIA 51",
+   "12",
+   "2",
+   "PTILLA",
+   "NINIS",
+   "BOCW",
+   "12 rommA",
+   "TOR",
+   "MINI"
+  ],
+  "crop_wh": [
+   274,
+   274
+  ],
+  "sharpness": 68.8,
+  "ocr_s": 0.33
+ },
+ "f018.jpg": {
+  "n_lines": 28,
+  "box": [
+   1181,
+   539,
+   1515,
+   880
+  ],
+  "level": "date",
+  "lines": [
+   "6202-60-82"
+  ],
+  "all_lines": [
+   "2.096",
+   "COALLA",
+   "O\"pop'",
+   "Fajitas",
+   "TADONADOR TEMPERO",
+   "urritos",
+   "Tamp",
+   "tex",
+   "mex",
+   "GX",
+   "LCESUO",
+   "ança",
+   "6202-60-82",
+   "0,90€",
+   "0€",
+   "5012 8260927",
+   "6 TORTILLAS",
+   "AVENA AVEIA 5",
+   "12",
+   "MINI",
+   "RTILLA",
+   "RIGD",
+   "NONY",
+   "AM",
+   "12",
+   "TORUTAS",
+   "TOK",
+   "MINI"
+  ],
+  "crop_wh": [
+   334,
+   341
+  ],
+  "sharpness": 66.9,
+  "ocr_s": 0.33
+ },
+ "f024.jpg": {
+  "n_lines": 28,
+  "box": [
+   1189,
+   518,
+   1536,
+   867
+  ],
+  "level": "date",
+  "lines": [
+   "6202-60-82"
+  ],
+  "all_lines": [
+   "O\"pop'",
+   "utritos",
+   "Fajitas",
+   "IAZONADOR TEMPERO",
+   "Tampa de",
+   "tex",
+   "mêx",
+   "TLNAN",
+   "6202-60-82",
+   "0,90€",
+   "2262 2260927",
+   "Oc",
+   "opedes",
+   "6 TORTILLAS",
+   "AVENA AVEIA 5",
+   "12",
+   "12",
+   "MINI",
+   "C",
+   "TILLA",
+   "ML",
+   "MIN",
+   "BOON",
+   "12",
+   "TORTILLAS",
+   "TOI",
+   "MINI",
+   "V"
+  ],
+  "crop_wh": [
+   347,
+   349
+  ],
+  "sharpness": 65.2,
+  "ocr_s": 0.33
+ },
+ "f030.jpg": {
+  "n_lines": 24,
+  "box": [
+   1188,
+   507,
+   1546,
+   870
+  ],
+  "level": "date",
+  "lines": [
+   "6202-60-82"
+  ],
+  "all_lines": [
+   "O\"pop",
+   "",
+   "uvitos",
+   "440",
+   "Fajitas",
+   "SAZONACOR FERPERO",
+   "tex",
+   "mex",
+   "6X",
+   "LEAUO",
+   "6202-60-82",
+   "2662 8260927",
+   "0,90€",
+   "epedel",
+   "6 TORTILLAS",
+   "AVENA AVEIA5",
+   "12",
+   "12",
+   "MINI",
+   "RTILLA",
+   "NJNA",
+   "2O",
+   "12",
+   "TORTIOA"
+  ],
+  "crop_wh": [
+   358,
+   363
+  ],
+  "sharpness": 64.1,
+  "ocr_s": 0.32
+ },
+ "f036.jpg": {
+  "n_lines": 27,
+  "box": [
+   1194,
+   497,
+   1560,
+   865
+  ],
+  "level": "date",
+  "lines": [
+   "6202-60-82"
+  ],
+  "all_lines": [
+   "T",
+   "O\"pop",
+   "tvitos",
+   "130",
+   "Fajitas",
+   "AZONADOS TEMPERO",
+   "Tampa d",
+   "tex",
+   "mex",
+   "urança",
+   "GX",
+   "BANA",
+   "6202-60-82",
+   "2262 8260927",
+   "0,90€",
+   "T",
+   "6 TORTILLAS",
+   "AVENA AVEIA",
+   "12",
+   "12",
+   "MINI",
+   "MINI",
+   "RTILLA",
+   "XANE",
+   "YOO",
+   "12",
+   "TONTELA"
+  ],
+  "crop_wh": [
+   366,
+   368
+  ],
+  "sharpness": 62.1,
+  "ocr_s": 0.33
+ },
+ "f042.jpg": {
+  "n_lines": 29,
+  "box": [
+   1184,
+   501,
+   1530,
+   848
+  ],
+  "level": "date",
+  "lines": [
+   "2202-60-82"
+  ],
+  "all_lines": [
+   "O\"pop\"",
+   "itcs",
+   "1",
+   "Fajitas",
+   "SAZOMADOR TEMPERO",
+   "Tampa",
+   "tex",
+   "mex",
+   "erfecto",
+   "GX",
+   "BCNAD",
+   "2202-60-82",
+   "22 22602",
+   "0,90€",
+   "pedel",
+   "6 TORTILLAS",
+   "AVENA AVEIA S",
+   "00",
+   "12",
+   "12",
+   "MINI",
+   "D",
+   "RTILLA",
+   "(RIGO",
+   "NIN",
+   "BOSIA",
+   "12",
+   "TONRLLAS",
+   "ITN"
+  ],
+  "crop_wh": [
+   346,
+   347
+  ],
+  "sharpness": 61.8,
+  "ocr_s": 0.33
+ },
+ "f048.jpg": {
+  "n_lines": 23,
+  "box": [
+   1170,
+   520,
+   1518,
+   877
+  ],
+  "level": "date",
+  "lines": [
+   "6202-60-82"
+  ],
+  "all_lines": [
+   "mm",
+   "O\"pop",
+   "critos",
+   "14ZONADOR PEMPERO",
+   "Fajitas",
+   "Tampa",
+   "tex",
+   "mex",
+   "rança.",
+   "REPAB",
+   "6202-60-82",
+   "E4E 82602",
+   "0,90€",
+   "6 TORTILLAS",
+   "AVENA AVEIA 5",
+   "UJr",
+   "12",
+   "12",
+   "MINI",
+   "RTILLA",
+   "NNL",
+   "AATO",
+   "12 TOMCEAS"
+  ],
+  "crop_wh": [
+   348,
+   357
+  ],
+  "sharpness": 62.9,
+  "ocr_s": 0.32
+ },
+ "f054.jpg": {
+  "n_lines": 28,
+  "box": [
+   29,
+   457,
+   125,
+   553
+  ],
+  "level": "digits",
+  "lines": [
+   "-3140"
+  ],
+  "all_lines": [
+   "O\"pop\"",
+   "TEON",
+   "tritos",
+   "-3140",
+   "Fajitas",
+   "SAZONAGOR TEMPERO",
+   "Tampa de",
+   "tex",
+   "mex",
+   "6X",
+   "EDE2O",
+   "62 22602",
+   "0,90€",
+   "sapedel",
+   "e",
+   "6 TORTILLAS D",
+   "AVENA AVEIA 51",
+   "12",
+   "12",
+   "MINI",
+   "TL",
+   "CA",
+   "RTILLA",
+   "RIGO",
+   "MINI",
+   "BODET",
+   "12",
+   "TOPTLAS"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 65.2,
+  "ocr_s": 0.34
+ },
+ "f060.jpg": {
+  "n_lines": 23,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "MOLAS",
+   "TEUN",
+   "atvitos",
+   "Fajitas",
+   "SAZONADOR TEMPERO",
+   "Tampa",
+   "tex",
+   "mex",
+   "erfecto",
+   "6x",
+   "B120",
+   "0,90€",
+   "Dc",
+   "edej",
+   "6 TORTILLAS D",
+   "AVENA AVEIA 5",
+   "12",
+   "1S",
+   "MINI",
+   "MINI",
+   "RTILLA",
+   "NINE",
+   "IYSN"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 65.3,
+  "ocr_s": 0.33
+ },
+ "f066.jpg": {
+  "n_lines": 24,
+  "box": [
+   1264,
+   560,
+   1539,
+   835
+  ],
+  "level": "digits",
+  "lines": [
+   "8260927"
+  ],
+  "all_lines": [
+   "O\"pop",
+   "40",
+   "AZONADOR TIMPIRO",
+   "Tampa",
+   "itos",
+   "Fajitas",
+   "tex",
+   "mex",
+   "ch",
+   "6X",
+   "RI250O",
+   "8260927",
+   "StIHe",
+   "0,90c",
+   "opedel",
+   "6 TORTILLAS O",
+   "AVENA AVEIA S",
+   "UJE",
+   "12",
+   "12",
+   "MINI",
+   "RTILLA",
+   "MINU",
+   "OANO"
+  ],
+  "crop_wh": [
+   275,
+   275
+  ],
+  "sharpness": 62.7,
+  "ocr_s": 0.33
+ },
+ "f072.jpg": {
+  "n_lines": 25,
+  "box": [
+   1180,
+   481,
+   1546,
+   856
+  ],
+  "level": "date",
+  "lines": [
+   "6202-60-82"
+  ],
+  "all_lines": [
+   "ThMa",
+   "O\"pop\"",
+   "Tampa",
+   "Fajitas",
+   "SAZONADOR-TENPERO",
+   "itos",
+   "tex",
+   "mex",
+   "lecho",
+   "OX",
+   "ETLENDAO",
+   "6202-60-82",
+   "E712 8260927",
+   "0,90€",
+   "6 TORTILLAS",
+   "AVENA AVEIA 51",
+   "12",
+   "12",
+   "MINI",
+   "RTILLA",
+   "RUGO",
+   "MINY",
+   "AAN",
+   "12",
+   "NORIPLAS"
+  ],
+  "crop_wh": [
+   366,
+   375
+  ],
+  "sharpness": 58.9,
+  "ocr_s": 0.33
+ },
+ "f078.jpg": {
+  "n_lines": 24,
+  "box": [
+   1174,
+   484,
+   1536,
+   854
+  ],
+  "level": "date",
+  "lines": [
+   "6202-60-82"
+  ],
+  "all_lines": [
+   "S090",
+   "POETan",
+   "O\"pop\"",
+   "Tampa",
+   "itcs",
+   "Fajitas",
+   "LAEONADOA TEMPERO",
+   "tex",
+   "mex",
+   "urança.",
+   "pet",
+   "EENDAD",
+   "6202-60-82",
+   "E222 8260927",
+   "0,90€",
+   "6 TORTILLAS D",
+   "AVENA AVEIA S1",
+   "12",
+   "12",
+   "MINI",
+   "A",
+   "PTILLA",
+   "NINIS",
+   "RONM"
+  ],
+  "crop_wh": [
+   362,
+   370
+  ],
+  "sharpness": 57.5,
+  "ocr_s": 0.32
+ },
+ "f084.jpg": {
+  "n_lines": 26,
+  "box": [
+   1182,
+   501,
+   1522,
+   846
+  ],
+  "level": "date",
+  "lines": [
+   "2202-60-82"
+  ],
+  "all_lines": [
+   "O\"pop",
+   "Tamp",
+   "itcs",
+   "Fajitas",
+   "LAZONADOR TENPEEO",
+   "tex",
+   "mex",
+   "OX",
+   "TT",
+   "2202-60-82",
+   "E1E 8260927",
+   "0,90€",
+   "ale",
+   "6 TORTILLAS DE",
+   "AVENA AVEIA S1",
+   "12",
+   "12",
+   "MINI",
+   "MINI",
+   "CAT",
+   "RTILLA",
+   "ENNE",
+   "BTO",
+   "12 TONTIDAS",
+   "TORI",
+   "MINI"
+  ],
+  "crop_wh": [
+   340,
+   345
+  ],
+  "sharpness": 57.9,
+  "ocr_s": 0.32
+ }
+}

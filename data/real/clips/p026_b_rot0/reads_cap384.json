@@ -1,0 +1,152 @@
+{
+ "f000.jpg": {
+  "content": "The expiration date on the package reads 2026-11-29.\n{\"year\": 2026, \"month\": 11, \"day\": 29}",
+  "json": {
+   "year": 2026,
+   "month": 11,
+   "day": 29
+  },
+  "latency_s": 0.22,
+  "gen_tokens": 44
+ },
+ "f006.jpg": {
+  "content": "No expiration date is visible on this package.\n{\"year\": null, \"month\": null, \"day\": null}",
+  "json": {
+   "year": null,
+   "month": null,
+   "day": null
+  },
+  "latency_s": 0.17,
+  "gen_tokens": 26
+ },
+ "f012.jpg": {
+  "content": "No expiration date is visible on this package.\n{\"year\": null, \"month\": null, \"day\": null}",
+  "json": {
+   "year": null,
+   "month": null,
+   "day": null
+  },
+  "latency_s": 0.17,
+  "gen_tokens": 26
+ },
+ "f018.jpg": {
+  "content": "The expiration date on the package reads 2027-11-??.\n{\"year\": 2027, \"month\": 11, \"day\": null}",
+  "json": {
+   "year": 2027,
+   "month": 11,
+   "day": null
+  },
+  "latency_s": 0.17,
+  "gen_tokens": 41
+ },
+ "f024.jpg": {
+  "content": "The expiration date on the package reads 2026-11-29.\n{\"year\": 2026, \"month\": 11, \"day\": 29}",
+  "json": {
+   "year": 2026,
+   "month": 11,
+   "day": 29
+  },
+  "latency_s": 0.18,
+  "gen_tokens": 44
+ },
+ "f030.jpg": {
+  "content": "No expiration date is visible on this package.\n{\"year\": null, \"month\": null, \"day\": null}",
+  "json": {
+   "year": null,
+   "month": null,
+   "day": null
+  },
+  "latency_s": 0.16,
+  "gen_tokens": 26
+ },
+ "f036.jpg": {
+  "content": "The expiration date on the package reads 2027-11-??.\n{\"year\": 2027, \"month\": 11, \"day\": null}",
+  "json": {
+   "year": 2027,
+   "month": 11,
+   "day": null
+  },
+  "latency_s": 0.17,
+  "gen_tokens": 41
+ },
+ "f042.jpg": {
+  "content": "No expiration date is visible on this package.\n{\"year\": null, \"month\": null, \"day\": null}",
+  "json": {
+   "year": null,
+   "month": null,
+   "day": null
+  },
+  "latency_s": 0.15,
+  "gen_tokens": 26
+ },
+ "f048.jpg": {
+  "content": "The expiration date on the package reads 2026-11-29.\n{\"year\": 2026, \"month\": 11, \"day\": 29}",
+  "json": {
+   "year": 2026,
+   "month": 11,
+   "day": 29
+  },
+  "latency_s": 0.22,
+  "gen_tokens": 44
+ },
+ "f054.jpg": {
+  "content": "The expiration date on the package reads 2027-11-??.\n{\"year\": 2027, \"month\": 11, \"day\": null}",
+  "json": {
+   "year": 2027,
+   "month": 11,
+   "day": null
+  },
+  "latency_s": 0.17,
+  "gen_tokens": 41
+ },
+ "f060.jpg": {
+  "content": "No expiration date is visible on this package.\n{\"year\": null, \"month\": null, \"day\": null}",
+  "json": {
+   "year": null,
+   "month": null,
+   "day": null
+  },
+  "latency_s": 0.16,
+  "gen_tokens": 26
+ },
+ "f066.jpg": {
+  "content": "No expiration date is visible on this package.\n{\"year\": null, \"month\": null, \"day\": null}",
+  "json": {
+   "year": null,
+   "month": null,
+   "day": null
+  },
+  "latency_s": 0.15,
+  "gen_tokens": 26
+ },
+ "f072.jpg": {
+  "content": "The expiration date on the package reads 2027-11-??.\n{\"year\": 2027, \"month\": 11, \"day\": null}",
+  "json": {
+   "year": 2027,
+   "month": 11,
+   "day": null
+  },
+  "latency_s": 0.16,
+  "gen_tokens": 41
+ },
+ "f078.jpg": {
+  "content": "No expiration date is visible on this package.\n{\"year\": null, \"month\": null, \"day\": null}",
+  "json": {
+   "year": null,
+   "month": null,
+   "day": null
+  },
+  "latency_s": 0.15,
+  "gen_tokens": 26
+ },
+ "f084.jpg": {
+  "content": "No expiration date is visible on this package.\n{\"year\": null, \"month\": null, \"day\": null}",
+  "json": {
+   "year": null,
+   "month": null,
+   "day": null
+  },
+  "latency_s": 0.15,
+  "gen_tokens": 26
+ }
+}

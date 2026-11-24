@@ -1,0 +1,456 @@
+{
+ "f000.jpg": {
+  "n_lines": 9,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "",
+   "ACENDAM",
+   "",
+   "ICEBERG",
+   "LAVADA",
+   "X",
+   "-",
+   "R2M11",
+   "Origen/Origem:"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 148.8,
+  "ocr_s": 0.39
+ },
+ "f006.jpg": {
+  "n_lines": 7,
+  "box": [
+   801,
+   692,
+   1574,
+   1306
+  ],
+  "level": "digits",
+  "lines": [
+   "22 11 26",
+   "L320070-382100",
+   "R20M11"
+  ],
+  "all_lines": [
+   "JI",
+   "ICEBER",
+   "LAVADA",
+   "22 11 26",
+   "L320070-382100",
+   "R20M11",
+   "Origen/Origem:"
+  ],
+  "crop_wh": [
+   773,
+   614
+  ],
+  "sharpness": 22.9,
+  "ocr_s": 0.29
+ },
+ "f012.jpg": {
+  "n_lines": 6,
+  "box": [
+   698,
+   572,
+   1473,
+   1204
+  ],
+  "level": "digits",
+  "lines": [
+   "22 11 26",
+   "L320070-382100",
+   "R20M11"
+  ],
+  "all_lines": [
+   "ICFR",
+   "AVADA",
+   "22 11 26",
+   "L320070-382100",
+   "R20M11",
+   "Origen/Origem:"
+  ],
+  "crop_wh": [
+   775,
+   632
+  ],
+  "sharpness": 37.6,
+  "ocr_s": 0.31
+ },
+ "f018.jpg": {
+  "n_lines": 6,
+  "box": [
+   662,
+   563,
+   1433,
+   1199
+  ],
+  "level": "digits",
+  "lines": [
+   "22 11 26",
+   "L320070-382100",
+   "R20M11"
+  ],
+  "all_lines": [
+   "ICER",
+   "LAVADA",
+   "22 11 26",
+   "L320070-382100",
+   "R20M11",
+   "Origen/Origem:"
+  ],
+  "crop_wh": [
+   771,
+   636
+  ],
+  "sharpness": 43.7,
+  "ocr_s": 0.31
+ },
+ "f024.jpg": {
+  "n_lines": 4,
+  "box": [
+   818,
+   786,
+   1293,
+   1139
+  ],
+  "level": "digits",
+  "lines": [
+   "R20M11"
+  ],
+  "all_lines": [
+   "ICER",
+   "LAVADA",
+   "R20M11",
+   "Origen/Origem:"
+  ],
+  "crop_wh": [
+   475,
+   353
+  ],
+  "sharpness": 47.2,
+  "ocr_s": 0.29
+ },
+ "f030.jpg": {
+  "n_lines": 6,
+  "box": [
+   622,
+   553,
+   1386,
+   1188
+  ],
+  "level": "digits",
+  "lines": [
+   "22 11 26",
+   "R20M11"
+  ],
+  "all_lines": [
+   "J",
+   "ICER",
+   "LAVADA",
+   "22 11 26",
+   "R20M11",
+   "Origen/Origem:"
+  ],
+  "crop_wh": [
+   764,
+   635
+  ],
+  "sharpness": 49.4,
+  "ocr_s": 0.31
+ },
+ "f036.jpg": {
+  "n_lines": 7,
+  "box": [
+   608,
+   567,
+   1368,
+   1199
+  ],
+  "level": "digits",
+  "lines": [
+   "22 11 26",
+   "L320070-382100",
+   "R20M11"
+  ],
+  "all_lines": [
+   "H",
+   "ICER",
+   "LAVADA",
+   "22 11 26",
+   "L320070-382100",
+   "R20M11",
+   "Origen/Origem:"
+  ],
+  "crop_wh": [
+   760,
+   632
+  ],
+  "sharpness": 50.1,
+  "ocr_s": 0.32
+ },
+ "f042.jpg": {
+  "n_lines": 8,
+  "box": [
+   651,
+   567,
+   1409,
+   1202
+  ],
+  "level": "digits",
+  "lines": [
+   "22 11 26",
+   "L320070-382100",
+   "R20M11"
+  ],
+  "all_lines": [
+   "",
+   "ICERI",
+   "LVADA",
+   "22 11 26",
+   "L320070-382100",
+   ".",
+   "R20M11",
+   "Origen/Origem:"
+  ],
+  "crop_wh": [
+   758,
+   635
+  ],
+  "sharpness": 45.6,
+  "ocr_s": 0.31
+ },
+ "f048.jpg": {
+  "n_lines": 7,
+  "box": [
+   648,
+   404,
+   1538,
+   1136
+  ],
+  "level": "digits",
+  "lines": [
+   "2201266",
+   "R20M11"
+  ],
+  "all_lines": [
+   "Ie",
+   "AVADA",
+   "2201266",
+   "R20M11",
+   "Origen/Origem:",
+   "España/Espanha",
+   "0.85€"
+  ],
+  "crop_wh": [
+   890,
+   732
+  ],
+  "sharpness": 52.4,
+  "ocr_s": 0.3
+ },
+ "f054.jpg": {
+  "n_lines": 6,
+  "box": [
+   690,
+   450,
+   1484,
+   1120
+  ],
+  "level": "digits",
+  "lines": [
+   "22 11 6",
+   "R20M11"
+  ],
+  "all_lines": [
+   "ICE",
+   "VADA",
+   "22 11 6",
+   "R20M11",
+   "Origen/Origem:",
+   "0.85c"
+  ],
+  "crop_wh": [
+   794,
+   670
+  ],
+  "sharpness": 51.5,
+  "ocr_s": 0.28
+ },
+ "f060.jpg": {
+  "n_lines": 7,
+  "box": [
+   699,
+   487,
+   1473,
+   1134
+  ],
+  "level": "digits",
+  "lines": [
+   "22 11 26",
+   "L320070-382100",
+   "R20M11"
+  ],
+  "all_lines": [
+   "ICFR",
+   "AVADA",
+   "22 11 26",
+   "L320070-382100",
+   "R20M11",
+   "Origen/Origem:",
+   "0.85€"
+  ],
+  "crop_wh": [
+   774,
+   647
+  ],
+  "sharpness": 50.1,
+  "ocr_s": 0.3
+ },
+ "f066.jpg": {
+  "n_lines": 7,
+  "box": [
+   685,
+   489,
+   1459,
+   1143
+  ],
+  "level": "digits",
+  "lines": [
+   "22 11 26",
+   "L320070-382100",
+   "R20M11"
+  ],
+  "all_lines": [
+   "ICFR",
+   "AVADA",
+   "22 11 26",
+   "L320070-382100",
+   "R20M11",
+   "Origen/Origem:",
+   "0.85€"
+  ],
+  "crop_wh": [
+   774,
+   654
+  ],
+  "sharpness": 48.7,
+  "ocr_s": 0.3
+ },
+ "f072.jpg": {
+  "n_lines": 7,
+  "box": [
+   857,
+   763,
+   1317,
+   1111
+  ],
+  "level": "digits",
+  "lines": [
+   "R20M11"
+  ],
+  "all_lines": [
+   "",
+   "ICFRE",
+   "VADA",
+   "R20M11",
+   "Origen/Origem:",
+   "España/Espanha",
+   "0.85c"
+  ],
+  "crop_wh": [
+   460,
+   348
+  ],
+  "sharpness": 51.6,
+  "ocr_s": 0.31
+ },
+ "f078.jpg": {
+  "n_lines": 5,
+  "box": [
+   843,
+   793,
+   1303,
+   1143
+  ],
+  "level": "digits",
+  "lines": [
+   "R20M11"
+  ],
+  "all_lines": [
+   "ICFREK",
+   "AVADA",
+   "R20M11",
+   "Origen/Origem:",
+   "0.85"
+  ],
+  "crop_wh": [
+   460,
+   350
+  ],
+  "sharpness": 53.0,
+  "ocr_s": 0.27
+ },
+ "f084.jpg": {
+  "n_lines": 6,
+  "box": [
+   833,
+   786,
+   1297,
+   1140
+  ],
+  "level": "digits",
+  "lines": [
+   "R20M11"
+  ],
+  "all_lines": [
+   "A",
+   "ICFREK",
+   "AVADA",
+   "R20M11",
+   "Origen/Origem:",
+   "0.85€"
+  ],
+  "crop_wh": [
+   464,
+   354
+  ],
+  "sharpness": 52.6,
+  "ocr_s": 0.27
+ },
+ "f090.jpg": {
+  "n_lines": 7,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "M",
+   "A",
+   "ICER",
+   "VADA",
+   "R2M11",
+   "Origen/Origem:",
+   "0.80"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 50.5,
+  "ocr_s": 0.28
+ }
+}

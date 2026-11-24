@@ -1,0 +1,449 @@
+{
+ "f000.jpg": {
+  "n_lines": 9,
+  "box": [
+   559,
+   889,
+   795,
+   1326
+  ],
+  "level": "date",
+  "lines": [
+   "12.12.2027 21.02"
+  ],
+  "all_lines": [
+   "150g",
+   "C ",
+   "re  ",
+   "na: coran",
+   "Tr d",
+   " contra o calor e",
+   "L: 03 6261 333",
+   "12.12.2027 21.02",
+   "tore away tom heat"
+  ],
+  "crop_wh": [
+   236,
+   437
+  ],
+  "sharpness": 17.6,
+  "ocr_s": 0.42
+ },
+ "f006.jpg": {
+  "n_lines": 7,
+  "box": [
+   845,
+   575,
+   1282,
+   1157
+  ],
+  "level": "date",
+  "lines": [
+   "12.12.2027 2102",
+   "Best before / Consume"
+  ],
+  "all_lines": [
+   "roiis)",
+   "nir de prefe",
+   "Best before / Consume",
+   "Store away thom heat",
+   "L: 03 6261 333",
+   "12.12.2027 2102",
+   "OC"
+  ],
+  "crop_wh": [
+   437,
+   582
+  ],
+  "sharpness": 10.7,
+  "ocr_s": 0.31
+ },
+ "f012.jpg": {
+  "n_lines": 8,
+  "box": [
+   658,
+   3,
+   1246,
+   1162
+  ],
+  "level": "digits",
+  "lines": [
+   "12.122027 21.02",
+   "L: 03 6261 333",
+   "mir de prefereinci",
+   "Best before / Consume"
+  ],
+  "all_lines": [
+   "ger contra o ctrea",
+   "NETWEIGHT",
+   "mir de prefereinci",
+   "D",
+   "12.122027 21.02",
+   "Best before / Consume",
+   "L: 03 6261 333",
+   "cre away trom heat"
+  ],
+  "crop_wh": [
+   588,
+   1159
+  ],
+  "sharpness": 6.5,
+  "ocr_s": 0.31
+ },
+ "f018.jpg": {
+  "n_lines": 6,
+  "box": [
+   737,
+   64,
+   1204,
+   1164
+  ],
+  "level": "date",
+  "lines": [
+   "12.12.2027 2102",
+   "mir de preferência",
+   "Best before /Consume"
+  ],
+  "all_lines": [
+   "NET WEIGHT",
+   "mir de preferência",
+   "Best before /Consume",
+   "L: 03 6261 333",
+   "12.12.2027 2102",
+   "e away from heat"
+  ],
+  "crop_wh": [
+   467,
+   1100
+  ],
+  "sharpness": 6.4,
+  "ocr_s": 0.29
+ },
+ "f024.jpg": {
+  "n_lines": 8,
+  "box": [
+   738,
+   65,
+   1202,
+   1168
+  ],
+  "level": "date",
+  "lines": [
+   "12.12.2027 21.02",
+   "mir de preferência",
+   "Best beftore /Consume"
+  ],
+  "all_lines": [
+   "I",
+   "NET WEIGHT",
+   "r contraoctreal",
+   "mir de preferência",
+   "12.12.2027 21.02",
+   "Best beftore /Consume",
+   "L: 03 6261 333",
+   "e awcey hrom heat"
+  ],
+  "crop_wh": [
+   464,
+   1103
+  ],
+  "sharpness": 6.4,
+  "ocr_s": 0.31
+ },
+ "f030.jpg": {
+  "n_lines": 7,
+  "box": [
+   740,
+   44,
+   1201,
+   1158
+  ],
+  "level": "date",
+  "lines": [
+   "12.12.2027 21.02",
+   "mir de preferência",
+   "Best beftre / Consume"
+  ],
+  "all_lines": [
+   "NET WEIGHT",
+   "r contra ocrea",
+   "mir de preferência",
+   "Best beftre / Consume",
+   "L: 03 6261 333",
+   "12.12.2027 21.02",
+   "e away from heat"
+  ],
+  "crop_wh": [
+   461,
+   1114
+  ],
+  "sharpness": 6.5,
+  "ocr_s": 0.29
+ },
+ "f036.jpg": {
+  "n_lines": 7,
+  "box": [
+   740,
+   41,
+   1208,
+   1156
+  ],
+  "level": "date",
+  "lines": [
+   "12.12.2027 2102",
+   "mir de preferência",
+   "Best before / Consume"
+  ],
+  "all_lines": [
+   "NET WEIGHT",
+   "r contraodtrea",
+   "mir de preferência",
+   "Best before / Consume",
+   "L: 03 6261 333",
+   "12.12.2027 2102",
+   "away from heat"
+  ],
+  "crop_wh": [
+   468,
+   1115
+  ],
+  "sharpness": 6.2,
+  "ocr_s": 0.3
+ },
+ "f042.jpg": {
+  "n_lines": 6,
+  "box": [
+   754,
+   28,
+   1227,
+   1153
+  ],
+  "level": "date",
+  "lines": [
+   "12.12.2027 2102",
+   "mir de preferênci",
+   "Best before / Consume"
+  ],
+  "all_lines": [
+   "ETWEICHT",
+   "mir de preferênci",
+   "Best before / Consume",
+   "L: 03 6261 333",
+   "12.12.2027 2102",
+   "re eway from heat"
+  ],
+  "crop_wh": [
+   473,
+   1125
+  ],
+  "sharpness": 6.6,
+  "ocr_s": 0.3
+ },
+ "f048.jpg": {
+  "n_lines": 7,
+  "box": [
+   769,
+   42,
+   1129,
+   1131
+  ],
+  "level": "date",
+  "lines": [
+   "12.12.2027 21.02",
+   "mir de preferinc"
+  ],
+  "all_lines": [
+   "ET WEIGHT",
+   "r contraoc",
+   "mir de preferinc",
+   " Benst beftre / Comsume",
+   "L.: 03 6261 333",
+   "12.12.2027 21.02",
+   "cre axay from beat"
+  ],
+  "crop_wh": [
+   360,
+   1089
+  ],
+  "sharpness": 6.3,
+  "ocr_s": 0.3
+ },
+ "f054.jpg": {
+  "n_lines": 5,
+  "box": [
+   749,
+   24,
+   1241,
+   1156
+  ],
+  "level": "date",
+  "lines": [
+   "12.12.2027 2102",
+   "mir de preferênck",
+   "de Best before / Conume"
+  ],
+  "all_lines": [
+   "mir de preferênck",
+   "de Best before / Conume",
+   "L: 03 6261 333",
+   "12.12.2027 2102",
+   "re away trom heat"
+  ],
+  "crop_wh": [
+   492,
+   1132
+  ],
+  "sharpness": 6.3,
+  "ocr_s": 0.29
+ },
+ "f060.jpg": {
+  "n_lines": 7,
+  "box": [
+   664,
+   0,
+   1254,
+   1171
+  ],
+  "level": "digits",
+  "lines": [
+   "12.122027 2102",
+   "L: 03 6261 333",
+   "mir de preferênci",
+   "de Best before / Consume"
+  ],
+  "all_lines": [
+   "ET WEICHT",
+   "r contraoctreal",
+   "mir de preferênci",
+   "de Best before / Consume",
+   "12.122027 2102",
+   "L: 03 6261 333",
+   "away from heat"
+  ],
+  "crop_wh": [
+   590,
+   1171
+  ],
+  "sharpness": 6.4,
+  "ocr_s": 0.3
+ },
+ "f066.jpg": {
+  "n_lines": 6,
+  "box": [
+   765,
+   0,
+   1223,
+   1128
+  ],
+  "level": "date",
+  "lines": [
+   "12.12.2027 21.02",
+   "mir de preferenck",
+   " Best before /Consume"
+  ],
+  "all_lines": [
+   "contrao",
+   "mir de preferenck",
+   " Best before /Consume",
+   "L: 03 6261 333",
+   "12.12.2027 21.02",
+   "cre away trom heat"
+  ],
+  "crop_wh": [
+   458,
+   1128
+  ],
+  "sharpness": 6.3,
+  "ocr_s": 0.29
+ },
+ "f072.jpg": {
+  "n_lines": 7,
+  "box": [
+   769,
+   3,
+   1223,
+   1120
+  ],
+  "level": "date",
+  "lines": [
+   "12.12.2027 2102",
+   "mir de preferènci",
+   "Best before / Consume"
+  ],
+  "all_lines": [
+   "ET WEICHT",
+   " contra ocre",
+   "mir de preferènci",
+   "Best before / Consume",
+   "L: 03 6261 333",
+   "12.12.2027 2102",
+   " away from heat"
+  ],
+  "crop_wh": [
+   454,
+   1117
+  ],
+  "sharpness": 6.5,
+  "ocr_s": 0.3
+ },
+ "f078.jpg": {
+  "n_lines": 8,
+  "box": [
+   765,
+   0,
+   1249,
+   1121
+  ],
+  "level": "date",
+  "lines": [
+   "12.12.2027 21.02",
+   "mir de preferenci",
+   "Besd beftre/ Consume"
+  ],
+  "all_lines": [
+   "NET WEIGHT",
+   "O",
+   "rcontraoctrea",
+   "mir de preferenci",
+   "Besd beftre/ Consume",
+   "L: 03 6261 333",
+   "12.12.2027 21.02",
+   "cre awey from heat"
+  ],
+  "crop_wh": [
+   484,
+   1121
+  ],
+  "sharpness": 6.4,
+  "ocr_s": 0.31
+ },
+ "f084.jpg": {
+  "n_lines": 6,
+  "box": [
+   771,
+   0,
+   1231,
+   1118
+  ],
+  "level": "date",
+  "lines": [
+   "12.12.2027 2102",
+   "mir de prefertn",
+   "de Best before / Consume"
+  ],
+  "all_lines": [
+   "mir de prefertn",
+   "8CHT",
+   "de Best before / Consume",
+   "L: 03 6281 333",
+   "12.12.2027 2102",
+   "e away from heat"
+  ],
+  "crop_wh": [
+   460,
+   1118
+  ],
+  "sharpness": 6.2,
+  "ocr_s": 0.29
+ }
+}

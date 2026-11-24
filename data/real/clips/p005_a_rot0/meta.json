@@ -1,0 +1,518 @@
+{
+ "f000.jpg": {
+  "n_lines": 10,
+  "box": [
+   533,
+   697,
+   629,
+   793
+  ],
+  "level": "digits",
+  "lines": [
+   "1000"
+  ],
+  "all_lines": [
+   "thambro",
+   "ON",
+   "AMSTEL",
+   "(",
+   "CARVELA",
+   "Radle",
+   "LASt",
+   "m",
+   "1000",
+   "Naho"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 50.4,
+  "ocr_s": 0.38
+ },
+ "f006.jpg": {
+  "n_lines": 8,
+  "box": [
+   555,
+   695,
+   651,
+   791
+  ],
+  "level": "digits",
+  "lines": [
+   "1000"
+  ],
+  "all_lines": [
+   "thambra",
+   "9A",
+   "AMSTEL",
+   "N",
+   "CORVIZA",
+   "Radle",
+   "1000",
+   "Naho"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 51.3,
+  "ocr_s": 0.28
+ },
+ "f012.jpg": {
+  "n_lines": 11,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Chambra",
+   "IOMEAL",
+   "AMSTEL",
+   "CERVEEA",
+   "Radl",
+   "m",
+   "sae",
+   "Naho",
+   " d Dd N. 6% ved. .",
+   "oL",
+   "A1"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 50.3,
+  "ocr_s": 0.47
+ },
+ "f018.jpg": {
+  "n_lines": 8,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "thambro",
+   "NAI",
+   "AMSTEL",
+   "2",
+   "aSVEZ",
+   "Rudl",
+   "I",
+   "Naho"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 50.6,
+  "ocr_s": 0.3
+ },
+ "f024.jpg": {
+  "n_lines": 7,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "thambra",
+   "AMSTEL",
+   "(",
+   "CENVEZA",
+   "Radle",
+   "100",
+   "Naho"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 51.3,
+  "ocr_s": 0.34
+ },
+ "f030.jpg": {
+  "n_lines": 11,
+  "box": [
+   547,
+   772,
+   706,
+   868
+  ],
+  "level": "digits",
+  "lines": [
+   "D Ac. 0.0% vo/ A 005"
+  ],
+  "all_lines": [
+   "Mambra",
+   "INA",
+   "AMSTEL",
+   "2",
+   "OYEZA",
+   "fast",
+   "Radle",
+   "1",
+   "1ORO",
+   "Naho",
+   "D Ac. 0.0% vo/ A 005"
+  ],
+  "crop_wh": [
+   159,
+   96
+  ],
+  "sharpness": 50.7,
+  "ocr_s": 0.32
+ },
+ "f036.jpg": {
+  "n_lines": 10,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Mharobra",
+   "DONAL",
+   "AMSTEL",
+   "CUVEZA",
+   "N",
+   "Radle",
+   "m",
+   "180",
+   "Nahot",
+   " de T Me 0% v A"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 50.8,
+  "ocr_s": 0.3
+ },
+ "f042.jpg": {
+  "n_lines": 10,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Thambra",
+   "CONAL",
+   "AMSTEL",
+   "OVEA",
+   "X",
+   "Kud",
+   "1",
+   "Naho",
+   "3d l",
+   "A"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 50.8,
+  "ocr_s": 0.27
+ },
+ "f048.jpg": {
+  "n_lines": 9,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Bambra",
+   "OCOHNAL",
+   "AMSTEL",
+   "G",
+   "CNVETA",
+   "gast",
+   "Kudle",
+   "naho",
+   "OLE"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 51.3,
+  "ocr_s": 0.31
+ },
+ "f054.jpg": {
+  "n_lines": 8,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "thambro",
+   "CIORAL",
+   "AMSTEL",
+   "C",
+   "CEAVEZA",
+   "Radle",
+   "Naho",
+   "d t M 0h vo/ "
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 50.7,
+  "ocr_s": 0.3
+ },
+ "f060.jpg": {
+  "n_lines": 10,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "thambra",
+   "IONAL",
+   "AMSTEL",
+   "CRYEZA",
+   "9",
+   "10",
+   "Rade",
+   "VETOS",
+   "Naho",
+   "a"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 52.0,
+  "ocr_s": 0.28
+ },
+ "f066.jpg": {
+  "n_lines": 8,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Mhambra",
+   "CONAL",
+   "AMSTEL",
+   "CVEZ",
+   "Radle",
+   "Naho",
+   "t w/A0P",
+   ""
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 52.6,
+  "ocr_s": 0.28
+ },
+ "f072.jpg": {
+  "n_lines": 12,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "\"hambra",
+   "CONAL",
+   "AMSTEL",
+   "(",
+   "CLUFIZA",
+   "4",
+   "am",
+   "Last",
+   "Rudl",
+   "Naho",
+   "0Lam d M 0% w/ A. 0%",
+   "o"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 53.4,
+  "ocr_s": 0.29
+ },
+ "f078.jpg": {
+  "n_lines": 10,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Chambra",
+   "SONAL",
+   "AMSTEL",
+   "CIRVELA",
+   "2",
+   "Radl",
+   "gast",
+   "II",
+   "Naho",
+   "  A.0% o/ M 0.0%"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 53.7,
+  "ocr_s": 0.3
+ },
+ "f084.jpg": {
+  "n_lines": 7,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "Chambro",
+   "HAO CIOHAL",
+   "AMSTEL",
+   "CENVBZA",
+   "Radl",
+   "Nahor",
+   "Las d 2 A%dM 00%"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 54.3,
+  "ocr_s": 0.3
+ },
+ "f090.jpg": {
+  "n_lines": 8,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "thambro",
+   "COMAL",
+   "AMSTEL",
+   "CERYEZA",
+   "APA",
+   "gast",
+   "Naho",
+   "d  Nv/A.0"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 55.3,
+  "ocr_s": 0.3
+ },
+ "f096.jpg": {
+  "n_lines": 8,
+  "box": [
+   565,
+   736,
+   661,
+   832
+  ],
+  "level": "digits",
+  "lines": [
+   "1000"
+  ],
+  "all_lines": [
+   "Chombra",
+   "CIONAL",
+   "AMSTEL",
+   "CIRYEZA",
+   "Rad",
+   "T",
+   "1000",
+   "naho"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 55.7,
+  "ocr_s": 0.27
+ },
+ "f102.jpg": {
+  "n_lines": 11,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "thambra",
+   "UNAL",
+   "AMSTEL",
+   "CLRVEZA",
+   "t",
+   "22",
+   "Radle",
+   "100",
+   "Naho",
+   "A/A",
+   "Q"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 56.9,
+  "ocr_s": 0.27
+ }
+}

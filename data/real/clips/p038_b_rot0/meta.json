@@ -1,0 +1,630 @@
+{
+ "f000.jpg": {
+  "n_lines": 24,
+  "box": [
+   1005,
+   773,
+   1149,
+   1067
+  ],
+  "level": "date",
+  "lines": [
+   "06 05 2027"
+  ],
+  "all_lines": [
+   "INOVEDADI",
+   "RIRO LIQEIDO",
+   "Trall",
+   "MALLACHOCOLATES",
+   "Kc1y",
+   "113880€",
+   "1,25€",
+   "",
+   "TNOVEUAST",
+   "2,00€",
+   "12",
+   "OCHERO ",
+   "L281Z01-",
+   "06 05 2027",
+   "ROYAT",
+   "MINI",
+   "ROYAI",
+   "MINT",
+   "7 D",
+   "00c",
+   "BAJADA DEPR",
+   "10.6076",
+   "2,40",
+   ""
+  ],
+  "crop_wh": [
+   144,
+   294
+  ],
+  "sharpness": 95.1,
+  "ocr_s": 0.47
+ },
+ "f006.jpg": {
+  "n_lines": 16,
+  "box": [
+   1222,
+   295,
+   1401,
+   730
+  ],
+  "level": "date",
+  "lines": [
+   "06 05 2027"
+  ],
+  "all_lines": [
+   "RARR",
+   "FE",
+   "06 05 2027",
+   "O",
+   "L281Z01",
+   "ROYAL",
+   "0",
+   "MINI",
+   "ROYAI",
+   "MINT",
+   "BAJADAD",
+   "COrYE",
+   "2,40€",
+   "np10.6",
+   "T",
+   "1"
+  ],
+  "crop_wh": [
+   179,
+   435
+  ],
+  "sharpness": 73.7,
+  "ocr_s": 0.37
+ },
+ "f012.jpg": {
+  "n_lines": 16,
+  "box": [
+   1228,
+   398,
+   1412,
+   821
+  ],
+  "level": "date",
+  "lines": [
+   "06 05 2027"
+  ],
+  "all_lines": [
+   "JERRRO",
+   "ROUHER",
+   "FER",
+   "06 05 2027",
+   "L281Z01-",
+   "©",
+   "ROYAL",
+   "MINI",
+   "ROYAI",
+   "6",
+   "MINT",
+   "BAJADADE",
+   "2,40€",
+   "10.60",
+   "",
+   "0rO"
+  ],
+  "crop_wh": [
+   184,
+   423
+  ],
+  "sharpness": 72.4,
+  "ocr_s": 0.36
+ },
+ "f018.jpg": {
+  "n_lines": 16,
+  "box": [
+   1249,
+   423,
+   1434,
+   841
+  ],
+  "level": "date",
+  "lines": [
+   "06 05 2027"
+  ],
+  "all_lines": [
+   "HRNRO",
+   "KOCHER",
+   "FERR",
+   "06 05 2027",
+   "O",
+   "L281Z01-",
+   "O",
+   "ROYAL",
+   "MINI",
+   "ROYAI",
+   "MINT",
+   "C",
+   "BAJADA DE P",
+   "2,40€",
+   "10607e",
+   "E"
+  ],
+  "crop_wh": [
+   185,
+   418
+  ],
+  "sharpness": 73.8,
+  "ocr_s": 0.35
+ },
+ "f024.jpg": {
+  "n_lines": 16,
+  "box": [
+   1239,
+   422,
+   1417,
+   879
+  ],
+  "level": "date",
+  "lines": [
+   "06 05 2027"
+  ],
+  "all_lines": [
+   "RETR",
+   "FER",
+   "06 05 2027",
+   "L281Z01.",
+   "ROYAL",
+   "MIN",
+   "ROYAI",
+   "B",
+   "MINT",
+   "X",
+   "BAJADA DE P",
+   "10.607",
+   "2,40€",
+   "IrOm",
+   "710-70",
+   ""
+  ],
+  "crop_wh": [
+   178,
+   457
+  ],
+  "sharpness": 74.2,
+  "ocr_s": 0.36
+ },
+ "f030.jpg": {
+  "n_lines": 17,
+  "box": [
+   1226,
+   487,
+   1381,
+   872
+  ],
+  "level": "date",
+  "lines": [
+   "06 05 2027"
+  ],
+  "all_lines": [
+   "HHR",
+   "FER",
+   "FERK",
+   "ROCHER",
+   "L281Z01",
+   "06 05 2027",
+   "RERO",
+   "ROYAL",
+   "MINI",
+   "2",
+   "ROYAL",
+   "MINT",
+   "BAJADADE PR",
+   "2,40€",
+   "g.10,607€",
+   "",
+   "an"
+  ],
+  "crop_wh": [
+   155,
+   385
+  ],
+  "sharpness": 75.3,
+  "ocr_s": 0.39
+ },
+ "f036.jpg": {
+  "n_lines": 17,
+  "box": [
+   1182,
+   519,
+   1348,
+   990
+  ],
+  "level": "date",
+  "lines": [
+   "06 05 2027"
+  ],
+  "all_lines": [
+   "LENURO",
+   "ROCHOR",
+   "FEI",
+   "HH",
+   "OCHER",
+   "FERRERO",
+   "06 05 2027",
+   "L281Z01--",
+   "ROYAL",
+   "MINI",
+   "ROYAI",
+   "MINI",
+   "BAJADA DEP",
+   "0",
+   "2,40€",
+   "1=10.607",
+   "m"
+  ],
+  "crop_wh": [
+   166,
+   471
+  ],
+  "sharpness": 75.1,
+  "ocr_s": 0.37
+ },
+ "f042.jpg": {
+  "n_lines": 21,
+  "box": [
+   1174,
+   526,
+   1335,
+   935
+  ],
+  "level": "date",
+  "lines": [
+   "06 05 2027"
+  ],
+  "all_lines": [
+   "JURUNO",
+   "ROCHER",
+   "ROOCHER",
+   "FERRERO",
+   "L281Z01---",
+   "06 05 2027",
+   "O",
+   "ROYAI",
+   "MINI",
+   "ROYAL",
+   "MINT",
+   "0",
+   "BAJADA DE",
+   "BOMBONE",
+   "40€",
+   "110.60",
+   "2",
+   "R",
+   "T",
+   "24",
+   "af"
+  ],
+  "crop_wh": [
+   161,
+   409
+  ],
+  "sharpness": 76.4,
+  "ocr_s": 0.37
+ },
+ "f048.jpg": {
+  "n_lines": 17,
+  "box": [
+   1181,
+   565,
+   1348,
+   1030
+  ],
+  "level": "date",
+  "lines": [
+   "06 05 2027"
+  ],
+  "all_lines": [
+   "HRER",
+   "FER",
+   "EM",
+   "ROOCHER",
+   "FERRERO",
+   "06 05 2027",
+   "L281Z01-",
+   "ROYAI",
+   "MINI",
+   "ROYAL",
+   "MINT",
+   "BAJADA DEPRI",
+   "2,40€",
+   "10.6070",
+   "VOM",
+   "",
+   "2R"
+  ],
+  "crop_wh": [
+   167,
+   465
+  ],
+  "sharpness": 82.3,
+  "ocr_s": 0.37
+ },
+ "f054.jpg": {
+  "n_lines": 21,
+  "box": [
+   1183,
+   578,
+   1344,
+   941
+  ],
+  "level": "date",
+  "lines": [
+   "06 05 2027"
+  ],
+  "all_lines": [
+   "amrndun",
+   "IIR",
+   "FEI",
+   "HM",
+   "ROOCHER",
+   "FERRERO",
+   "L281Z01--",
+   "06 05 2027",
+   "C",
+   "ROYAI",
+   "MINI",
+   "ROYAI",
+   "MINT",
+   "BAJADA DEPR",
+   "BOMBONES SE",
+   "2979",
+   "2,40€",
+   "ng10607€",
+   "VLAnE",
+   "40",
+   "11"
+  ],
+  "crop_wh": [
+   161,
+   363
+  ],
+  "sharpness": 83.0,
+  "ocr_s": 0.39
+ },
+ "f060.jpg": {
+  "n_lines": 17,
+  "box": [
+   1188,
+   570,
+   1350,
+   1026
+  ],
+  "level": "date",
+  "lines": [
+   "06 05 2027"
+  ],
+  "all_lines": [
+   "OCER R",
+   "FERI",
+   "FER",
+   "RC",
+   "ROCHER",
+   "FERRERO",
+   "06 05 2027",
+   "L281Z01-",
+   "2",
+   "ROYAL",
+   "MINI",
+   "ROYAI",
+   "MINI",
+   "BAJADADEPREC",
+   "10.607c",
+   "2,40€",
+   "EE"
+  ],
+  "crop_wh": [
+   162,
+   456
+  ],
+  "sharpness": 85.2,
+  "ocr_s": 0.35
+ },
+ "f066.jpg": {
+  "n_lines": 22,
+  "box": [
+   1196,
+   582,
+   1356,
+   937
+  ],
+  "level": "date",
+  "lines": [
+   "06 05 2027"
+  ],
+  "all_lines": [
+   "TEOCRDTIION",
+   "HRRRO",
+   "ROAHER",
+   "FERF",
+   "FO",
+   "2",
+   "OCHER",
+   "FERRERO",
+   "L281Z01---",
+   "06 05 2027",
+   "ROYAL",
+   "MINI",
+   "ROYAI",
+   "MINT",
+   "70",
+   "BAJADADEPREC",
+   "19",
+   "2,40€",
+   "10.607€",
+   "EMEn",
+   "FSS",
+   ""
+  ],
+  "crop_wh": [
+   160,
+   355
+  ],
+  "sharpness": 88.1,
+  "ocr_s": 0.35
+ },
+ "f072.jpg": {
+  "n_lines": 16,
+  "box": [
+   1199,
+   589,
+   1347,
+   939
+  ],
+  "level": "date",
+  "lines": [
+   "06 05 2027"
+  ],
+  "all_lines": [
+   "RAIRR",
+   "FER",
+   "E2",
+   "ROCHER",
+   "FERRERO",
+   "L281Z01--",
+   "06 05 2027",
+   "ROYAL",
+   "MINI",
+   "ROYAI",
+   "MINI",
+   "BAJADADEPRE",
+   "2,40€",
+   "110.507€",
+   "TDEMELRE",
+   "830"
+  ],
+  "crop_wh": [
+   148,
+   350
+  ],
+  "sharpness": 87.1,
+  "ocr_s": 0.33
+ },
+ "f078.jpg": {
+  "n_lines": 17,
+  "box": [
+   1202,
+   566,
+   1366,
+   1024
+  ],
+  "level": "date",
+  "lines": [
+   "06 05 2027"
+  ],
+  "all_lines": [
+   "RU",
+   "FER",
+   "EQ",
+   "c a ",
+   "ROCHER",
+   "FERRERO",
+   "06 05 2027",
+   "L281Z01--",
+   "ROYAI",
+   "MINI",
+   "ROYAI",
+   "MINT",
+   "BAJADADE PREC",
+   "2,40€",
+   "10.507€",
+   "IORBOER",
+   "1U"
+  ],
+  "crop_wh": [
+   164,
+   458
+  ],
+  "sharpness": 84.7,
+  "ocr_s": 0.35
+ },
+ "f084.jpg": {
+  "n_lines": 20,
+  "box": [
+   1205,
+   591,
+   1363,
+   1040
+  ],
+  "level": "date",
+  "lines": [
+   "06 05 2027"
+  ],
+  "all_lines": [
+   "mn",
+   "IFNURO",
+   "NOXHER",
+   "FERR",
+   "FEN",
+   "ROC",
+   "ROCHER",
+   "FERRERO",
+   "L281Z01---",
+   "06 05 2027",
+   "ROYAI",
+   "MIN",
+   "ROYAI",
+   "MINT",
+   "BAJADADEPREC",
+   "id",
+   "10,607€",
+   "2,40€",
+   "TEDURERU",
+   "2V"
+  ],
+  "crop_wh": [
+   158,
+   449
+  ],
+  "sharpness": 88.0,
+  "ocr_s": 0.34
+ },
+ "f090.jpg": {
+  "n_lines": 19,
+  "box": [
+   1200,
+   585,
+   1360,
+   1038
+  ],
+  "level": "date",
+  "lines": [
+   "06 05 2027"
+  ],
+  "all_lines": [
+   "LT",
+   "LTWRO",
+   "ROCHER",
+   "FERR",
+   "FER",
+   "ROC",
+   "ROCHER",
+   "FERRERO",
+   "L281Z01--",
+   "06 05 2027",
+   "ROYAL",
+   "MIN",
+   "ROYAI",
+   "MINI",
+   "BAJADA DE PREC",
+   "2,40€",
+   "110,607€",
+   "TROFUBEOU",
+   "ON"
+  ],
+  "crop_wh": [
+   160,
+   453
+  ],
+  "sharpness": 86.7,
+  "ocr_s": 0.35
+ }
+}

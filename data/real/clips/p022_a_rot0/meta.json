@@ -1,0 +1,634 @@
+{
+ "f000.jpg": {
+  "n_lines": 22,
+  "box": [
+   1168,
+   749,
+   1266,
+   929
+  ],
+  "level": "date",
+  "lines": [
+   "24.11.26 R21",
+   "FECHA DE CADUCIDAD:"
+  ],
+  "all_lines": [
+   "B",
+   "A",
+   "C",
+   "D",
+   "NC",
+   "DSIst",
+   "15",
+   "7,53€",
+   "P.V.P.",
+   "14,80€",
+   "PRECIO KILO:",
+   "0,509kg",
+   "PESO NETO:",
+   "24.11.26 R21",
+   "FECHA DE CADUCIDAD:",
+   "ANOJO",
+   "MORCILLO/",
+   "JARRETE",
+   "2313741007534",
+   "ACUNO",
+   "REGLOS",
+   "ARETE/NGRCILLC"
+  ],
+  "crop_wh": [
+   98,
+   180
+  ],
+  "sharpness": 295.2,
+  "ocr_s": 0.47
+ },
+ "f006.jpg": {
+  "n_lines": 16,
+  "box": [
+   784,
+   616,
+   981,
+   842
+  ],
+  "level": "digits",
+  "lines": [
+   "14,80€",
+   "0,509kg",
+   "24.11.26R21",
+   "FECHA DE CADUCIDAD:"
+  ],
+  "all_lines": [
+   "7,53€",
+   "P.V.P.",
+   "14,80€",
+   "PRECIO KILO:",
+   "0,509kg",
+   "PESO NETO:",
+   "24.11.26R21",
+   "FECHA DE CADUCIDAD:",
+   "AÑOJO",
+   "MORCILLO",
+   "JARRETE",
+   "VACUNO",
+   "RREGLOS",
+   "2313741007534",
+   "15m",
+   "29"
+  ],
+  "crop_wh": [
+   197,
+   226
+  ],
+  "sharpness": 267.1,
+  "ocr_s": 0.34
+ },
+ "f012.jpg": {
+  "n_lines": 16,
+  "box": [
+   784,
+   674,
+   1038,
+   953
+  ],
+  "level": "digits",
+  "lines": [
+   "14,80€",
+   "0,509kg",
+   "24.11.26R21",
+   "231374",
+   "FECHA DE CADUCIDAD:"
+  ],
+  "all_lines": [
+   "NCA",
+   "P.V.P.",
+   "14,80€",
+   "PRECIO KILO:",
+   "0,509kg",
+   "7,53€",
+   "PESO NETO:",
+   "24.11.26R21",
+   "FECHA DE CADUCIDAD:",
+   "AÑOJO",
+   "MORCILLO",
+   "JARRETE",
+   "ARREGLOS",
+   "VACUNO",
+   "231374",
+   "00"
+  ],
+  "crop_wh": [
+   254,
+   279
+  ],
+  "sharpness": 283.1,
+  "ocr_s": 0.33
+ },
+ "f018.jpg": {
+  "n_lines": 17,
+  "box": [
+   848,
+   676,
+   1040,
+   902
+  ],
+  "level": "digits",
+  "lines": [
+   "14,80€",
+   "0,509kg",
+   "24.11.26R21",
+   "FECHA DE CADUCIDAD:"
+  ],
+  "all_lines": [
+   "EN",
+   "14,80€",
+   "PRECIO KILO:",
+   "0,509kg",
+   "7,53€",
+   "P.V.P.",
+   "PESO NETO:",
+   "24.11.26R21",
+   "FECHA DE CADUCIDAD:",
+   "ANOJO",
+   "MORCILLO",
+   "JARRETE",
+   "ARREGLOS",
+   "VACUNO",
+   "2313741007534",
+   "113",
+   "397"
+  ],
+  "crop_wh": [
+   192,
+   226
+  ],
+  "sharpness": 287.1,
+  "ocr_s": 0.32
+ },
+ "f024.jpg": {
+  "n_lines": 17,
+  "box": [
+   794,
+   673,
+   1050,
+   949
+  ],
+  "level": "digits",
+  "lines": [
+   "14,80€",
+   "0,509kg",
+   "24.11.26R21",
+   "23137",
+   "FECHA DE CADUCIDAD:"
+  ],
+  "all_lines": [
+   "MO",
+   "",
+   "P.V.P.",
+   "14,80€",
+   "PRECIO KILO:",
+   "0,509kg",
+   "7,53€",
+   "PESO NETO:",
+   "24.11.26R21",
+   "FECHA DE CADUCIDAD:",
+   "AÑOJO",
+   "MORCILLO",
+   "JARRETE",
+   "ARREGLOS",
+   "VACUNO",
+   "23137",
+   "4"
+  ],
+  "crop_wh": [
+   256,
+   276
+  ],
+  "sharpness": 283.7,
+  "ocr_s": 0.32
+ },
+ "f030.jpg": {
+  "n_lines": 20,
+  "box": [
+   951,
+   705,
+   1047,
+   893
+  ],
+  "level": "date",
+  "lines": [
+   "24-11.26R21",
+   "FECHA DE CADUCIDAD:"
+  ],
+  "all_lines": [
+   "3",
+   "N",
+   "1",
+   "o",
+   "caNd",
+   "P.V.P.",
+   "14,80€",
+   "PRECIO KILO:",
+   "0,509kg",
+   "7,53€",
+   "PESO NETO:",
+   "24-11.26R21",
+   "FECHA DE CADUCIDAD:",
+   "AÑOJO",
+   "MORCILLO",
+   "JARRETE",
+   "ARREGLOS",
+   "VACUNO",
+   "3",
+   "2313741007534"
+  ],
+  "crop_wh": [
+   96,
+   188
+  ],
+  "sharpness": 282.6,
+  "ocr_s": 0.34
+ },
+ "f036.jpg": {
+  "n_lines": 22,
+  "box": [
+   811,
+   668,
+   1067,
+   964
+  ],
+  "level": "digits",
+  "lines": [
+   "14,80€",
+   "0,509kg",
+   "24.11.26R21",
+   "2313741",
+   "FECHA DE CADUCIDAD:"
+  ],
+  "all_lines": [
+   "MOON",
+   "2",
+   "7",
+   "L",
+   "14,80€",
+   "PRECIO KILO:",
+   "0,509kg",
+   "7,53€",
+   "P.V.P.",
+   "PESO NETO:",
+   "24.11.26R21",
+   "FECHA DE CADUCIDAD:",
+   "AÑOJO",
+   "MORCILLO/",
+   "JARRETE",
+   "ARREGLOS",
+   "VACUNO",
+   "M",
+   "2313741",
+   "1007534",
+   "199",
+   "7"
+  ],
+  "crop_wh": [
+   256,
+   296
+  ],
+  "sharpness": 280.0,
+  "ocr_s": 0.35
+ },
+ "f042.jpg": {
+  "n_lines": 14,
+  "box": [
+   806,
+   677,
+   1063,
+   1028
+  ],
+  "level": "digits",
+  "lines": [
+   "0,509kg",
+   "24.11.26R21",
+   "3741007534",
+   "FECHA DE CADUCIDAD:"
+  ],
+  "all_lines": [
+   "PRECIO KILO:",
+   "0,509kg",
+   "PESO NETO:",
+   "7,53€",
+   "P.V.P.",
+   "24.11.26R21",
+   "FECHA DE CADUCIDAD:",
+   "ANOJO",
+   "MORCILLO",
+   "JARRETE",
+   "ARREGLOS",
+   "VACUNO",
+   "23",
+   "3741007534"
+  ],
+  "crop_wh": [
+   257,
+   351
+  ],
+  "sharpness": 280.7,
+  "ocr_s": 0.31
+ },
+ "f048.jpg": {
+  "n_lines": 20,
+  "box": [
+   860,
+   703,
+   1057,
+   933
+  ],
+  "level": "digits",
+  "lines": [
+   "14,80€",
+   "0,509kg",
+   "24.11.26R21",
+   "FECHA DE CADUCIDAD:"
+  ],
+  "all_lines": [
+   "AEFRO",
+   "ENAATE",
+   "I",
+   "",
+   "C",
+   "14,80€",
+   "PRECIO KILO:",
+   "0,509kg",
+   "7,53€",
+   "P.V.P.",
+   "PESO NETO:",
+   "24.11.26R21",
+   "FECHA DE CADUCIDAD:",
+   "AÑOJO",
+   "MORCILLO",
+   "JARRETE",
+   "ARREGLOS",
+   "VACUNO",
+   "",
+   "2313741007534"
+  ],
+  "crop_wh": [
+   197,
+   230
+  ],
+  "sharpness": 278.4,
+  "ocr_s": 0.34
+ },
+ "f054.jpg": {
+  "n_lines": 17,
+  "box": [
+   876,
+   703,
+   1073,
+   934
+  ],
+  "level": "digits",
+  "lines": [
+   "14,80€",
+   "0,509kg",
+   "24.11.26R21",
+   "FECHA DE CADUCIDAD:"
+  ],
+  "all_lines": [
+   "ANdA",
+   "ENMaISA",
+   "C",
+   "14,80€",
+   "PRECIO KILO:",
+   "0,509kg",
+   "7,53€",
+   "P.V.P.",
+   "PESO NETO:",
+   "24.11.26R21",
+   "FECHA DE CADUCIDAD:",
+   "AROJO",
+   "MORCILLO",
+   "JARRETE",
+   "ARREGLOS",
+   "VACUNO",
+   "2313741007534"
+  ],
+  "crop_wh": [
+   197,
+   231
+  ],
+  "sharpness": 279.9,
+  "ocr_s": 0.32
+ },
+ "f060.jpg": {
+  "n_lines": 18,
+  "box": [
+   868,
+   702,
+   1064,
+   932
+  ],
+  "level": "digits",
+  "lines": [
+   "14,80€",
+   "0,509kg",
+   "24.11.26R2",
+   "FECHA DE CADUCIDAD:"
+  ],
+  "all_lines": [
+   "Mda",
+   "HODE",
+   "To",
+   "14,80€",
+   "PRECIO KILO:",
+   "0,509kg",
+   "P.V.P.",
+   "PESO NETO:",
+   "24.11.26R2",
+   "7,53€",
+   "FECHA DE CADUCIDAD:",
+   "AROJO",
+   "MORCILLO",
+   "JARRETE",
+   "ARREGLOS",
+   "VACUNO",
+   "",
+   "53"
+  ],
+  "crop_wh": [
+   196,
+   230
+  ],
+  "sharpness": 274.1,
+  "ocr_s": 0.31
+ },
+ "f066.jpg": {
+  "n_lines": 18,
+  "box": [
+   871,
+   697,
+   1073,
+   928
+  ],
+  "level": "digits",
+  "lines": [
+   "14,80€",
+   "0,509kg",
+   "24.11.26R2",
+   "FECHA DE CADUCIDAD:"
+  ],
+  "all_lines": [
+   "AEUOe",
+   "",
+   "14,80€",
+   "PRECIO KILO:",
+   "0,509kg",
+   "P.V.P.",
+   "PESO NETO:",
+   "24.11.26R2",
+   "7,53€",
+   "FECHA DE CADUCIDAD:",
+   "MORCILLO",
+   "JARRETE",
+   "ARREGLOS",
+   "VACUNO",
+   "2313741007534",
+   "10",
+   "77",
+   "E"
+  ],
+  "crop_wh": [
+   202,
+   231
+  ],
+  "sharpness": 281.0,
+  "ocr_s": 0.31
+ },
+ "f072.jpg": {
+  "n_lines": 23,
+  "box": [
+   825,
+   694,
+   1083,
+   1023
+  ],
+  "level": "digits",
+  "lines": [
+   "14,80€",
+   "0,509kg",
+   "24.11.26R21",
+   "2313741007",
+   "FECHA DE CADUCIDAD:"
+  ],
+  "all_lines": [
+   "ARUTOIA",
+   "N",
+   "NICA",
+   "",
+   ".",
+   "14,80€",
+   "PRECIO KILO:",
+   "0,509kg",
+   "P.V.P.",
+   "PESO NETO:",
+   "7,53€",
+   "24.11.26R21",
+   "FECHA DE CADUCIDAD:",
+   "AROJO",
+   "MORCILLO",
+   "JARRETE",
+   "ARREGLOS",
+   "VACUNO",
+   "0",
+   "2313741007",
+   "53",
+   "111",
+   "MANO"
+  ],
+  "crop_wh": [
+   258,
+   329
+  ],
+  "sharpness": 280.4,
+  "ocr_s": 0.33
+ },
+ "f078.jpg": {
+  "n_lines": 17,
+  "box": [
+   956,
+   721,
+   1052,
+   909
+  ],
+  "level": "date",
+  "lines": [
+   "24.11.26 R21",
+   "FECHA DE CADUCIDAD:"
+  ],
+  "all_lines": [
+   "AXTN",
+   "14,80€",
+   "PRECIO KILO:",
+   "0,509kg",
+   "P.V.P.",
+   "PESO NETO:",
+   "24.11.26 R21",
+   "7,53€",
+   "FECHA DE CADUCIDAD:",
+   "AROJO",
+   "MORCILLO",
+   "JARRETE",
+   "ARREGLOS",
+   "VACUNO",
+   "2313741007534",
+   "a",
+   "977"
+  ],
+  "crop_wh": [
+   96,
+   188
+  ],
+  "sharpness": 279.7,
+  "ocr_s": 0.32
+ },
+ "f084.jpg": {
+  "n_lines": 17,
+  "box": [
+   862,
+   701,
+   1066,
+   933
+  ],
+  "level": "digits",
+  "lines": [
+   "14,80€",
+   "0,509kg",
+   "24.11.26R2",
+   "FECHA DE CADUCIDAD:"
+  ],
+  "all_lines": [
+   "E",
+   "gRe",
+   "AECRY",
+   "LS",
+   "14,80€",
+   "PRECIO KILO:",
+   "0,509kg",
+   "P.V.P.",
+   "PESO NETO:",
+   "24.11.26R2",
+   "FECHA DE CADUCIDAD:",
+   "7,53€",
+   "ANOJO",
+   "MORCILLO",
+   "JARRETE",
+   "ARREGLOS",
+   "VACUNO"
+  ],
+  "crop_wh": [
+   204,
+   232
+  ],
+  "sharpness": 277.8,
+  "ocr_s": 0.3
+ }
+}

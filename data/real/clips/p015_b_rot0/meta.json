@@ -1,0 +1,445 @@
+{
+ "f000.jpg": {
+  "n_lines": 12,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "−",
+   "32 mg",
+   "110mg",
+   "490 mg",
+   "Cansune prelerentenete n",
+   "Corsume de preleeca re",
+   "T",
+   "1y",
+   "PEOE IN",
+   "DATAMEM",
+   "0VIAI",
+   "O8ICTS/A1"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 11.2,
+  "ocr_s": 0.43
+ },
+ "f006.jpg": {
+  "n_lines": 8,
+  "box": [
+   1575,
+   984,
+   1728,
+   1097
+  ],
+  "level": "digits",
+  "lines": [
+   "2871"
+  ],
+  "all_lines": [
+   "S",
+   "0",
+   "J",
+   "tre",
+   "2871",
+   "0v11",
+   "MICts",
+   "8"
+  ],
+  "crop_wh": [
+   153,
+   113
+  ],
+  "sharpness": 7.8,
+  "ocr_s": 0.31
+ },
+ "f012.jpg": {
+  "n_lines": 8,
+  "box": [
+   986,
+   396,
+   1728,
+   1728
+  ],
+  "level": "digits",
+  "lines": [
+   "09/314",
+   "81000080",
+   "Consume preferente",
+   "Consume de prefere"
+  ],
+  "all_lines": [
+   "Consume preferente",
+   "Consume de prefere",
+   "PECN t0",
+   "DATANER",
+   "09/314",
+   "GRICEN/N8I",
+   "C",
+   "81000080"
+  ],
+  "crop_wh": [
+   742,
+   1332
+  ],
+  "sharpness": 8.2,
+  "ocr_s": 0.31
+ },
+ "f018.jpg": {
+  "n_lines": 9,
+  "box": [
+   1266,
+   775,
+   1728,
+   1221
+  ],
+  "level": "digits",
+  "lines": [
+   "10IM20",
+   "01014",
+   "0R2GEN/0810"
+  ],
+  "all_lines": [
+   "1",
+   "2",
+   "9",
+   "aVO",
+   "10IM20",
+   "troX IMe",
+   "DATA X",
+   "01014",
+   "0R2GEN/0810"
+  ],
+  "crop_wh": [
+   462,
+   446
+  ],
+  "sharpness": 9.6,
+  "ocr_s": 0.31
+ },
+ "f024.jpg": {
+  "n_lines": 6,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "onsume prefere",
+   "Consume de prele",
+   "PEOXN",
+   "DATAX",
+   "0v11A",
+   "8"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 7.3,
+  "ocr_s": 0.29
+ },
+ "f030.jpg": {
+  "n_lines": 3,
+  "box": [
+   1296,
+   1213,
+   1667,
+   1683
+  ],
+  "level": "digits",
+  "lines": [
+   "6198-000080"
+  ],
+  "all_lines": [
+   "",
+   "8",
+   "6198-000080"
+  ],
+  "crop_wh": [
+   371,
+   470
+  ],
+  "sharpness": 9.5,
+  "ocr_s": 0.28
+ },
+ "f036.jpg": {
+  "n_lines": 5,
+  "box": [
+   1557,
+   909,
+   1728,
+   1047
+  ],
+  "level": "date",
+  "lines": [
+   "01/11"
+  ],
+  "all_lines": [
+   "Consu",
+   "DATA",
+   "01/11",
+   "8",
+   "T6687000006"
+  ],
+  "crop_wh": [
+   171,
+   138
+  ],
+  "sharpness": 7.0,
+  "ocr_s": 0.28
+ },
+ "f042.jpg": {
+  "n_lines": 2,
+  "box": [
+   1223,
+   1215,
+   1479,
+   1566
+  ],
+  "level": "digits",
+  "lines": [
+   "C2000000"
+  ],
+  "all_lines": [
+   "Consum",
+   "C2000000"
+  ],
+  "crop_wh": [
+   256,
+   351
+  ],
+  "sharpness": 7.3,
+  "ocr_s": 0.27
+ },
+ "f048.jpg": {
+  "n_lines": 7,
+  "box": [
+   1541,
+   910,
+   1728,
+   1050
+  ],
+  "level": "date",
+  "lines": [
+   "09/11"
+  ],
+  "all_lines": [
+   "Corsume",
+   "to",
+   "DATO",
+   "09/11",
+   "ORIGEN",
+   "8",
+   "10698008"
+  ],
+  "crop_wh": [
+   187,
+   140
+  ],
+  "sharpness": 7.5,
+  "ocr_s": 0.29
+ },
+ "f054.jpg": {
+  "n_lines": 6,
+  "box": [
+   1049,
+   689,
+   1728,
+   1639
+  ],
+  "level": "digits",
+  "lines": [
+   "0v/114",
+   "480000",
+   "FECHAX"
+  ],
+  "all_lines": [
+   "FECHAX",
+   "DATA N",
+   "0v/114",
+   "ORIGEA/ORS",
+   "8",
+   "480000"
+  ],
+  "crop_wh": [
+   679,
+   950
+  ],
+  "sharpness": 8.5,
+  "ocr_s": 0.28
+ },
+ "f060.jpg": {
+  "n_lines": 6,
+  "box": [
+   1041,
+   682,
+   1728,
+   1613
+  ],
+  "level": "digits",
+  "lines": [
+   "01/114",
+   "000000",
+   "FECHA X"
+  ],
+  "all_lines": [
+   "FECHA X",
+   "DATA XE",
+   "01/114",
+   "ORIGEN/OR2",
+   "8",
+   "000000"
+  ],
+  "crop_wh": [
+   687,
+   931
+  ],
+  "sharpness": 9.3,
+  "ocr_s": 0.28
+ },
+ "f066.jpg": {
+  "n_lines": 5,
+  "box": [
+   1448,
+   809,
+   1728,
+   1121
+  ],
+  "level": "digits",
+  "lines": [
+   "01/114",
+   "FECHA "
+  ],
+  "all_lines": [
+   "FECHA ",
+   "DATA M",
+   "01/114",
+   "0RIGEN/00",
+   "8"
+  ],
+  "crop_wh": [
+   280,
+   312
+  ],
+  "sharpness": 9.1,
+  "ocr_s": 0.26
+ },
+ "f072.jpg": {
+  "n_lines": 5,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "rECHA",
+   "DATA H",
+   "0v/11a",
+   "ONICEN/O8",
+   "8"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 8.7,
+  "ocr_s": 0.26
+ },
+ "f078.jpg": {
+  "n_lines": 7,
+  "box": [
+   1170,
+   1193,
+   1392,
+   1509
+  ],
+  "level": "digits",
+  "lines": [
+   "000000"
+  ],
+  "all_lines": [
+   "PECHA",
+   "JATA A",
+   "0viva",
+   "ORICEN/CR",
+   "8",
+   "000000",
+   "S"
+  ],
+  "crop_wh": [
+   222,
+   316
+  ],
+  "sharpness": 8.9,
+  "ocr_s": 0.28
+ },
+ "f084.jpg": {
+  "n_lines": 6,
+  "box": [
+   1083,
+   690,
+   1728,
+   1603
+  ],
+  "level": "digits",
+  "lines": [
+   "01/114",
+   "000000",
+   "FECHA"
+  ],
+  "all_lines": [
+   "FECHA",
+   "DATA N",
+   "01/114",
+   "ORIGEN/ON",
+   "8",
+   "000000"
+  ],
+  "crop_wh": [
+   645,
+   913
+  ],
+  "sharpness": 9.1,
+  "ocr_s": 0.28
+ },
+ "f090.jpg": {
+  "n_lines": 5,
+  "box": [
+   1458,
+   798,
+   1728,
+   1097
+  ],
+  "level": "date",
+  "lines": [
+   "01/11/X",
+   "FECHA3"
+  ],
+  "all_lines": [
+   "FECHA3",
+   "DATAM",
+   "01/11/X",
+   "ORIGEN/OR",
+   "86"
+  ],
+  "crop_wh": [
+   270,
+   299
+  ],
+  "sharpness": 9.4,
+  "ocr_s": 0.27
+ }
+}

@@ -1,0 +1,637 @@
+{
+ "f000.jpg": {
+  "n_lines": 21,
+  "box": [
+   0,
+   1306,
+   349,
+   1572
+  ],
+  "level": "digits",
+  "lines": [
+   "VENA/AVEIA 5100"
+  ],
+  "all_lines": [
+   "MACENU",
+   "175e",
+   "OCE",
+   "RACENDADO",
+   "N2 ABIERTOE",
+   "21",
+   "28O",
+   "HACENDADO",
+   "TILLAS DE",
+   "51%",
+   "AVEIA",
+   "NAAS",
+   "TORTILLAS",
+   "MAÍZMILHO",
+   "Wraps",
+   "AND",
+   "ENDADO",
+   "N",
+   "6 TORTILLAS DE",
+   "VENA/AVEIA 5100",
+   "UNIDA"
+  ],
+  "crop_wh": [
+   349,
+   266
+  ],
+  "sharpness": 247.9,
+  "ocr_s": 0.4
+ },
+ "f006.jpg": {
+  "n_lines": 18,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "175e",
+   "HACENDIDO",
+   " ADIERTO",
+   "8",
+   "6 TORTILLAS DE",
+   "51%",
+   "TORTILLAS",
+   "AVENA AVEIA",
+   "MAÍZMILHO",
+   "NAAAN",
+   "Wraps",
+   "HACENDADO",
+   "6 TORTILLAS DE",
+   "AVENA/AVEIA",
+   "LLAS",
+   "#UNID",
+   "C",
+   "RIGO XL"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 221.2,
+  "ocr_s": 0.32
+ },
+ "f012.jpg": {
+  "n_lines": 21,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "175e",
+   "HACENDADO",
+   "BA FÁCIL P02 ABERTOI ",
+   "LEA",
+   "ECO",
+   "6 TORTILLAS DE",
+   "51%",
+   "TORTILLAS",
+   "AVENA AVEIA",
+   "MAÍZMILHO",
+   "NAASS",
+   "Wraps",
+   "HACENDADO",
+   "6 TORTILLAS DE",
+   "AVENA/AVEIA",
+   "ILLAS",
+   "BUNIDA",
+   "1A",
+   "6",
+   "0s.",
+   "RIGO XL"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 227.9,
+  "ocr_s": 0.33
+ },
+ "f018.jpg": {
+  "n_lines": 22,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "175e",
+   "HACENDLIO",
+   "SAC",
+   "AHCIP O",
+   "LeA",
+   "ESO",
+   "8",
+   "6 TORTILLAS DE",
+   "51%",
+   "TORTILLAS",
+   "AVENA AVEIA",
+   "MAÍZMILHO",
+   "NNASS",
+   "Wraps",
+   "HACENDADO",
+   "6 TORTILLAS DE",
+   "AVENA",
+   "ILLAS",
+   "BUNIDA",
+   "1",
+   "A0",
+   "RIGO XL"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 224.3,
+  "ocr_s": 0.33
+ },
+ "f024.jpg": {
+  "n_lines": 19,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "175.",
+   "HACENDADO",
+   "AAFACILP12 ABENTO!",
+   "8",
+   "51%",
+   "6 TORTILLAS DE",
+   "TORTILLAS",
+   "SS",
+   "MAÍZMILHO",
+   "AVENA AVEIA",
+   "NAN",
+   "Wraps",
+   "HACENDADO",
+   "6 TORTILLAS DE",
+   "AVENA/",
+   "LLAS",
+   "BUNIDA",
+   "ht",
+   "00 ."
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 221.9,
+  "ocr_s": 0.32
+ },
+ "f030.jpg": {
+  "n_lines": 22,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "175e",
+   "ABETO",
+   "-",
+   "ACENDADO",
+   "AA FCELP ABTO",
+   "LOK",
+   "E3O",
+   "8",
+   "TORTILLAS DE",
+   "51%",
+   "TORTILLAS",
+   "MAÍZMILHO",
+   "VENA AVEIA",
+   "NNASCN",
+   "Wraps",
+   "HACENDADO",
+   "6 TORTILLAS DE",
+   "AVENA/A",
+   "LLAS",
+   "BUNIDA",
+   "S",
+   "RIGO XL"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 221.2,
+  "ocr_s": 0.32
+ },
+ "f036.jpg": {
+  "n_lines": 19,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "175e",
+   "BS2",
+   "HNCENDADO",
+   "BANCIP12 AETOI",
+   "8",
+   "TORTILLAS DE",
+   "51%",
+   "TORTILLAS",
+   "MAÍZMILHO",
+   "ENA AVEIA",
+   "NAASS",
+   "Wraps",
+   "HACENDADO",
+   "6 TORTILLAS DE",
+   "AVENA/AVE",
+   "LAS",
+   "BUNID",
+   "C",
+   "RIGO XL"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 220.1,
+  "ocr_s": 0.34
+ },
+ "f042.jpg": {
+  "n_lines": 19,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "175",
+   "RACENDADO",
+   "AARCIL",
+   " ABERTO",
+   "8",
+   "TORTILLAS DE",
+   "51%",
+   "TORTILLAS",
+   "MAÍZMILHO",
+   "ENA AVEIA",
+   "NAASORS",
+   "Wraps",
+   "6 TORTILLAS DE",
+   "AVENA/AVE",
+   "LAS",
+   "UNID",
+   "14",
+   "2",
+   "RIGO XL"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 218.5,
+  "ocr_s": 0.32
+ },
+ "f048.jpg": {
+  "n_lines": 23,
+  "box": [
+   1108,
+   46,
+   1259,
+   171
+  ],
+  "level": "digits",
+  "lines": [
+   "1752"
+  ],
+  "all_lines": [
+   "1752",
+   "D",
+   "ZOA",
+   "HACENDAUDO",
+   "JAFCIL2 AERTOE",
+   "eR",
+   "2R0",
+   "8",
+   "TORTILLAS DE",
+   "51%",
+   "TORTILLAS",
+   "MAÍZMILHO",
+   "dS",
+   "ENA AVEIA",
+   "NAN",
+   "Wraps",
+   "HACENDADO",
+   "6 TORTILLAS DE",
+   "AVENA/AVEIA",
+   "LAS",
+   "BUNID",
+   "RIGO XL",
+   "4"
+  ],
+  "crop_wh": [
+   151,
+   125
+  ],
+  "sharpness": 219.0,
+  "ocr_s": 0.33
+ },
+ "f054.jpg": {
+  "n_lines": 20,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "175e",
+   "0",
+   "HACENDADO",
+   "ALFICE",
+   "12 ABIERTOI",
+   "8",
+   "TORTILLAS DE",
+   "51%",
+   "TORTILLAS",
+   "MAÍZMILHO",
+   "ENA AVEIA",
+   "NNASONS",
+   "Wraps",
+   "HACENDADO",
+   "5",
+   "6 TORTILLAS DE",
+   "AVENA/AVEIA",
+   "LAS",
+   "UNIDA",
+   "RIGO XL"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 220.4,
+  "ocr_s": 0.31
+ },
+ "f060.jpg": {
+  "n_lines": 20,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "175e",
+   "3",
+   "HACENDADO",
+   "",
+   "RARICIL ABERTOI",
+   "2C",
+   "8",
+   "51%",
+   "TORTILLAS",
+   "TORTILLAS DE",
+   "MAÍZMILHO",
+   "ENA AVEIA",
+   "NNASUS",
+   "Wraps",
+   "HACENDADO",
+   "6 TORTILLAS DE",
+   "AVENA/AVEIA",
+   "LAS",
+   "UNIDA",
+   "4"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 218.5,
+  "ocr_s": 0.32
+ },
+ "f066.jpg": {
+  "n_lines": 18,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "175e",
+   "ER2X",
+   "HACENDADO",
+   "RAHOL ANIEITO!",
+   "2CO",
+   "8",
+   "TORTILLAS DE",
+   "51%",
+   "TORTILLAS",
+   "MAÍZMILHO",
+   "ENA AVEIA",
+   "NANASS",
+   "Wraps",
+   "HACENDADO",
+   "6 TORTILLAS DE",
+   "AVENA/AVELA",
+   "LAS",
+   "BUNIDA"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 218.1,
+  "ocr_s": 0.32
+ },
+ "f072.jpg": {
+  "n_lines": 21,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "175e",
+   "LOR",
+   "260",
+   "HACENDADO",
+   "JAFÁCIL ABIERTO",
+   "aN",
+   "2CO",
+   "8",
+   "ORTILLAS DE",
+   "51%",
+   "TORTILLAS",
+   "MAÍZMILHO",
+   "NA AVEIA",
+   "NNASS",
+   "Wraps",
+   "HACENDADO",
+   "6 TORTILLAS DE",
+   "AVENA/AVEIA",
+   "LAS",
+   "AUNIDA",
+   "RIGO XL"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 217.6,
+  "ocr_s": 0.31
+ },
+ "f078.jpg": {
+  "n_lines": 20,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "175e",
+   "ASCRTOEL",
+   "3",
+   "RACENDADO",
+   "AAFACIL2 ABERTOI",
+   "2",
+   "8",
+   "TORTILLAS DE",
+   "51%",
+   "TORTILLAS",
+   "MAÍZMILHO",
+   "ENA AVEIA",
+   "NAASUS",
+   "Wraps",
+   "HACENDADO",
+   "6 TORTILLAS DE",
+   "AVENA/AVEIA",
+   "LAS",
+   "BVNIDA",
+   "12"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 218.1,
+  "ocr_s": 0.32
+ },
+ "f084.jpg": {
+  "n_lines": 21,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "175.",
+   "",
+   "HACENDADO",
+   "BAHCL",
+   "12 ABERTOI",
+   "ECO",
+   "8",
+   "TORTILLAS DE",
+   "51%",
+   "TORTILLAS",
+   "RSUS",
+   "MAÍZMILHO",
+   "ENA AVEIA",
+   "NAN",
+   "Wraps",
+   "6 TORTILLAS DE",
+   "AVENA/AVEIA",
+   "LAS",
+   "UNID",
+   "LE",
+   "GOXL"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 218.1,
+  "ocr_s": 0.33
+ },
+ "f090.jpg": {
+  "n_lines": 23,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "175.",
+   "1 ABETO",
+   "CBER",
+   "HACENDADO",
+   "AAFACIL12 ABERTOI",
+   "ERO",
+   "8",
+   "51%",
+   "TORTILLAS",
+   "TORTILLAS DE",
+   "OSMS",
+   "MAÍZMILHO",
+   "ENA AVEIA",
+   "NAN",
+   "Wraps",
+   "HACENDADO",
+   "R",
+   "6 TORTILLAS DE",
+   "AVENA/AVEIA",
+   "LAS",
+   "UNID",
+   "1.",
+   "E"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 218.6,
+  "ocr_s": 0.34
+ }
+}

@@ -1,0 +1,592 @@
+{
+ "f000.jpg": {
+  "n_lines": 6,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "DO",
+   "3,90c",
+   "RRE",
+   "2,80",
+   "MATA",
+   "3,20"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 122.6,
+  "ocr_s": 0.4
+ },
+ "f006.jpg": {
+  "n_lines": 22,
+  "box": [
+   1348,
+   0,
+   1728,
+   1459
+  ],
+  "level": "digits",
+  "lines": [
+   "000008069000",
+   "000008069000",
+   "11C100",
+   "0180"
+  ],
+  "all_lines": [
+   "A",
+   "Sroa",
+   "2 L-1-L",
+   "000008069000",
+   "OE",
+   "NOIMIO",
+   "0",
+   "8M",
+   "Ke",
+   "ONIOVA ON",
+   "RRE",
+   "MVTI",
+   "000008069000",
+   "2L-1-L",
+   "CLEDE OO",
+   "wrOs",
+   "OOR",
+   "E",
+   "mma",
+   "11C100",
+   "",
+   "0180"
+  ],
+  "crop_wh": [
+   380,
+   1459
+  ],
+  "sharpness": 17.1,
+  "ocr_s": 0.35
+ },
+ "f012.jpg": {
+  "n_lines": 15,
+  "box": [
+   1506,
+   0,
+   1728,
+   597
+  ],
+  "level": "date",
+  "lines": [
+   "21-11-L"
+  ],
+  "all_lines": [
+   "EAA",
+   "21-11-L",
+   "OR",
+   "iME",
+   "H83M",
+   "9000",
+   "ONIOVA O",
+   "RRR",
+   "MIII",
+   "000008069000",
+   "2L-2-L",
+   "CEO GO COO",
+   "uros",
+   "O E",
+   "P"
+  ],
+  "crop_wh": [
+   222,
+   597
+  ],
+  "sharpness": 13.4,
+  "ocr_s": 0.34
+ },
+ "f018.jpg": {
+  "n_lines": 15,
+  "box": [
+   1540,
+   0,
+   1728,
+   605
+  ],
+  "level": "date",
+  "lines": [
+   "82-11-2"
+  ],
+  "all_lines": [
+   "EA",
+   "OOTE",
+   "82-11-2",
+   "0OATO",
+   "H8SH",
+   "ONIOVA ON",
+   "RRR",
+   "MAAI",
+   "000008069000",
+   "22L-2-L",
+   "CE GE TO",
+   "vros",
+   " E",
+   "JIOY",
+   ""
+  ],
+  "crop_wh": [
+   188,
+   605
+  ],
+  "sharpness": 12.3,
+  "ocr_s": 0.34
+ },
+ "f024.jpg": {
+  "n_lines": 17,
+  "box": [
+   1487,
+   0,
+   1728,
+   618
+  ],
+  "level": "date",
+  "lines": [
+   "1-12-L"
+  ],
+  "all_lines": [
+   "OEEOGAOO",
+   "1-12-L",
+   "CTUE",
+   "NULMIO",
+   "08069000",
+   "HREH",
+   "PE",
+   "ONIOA ON",
+   "RR",
+   "MAAI",
+   "000008069000",
+   "22-1-",
+   "C DO TOO",
+   "vrOS",
+   "OAE",
+   "TUMT",
+   "B"
+  ],
+  "crop_wh": [
+   241,
+   618
+  ],
+  "sharpness": 13.8,
+  "ocr_s": 0.35
+ },
+ "f030.jpg": {
+  "n_lines": 16,
+  "box": [
+   1331,
+   0,
+   1728,
+   1436
+  ],
+  "level": "digits",
+  "lines": [
+   "00008069000",
+   "000008069000",
+   "22.1-2"
+  ],
+  "all_lines": [
+   "ros",
+   "COEA O",
+   "8L-1-L",
+   "00008069000",
+   "CTE",
+   "CAE",
+   "W8RA",
+   "SONIOVA ON",
+   "RRR",
+   "MIII",
+   "000008069000",
+   "22.1-2",
+   "C OO COO",
+   "vros",
+   " RE",
+   ""
+  ],
+  "crop_wh": [
+   397,
+   1436
+  ],
+  "sharpness": 15.0,
+  "ocr_s": 0.34
+ },
+ "f036.jpg": {
+  "n_lines": 18,
+  "box": [
+   1414,
+   0,
+   1728,
+   1431
+  ],
+  "level": "digits",
+  "lines": [
+   "00008066000",
+   "000008060000"
+  ],
+  "all_lines": [
+   "vros",
+   "CEAAO",
+   "LL-12-L",
+   "00008066000",
+   "OTE",
+   "31M0",
+   "HRC",
+   "RO",
+   "SONIOVA ON",
+   "RRR",
+   "MEII",
+   "000008060000",
+   "2L-1-",
+   "CO GE OO",
+   "wod",
+   "OE",
+   "MT",
+   ""
+  ],
+  "crop_wh": [
+   314,
+   1431
+  ],
+  "sharpness": 15.2,
+  "ocr_s": 0.34
+ },
+ "f042.jpg": {
+  "n_lines": 17,
+  "box": [
+   1403,
+   0,
+   1728,
+   1419
+  ],
+  "level": "digits",
+  "lines": [
+   "00008069000",
+   "000008069000"
+  ],
+  "all_lines": [
+   "EAOAO",
+   " L-1L-L",
+   "00008069000",
+   "OE",
+   "NOIMN",
+   "0",
+   "WOEM",
+   "N",
+   "SONIOVA ONN",
+   "R",
+   "MAAA",
+   "000008069000",
+   "1L-1-L",
+   "C DO OO",
+   "vrOs",
+   "O",
+   "E"
+  ],
+  "crop_wh": [
+   325,
+   1419
+  ],
+  "sharpness": 15.3,
+  "ocr_s": 0.34
+ },
+ "f048.jpg": {
+  "n_lines": 19,
+  "box": [
+   1402,
+   0,
+   1725,
+   1416
+  ],
+  "level": "digits",
+  "lines": [
+   "000008069000",
+   "000008069000"
+  ],
+  "all_lines": [
+   "EAO",
+   "vros",
+   "2L-1-L",
+   "000008069000",
+   "ORE",
+   "CLCE",
+   "0",
+   "H8M",
+   "SONIOVA ON",
+   "RRR",
+   "MAI",
+   "4",
+   "000008069000",
+   "2L-1-L",
+   "CGO OO",
+   "vros",
+   "OE",
+   "LE",
+   "O1"
+  ],
+  "crop_wh": [
+   323,
+   1416
+  ],
+  "sharpness": 15.7,
+  "ocr_s": 0.35
+ },
+ "f054.jpg": {
+  "n_lines": 19,
+  "box": [
+   1407,
+   0,
+   1724,
+   1419
+  ],
+  "level": "digits",
+  "lines": [
+   "000008069000",
+   "000008069000"
+  ],
+  "all_lines": [
+   "CEAO",
+   "vros",
+   "L-LL-L",
+   "000008069000",
+   "TTE",
+   "NUMO",
+   "0",
+   "H8M",
+   "ONIOVA ON",
+   "RRR",
+   "MATI",
+   "000008069000",
+   "22-1L-L",
+   "C DA ",
+   "wros",
+   "ORE",
+   "STLTO",
+   "S",
+   "01"
+  ],
+  "crop_wh": [
+   317,
+   1419
+  ],
+  "sharpness": 16.3,
+  "ocr_s": 0.35
+ },
+ "f060.jpg": {
+  "n_lines": 20,
+  "box": [
+   1401,
+   13,
+   1703,
+   1437
+  ],
+  "level": "digits",
+  "lines": [
+   "000008069000",
+   "000008069000"
+  ],
+  "all_lines": [
+   "CEA",
+   "sros",
+   "L L-1-L",
+   "000008069000",
+   "E",
+   "CAe",
+   "VE",
+   "0",
+   "FAR",
+   "SONIOVA ON",
+   "RR",
+   "MAIA",
+   "000008069000",
+   "2L-1-L",
+   "COOOO",
+   "wros",
+   "OE",
+   "NIN",
+   "E",
+   "O1"
+  ],
+  "crop_wh": [
+   302,
+   1424
+  ],
+  "sharpness": 16.5,
+  "ocr_s": 0.36
+ },
+ "f066.jpg": {
+  "n_lines": 19,
+  "box": [
+   1405,
+   4,
+   1709,
+   1433
+  ],
+  "level": "digits",
+  "lines": [
+   "000008069000",
+   "000008069000"
+  ],
+  "all_lines": [
+   "CEA",
+   "sros",
+   "L L-1-L",
+   "000008069000",
+   "E",
+   "CmO",
+   "E8RH",
+   "",
+   "SONIOVA ONN",
+   "RRR",
+   "MAAI",
+   "000008069000",
+   "22L-1-L",
+   "C GE VOO",
+   "vrOS",
+   "E",
+   "CmTO",
+   "",
+   "O1"
+  ],
+  "crop_wh": [
+   304,
+   1429
+  ],
+  "sharpness": 16.2,
+  "ocr_s": 0.36
+ },
+ "f072.jpg": {
+  "n_lines": 20,
+  "box": [
+   1403,
+   16,
+   1697,
+   1428
+  ],
+  "level": "digits",
+  "lines": [
+   "000008069000",
+   "000008069000"
+  ],
+  "all_lines": [
+   "CAO",
+   "Sror",
+   "2L-1-L",
+   "000008069000",
+   "OE",
+   "CIOTN",
+   "LE",
+   "AOEH",
+   "/",
+   "SONIOVA ON",
+   "RR",
+   "MITI",
+   "000008069000",
+   "2L-4-L",
+   "CO DA OO",
+   "wOs",
+   "OE",
+   "MumD",
+   "EH",
+   "011"
+  ],
+  "crop_wh": [
+   294,
+   1412
+  ],
+  "sharpness": 16.8,
+  "ocr_s": 0.36
+ },
+ "f078.jpg": {
+  "n_lines": 20,
+  "box": [
+   1397,
+   16,
+   1695,
+   1431
+  ],
+  "level": "digits",
+  "lines": [
+   "000008069000",
+   "000008069000"
+  ],
+  "all_lines": [
+   "COAO",
+   "sros",
+   "2 L-1L-L",
+   "000008069000",
+   "OE",
+   "NmO",
+   "0",
+   "LE",
+   "TO",
+   "SONIOVA ON",
+   "RER",
+   "MAII",
+   "000008069000",
+   "2L-1L-L",
+   "TOGA OO",
+   "vroa",
+   "OE",
+   "mmD",
+   "",
+   "018"
+  ],
+  "crop_wh": [
+   298,
+   1415
+  ],
+  "sharpness": 16.9,
+  "ocr_s": 0.36
+ },
+ "f084.jpg": {
+  "n_lines": 20,
+  "box": [
+   1397,
+   6,
+   1689,
+   1424
+  ],
+  "level": "digits",
+  "lines": [
+   "000008069000",
+   "000008069000"
+  ],
+  "all_lines": [
+   "CEAO",
+   "vrog",
+   "2L-12-L",
+   "000008069000",
+   "CTE",
+   "NUMIN",
+   "A",
+   "O",
+   "A83H",
+   "ONIOVA ONN",
+   "RR",
+   "MEII",
+   "000008069000",
+   "2L-1L-L",
+   "CGE OO",
+   "VrOS",
+   "RE",
+   "mmD",
+   "",
+   "010"
+  ],
+  "crop_wh": [
+   292,
+   1418
+  ],
+  "sharpness": 16.6,
+  "ocr_s": 0.35
+ }
+}

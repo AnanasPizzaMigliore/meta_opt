@@ -1,0 +1,24 @@
+
+=== FRESH (fixed policy set in advance): 37 products (p004..p040) ===
+single read (per frame)    exact 912/1727 = 52.8%  wrong 570  missed 245 | false dates 254/565 = 45.0% | precision 52.5%
+until 2 agree              correct  63/111 (56.8%, CI 45-68) wrong 25 missed 20 abstain  3 | false 16/37 | precision 60.6% (CI 50-71) | frames 3.0 localised, 3.0 read, ~10.2 s modelled
+OCR-confirmed              correct  53/111 (47.7%, CI 35-60) wrong  0 missed  0 abstain 58 | false 0/37 | precision 100.0% (CI 100-100) | frames 5.1 localised, 5.1 read, ~17.6 s modelled
+gated                      correct  63/111 (56.8%, CI 45-68) wrong 24 missed 13 abstain 11 | false 11/37 | precision 64.3% (CI 53-75) | frames 4.0 localised, 2.8 read, ~11.0 s modelled
+gated + calendar (fixed)   correct  63/111 (56.8%, CI 45-68) wrong 24 missed 13 abstain 11 | false 11/37 | precision 64.3% (CI 53-75) | frames 4.0 localised, 2.8 read, ~11.0 s modelled
+fixed policy by posture:
+   bent arm      {'correct': 24, 'missed': 6, 'wrong': 6, 'abstain': 1}
+   close         {'correct': 22, 'abstain': 2, 'wrong': 8, 'missed': 5}
+   straight arm  {'wrong': 10, 'missed': 2, 'abstain': 8, 'correct': 17}
+   no-date side  {'ok': 26, 'false': 11}
+
+=== ALL: 40 products (p001..p040) ===
+single read (per frame)    exact 959/1862 = 51.5%  wrong 621  missed 282 | false dates 263/610 = 43.1% | precision 52.0%
+until 2 agree              correct  66/120 (55.0%, CI 43-66) wrong 27 missed 24 abstain  3 | false 16/40 | precision 60.6% (CI 50-71) | frames 2.9 localised, 2.9 read, ~10.0 s modelled
+OCR-confirmed              correct  53/120 (44.2%, CI 32-56) wrong  0 missed  0 abstain 67 | false 0/40 | precision 100.0% (CI 100-100) | frames 5.3 localised, 5.3 read, ~18.1 s modelled
+gated                      correct  65/120 (54.2%, CI 42-65) wrong 26 missed 13 abstain 16 | false 11/40 | precision 63.7% (CI 52-74) | frames 4.1 localised, 2.6 read, ~10.8 s modelled
+gated + calendar (fixed)   correct  66/120 (55.0%, CI 43-66) wrong 24 missed 13 abstain 17 | false 11/40 | precision 65.3% (CI 54-76) | frames 4.2 localised, 2.7 read, ~10.9 s modelled
+fixed policy by posture:
+   bent arm      {'abstain': 2, 'correct': 26, 'missed': 6, 'wrong': 6}
+   close         {'abstain': 4, 'correct': 23, 'wrong': 8, 'missed': 5}
+   straight arm  {'abstain': 11, 'wrong': 10, 'missed': 2, 'correct': 17}
+   no-date side  {'ok': 29, 'false': 11}

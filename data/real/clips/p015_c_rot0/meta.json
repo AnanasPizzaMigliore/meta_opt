@@ -1,0 +1,677 @@
+{
+ "f000.jpg": {
+  "n_lines": 33,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "SEMILLAS",
+   "SEMENTES",
+   "LANO",
+   "SISAN",
+   "ICENDADO",
+   "AN",
+   "ENIADE",
+   "SEMICLA",
+   "SEMENTE",
+   "VAN",
+   "ACENDADO",
+   "LINO",
+   "HACENDADO",
+   "SEMILLAS",
+   "2,90€",
+   "SEMENTES",
+   "LAON ",
+   "AO",
+   "V",
+   "3a",
+   "295e",
+   "LDU",
+   "L",
+   "1AGA",
+   "IGIO",
+   "ACIO",
+   "C2",
+   "270e",
+   "PISTACHO PISTÁCHO",
+   "TOSTADO",
+   "0%SAL",
+   "AÑADIDA ADICIONADO",
+   "250g"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 138.2,
+  "ocr_s": 0.47
+ },
+ "f006.jpg": {
+  "n_lines": 26,
+  "box": [
+   803,
+   557,
+   1111,
+   713
+  ],
+  "level": "digits",
+  "lines": [
+   "E0.090"
+  ],
+  "all_lines": [
+   "AWATOSTVE",
+   "HACENDADO",
+   "SEMILLAS",
+   "2,90c",
+   "SEMENTES",
+   "UNO d",
+   "TADornmIO",
+   "UNACA",
+   "295c",
+   "146e",
+   "OB",
+   "E0.090",
+   "",
+   "PISTACHO PISTÁCIO",
+   "TOSTADO",
+   "% SAL",
+   "CN9",
+   "27h",
+   "AÑADIDA ADICIONADO",
+   "250g",
+   "GLUTE",
+   "FERRO",
+   "HIERRO",
+   "ACENDADO",
+   "2,95c",
+   "PISTI"
+  ],
+  "crop_wh": [
+   308,
+   156
+  ],
+  "sharpness": 124.9,
+  "ocr_s": 0.37
+ },
+ "f012.jpg": {
+  "n_lines": 30,
+  "box": [
+   834,
+   512,
+   1049,
+   644
+  ],
+  "level": "digits",
+  "lines": [
+   "9.990"
+  ],
+  "all_lines": [
+   "AURORATOINEL",
+   "IACENDADO",
+   "2,90€",
+   "SEMILLAS",
+   "SEMENTES",
+   "LUI",
+   "LaPLOnD",
+   "Y",
+   "2,95e",
+   "S",
+   "1",
+   "9.990",
+   "DDA",
+   "PISTACHO PISTÁCIO",
+   "TOSTADO",
+   "% SAL",
+   "X",
+   "E9",
+   "AÑADIDA ADICIONADO",
+   "270",
+   "250g",
+   "GLUTE",
+   "HIERR",
+   "FERRO",
+   "ACENDADO",
+   "2,95c",
+   "PIS",
+   "IH",
+   "LA",
+   "TOSTADO"
+  ],
+  "crop_wh": [
+   215,
+   132
+  ],
+  "sharpness": 140.3,
+  "ocr_s": 0.38
+ },
+ "f018.jpg": {
+  "n_lines": 24,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "AUMHRATOSTSITE",
+   "HACENDO",
+   "2,90c",
+   "SEMILLAS",
+   "SEMENTES",
+   "LINO dorih",
+   "VOm",
+   "UIRAC",
+   "2,95e",
+   "LS",
+   "BE",
+   ">>>",
+   "PISTACHO PISTÁCIO",
+   "TOSTADO",
+   "9% SAL",
+   "LD",
+   "ANADIDA ADICIONADO",
+   "270s",
+   "250g",
+   "GLUTE",
+   "FERRO",
+   "HIERR",
+   "ACENDADO",
+   "2,95"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 144.2,
+  "ocr_s": 0.36
+ },
+ "f024.jpg": {
+  "n_lines": 26,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "AMOAOT",
+   "HACENDADO",
+   "2,90€",
+   "SEMILLAS",
+   "SEMENTES",
+   "LINO donde",
+   "TSUIE",
+   "20",
+   "I",
+   "AL",
+   "2.95c",
+   "14",
+   "CE",
+   "PISTACHO PISTÁCIO",
+   "TOSTADO",
+   "% SAL",
+   "LNE",
+   "AÑADIDA ADICIONADO",
+   "270",
+   "250g",
+   "GLUTE",
+   "HIERR",
+   "FERRO",
+   "ACENDADO",
+   "PaNIK",
+   "A"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 141.5,
+  "ocr_s": 0.38
+ },
+ "f030.jpg": {
+  "n_lines": 25,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "ARNRATOSTVOE",
+   "HACENDADO",
+   "SEMILLAS",
+   "2,90€",
+   "SEEMENTES",
+   "UNO t",
+   "MOTONE",
+   "M",
+   "295e",
+   "146a",
+   "BE",
+   "EUEARE",
+   "PISTACHO PISTÁCHO",
+   "TOSTADO",
+   "% SAL",
+   "2",
+   "AÑADIDA ADICIONADO",
+   "250g",
+   "270",
+   "GLUTE",
+   "HIERR",
+   "ACENDADO",
+   "PIST",
+   "STADO",
+   "TO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 143.9,
+  "ocr_s": 0.37
+ },
+ "f036.jpg": {
+  "n_lines": 22,
+  "box": [
+   1275,
+   849,
+   1397,
+   963
+  ],
+  "level": "digits",
+  "lines": [
+   "2706"
+  ],
+  "all_lines": [
+   "TACENOUDO",
+   "AUMENDRATOGTOPT",
+   "SEMILLAS",
+   "2,90€",
+   "SEMMENTES",
+   "LUN ",
+   "LAmUD",
+   "295c",
+   "146",
+   "DE",
+   "PISTACHO PISTÁCKO",
+   "TOSTADO",
+   "% SAL",
+   "AÑADIDA ADICIONADO",
+   "250g",
+   "2706",
+   "GLUTE",
+   "FERRO",
+   "HIERR",
+   "MACENDADO",
+   "PIS",
+   "A"
+  ],
+  "crop_wh": [
+   122,
+   114
+  ],
+  "sharpness": 144.4,
+  "ocr_s": 0.36
+ },
+ "f042.jpg": {
+  "n_lines": 20,
+  "box": [
+   1264,
+   838,
+   1378,
+   944
+  ],
+  "level": "digits",
+  "lines": [
+   "2706"
+  ],
+  "all_lines": [
+   "AMRDRATOTUNEE",
+   "HACENDADO",
+   "SEMILLAS",
+   "2,90€",
+   "SEMENTES",
+   "LO",
+   "LAGIND",
+   "295e",
+   "146",
+   "BE",
+   "PISTACHO PISTÁCY",
+   "TOSTADO",
+   "% SALL",
+   "F",
+   "250g",
+   "2706",
+   "GLUTE",
+   "FERRO",
+   "HIERR",
+   "ACENDADO"
+  ],
+  "crop_wh": [
+   114,
+   106
+  ],
+  "sharpness": 141.3,
+  "ocr_s": 0.36
+ },
+ "f048.jpg": {
+  "n_lines": 25,
+  "box": [
+   737,
+   453,
+   1014,
+   619
+  ],
+  "level": "digits",
+  "lines": [
+   "w9.591"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "TOSTOPL",
+   "SEMILLAS",
+   "2,90€",
+   "SEMENTES",
+   "UNO t",
+   "DLAPOE",
+   "UNC",
+   "2.95c",
+   "LAG",
+   "GE",
+   "w9.591",
+   "PISTACHO PISTÁGY",
+   "TOSTADO",
+   "% SAL",
+   "OS",
+   "AÑADIDA ADICIONADO",
+   "250g",
+   "270",
+   "GLUTE",
+   "FERRO",
+   "HIERR",
+   "ACENDADO",
+   "2.95",
+   "CST"
+  ],
+  "crop_wh": [
+   277,
+   166
+  ],
+  "sharpness": 144.2,
+  "ocr_s": 0.36
+ },
+ "f054.jpg": {
+  "n_lines": 24,
+  "box": [
+   707,
+   459,
+   1016,
+   635
+  ],
+  "level": "digits",
+  "lines": [
+   "M9,0.01"
+  ],
+  "all_lines": [
+   "ARATOGSRL",
+   "IACENDADO",
+   "2,90€",
+   "SEMILLAS",
+   "SEMENTES",
+   "LUIA",
+   "LAIDMO",
+   "295e",
+   "146",
+   "",
+   "M9,0.01",
+   "PISTACHO PISTÁC",
+   "TOSTADO",
+   "9% SAL",
+   "",
+   "AÑADIDA ADICIONADO",
+   "250g",
+   "270e",
+   "GLUTE",
+   "FERRO",
+   "ACENDADO",
+   "2,95c",
+   "CENT",
+   "OSTADO"
+  ],
+  "crop_wh": [
+   309,
+   176
+  ],
+  "sharpness": 142.9,
+  "ocr_s": 0.36
+ },
+ "f060.jpg": {
+  "n_lines": 26,
+  "box": [
+   717,
+   463,
+   1013,
+   635
+  ],
+  "level": "date",
+  "lines": [
+   "9.5.91"
+  ],
+  "all_lines": [
+   "NATRORATOSTEPEL",
+   "NACENDNDO",
+   "SEMILLAS",
+   "2,90€",
+   "SEMENTES",
+   "LNOA ",
+   "PLTINE",
+   "295e",
+   "CL",
+   "14be",
+   "OE",
+   "9.5.91",
+   "4",
+   "PISTACHO PISTÁCHO",
+   "TOSTADO",
+   "% SAL",
+   "EN",
+   "AÑADIDA ADICIONADO",
+   "250g",
+   "270s",
+   "GLUTE",
+   "HIER",
+   "ACENDADO",
+   "aN",
+   "e",
+   "TUSTADO"
+  ],
+  "crop_wh": [
+   296,
+   172
+  ],
+  "sharpness": 143.1,
+  "ocr_s": 0.37
+ },
+ "f066.jpg": {
+  "n_lines": 24,
+  "box": [
+   1263,
+   858,
+   1379,
+   968
+  ],
+  "level": "digits",
+  "lines": [
+   "2700"
+  ],
+  "all_lines": [
+   "L",
+   "RURAYORRIFUR",
+   "2,90€",
+   "SEMILLAS",
+   "SEMENTES",
+   "LINO dots",
+   "Faiane",
+   "UIC",
+   "2,95e",
+   "S",
+   "1A6.",
+   "DE",
+   "5S1",
+   "PISTACHO PISTÁCYO",
+   "TOSTADO",
+   "9%AL",
+   "E",
+   "AÑADIDA ADICIONADO",
+   "250g",
+   "2700",
+   "GLUTE",
+   "HIERR",
+   "FERRO",
+   "ACENDADO"
+  ],
+  "crop_wh": [
+   116,
+   110
+  ],
+  "sharpness": 143.7,
+  "ocr_s": 0.37
+ },
+ "f072.jpg": {
+  "n_lines": 22,
+  "box": [
+   612,
+   395,
+   1475,
+   1065
+  ],
+  "level": "digits",
+  "lines": [
+   "5M9.001",
+   "2700"
+  ],
+  "all_lines": [
+   "ALRINDRA TOIT MPET",
+   "2,90€",
+   "SEMILLAS",
+   "SEMENTES",
+   "LUNA",
+   "LG10OOn",
+   "2,95e",
+   "lo",
+   "S",
+   "14G",
+   "ER",
+   "5M9.001",
+   "PISTACHO PISTÁGO",
+   "TOSTADO",
+   "% AL",
+   "2",
+   "AÑADIDA ADICIONADO",
+   "250g",
+   "2700",
+   "GLUTE",
+   "ACENDADO",
+   "e"
+  ],
+  "crop_wh": [
+   863,
+   670
+  ],
+  "sharpness": 144.0,
+  "ocr_s": 0.36
+ },
+ "f078.jpg": {
+  "n_lines": 22,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "AANDRATOTTL",
+   "HACENDADO",
+   "SEMILLAS",
+   "2,90€",
+   "SEMENTES",
+   "LNO dorde",
+   "Aon",
+   "UHACA",
+   "3",
+   "2,95e",
+   "VAA",
+   "DB",
+   "PISTACHO PISTÁCHO",
+   "TOSTADO",
+   "9% SAL",
+   "ENE",
+   "AÑADIDA ADICIONADO",
+   "250g",
+   "270",
+   "GLUTE",
+   "HIERR",
+   "ACENDADO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 145.6,
+  "ocr_s": 0.36
+ },
+ "f084.jpg": {
+  "n_lines": 22,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "CNDEATOSTVOEL",
+   "HACENDIDO",
+   "SEMILLAS",
+   "2,90€",
+   "SEMENTES",
+   "LNA",
+   "S",
+   "MODHA",
+   "AV",
+   "295c",
+   "14En",
+   "BB",
+   "TOSTADO",
+   "0% SAL",
+   "ENS",
+   "AÑADIDA",
+   "250g",
+   "HIERRO/FERR",
+   "270s",
+   "CENDADO",
+   "",
+   "aNTe"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 127.9,
+  "ocr_s": 0.36
+ }
+}

@@ -1,0 +1,656 @@
+{
+ "f000.jpg": {
+  "n_lines": 26,
+  "box": [
+   497,
+   1008,
+   593,
+   1108
+  ],
+  "level": "digits",
+  "lines": [
+   "7268",
+   "6560"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "0,85c",
+   "090",
+   "HACENDADO",
+   "L-E",
+   "egetaies",
+   "detais",
+   " 2% de c",
+   "TEORSAE",
+   "tt tes l l",
+   "7268",
+   "239",
+   "6560",
+   "-300",
+   "C.Pref: Woer",
+   "239",
+   "F.Fab: 091128",
+   "T144258383",
+   "08:19",
+   "E54",
+   "EACOSIAÇÃO",
+   "G",
+   "AOON2L20",
+   "e",
+   "Peso figat",
+   "100ge"
+  ],
+  "crop_wh": [
+   96,
+   100
+  ],
+  "sharpness": 169.2,
+  "ocr_s": 0.41
+ },
+ "f006.jpg": {
+  "n_lines": 23,
+  "box": [
+   789,
+   1034,
+   885,
+   1130
+  ],
+  "level": "date",
+  "lines": [
+   "06-13"
+  ],
+  "all_lines": [
+   "0.85c",
+   "ENDAD",
+   "0.90",
+   "HACENDADO",
+   "getale",
+   "eoetais",
+   ".250",
+   "Y",
+   "250",
+   "6540",
+   "238",
+   "128",
+   "339",
+   "C.Pref: we",
+   "239",
+   "F.Fad: (8112",
+   "T144258383",
+   "06-13",
+   "E54",
+   "600500 220",
+   "Relo Veso llqado",
+   "100ge",
+   "-MEX"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 153.6,
+  "ocr_s": 0.3
+ },
+ "f012.jpg": {
+  "n_lines": 23,
+  "box": [
+   570,
+   1125,
+   724,
+   1243
+  ],
+  "level": "digits",
+  "lines": [
+   "600500 220",
+   "RCADONA"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "0,85c",
+   "",
+   "090",
+   "HACENDADO",
+   "o",
+   "20",
+   "22.09",
+   "BSE",
+   "C.Pref: er",
+   "F.Fab: 09128",
+   "T144258383",
+   "08:13",
+   "E54",
+   " ",
+   " a ",
+   "RCADONA",
+   "600500 220",
+   "B",
+   "t/Pese quds",
+   "100ge",
+   "OD",
+   "-MEX"
+  ],
+  "crop_wh": [
+   154,
+   118
+  ],
+  "sharpness": 178.4,
+  "ocr_s": 0.33
+ },
+ "f018.jpg": {
+  "n_lines": 21,
+  "box": [
+   587,
+   926,
+   683,
+   1022
+  ],
+  "level": "digits",
+  "lines": [
+   "2260"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "0.85c",
+   "096",
+   "BACENDADO",
+   "egetais",
+   "se",
+   "c",
+   "2260",
+   "259",
+   "0",
+   "C.Pref: Wiet",
+   "230",
+   "F.Fab: 09128",
+   "T144258383",
+   "08:13",
+   "E54",
+   "",
+   "1",
+   "200 00 220",
+   "Peso Bquades",
+   "100ge"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 179.1,
+  "ocr_s": 0.32
+ },
+ "f024.jpg": {
+  "n_lines": 20,
+  "box": [
+   577,
+   906,
+   673,
+   1002
+  ],
+  "level": "digits",
+  "lines": [
+   "21.50"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "0,85c",
+   "0.S0",
+   "HACENDADO",
+   "cks",
+   "detai",
+   "0",
+   "21.50",
+   "239",
+   "239",
+   "3",
+   "C.Pref:vewezr",
+   "T144258383",
+   "08:13",
+   "E54",
+   "SEVADON/CONSERYAÇÃO",
+   "MER",
+   "Pess lquide",
+   "100ge",
+   ""
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 182.5,
+  "ocr_s": 0.31
+ },
+ "f030.jpg": {
+  "n_lines": 23,
+  "box": [
+   577,
+   928,
+   673,
+   1024
+  ],
+  "level": "digits",
+  "lines": [
+   ".23.50"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "0.85c",
+   "05to",
+   "FACENDADO",
+   "cks",
+   "egetais",
+   "2",
+   "ecal",
+   ".23.50",
+   "239",
+   "139",
+   "29",
+   "C.Pref:ezr",
+   "08:13",
+   "E54",
+   "YACION CONGEIAÇÃO",
+   "   ",
+   "pio d ",
+   "Gi",
+   "NATON0ON20L OC02CO",
+   "",
+   "t Peso Bquaid",
+   "100ge"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 179.6,
+  "ocr_s": 0.33
+ },
+ "f036.jpg": {
+  "n_lines": 24,
+  "box": [
+   583,
+   917,
+   679,
+   1013
+  ],
+  "level": "digits",
+  "lines": [
+   "2250"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "0.85c",
+   "OEO",
+   "HACENTADO",
+   "egetales",
+   "egetais",
+   "-",
+   "2250",
+   "258",
+   "239",
+   "139",
+   "C.Prel: 02",
+   "130",
+   "F.Fab:",
+   "0911/28",
+   "230",
+   "00:13",
+   "E54",
+   "SONACIÓNCONSNVAÇÃO",
+   " ",
+   " pra d ",
+   "ATONONL O 020",
+   "Pess igt",
+   "100ge"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 179.3,
+  "ocr_s": 0.34
+ },
+ "f042.jpg": {
+  "n_lines": 22,
+  "box": [
+   584,
+   916,
+   680,
+   1012
+  ],
+  "level": "digits",
+  "lines": [
+   "23.58"
+  ],
+  "all_lines": [
+   "0.85c",
+   "HACENDADO",
+   "FACENDADO",
+   "egetales",
+   "egetais",
+   "(C",
+   "23.58",
+   "250",
+   "100",
+   "230",
+   "C.Pref:eezr",
+   "F.Fab: 05125",
+   "T144258383",
+   "06:13",
+   "E54",
+   "SERACIONUCONSERMCÃO",
+   " ",
+   "Gi",
+   "NATONONL GO80 20",
+   "9",
+   "Peso Viqiton",
+   "100ge"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 179.5,
+  "ocr_s": 0.33
+ },
+ "f048.jpg": {
+  "n_lines": 20,
+  "box": [
+   590,
+   918,
+   686,
+   1014
+  ],
+  "level": "digits",
+  "lines": [
+   "20.00"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "0,85c",
+   "G0",
+   "HACENDADO",
+   "egetais",
+   "0ical",
+   "20.00",
+   "258",
+   "SSA",
+   "239",
+   "C.Pref: Wezzr",
+   "F.Fab: 091108",
+   "T144258383",
+   "00:13",
+   "E54",
+   "REIVACN/CONSCRVAÇÃO",
+   " ",
+   "S",
+   "t Prso liquidoa",
+   "100ge"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 180.6,
+  "ocr_s": 0.3
+ },
+ "f054.jpg": {
+  "n_lines": 23,
+  "box": [
+   583,
+   909,
+   679,
+   1005
+  ],
+  "level": "digits",
+  "lines": [
+   "2160"
+  ],
+  "all_lines": [
+   "0,85c",
+   "HACENDADO",
+   "HACENDADO",
+   "ticks",
+   "getales",
+   "L",
+   "2160",
+   "259",
+   "19",
+   "C.Pref: vczt",
+   "33g",
+   "239",
+   "F.Fab: 091123",
+   "T144258383",
+   "E54",
+   "06:13",
+   " e ",
+   "  ",
+   "NATONON2NL 020",
+   "9",
+   "lem Paso liquido",
+   "100ge",
+   "EX"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 181.2,
+  "ocr_s": 0.31
+ },
+ "f060.jpg": {
+  "n_lines": 27,
+  "box": [
+   582,
+   923,
+   678,
+   1019
+  ],
+  "level": "digits",
+  "lines": [
+   ".3109"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "0,85c",
+   "1",
+   "HACENDADO",
+   "ticks",
+   "egetales",
+   "egetais",
+   "SO",
+   "ca)",
+   "115",
+   "190",
+   ".3109",
+   "259",
+   "230",
+   "C.Pref: uez",
+   "091128",
+   "F.Fab:",
+   "230",
+   "T144258383",
+   "08:13",
+   "E54",
+   "ZINACIÓNCONERVAÇÃO",
+   " ",
+   "  p da l",
+   "ci",
+   "Peso liquido",
+   "100ge"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 179.8,
+  "ocr_s": 0.32
+ },
+ "f066.jpg": {
+  "n_lines": 22,
+  "box": [
+   577,
+   933,
+   673,
+   1029
+  ],
+  "level": "digits",
+  "lines": [
+   ".23.50"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "0,85c",
+   "BACENDIDO",
+   "icks",
+   "egetais",
+   "4",
+   "C",
+   ".23.50",
+   "259",
+   "220",
+   "3",
+   "C.Pref: 000",
+   "F.Fab: 0511286",
+   "T144258383",
+   "08:13",
+   "E54",
+   "SRNACIÓNUCONSZINAÇÃO",
+   "epe da kz",
+   "GA",
+   "S",
+   "neto Prs loide",
+   "100ge"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 180.2,
+  "ocr_s": 0.31
+ },
+ "f072.jpg": {
+  "n_lines": 17,
+  "box": [
+   781,
+   1010,
+   906,
+   1106
+  ],
+  "level": "digits",
+  "lines": [
+   "T144258383",
+   "06:13"
+  ],
+  "all_lines": [
+   "0,85c",
+   "HACENDADO",
+   "HACENDADO",
+   "RS",
+   "cgetales",
+   "egetais",
+   "15g",
+   "-1",
+   "C.Pref: 0",
+   "239",
+   "T144258383",
+   "06:13",
+   "E54",
+   "b ",
+   "ANONO2 20",
+   "tPeso tlquides",
+   "100ge"
+  ],
+  "crop_wh": [
+   125,
+   96
+  ],
+  "sharpness": 179.6,
+  "ocr_s": 0.29
+ },
+ "f078.jpg": {
+  "n_lines": 22,
+  "box": [
+   762,
+   986,
+   906,
+   1112
+  ],
+  "level": "digits",
+  "lines": [
+   "F.Fab: 09118",
+   "T144258383",
+   "06:13"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "0.85€",
+   "318",
+   "C",
+   "HACENDADO",
+   "egetais",
+   "NM",
+   "y",
+   "caeo",
+   ".229",
+   "2.50",
+   "S",
+   "230",
+   "C.Pref: r",
+   "F.Fab: 09118",
+   "T144258383",
+   "06:13",
+   "E54",
+   "FURADINVCONSERAÇÃO",
+   "p pao de l",
+   "O2L 5220",
+   "100ge"
+  ],
+  "crop_wh": [
+   144,
+   126
+  ],
+  "sharpness": 179.8,
+  "ocr_s": 0.32
+ },
+ "f084.jpg": {
+  "n_lines": 21,
+  "box": [
+   557,
+   935,
+   653,
+   1031
+  ],
+  "level": "digits",
+  "lines": [
+   "2350"
+  ],
+  "all_lines": [
+   "HACENDADO",
+   "0.85c",
+   "HACENDADO",
+   "Vegetales",
+   "egetais",
+   "de c",
+   "2350",
+   "259",
+   "239",
+   "139",
+   "C.Pref: vs0ezr",
+   "2 ",
+   "F.Fab: 051128",
+   "T144258383",
+   "08:13",
+   "E54",
+   "SOVACINVCONSERYAÇÃO",
+   "C",
+   "NATONON2NL OC020",
+   "tPeso lqudtor",
+   "100ge"
+  ],
+  "crop_wh": [
+   96,
+   96
+  ],
+  "sharpness": 180.4,
+  "ocr_s": 0.31
+ }
+}

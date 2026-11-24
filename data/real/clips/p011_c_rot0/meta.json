@@ -1,0 +1,425 @@
+{
+ "f000.jpg": {
+  "n_lines": 10,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "HACENDADO",
+   "HACENDA",
+   "0.85c",
+   "11",
+   "090",
+   "HACENDADO",
+   "Sticks",
+   "legetais",
+   "100g",
+   "HACENDADO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 117.8,
+  "ocr_s": 0.35
+ },
+ "f006.jpg": {
+  "n_lines": 7,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "StScks",
+   "edetais",
+   "100g",
+   "HACENDADO",
+   "VW",
+   "TEA-MEX",
+   "EP-HEY"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 119.9,
+  "ocr_s": 0.28
+ },
+ "f012.jpg": {
+  "n_lines": 5,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "HACE",
+   "egetais",
+   "100g",
+   "HACENDADO",
+   "VU"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 123.6,
+  "ocr_s": 0.27
+ },
+ "f018.jpg": {
+  "n_lines": 8,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "0,85c",
+   "Stickss",
+   "2",
+   "HACEN",
+   "egetais",
+   "E",
+   "100g",
+   "HACENDADO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 121.0,
+  "ocr_s": 0.29
+ },
+ "f024.jpg": {
+  "n_lines": 8,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "0.85c",
+   "SSticks",
+   "HCENDAD",
+   "legetais",
+   "1",
+   "1",
+   "100g",
+   "HACENDADO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 118.7,
+  "ocr_s": 0.28
+ },
+ "f030.jpg": {
+  "n_lines": 8,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "0.85c",
+   "EUL",
+   "StSicks",
+   "legetais",
+   "HACENDADO",
+   "Paa",
+   "100g",
+   "HACENDADO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 120.0,
+  "ocr_s": 0.26
+ },
+ "f036.jpg": {
+  "n_lines": 8,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "0,85c",
+   "S Stickss",
+   "2",
+   "egetais",
+   "HACENDADO",
+   "E72Y",
+   "100g",
+   "HACENDADO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 113.6,
+  "ocr_s": 0.27
+ },
+ "f042.jpg": {
+  "n_lines": 10,
+  "box": [
+   1042,
+   1194,
+   1192,
+   1320
+  ],
+  "level": "digits",
+  "lines": [
+   "1068"
+  ],
+  "all_lines": [
+   "0,85c",
+   "V",
+   "SSicks",
+   ".",
+   "egetais",
+   "Vegetaies",
+   "HACENDADO",
+   "RASE",
+   "1068",
+   "HACENDADO"
+  ],
+  "crop_wh": [
+   150,
+   126
+  ],
+  "sharpness": 126.6,
+  "ocr_s": 0.27
+ },
+ "f048.jpg": {
+  "n_lines": 9,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "0,85c",
+   "",
+   "Sticks",
+   "Vegetaies",
+   "HACENDADO",
+   "M",
+   "1",
+   "100g",
+   "HACENDADO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 115.1,
+  "ocr_s": 0.28
+ },
+ "f054.jpg": {
+  "n_lines": 9,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "0,85c",
+   "COo",
+   "Sticks",
+   "Vesjetaies",
+   "Vegetais",
+   "HACENDADO",
+   "R",
+   "100",
+   "HACENDADO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 108.7,
+  "ocr_s": 0.26
+ },
+ "f060.jpg": {
+  "n_lines": 11,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "0,85c",
+   "Cot",
+   "Sticks",
+   "Vegetais",
+   "Vegetaies",
+   "E",
+   ".",
+   "HACENDADO",
+   "8",
+   "100s",
+   "HACENDADO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 107.2,
+  "ocr_s": 0.27
+ },
+ "f066.jpg": {
+  "n_lines": 8,
+  "box": [
+   1209,
+   1291,
+   1417,
+   1458
+  ],
+  "level": "digits",
+  "lines": [
+   "1003"
+  ],
+  "all_lines": [
+   "0,85c",
+   "Motn",
+   "Sticks",
+   "Vegetais",
+   "Vegetales",
+   "HACENDADO",
+   "1003",
+   "HACENDADO"
+  ],
+  "crop_wh": [
+   208,
+   167
+  ],
+  "sharpness": 104.7,
+  "ocr_s": 0.26
+ },
+ "f072.jpg": {
+  "n_lines": 11,
+  "box": [
+   1221,
+   1295,
+   1437,
+   1469
+  ],
+  "level": "digits",
+  "lines": [
+   "1003"
+  ],
+  "all_lines": [
+   "0.85c",
+   "Lommn",
+   "SSicks",
+   "egetais",
+   "S",
+   "",
+   "Vegetales",
+   "HACENDADO",
+   "fakr",
+   "1003",
+   "HACENDADO"
+  ],
+  "crop_wh": [
+   216,
+   174
+  ],
+  "sharpness": 103.1,
+  "ocr_s": 0.28
+ },
+ "f078.jpg": {
+  "n_lines": 12,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "0,85c",
+   "BASGIIN",
+   "Sticks",
+   "egetais",
+   "-",
+   ".",
+   "Vegetales",
+   "HACENDADO",
+   "1",
+   "A",
+   "100",
+   "HACENDADO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 100.6,
+  "ocr_s": 0.28
+ },
+ "f084.jpg": {
+  "n_lines": 8,
+  "box": [
+   0,
+   0,
+   1728,
+   1728
+  ],
+  "level": "fallback_whole",
+  "lines": [],
+  "all_lines": [
+   "0.85",
+   "Sticks",
+   "Vegetais",
+   "Vegetales",
+   "HACENDADO",
+   "7",
+   "100",
+   "HACENDADO"
+  ],
+  "crop_wh": [
+   1728,
+   1728
+  ],
+  "sharpness": 89.7,
+  "ocr_s": 0.27
+ }
+}

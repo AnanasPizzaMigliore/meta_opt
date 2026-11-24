@@ -1,0 +1,668 @@
+{
+ "f000.jpg": {
+  "n_lines": 21,
+  "box": [
+   453,
+   1031,
+   549,
+   1157
+  ],
+  "level": "date",
+  "lines": [
+   "25.11.26"
+  ],
+  "all_lines": [
+   "MEDIO MAGRET",
+   "NIGADOS",
+   "POLLO",
+   "TTOED",
+   "POLLO",
+   "POLLD",
+   "POLLO",
+   "2LO",
+   "TAQUITOS DE",
+   "PI SO NE1",
+   "25.11.26",
+   "FLLND LADIDETIRE",
+   "POLLO",
+   "0.315kg",
+   "7.50",
+   "PVCIP KIII",
+   "2,36€",
+   "POLLO",
+   "C",
+   "R 22",
+   "731/564007363"
+  ],
+  "crop_wh": [
+   96,
+   126
+  ],
+  "sharpness": 244.7,
+  "ocr_s": 0.44
+ },
+ "f006.jpg": {
+  "n_lines": 26,
+  "box": [
+   835,
+   782,
+   931,
+   906
+  ],
+  "level": "date",
+  "lines": [
+   "25.11.26"
+  ],
+  "all_lines": [
+   "OLLO",
+   "POLLO",
+   "MOLLEJAS",
+   "POLLO",
+   "SOC",
+   "NIGADOS",
+   "POLLO",
+   "",
+   "POJ",
+   "0.315kg",
+   "DI SO NEID",
+   "25.11.26",
+   "FILHA CROUCTOAD",
+   "TAQUITOS DE",
+   "PVP",
+   "7.50 €",
+   "PPECIE KII",
+   "2,36€",
+   "7",
+   "POLLO",
+   "R 22",
+   "731/56400236:",
+   ".",
+   "TROUTTOS DE",
+   "POLD",
+   "S8E"
+  ],
+  "crop_wh": [
+   96,
+   124
+  ],
+  "sharpness": 226.4,
+  "ocr_s": 0.35
+ },
+ "f012.jpg": {
+  "n_lines": 26,
+  "box": [
+   879,
+   744,
+   998,
+   904
+  ],
+  "level": "date",
+  "lines": [
+   "25.11.26",
+   "FLLHA CADUC1DAD"
+  ],
+  "all_lines": [
+   "POLLO",
+   "POLLO",
+   "MOLLEJAS",
+   "POLLO",
+   "TOROmn",
+   "NIGADOO",
+   "POLLO",
+   "0.315kg",
+   "DI SO NE1D",
+   "25.11.26",
+   "FLLHA CADUC1DAD",
+   "TAQUITOS DE",
+   "7.50 €",
+   "PRECIO KIIE",
+   "J",
+   "PV",
+   ",36€",
+   "POLLO",
+   "POLLO",
+   "R 22",
+   "LT",
+   "7317564002363",
+   "THOUI",
+   "TRQUITOS DE",
+   "PULD",
+   "2580"
+  ],
+  "crop_wh": [
+   119,
+   160
+  ],
+  "sharpness": 219.0,
+  "ocr_s": 0.35
+ },
+ "f018.jpg": {
+  "n_lines": 24,
+  "box": [
+   832,
+   748,
+   954,
+   910
+  ],
+  "level": "date",
+  "lines": [
+   "25.11.26",
+   "FELHA CADUCTORD"
+  ],
+  "all_lines": [
+   "POLLO",
+   "POLLO",
+   "MOLLEJAS",
+   "POLLO",
+   "manu",
+   "1COADOS",
+   "POLLO",
+   "A",
+   "OLLO",
+   "0.315kg",
+   "PISO NEID",
+   "25.11.26",
+   "FELHA CADUCTORD",
+   "TAQUITOS DE",
+   "2,36€",
+   "7,50 €",
+   "PHLCIO KIII",
+   "PV",
+   "POLLO",
+   "R 22",
+   "73 17564002363",
+   "POL",
+   "IGQUITOS DE",
+   "POLO"
+  ],
+  "crop_wh": [
+   122,
+   162
+  ],
+  "sharpness": 217.7,
+  "ocr_s": 0.35
+ },
+ "f024.jpg": {
+  "n_lines": 22,
+  "box": [
+   825,
+   741,
+   945,
+   900
+  ],
+  "level": "date",
+  "lines": [
+   "25.11.26",
+   "FILHA CADUCTDAD"
+  ],
+  "all_lines": [
+   "POLLO",
+   "POLLO",
+   "MOLLEJAS",
+   "POLLO",
+   "MIGADOS",
+   "momm",
+   "POLLO",
+   "ThE",
+   "0.315kg",
+   "PISO NEI",
+   "25.11.26",
+   "FILHA CADUCTDAD",
+   "TAQUITOS DE",
+   "7,50 €",
+   "PVECIO KII",
+   "PVP",
+   "2,36€",
+   "POLLO",
+   "R22",
+   "7317564002363",
+   "OLL",
+   "POLO"
+  ],
+  "crop_wh": [
+   120,
+   159
+  ],
+  "sharpness": 215.0,
+  "ocr_s": 0.35
+ },
+ "f030.jpg": {
+  "n_lines": 25,
+  "box": [
+   818,
+   744,
+   914,
+   869
+  ],
+  "level": "date",
+  "lines": [
+   "25.11.26"
+  ],
+  "all_lines": [
+   "POLILO",
+   "POLLO",
+   "MOLLEJAS",
+   "POLLO",
+   "1034005",
+   "O",
+   "POLLO",
+   "D",
+   "SerA",
+   "0.315kg",
+   "PISO NEI",
+   "25.11.26",
+   "FICHA CAOUCIDRD",
+   "TAQUITOS DE",
+   "7,50 €",
+   "PECIP KII",
+   "3",
+   "PV",
+   "2,36€",
+   "POLLO",
+   "R 22.",
+   "73 1/564002363",
+   "POLLO",
+   "TROUITOS DE",
+   "POLLO"
+  ],
+  "crop_wh": [
+   96,
+   125
+  ],
+  "sharpness": 214.7,
+  "ocr_s": 0.35
+ },
+ "f036.jpg": {
+  "n_lines": 22,
+  "box": [
+   808,
+   712,
+   930,
+   874
+  ],
+  "level": "date",
+  "lines": [
+   "25.11.26",
+   "FICHA CADUC1DRD"
+  ],
+  "all_lines": [
+   "OLLO",
+   "POLLO",
+   "MOLLEJAS",
+   "POLLO",
+   "HIGADOS",
+   "TTUmO",
+   "POCLO",
+   "0.315kg",
+   "PI SO NEIN",
+   "25.11.26",
+   "FICHA CADUC1DRD",
+   "TAQUITOS DE",
+   "7.50 €",
+   "PECIO KII",
+   "2,36€",
+   "J",
+   "PVP",
+   "POLLO",
+   "R 22",
+   "7317564002363",
+   "TROUITOS DE",
+   "POLLO"
+  ],
+  "crop_wh": [
+   122,
+   162
+  ],
+  "sharpness": 211.2,
+  "ocr_s": 0.32
+ },
+ "f042.jpg": {
+  "n_lines": 21,
+  "box": [
+   807,
+   715,
+   903,
+   839
+  ],
+  "level": "date",
+  "lines": [
+   "25.11.26"
+  ],
+  "all_lines": [
+   "OLLO",
+   "POLLO",
+   "MOLLEJAS",
+   "POLLO",
+   "HIGADOS",
+   "IOMNO",
+   "POLLO",
+   "0.315kg",
+   "PI SO NET",
+   "25.11.26",
+   "FILHA CROUCTDAD",
+   "TAQUITOS DE",
+   "PVP",
+   "7.50 €",
+   "PRECI RII",
+   "2,36€",
+   "3",
+   "POLLO",
+   "R22",
+   "7317564002363",
+   "POLD"
+  ],
+  "crop_wh": [
+   96,
+   124
+  ],
+  "sharpness": 210.6,
+  "ocr_s": 0.33
+ },
+ "f048.jpg": {
+  "n_lines": 21,
+  "box": [
+   804,
+   697,
+   926,
+   862
+  ],
+  "level": "date",
+  "lines": [
+   "25.11.26",
+   "FECHA CRDUCTORU"
+  ],
+  "all_lines": [
+   "POLLO",
+   "POLLO",
+   "MOLLEJAS",
+   "POLLO",
+   "HIGADOS",
+   "POM0",
+   "POLLO",
+   "Te",
+   "0.315kg",
+   "PI SO NE11",
+   "25.11.26",
+   "FECHA CRDUCTORU",
+   "TAQUITOS DE",
+   "7,50 €",
+   "PECIO KII",
+   "2,36€",
+   "PVI",
+   "POLLO",
+   "R 22",
+   "7317564002363",
+   "POLLO"
+  ],
+  "crop_wh": [
+   122,
+   165
+  ],
+  "sharpness": 208.9,
+  "ocr_s": 0.33
+ },
+ "f054.jpg": {
+  "n_lines": 22,
+  "box": [
+   799,
+   701,
+   923,
+   865
+  ],
+  "level": "date",
+  "lines": [
+   "25.11.26",
+   "FICHA CADUCIDAD"
+  ],
+  "all_lines": [
+   "NLLO",
+   "POLIO",
+   "MOLLEJAS",
+   "POLLO",
+   "MEGADOS",
+   "TuVOmR",
+   "POUO",
+   "0.315kg",
+   "PISO NEID",
+   "25.11.26",
+   "FICHA CADUCIDAD",
+   "TAQUITOS DE",
+   "7.50 €",
+   "PRECIO KIIP",
+   "2,36€",
+   "PVP",
+   "POLLO",
+   "R 22",
+   "7317564002363",
+   "POLL",
+   "T",
+   "POLLO"
+  ],
+  "crop_wh": [
+   124,
+   164
+  ],
+  "sharpness": 209.5,
+  "ocr_s": 0.32
+ },
+ "f060.jpg": {
+  "n_lines": 24,
+  "box": [
+   807,
+   700,
+   931,
+   864
+  ],
+  "level": "date",
+  "lines": [
+   "25.11.26",
+   "FICHA CADUCTDAD"
+  ],
+  "all_lines": [
+   "POLLO",
+   "POLLO",
+   "MOLLEJAS",
+   "POLLO",
+   "BOADOS",
+   "",
+   "POLLO",
+   "",
+   "0.315kg",
+   "PI SO NEID",
+   "25.11.26",
+   "FICHA CADUCTDAD",
+   "TAQUITOS DE",
+   "PVP",
+   "7,50 €",
+   "PRECIO KIIT",
+   "3",
+   "H",
+   "2,36€",
+   "POLLO",
+   "R 22",
+   "7317564002363",
+   "POLLO",
+   "POLLO"
+  ],
+  "crop_wh": [
+   124,
+   164
+  ],
+  "sharpness": 208.0,
+  "ocr_s": 0.34
+ },
+ "f066.jpg": {
+  "n_lines": 21,
+  "box": [
+   813,
+   710,
+   909,
+   836
+  ],
+  "level": "date",
+  "lines": [
+   "25.11.26"
+  ],
+  "all_lines": [
+   "POLLO",
+   "POLLO",
+   "MOLLEJAS",
+   "POULO",
+   "HOADOS",
+   "mm",
+   "POULO",
+   "0.315kg",
+   "PISO NEID",
+   "25.11.26",
+   "FICHA CROUCTDAD",
+   "TAQUITOS DE",
+   "7,50 €",
+   "PPLCIO KIIP",
+   "PVP",
+   "2,36€",
+   "POLLO",
+   "R 22",
+   "7317564002363",
+   "TAQUITOS DE",
+   "POLLD"
+  ],
+  "crop_wh": [
+   96,
+   126
+  ],
+  "sharpness": 207.1,
+  "ocr_s": 0.36
+ },
+ "f072.jpg": {
+  "n_lines": 23,
+  "box": [
+   811,
+   710,
+   931,
+   872
+  ],
+  "level": "date",
+  "lines": [
+   "25.11.26",
+   "FICHA CADUCTDRO"
+  ],
+  "all_lines": [
+   "POLLO",
+   "POLLO",
+   "MOLLEJAS",
+   "POLLO",
+   "MIGADOS",
+   "10",
+   "FOLLO",
+   "UTT",
+   "0.315kg",
+   "PI SO NEI",
+   "25.11.26",
+   "FICHA CADUCTDRO",
+   "TAQUITOS DE",
+   "7,50 €",
+   "PVLCIE XIIP",
+   "3",
+   "PVP",
+   "2,36€",
+   "g",
+   "POLLO",
+   "R22",
+   "7317564002363",
+   "Ol"
+  ],
+  "crop_wh": [
+   120,
+   162
+  ],
+  "sharpness": 202.3,
+  "ocr_s": 0.29
+ },
+ "f078.jpg": {
+  "n_lines": 22,
+  "box": [
+   790,
+   715,
+   915,
+   879
+  ],
+  "level": "date",
+  "lines": [
+   "25.11.26",
+   "FICHA CADUCIDAD"
+  ],
+  "all_lines": [
+   "POLLO",
+   "POLLO",
+   "MOLLEJAS",
+   "POLLO",
+   "-GADOS",
+   "FhOuD",
+   "POLLO",
+   "a",
+   "POLLD",
+   "DI SO NEIN",
+   "25.11.26",
+   "FICHA CADUCIDAD",
+   "TAQUITOS DE",
+   "7.50 €",
+   "PRECIO RIIE",
+   "0.315kg",
+   "2,36€",
+   "PVI",
+   "POLLO",
+   "R 22",
+   "7317564002363",
+   "POLLD"
+  ],
+  "crop_wh": [
+   125,
+   164
+  ],
+  "sharpness": 206.4,
+  "ocr_s": 0.33
+ },
+ "f084.jpg": {
+  "n_lines": 21,
+  "box": [
+   792,
+   712,
+   916,
+   876
+  ],
+  "level": "date",
+  "lines": [
+   "25.11.26",
+   "FECHA CADUCIDAD"
+  ],
+  "all_lines": [
+   "POLLO",
+   "POLLO",
+   "MOLLEJAS",
+   "POLLO",
+   "HIGADOS",
+   "TDm",
+   "POLLO",
+   "VOO",
+   "",
+   "0.315kg",
+   "PESO NEID",
+   "25.11.26",
+   "FECHA CADUCIDAD",
+   "TAQUITOS DE",
+   "7,50 €",
+   "PPLCIO KIIP",
+   "PVP",
+   "2,36€",
+   "POLLO",
+   "R 22.",
+   "7317564002363"
+  ],
+  "crop_wh": [
+   124,
+   164
+  ],
+  "sharpness": 204.5,
+  "ocr_s": 0.32
+ }
+}

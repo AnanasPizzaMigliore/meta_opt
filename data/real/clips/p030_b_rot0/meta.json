@@ -1,0 +1,561 @@
+{
+ "f000.jpg": {
+  "n_lines": 27,
+  "box": [
+   1282,
+   876,
+   1728,
+   1382
+  ],
+  "level": "date",
+  "lines": [
+   "04.02.27",
+   "SUMIR PREFERENTEMENTE"
+  ],
+  "all_lines": [
+   "BON",
+   "NE",
+   "mmae",
+   "CAAAAA",
+   "VOBLE",
+   "O O  ",
+   ".",
+   "M",
+   "VALOR",
+   "C800",
+   "",
+   "p",
+   "O",
+   "M n af (r",
+   "aaage",
+   "RAARARL",
+   "240g",
+   "IMPOR",
+   "2,10€",
+   "8750",
+   "ANTES DEL:",
+   "SUMIR PREFERENTEMENTE",
+   "ESTIBLE",
+   "o",
+   "04.02.27",
+   "2",
+   "abybel"
+  ],
+  "crop_wh": [
+   446,
+   506
+  ],
+  "sharpness": 190.2,
+  "ocr_s": 0.46
+ },
+ "f006.jpg": {
+  "n_lines": 19,
+  "box": [
+   1311,
+   737,
+   1689,
+   1205
+  ],
+  "level": "date",
+  "lines": [
+   "04.02.27"
+  ],
+  "all_lines": [
+   "VALOR",
+   "602",
+   "DA",
+   "a",
+   "",
+   "LAMRL",
+   "VII",
+   "2000",
+   "pm",
+   "GARARL",
+   "CORTEZA 1O",
+   "ANTES DEL:",
+   "2,10€",
+   "876s",
+   "04.02.27",
+   "",
+   "11",
+   "S0",
+   "bybel"
+  ],
+  "crop_wh": [
+   378,
+   468
+  ],
+  "sharpness": 125.1,
+  "ocr_s": 0.36
+ },
+ "f012.jpg": {
+  "n_lines": 14,
+  "box": [
+   1110,
+   419,
+   1728,
+   1053
+  ],
+  "level": "date",
+  "lines": [
+   "04.02.27",
+   "UNIR PREFERENTEMENTE"
+  ],
+  "all_lines": [
+   "A",
+   "tO",
+   "DO",
+   "IMPORTE",
+   "CORTEZ",
+   "b",
+   "",
+   "E",
+   "11",
+   "UNIR PREFERENTEMENTE",
+   "04.02.27",
+   "51",
+   "Semicu",
+   ""
+  ],
+  "crop_wh": [
+   618,
+   634
+  ],
+  "sharpness": 53.9,
+  "ocr_s": 0.35
+ },
+ "f018.jpg": {
+  "n_lines": 10,
+  "box": [
+   1309,
+   507,
+   1728,
+   1055
+  ],
+  "level": "date",
+  "lines": [
+   "04.02.27"
+  ],
+  "all_lines": [
+   "2000",
+   "ju",
+   "COS",
+   "GMMARE",
+   "ANTES DEL:",
+   "04.02.27",
+   "2,50",
+   "CMVI",
+   "51",
+   "urado"
+  ],
+  "crop_wh": [
+   419,
+   548
+  ],
+  "sharpness": 64.0,
+  "ocr_s": 0.32
+ },
+ "f024.jpg": {
+  "n_lines": 13,
+  "box": [
+   1302,
+   555,
+   1728,
+   1098
+  ],
+  "level": "date",
+  "lines": [
+   "04.02.27"
+  ],
+  "all_lines": [
+   "MS",
+   "CORTEZA NO COMESTIBLE",
+   "BotZ",
+   "jme",
+   "",
+   "MMARAR",
+   "ANTES DEL:",
+   "04.02.27",
+   "2,10",
+   "CON",
+   "51",
+   "u",
+   "nado"
+  ],
+  "crop_wh": [
+   426,
+   543
+  ],
+  "sharpness": 75.6,
+  "ocr_s": 0.33
+ },
+ "f030.jpg": {
+  "n_lines": 17,
+  "box": [
+   1276,
+   558,
+   1708,
+   1088
+  ],
+  "level": "date",
+  "lines": [
+   "04.02.27"
+  ],
+  "all_lines": [
+   "Bov2",
+   "3",
+   "",
+   "3",
+   "CORTEZA",
+   "2200",
+   "peme",
+   "",
+   "MAARMGL",
+   "",
+   "COMESTIBLE",
+   "ANTES DEL:",
+   "04.02.27",
+   "2,70",
+   "um",
+   "51",
+   "weat"
+  ],
+  "crop_wh": [
+   432,
+   530
+  ],
+  "sharpness": 75.5,
+  "ocr_s": 0.35
+ },
+ "f036.jpg": {
+  "n_lines": 11,
+  "box": [
+   1269,
+   551,
+   1711,
+   1097
+  ],
+  "level": "date",
+  "lines": [
+   "04.02.27"
+  ],
+  "all_lines": [
+   "Gite",
+   "2000",
+   "peme",
+   "RAARR",
+   "6",
+   "COMESTIBLE",
+   "04.02.27",
+   "2,10",
+   "cov0an",
+   "51",
+   "unado"
+  ],
+  "crop_wh": [
+   442,
+   546
+  ],
+  "sharpness": 77.9,
+  "ocr_s": 0.32
+ },
+ "f042.jpg": {
+  "n_lines": 17,
+  "box": [
+   1291,
+   564,
+   1728,
+   1106
+  ],
+  "level": "date",
+  "lines": [
+   "04.02.27"
+  ],
+  "all_lines": [
+   "BoNE",
+   "C",
+   "ORTEZ",
+   "2000",
+   "pme",
+   "CS",
+   "MAARA",
+   " COMESTIALE",
+   "ANTES DEL:",
+   "PREF",
+   "04.02.27",
+   ".",
+   "2,10",
+   "ABM",
+   "51",
+   "k",
+   ""
+  ],
+  "crop_wh": [
+   437,
+   542
+  ],
+  "sharpness": 73.6,
+  "ocr_s": 0.34
+ },
+ "f048.jpg": {
+  "n_lines": 13,
+  "box": [
+   1319,
+   589,
+   1728,
+   1108
+  ],
+  "level": "date",
+  "lines": [
+   "04.02.27"
+  ],
+  "all_lines": [
+   "BOre",
+   "CORTEZA 1O COMESTIBLE",
+   "2200",
+   "pme",
+   "LARARL",
+   "",
+   "ANTES DEL:",
+   "04.02.27",
+   "HAL",
+   "2,10",
+   "AO",
+   "51",
+   "urudo"
+  ],
+  "crop_wh": [
+   409,
+   519
+  ],
+  "sharpness": 77.9,
+  "ocr_s": 0.33
+ },
+ "f054.jpg": {
+  "n_lines": 13,
+  "box": [
+   1326,
+   567,
+   1728,
+   1101
+  ],
+  "level": "date",
+  "lines": [
+   "04.02.27"
+  ],
+  "all_lines": [
+   "I",
+   "2",
+   "G000",
+   "nemr",
+   "",
+   "AAARA",
+   "COMESTIBLE",
+   "04.02.27",
+   "-",
+   "2,10",
+   "TITIOM",
+   "51",
+   "verado"
+  ],
+  "crop_wh": [
+   402,
+   534
+  ],
+  "sharpness": 74.7,
+  "ocr_s": 0.33
+ },
+ "f060.jpg": {
+  "n_lines": 11,
+  "box": [
+   1331,
+   547,
+   1728,
+   1089
+  ],
+  "level": "date",
+  "lines": [
+   "04.02.27"
+  ],
+  "all_lines": [
+   "C000",
+   "nm",
+   "CS",
+   "MARAEE",
+   "COMESTIBLE",
+   "ANTES DEL:",
+   "04.02.27",
+   "2,10",
+   "Taoo",
+   "Babu",
+   "cwnd"
+  ],
+  "crop_wh": [
+   397,
+   542
+  ],
+  "sharpness": 73.7,
+  "ocr_s": 0.32
+ },
+ "f066.jpg": {
+  "n_lines": 11,
+  "box": [
+   1343,
+   540,
+   1728,
+   1103
+  ],
+  "level": "date",
+  "lines": [
+   "04.02.27"
+  ],
+  "all_lines": [
+   "CORTEZA NO COMESTIBLE",
+   "C060",
+   "mm",
+   "S",
+   "MAGNL",
+   "04.02.27",
+   "",
+   "2,10",
+   "An",
+   "51",
+   "urudo"
+  ],
+  "crop_wh": [
+   385,
+   563
+  ],
+  "sharpness": 73.2,
+  "ocr_s": 0.33
+ },
+ "f072.jpg": {
+  "n_lines": 15,
+  "box": [
+   1378,
+   530,
+   1728,
+   1078
+  ],
+  "level": "date",
+  "lines": [
+   "04.02.27"
+  ],
+  "all_lines": [
+   "eS",
+   "carbo",
+   "",
+   "13",
+   "CORTEZA NO COMESTIBLE",
+   "C000",
+   "jma",
+   "1IS",
+   "GAREL",
+   "04.02.27",
+   "2,70",
+   "T",
+   "Si",
+   "Bobi",
+   "urudo"
+  ],
+  "crop_wh": [
+   350,
+   548
+  ],
+  "sharpness": 73.7,
+  "ocr_s": 0.34
+ },
+ "f078.jpg": {
+  "n_lines": 10,
+  "box": [
+   1383,
+   534,
+   1728,
+   1079
+  ],
+  "level": "date",
+  "lines": [
+   "04.02.27"
+  ],
+  "all_lines": [
+   "C200",
+   "pmn",
+   "i",
+   "RAAARMRE",
+   "96",
+   "04.02.27",
+   "2,10",
+   "COAOO",
+   "51",
+   "wrnd"
+  ],
+  "crop_wh": [
+   345,
+   545
+  ],
+  "sharpness": 74.4,
+  "ocr_s": 0.31
+ },
+ "f084.jpg": {
+  "n_lines": 11,
+  "box": [
+   1392,
+   546,
+   1728,
+   1090
+  ],
+  "level": "date",
+  "lines": [
+   "04.02.27"
+  ],
+  "all_lines": [
+   "B",
+   "CORTEZA NO COMESTIBLE",
+   "C000",
+   "nme",
+   "CS",
+   "GAAARR",
+   "04.02.27",
+   "2,10",
+   "TWOADM",
+   "51",
+   "tredo"
+  ],
+  "crop_wh": [
+   336,
+   544
+  ],
+  "sharpness": 76.3,
+  "ocr_s": 0.26
+ },
+ "f090.jpg": {
+  "n_lines": 9,
+  "box": [
+   1384,
+   532,
+   1728,
+   1086
+  ],
+  "level": "date",
+  "lines": [
+   "04.02.27"
+  ],
+  "all_lines": [
+   "2000",
+   "nm",
+   "",
+   "MAAAGAE",
+   "196",
+   "04.02.27",
+   "2,10",
+   "mm",
+   "51"
+  ],
+  "crop_wh": [
+   344,
+   554
+  ],
+  "sharpness": 68.7,
+  "ocr_s": 0.26
+ }
+}
