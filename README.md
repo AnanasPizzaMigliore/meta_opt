@@ -6,6 +6,9 @@ A fine-tuned 0.8B vision-language model (Qwen3.5-0.8B) reads expiration dates on
 llama.cpp (OpenCL backend). This repository holds the runtime changes, the benchmark and replay harnesses,
 the stopping rules, and the per-frame data behind every table and figure.
 
+Results that the paper summarises in a sentence (full tables, simulation, energy, PP-OCRv6, multi-date packages,
+offloading, split screening) are in [RESULTS.md](RESULTS.md).
+
 ## Layout
 
 | Folder | Contents |
