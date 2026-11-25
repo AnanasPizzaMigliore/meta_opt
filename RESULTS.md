@@ -193,3 +193,22 @@ localisation median 3.5–3.7 s (p90 5.5 s), VLM read median 2.5–2.8 s (p90 12
 8.1 s. Paired by product (10,000 resamples), the cross-check has 14 fewer wrong answers than gated VLM repeat
 (95% CI [7, 22]) and 11 fewer correct ones ([3, 20]); against OCR repeat, +5 correct ([−2, +12]) and −1 wrong
 ([−6, +3]).
+
+## On-device localisation port (live/onloc.hpp)
+
+C++ port of the whole offline localisation (PaddleOCR 3 pipeline with PP-OCRv5 mobile detector and latin
+recogniser: DB post-processing, quad sorting, rectified line crops, batched recognition, CTC decoding; then the
+gate level, the crop and the date rules), so that the live loop (`live/liveloop2.cpp`) needs nothing from the
+offline pipeline. Checked against the offline pipeline on all 2292 sampled frames of the 148 held-out clips
+(`live/onloc_dump.cpp`, `live/onloc_compare.py`; per-frame output in `data/real/live2/onloc_port_2292_frames.tsv.gz`):
+
+| | Port vs offline |
+|---|---|
+| Same OCR date | 96.5% of frames (both a date 728, offline only 35, port only 32, different 14) |
+| Same gate level | 92.5% |
+| Crop box IoU | median 0.995; >= 0.9 on 81.4% |
+| OCR date correct on dated frames | 38.7% (port) vs 38.9% (offline); wrong 86 vs 88; false on no-date frames 5 vs 3 |
+
+Recognised text is rarely identical line for line: on the same probability map the port reproduces the line
+boxes within 1 px for 46 of 47, but recognition depends on batching and padding (the ONNX recogniser fed
+PaddleOCR's own crops one at a time changes 6 of 49 lines).
