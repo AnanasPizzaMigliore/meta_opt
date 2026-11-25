@@ -1,0 +1,1040 @@
+clip	rule	answer	decision_ms	examined	vlm_calls	last_frame_idx
+#	p004_a_rot0	gated	0	4870	ocr	4863
+#	p004_a_rot0	gated	6	9708	ocr	4832
+#	p004_a_rot0	gated	0	7366	vlm	2497	2026-12-08
+#	p004_a_rot0	gated	12	14727	ocr	5014
+#	p004_a_rot0	gated	6	12236	vlm	2528	2026-12-08
+p004_a_rot0	gated	2026-12-08	12236	3	2	12
+#	p004_b_rot0	gated	0	3670	ocr	3664
+#	p004_b_rot0	gated	4	7474	ocr	3800
+#	p004_b_rot0	gated	0	7247	vlm	3577	2026-12-08
+#	p004_b_rot0	gated	9	10535	ocr	3057
+#	p004_b_rot0	gated	4	11482	vlm	4008	2026-12-08
+p004_b_rot0	gated	2026-12-08	11482	3	2	9
+#	p004_d_rot0	gated	0	4805	ocr	4800
+#	p004_d_rot0	gated	6	10220	ocr	5409
+#	p004_d_rot0	gated	0	7181	vlm	2376	2026-12-06
+#	p004_d_rot0	gated	13	15610	ocr	5386
+#	p004_d_rot0	gated	6	13291	vlm	3071	2029-02-22
+#	p004_d_rot0	gated	16	21163	ocr	5546
+#	p004_d_rot0	gated	13	18004	vlm	2393	2026-12-08
+#	p004_d_rot0	gated	16	23233	vlm	2070	2026-12-08
+p004_d_rot0	gated	2026-12-08	23233	4	4	16
+#	p004_c_rot0	gated	0	4062	ocr	4058
+#	p004_c_rot0	gated	5	8619	ocr	4552
+#	p004_c_rot0	gated	0	5958	vlm	1896	NONE
+#	p004_c_rot0	gated	11	13000	ocr	4375
+#	p004_c_rot0	gated	5	10477	vlm	1857	NONE
+p004_c_rot0	gated	NONE	10477	3	2	11
+#	p005_a_rot0	gated	0	2217	ocr	2212
+#	p005_a_rot0	gated	2	4599	ocr	2376
+#	p005_a_rot0	gated	0	3995	vlm	1778	NONE
+#	p005_a_rot0	gated	6	6805	ocr	2200
+#	p005_a_rot0	gated	9	8903	ocr	2088
+#	p005_a_rot0	gated	11	10978	ocr	2070
+#	p005_a_rot0	gated	14	12955	ocr	1971
+#	p005_a_rot0	gated	17	15257	ocr	2297
+p005_a_rot0	gated	ABSTAIN	15257	7	1	17
+#	p005_b_rot0	gated	0	2110	ocr	2102
+#	p005_b_rot0	gated	2	4033	ocr	1917
+#	p005_b_rot0	gated	0	4782	vlm	2672	NONE
+#	p005_b_rot0	gated	6	6671	ocr	1883
+#	p005_b_rot0	gated	8	8608	ocr	1931
+#	p005_b_rot0	gated	11	10383	ocr	1768
+#	p005_b_rot0	gated	13	12065	ocr	1672
+#	p005_b_rot0	gated	11	12214	vlm	1831	NONE
+p005_b_rot0	gated	NONE	12214	6	2	13
+#	p005_d_rot0	gated	0	3496	ocr	3491
+#	p005_d_rot0	gated	4	7251	ocr	3749
+#	p005_d_rot0	gated	0	5436	vlm	1939	NONE
+#	p005_d_rot0	gated	9	10902	ocr	3644
+#	p005_d_rot0	gated	4	9218	vlm	1967	NONE
+p005_d_rot0	gated	NONE	9218	3	2	9
+#	p005_c_rot0	gated	0	4203	ocr	4197
+#	p005_c_rot0	gated	5	8547	ocr	4338
+#	p005_c_rot0	gated	0	6843	vlm	2640	NONE
+#	p005_c_rot0	gated	11	12921	ocr	4368
+#	p005_c_rot0	gated	5	10429	vlm	1881	NONE
+p005_c_rot0	gated	NONE	10429	3	2	11
+#	p006_a_rot0	gated	0	3702	ocr	3696
+#	p006_a_rot0	gated	4	7823	ocr	4115
+#	p006_a_rot0	gated	0	6028	vlm	2325	2027-01-23
+#	p006_a_rot0	gated	10	11460	ocr	3632
+#	p006_a_rot0	gated	4	10129	vlm	2305	2027-01-23
+p006_a_rot0	gated	2027-01-23	10129	3	2	10
+#	p006_b_rot0	gated	0	3874	ocr	3868
+#	p006_b_rot0	gated	5	7207	ocr	3326
+#	p006_b_rot0	gated	0	8312	vlm	4438	2027-01-23
+#	p006_b_rot0	gated	11	11118	ocr	2800
+#	p006_b_rot0	gated	5	13515	vlm	5202	2027-01-??
+#	p006_b_rot0	gated	14	16249	ocr	2728
+#	p006_b_rot0	gated	11	24835	vlm	11319	2027-01-23
+p006_b_rot0	gated	2027-01-23	24835	4	3	14
+#	p006_d_rot0	gated	0	3595	ocr	3589
+#	p006_d_rot0	gated	4	6760	ocr	3159
+#	p006_d_rot0	gated	9	9979	ocr	3213
+#	p006_d_rot0	gated	13	13157	ocr	3172
+#	p006_d_rot0	gated	15	16736	ocr	3574
+#	p006_d_rot0	gated	13	15068	vlm	1910	NONE
+#	p006_d_rot0	gated	15	18651	vlm	1915	2027-01-26
+p006_d_rot0	gated	ABSTAIN	18651	5	2	15
+#	p006_c_rot0	gated	0	3595	ocr	3590
+#	p006_c_rot0	gated	4	6558	ocr	2956
+#	p006_c_rot0	gated	8	9513	ocr	2951
+#	p006_c_rot0	gated	12	12435	ocr	2918
+#	p006_c_rot0	gated	14	15583	ocr	3144
+p006_c_rot0	gated	ABSTAIN	15583	5	0	14
+#	p007_a_rot0	gated	0	8302	ocr	8297
+#	p007_a_rot0	gated	11	16345	ocr	8039
+#	p007_a_rot0	gated	0	16133	vlm	7831	NONE
+#	p007_a_rot0	gated	14	26159	ocr	9807
+#	p007_a_rot0	gated	11	18946	vlm	2601	2027-06-??
+#	p007_a_rot0	gated	14	48536	vlm	22377	NONE
+p007_a_rot0	gated	NONE	48536	3	3	14
+#	p007_b_rot0	gated	0	8719	ocr	8714
+#	p007_b_rot0	gated	11	14939	ocr	6215
+#	p007_b_rot0	gated	0	20458	vlm	11738	NONE
+#	p007_b_rot0	gated	14	25667	ocr	5204
+#	p007_b_rot0	gated	11	31806	vlm	11348	2027-06-??
+#	p007_b_rot0	gated	14	43054	vlm	11248	2027-06-??
+p007_b_rot0	gated	2027-06-??	43054	3	3	14
+#	p007_d_rot0	gated	0	6699	ocr	6695
+#	p007_d_rot0	gated	8	14948	ocr	8243
+#	p007_d_rot0	gated	0	9022	vlm	2322	2027-06-??
+#	p007_d_rot0	gated	15	23084	ocr	8131
+#	p007_d_rot0	gated	8	17343	vlm	2394	2027-06-??
+p007_d_rot0	gated	2027-06-??	17343	3	2	15
+#	p007_c_rot0	gated	0	3772	ocr	3767
+#	p007_c_rot0	gated	5	7513	ocr	3735
+#	p007_c_rot0	gated	10	11338	ocr	3820
+#	p007_c_rot0	gated	5	9414	vlm	1901	NONE
+#	p007_c_rot0	gated	14	15198	ocr	3855
+p007_c_rot0	gated	ABSTAIN	15198	4	1	14
+#	p008_a_rot0	gated	0	4082	ocr	4077
+#	p008_a_rot0	gated	5	8183	ocr	4097
+#	p008_a_rot0	gated	0	6471	vlm	2389	2027-03-??
+#	p008_a_rot0	gated	10	12011	ocr	3823
+#	p008_a_rot0	gated	5	10506	vlm	2323	2026-09-??
+#	p008_a_rot0	gated	14	16282	ocr	4266
+#	p008_a_rot0	gated	10	14638	vlm	2627	2027-04-??
+#	p008_a_rot0	gated	14	17871	vlm	1588	NONE
+p008_a_rot0	gated	ABSTAIN	17871	4	4	14
+#	p008_b_rot0	gated	0	3186	ocr	3182
+#	p008_b_rot0	gated	4	6745	ocr	3555
+#	p008_b_rot0	gated	8	9739	ocr	2989
+#	p008_b_rot0	gated	4	11989	vlm	5244	2027-09-28
+#	p008_b_rot0	gated	14	15146	ocr	3151
+#	p008_b_rot0	gated	8	17266	vlm	5276	2027-09-26
+#	p008_b_rot0	gated	14	23640	vlm	6373	2029-09-28
+p008_b_rot0	gated	ABSTAIN	23640	4	3	14
+#	p008_d_rot0	gated	0	3333	ocr	3327
+#	p008_d_rot0	gated	4	8047	ocr	4706
+#	p008_d_rot0	gated	0	5673	vlm	2340	2027-08-??
+#	p008_d_rot0	gated	10	11769	ocr	3716
+#	p008_d_rot0	gated	4	19832	vlm	11785	2027-04-??
+#	p008_d_rot0	gated	15	23709	ocr	3870
+#	p008_d_rot0	gated	10	22426	vlm	2593	2027-03-??
+#	p008_d_rot0	gated	15	25894	vlm	2185	2027-04-??
+p008_d_rot0	gated	2027-04-??	25894	4	4	15
+#	p008_c_rot0	gated	0	3828	ocr	3824
+#	p008_c_rot0	gated	5	8877	ocr	5044
+#	p008_c_rot0	gated	0	6082	vlm	2254	2027-03-??
+#	p008_c_rot0	gated	11	13471	ocr	4589
+#	p008_c_rot0	gated	5	10787	vlm	1909	NONE
+#	p008_c_rot0	gated	14	17649	ocr	4173
+p008_c_rot0	gated	ABSTAIN	17649	4	2	14
+#	p009_a_rot0	gated	0	2939	ocr	2933
+#	p009_a_rot0	gated	3	5869	ocr	2924
+#	p009_a_rot0	gated	7	8867	ocr	2993
+#	p009_a_rot0	gated	11	11669	ocr	2797
+#	p009_a_rot0	gated	14	14436	ocr	2759
+p009_a_rot0	gated	ABSTAIN	14436	5	0	14
+#	p009_b_rot0	gated	0	2395	ocr	2389
+#	p009_b_rot0	gated	3	4567	ocr	2167
+#	p009_b_rot0	gated	0	14504	vlm	12108	2027-03-??
+#	p009_b_rot0	gated	14	16789	ocr	2279
+#	p009_b_rot0	gated	14	28552	vlm	11763	2027-03-??
+p009_b_rot0	gated	2027-03-??	28552	3	2	14
+#	p009_d_rot0	gated	0	2894	ocr	2889
+#	p009_d_rot0	gated	3	5557	ocr	2657
+#	p009_d_rot0	gated	7	8197	ocr	2635
+#	p009_d_rot0	gated	10	10713	ocr	2511
+#	p009_d_rot0	gated	14	13468	ocr	2750
+#	p009_d_rot0	gated	14	15490	vlm	2022	2026-05-08
+p009_d_rot0	gated	ABSTAIN	15490	5	1	14
+#	p009_c_rot0	gated	0	2730	ocr	2725
+#	p009_c_rot0	gated	3	5765	ocr	3028
+#	p009_c_rot0	gated	0	5100	vlm	2370	2027-03-??
+#	p009_c_rot0	gated	7	8897	ocr	3125
+#	p009_c_rot0	gated	3	8308	vlm	2543	2027-04-??
+#	p009_c_rot0	gated	11	11710	ocr	2805
+#	p009_c_rot0	gated	7	11282	vlm	2385	????-??-14
+#	p009_c_rot0	gated	14	14381	ocr	2666
+#	p009_c_rot0	gated	11	18040	vlm	6330	NONE
+#	p009_c_rot0	gated	14	20499	vlm	2458	????-??-16
+p009_c_rot0	gated	ABSTAIN	20499	5	5	14
+#	p010_a_rot0	gated	0	6617	ocr	6612
+#	p010_a_rot0	gated	8	12336	ocr	5714
+#	p010_a_rot0	gated	0	19005	vlm	12388	2027-03-04
+#	p010_a_rot0	gated	14	25219	ocr	6208
+#	p010_a_rot0	gated	8	25208	vlm	6202	2027-03-04
+p010_a_rot0	gated	2027-03-04	25208	3	2	14
+#	p010_b_rot0	gated	0	6281	ocr	6276
+#	p010_b_rot0	gated	8	11751	ocr	5464
+#	p010_b_rot0	gated	0	14102	vlm	7821	2028-??-??
+#	p010_b_rot0	gated	14	19162	ocr	5054
+#	p010_b_rot0	gated	8	27122	vlm	13018	NONE
+#	p010_b_rot0	gated	14	38381	vlm	11259	NONE
+p010_b_rot0	gated	NONE	38381	3	3	14
+#	p010_d_rot0	gated	0	3519	ocr	3514
+#	p010_d_rot0	gated	4	7211	ocr	3686
+#	p010_d_rot0	gated	0	5920	vlm	2401	2027-03-04
+#	p010_d_rot0	gated	9	11317	ocr	4102
+#	p010_d_rot0	gated	4	9540	vlm	2329	2027-03-04
+p010_d_rot0	gated	2027-03-04	9540	3	2	9
+#	p010_c_rot0	gated	0	3024	ocr	3018
+#	p010_c_rot0	gated	4	5570	ocr	2540
+#	p010_c_rot0	gated	0	7723	vlm	4699	NONE
+#	p010_c_rot0	gated	10	10639	ocr	2910
+#	p010_c_rot0	gated	14	13633	ocr	2989
+#	p010_c_rot0	gated	15	16747	ocr	3109
+p010_c_rot0	gated	ABSTAIN	16747	5	1	15
+#	p011_a_rot0	gated	0	3031	ocr	3026
+#	p011_a_rot0	gated	4	7155	ocr	4119
+#	p011_a_rot0	gated	0	5284	vlm	2252	2027-06-??
+#	p011_a_rot0	gated	9	11924	ocr	4764
+#	p011_a_rot0	gated	4	9452	vlm	2297	2027-03-??
+#	p011_a_rot0	gated	15	17049	ocr	5120
+#	p011_a_rot0	gated	9	13763	vlm	1838	NONE
+#	p011_a_rot0	gated	15	18989	vlm	1940	2026-07-15
+p011_a_rot0	gated	ABSTAIN	18989	4	4	15
+#	p011_b_rot0	gated	0	4678	ocr	4674
+#	p011_b_rot0	gated	6	9591	ocr	4907
+#	p011_b_rot0	gated	0	6953	vlm	2274	2026-09-??
+#	p011_b_rot0	gated	12	13581	ocr	3985
+#	p011_b_rot0	gated	6	21580	vlm	11989	2026-11-09
+#	p011_b_rot0	gated	14	25508	ocr	3923
+#	p011_b_rot0	gated	12	38119	vlm	16538	NONE
+#	p011_b_rot0	gated	14	56393	vlm	18273	2026-11-09
+p011_b_rot0	gated	2026-11-09	56393	4	4	14
+#	p011_d_rot0	gated	0	3268	ocr	3263
+#	p011_d_rot0	gated	4	6265	ocr	2991
+#	p011_d_rot0	gated	0	5060	vlm	1792	NONE
+#	p011_d_rot0	gated	8	9418	ocr	3147
+#	p011_d_rot0	gated	4	8435	vlm	2170	2027-04-??
+#	p011_d_rot0	gated	12	12199	ocr	2776
+#	p011_d_rot0	gated	8	11182	vlm	1763	NONE
+p011_d_rot0	gated	NONE	11182	4	3	12
+#	p011_c_rot0	gated	0	2218	ocr	2213
+#	p011_c_rot0	gated	2	4127	ocr	1904
+#	p011_c_rot0	gated	5	6239	ocr	2106
+#	p011_c_rot0	gated	8	8421	ocr	2176
+#	p011_c_rot0	gated	11	10535	ocr	2106
+#	p011_c_rot0	gated	14	12694	ocr	2151
+#	p011_c_rot0	gated	11	12848	vlm	2312	NONE
+p011_c_rot0	gated	ABSTAIN	12848	6	1	14
+#	p012_a_rot0	gated	0	4584	ocr	4578
+#	p012_a_rot0	gated	6	8750	ocr	4160
+#	p012_a_rot0	gated	0	10058	vlm	5473	2029-10-31
+#	p012_a_rot0	gated	13	15036	ocr	4971
+#	p012_a_rot0	gated	6	14512	vlm	4454	2028-10-31
+#	p012_a_rot0	gated	14	19663	ocr	4623
+#	p012_a_rot0	gated	13	18383	vlm	3347	2029-10-??
+#	p012_a_rot0	gated	14	22632	vlm	2969	2028-10-??
+p012_a_rot0	gated	ABSTAIN	22633	4	4	14
+#	p012_b_rot0	gated	0	3857	ocr	3853
+#	p012_b_rot0	gated	5	6848	ocr	2986
+#	p012_b_rot0	gated	0	27685	vlm	23828	2028-10-31
+#	p012_b_rot0	gated	14	30995	ocr	3304
+#	p012_b_rot0	gated	5	39453	vlm	11767	2028-10-31
+p012_b_rot0	gated	2028-10-31	39453	3	2	14
+#	p012_d_rot0	gated	0	4186	ocr	4182
+#	p012_d_rot0	gated	5	8574	ocr	4382
+#	p012_d_rot0	gated	0	6600	vlm	2413	2026-06-18
+#	p012_d_rot0	gated	11	13120	ocr	4539
+#	p012_d_rot0	gated	5	11027	vlm	2453	2029-10-31
+#	p012_d_rot0	gated	14	17671	ocr	4546
+#	p012_d_rot0	gated	11	14985	vlm	1865	NONE
+#	p012_d_rot0	gated	14	19690	vlm	2019	2027-04-??
+p012_d_rot0	gated	ABSTAIN	19690	4	4	14
+#	p012_c_rot0	gated	0	3713	ocr	3707
+#	p012_c_rot0	gated	4	9565	ocr	5846
+#	p012_c_rot0	gated	12	16313	ocr	6743
+#	p012_c_rot0	gated	15	22942	ocr	6624
+#	p012_c_rot0	gated	12	18169	vlm	1856	NONE
+p012_c_rot0	gated	ABSTAIN	22942	4	1	15
+#	p013_a_rot0	gated	0	7200	ocr	7195
+#	p013_a_rot0	gated	9	13917	ocr	6710
+#	p013_a_rot0	gated	0	11994	vlm	4793	NONE
+#	p013_a_rot0	gated	14	19906	ocr	5984
+#	p013_a_rot0	gated	9	31385	vlm	17469	NONE
+p013_a_rot0	gated	NONE	31385	3	2	14
+#	p013_b_rot0	gated	0	3747	ocr	3741
+#	p013_b_rot0	gated	4	6684	ocr	2931
+#	p013_b_rot0	gated	0	22226	vlm	18479	NONE
+#	p013_b_rot0	gated	14	24770	ocr	2538
+#	p013_b_rot0	gated	4	29651	vlm	7419	2027-09-??
+#	p013_b_rot0	gated	14	42423	vlm	12770	2026-11-??
+p013_b_rot0	gated	ABSTAIN	42424	3	3	14
+#	p013_d_rot0	gated	0	4953	ocr	4946
+#	p013_d_rot0	gated	6	10177	ocr	5219
+#	p013_d_rot0	gated	0	7269	vlm	2316	2027-03-??
+#	p013_d_rot0	gated	13	15470	ocr	5288
+#	p013_d_rot0	gated	6	12552	vlm	2375	2026-09-??
+#	p013_d_rot0	gated	14	20898	ocr	5422
+#	p013_d_rot0	gated	13	17823	vlm	2352	2027-09-??
+#	p013_d_rot0	gated	14	22927	vlm	2029	2026-09-??
+p013_d_rot0	gated	2026-09-??	22927	4	4	14
+#	p013_c_rot0	gated	0	5334	ocr	5328
+#	p013_c_rot0	gated	7	10582	ocr	5243
+#	p013_c_rot0	gated	0	7220	vlm	1886	NONE
+#	p013_c_rot0	gated	14	14413	ocr	3825
+p013_c_rot0	gated	ABSTAIN	14413	3	1	14
+#	p014_a_rot0	gated	0	4746	ocr	4740
+#	p014_a_rot0	gated	6	10491	ocr	5738
+#	p014_a_rot0	gated	0	7452	vlm	2705	2027-02-??
+#	p014_a_rot0	gated	13	15540	ocr	5045
+#	p014_a_rot0	gated	6	14752	vlm	4262	2027-05-02
+#	p014_a_rot0	gated	14	21119	ocr	5573
+#	p014_a_rot0	gated	13	18406	vlm	2866	2027-05-02
+p014_a_rot0	gated	2027-05-02	18406	4	3	14
+#	p014_b_rot0	gated	0	3283	ocr	3276
+#	p014_b_rot0	gated	4	6221	ocr	2931
+#	p014_b_rot0	gated	0	22423	vlm	19140	2027-05-02
+#	p014_b_rot0	gated	14	25064	ocr	2636
+#	p014_b_rot0	gated	4	41702	vlm	19279	2027-05-02
+p014_b_rot0	gated	2027-05-02	41702	3	2	14
+#	p014_d_rot0	gated	0	3095	ocr	3090
+#	p014_d_rot0	gated	4	5914	ocr	2813
+#	p014_d_rot0	gated	0	5368	vlm	2274	2027-04-??
+#	p014_d_rot0	gated	7	8778	ocr	2859
+#	p014_d_rot0	gated	4	8263	vlm	2349	2027-02-??
+#	p014_d_rot0	gated	11	11380	ocr	2597
+#	p014_d_rot0	gated	7	11078	vlm	2300	2027-02-??
+p014_d_rot0	gated	2027-02-??	11078	4	3	11
+#	p014_c_rot0	gated	0	2175	ocr	2171
+#	p014_c_rot0	gated	2	4317	ocr	2137
+#	p014_c_rot0	gated	5	6431	ocr	2108
+#	p014_c_rot0	gated	8	8604	ocr	2168
+#	p014_c_rot0	gated	11	10747	ocr	2138
+#	p014_c_rot0	gated	14	12766	ocr	2015
+p014_c_rot0	gated	ABSTAIN	12766	6	0	14
+#	p015_a_rot0	gated	0	5590	ocr	5585
+#	p015_a_rot0	gated	7	10873	ocr	5277
+#	p015_a_rot0	gated	0	8020	vlm	2429	2026-05-00
+#	p015_a_rot0	gated	14	16127	ocr	5248
+#	p015_a_rot0	gated	7	14634	vlm	3760	2027-03-09
+#	p015_a_rot0	gated	14	18673	vlm	2546	2027-03-09
+p015_a_rot0	gated	2027-03-09	18673	3	3	14
+#	p015_b_rot0	gated	0	2358	ocr	2352
+#	p015_b_rot0	gated	3	4511	ocr	2144
+#	p015_b_rot0	gated	6	6339	ocr	1821
+#	p015_b_rot0	gated	3	13814	vlm	9303	2027-09-??
+#	p015_b_rot0	gated	15	15762	ocr	1940
+#	p015_b_rot0	gated	6	16134	vlm	2319	2027-09-??
+p015_b_rot0	gated	2027-09-??	16134	4	2	15
+#	p015_d_rot0	gated	0	3331	ocr	3326
+#	p015_d_rot0	gated	4	6516	ocr	3180
+#	p015_d_rot0	gated	0	6220	vlm	2889	2026-09-??
+#	p015_d_rot0	gated	8	9886	ocr	3365
+#	p015_d_rot0	gated	4	9427	vlm	2911	2026-09-??
+p015_d_rot0	gated	2026-09-??	9427	3	2	8
+#	p015_c_rot0	gated	0	3753	ocr	3747
+#	p015_c_rot0	gated	5	7010	ocr	3251
+#	p015_c_rot0	gated	9	10184	ocr	3168
+#	p015_c_rot0	gated	13	13140	ocr	2949
+#	p015_c_rot0	gated	9	13591	vlm	3407	2027-03-??
+#	p015_c_rot0	gated	14	16715	ocr	3118
+p015_c_rot0	gated	ABSTAIN	16715	5	1	14
+#	p016_a_rot0	gated	0	7523	ocr	7517
+#	p016_a_rot0	gated	10	16654	ocr	9126
+#	p016_a_rot0	gated	0	10391	vlm	2868	2027-02-??
+#	p016_a_rot0	gated	14	25460	ocr	8801
+#	p016_a_rot0	gated	10	19471	vlm	2817	NONE
+#	p016_a_rot0	gated	14	28528	vlm	3069	NONE
+p016_a_rot0	gated	NONE	28528	3	3	14
+#	p016_b_rot0	gated	0	5327	ocr	5323
+#	p016_b_rot0	gated	7	11979	ocr	6645
+#	p016_b_rot0	gated	0	7575	vlm	2246	NONE
+#	p016_b_rot0	gated	14	17710	ocr	5727
+#	p016_b_rot0	gated	7	31445	vlm	19466	2027-06-01
+#	p016_b_rot0	gated	14	43978	vlm	12533	2027-06-01
+p016_b_rot0	gated	2027-06-01	43978	3	3	14
+#	p016_d_rot0	gated	0	5092	ocr	5088
+#	p016_d_rot0	gated	6	10682	ocr	5586
+#	p016_d_rot0	gated	14	15769	ocr	5083
+#	p016_d_rot0	gated	14	17659	vlm	1890	2027-04-??
+p016_d_rot0	gated	ABSTAIN	17660	3	1	14
+#	p016_c_rot0	gated	0	2822	ocr	2816
+#	p016_c_rot0	gated	3	6488	ocr	3661
+#	p016_c_rot0	gated	8	10174	ocr	3680
+#	p016_c_rot0	gated	13	13920	ocr	3741
+#	p016_c_rot0	gated	8	12552	vlm	2378	2026-09-??
+#	p016_c_rot0	gated	15	17636	ocr	3710
+p016_c_rot0	gated	ABSTAIN	17636	5	1	15
+#	p017_a_rot0	gated	0	4108	ocr	4102
+#	p017_a_rot0	gated	5	8786	ocr	4674
+#	p017_a_rot0	gated	0	7157	vlm	3049	2027-10-30
+#	p017_a_rot0	gated	11	13376	ocr	4584
+#	p017_a_rot0	gated	5	11772	vlm	2986	2027-10-30
+p017_a_rot0	gated	2027-10-30	11772	3	2	11
+#	p017_b_rot0	gated	0	3126	ocr	3122
+#	p017_b_rot0	gated	4	5962	ocr	2831
+#	p017_b_rot0	gated	7	8942	ocr	2975
+#	p017_b_rot0	gated	11	11716	ocr	2768
+#	p017_b_rot0	gated	14	14597	ocr	2875
+#	p017_b_rot0	gated	14	16528	vlm	1931	2026-09-??
+p017_b_rot0	gated	ABSTAIN	16528	5	1	14
+#	p017_d_rot0	gated	0	5042	ocr	5037
+#	p017_d_rot0	gated	6	10941	ocr	5894
+#	p017_d_rot0	gated	14	16465	ocr	5517
+#	p017_d_rot0	gated	6	12890	vlm	1948	NONE
+#	p017_d_rot0	gated	15	22037	ocr	5567
+p017_d_rot0	gated	ABSTAIN	22037	4	1	15
+#	p017_c_rot0	gated	0	5263	ocr	5258
+#	p017_c_rot0	gated	7	10458	ocr	5190
+#	p017_c_rot0	gated	0	7564	vlm	2301	2027-04-??
+#	p017_c_rot0	gated	13	15467	ocr	5004
+#	p017_c_rot0	gated	7	12255	vlm	1796	NONE
+#	p017_c_rot0	gated	14	20401	ocr	4928
+#	p017_c_rot0	gated	13	17247	vlm	1779	NONE
+p017_c_rot0	gated	NONE	17247	4	3	14
+#	p018_a_rot0	gated	0	7113	ocr	7108
+#	p018_a_rot0	gated	9	12810	ocr	5691
+#	p018_a_rot0	gated	0	13378	vlm	6264	2027-11-08
+#	p018_a_rot0	gated	17	18748	ocr	5363
+#	p018_a_rot0	gated	9	25836	vlm	12458	2027-11-08
+p018_a_rot0	gated	2027-11-08	25836	3	2	17
+#	p018_b_rot0	gated	0	4972	ocr	4967
+#	p018_b_rot0	gated	6	10032	ocr	5054
+#	p018_b_rot0	gated	0	6810	vlm	1837	NONE
+#	p018_b_rot0	gated	13	14276	ocr	4239
+#	p018_b_rot0	gated	6	15574	vlm	5542	2027-11-08
+#	p018_b_rot0	gated	18	19589	ocr	4007
+#	p018_b_rot0	gated	13	21169	vlm	5591	2027-11-08
+p018_b_rot0	gated	2027-11-08	21169	4	3	18
+#	p018_d_rot0	gated	0	4996	ocr	4991
+#	p018_d_rot0	gated	6	10515	ocr	5513
+#	p018_d_rot0	gated	0	6809	vlm	1813	NONE
+#	p018_d_rot0	gated	14	16205	ocr	5684
+#	p018_d_rot0	gated	6	12671	vlm	2156	2027-04-??
+#	p018_d_rot0	gated	14	18081	vlm	1876	2027-09-??
+p018_d_rot0	gated	ABSTAIN	18081	3	3	14
+#	p018_c_rot0	gated	0	5571	ocr	5565
+#	p018_c_rot0	gated	7	10306	ocr	4729
+#	p018_c_rot0	gated	0	7482	vlm	1911	NONE
+#	p018_c_rot0	gated	13	14861	ocr	4549
+#	p018_c_rot0	gated	14	19811	ocr	4944
+#	p018_c_rot0	gated	13	17095	vlm	2233	2026-09-??
+#	p018_c_rot0	gated	14	21690	vlm	1879	2027-04-??
+p018_c_rot0	gated	ABSTAIN	21691	4	3	14
+#	p019_a_rot0	gated	0	6933	ocr	6927
+#	p019_a_rot0	gated	9	15805	ocr	8864
+#	p019_a_rot0	gated	0	9599	vlm	2666	2027-09-08
+#	p019_a_rot0	gated	14	24347	ocr	8537
+#	p019_a_rot0	gated	9	18426	vlm	2622	2027-09-08
+p019_a_rot0	gated	2027-09-08	18426	3	2	14
+#	p019_b_rot0	gated	0	2861	ocr	2857
+#	p019_b_rot0	gated	3	5771	ocr	2903
+#	p019_b_rot0	gated	0	5666	vlm	2804	NONE
+#	p019_b_rot0	gated	7	8283	ocr	2506
+#	p019_b_rot0	gated	3	17785	vlm	12015	2026-08-??
+#	p019_b_rot0	gated	15	20577	ocr	2787
+#	p019_b_rot0	gated	7	28347	vlm	10561	2026-08-??
+p019_b_rot0	gated	2026-08-??	28347	4	3	15
+#	p019_d_rot0	gated	0	4147	ocr	4142
+#	p019_d_rot0	gated	5	9238	ocr	5084
+#	p019_d_rot0	gated	0	7165	vlm	3018	2026-08-??
+#	p019_d_rot0	gated	12	13675	ocr	4431
+#	p019_d_rot0	gated	5	11893	vlm	2655	2026-08-??
+p019_d_rot0	gated	2026-08-??	11893	3	2	12
+#	p019_c_rot0	gated	0	3347	ocr	3341
+#	p019_c_rot0	gated	4	6741	ocr	3387
+#	p019_c_rot0	gated	0	6541	vlm	3193	2027-04-??
+#	p019_c_rot0	gated	8	9637	ocr	2890
+#	p019_c_rot0	gated	4	10187	vlm	3445	2027-04-??
+p019_c_rot0	gated	2027-04-??	10187	3	2	8
+#	p020_a_rot0	gated	0	4371	ocr	4365
+#	p020_a_rot0	gated	5	9200	ocr	4824
+#	p020_a_rot0	gated	0	6947	vlm	2576	2027-07-??
+#	p020_a_rot0	gated	12	13526	ocr	4319
+#	p020_a_rot0	gated	5	21402	vlm	12201	2027-07-??
+p020_a_rot0	gated	2027-07-??	21402	3	2	12
+#	p020_b_rot0	gated	0	3011	ocr	3006
+#	p020_b_rot0	gated	4	6222	ocr	3206
+#	p020_b_rot0	gated	0	5352	vlm	2341	2027-09-18
+#	p020_b_rot0	gated	8	9898	ocr	3670
+#	p020_b_rot0	gated	4	8538	vlm	2316	2027-04-19
+#	p020_b_rot0	gated	13	13439	ocr	3536
+#	p020_b_rot0	gated	8	12150	vlm	2252	2027-08-16
+#	p020_b_rot0	gated	15	16934	ocr	3490
+#	p020_b_rot0	gated	13	15724	vlm	2284	2027-09-18
+p020_b_rot0	gated	2027-09-18	15724	5	4	15
+#	p020_d_rot0	gated	0	3960	ocr	3955
+#	p020_d_rot0	gated	5	8186	ocr	4222
+#	p020_d_rot0	gated	0	6184	vlm	2224	2026-09-??
+#	p020_d_rot0	gated	10	12504	ocr	4314
+#	p020_d_rot0	gated	5	10543	vlm	2357	2027-07-??
+#	p020_d_rot0	gated	14	16784	ocr	4275
+#	p020_d_rot0	gated	10	14969	vlm	2465	2027-07-??
+p020_d_rot0	gated	2027-07-??	14969	4	3	14
+#	p020_c_rot0	gated	0	4002	ocr	3997
+#	p020_c_rot0	gated	5	7322	ocr	3315
+#	p020_c_rot0	gated	9	10413	ocr	3088
+#	p020_c_rot0	gated	13	13614	ocr	3197
+#	p020_c_rot0	gated	15	16838	ocr	3219
+p020_c_rot0	gated	ABSTAIN	16838	5	0	15
+#	p021_a_rot0	gated	0	2950	ocr	2945
+#	p021_a_rot0	gated	3	6428	ocr	3472
+#	p021_a_rot0	gated	0	5361	vlm	2410	2026-11-25
+#	p021_a_rot0	gated	8	9658	ocr	3225
+#	p021_a_rot0	gated	3	8756	vlm	2328	2026-11-25
+p021_a_rot0	gated	2026-11-25	8756	3	2	8
+#	p021_b_rot0	gated	0	2114	ocr	2109
+#	p021_b_rot0	gated	2	4661	ocr	2540
+#	p021_b_rot0	gated	0	9941	vlm	7826	NONE
+#	p021_b_rot0	gated	13	12149	ocr	2203
+#	p021_b_rot0	gated	2	15604	vlm	5663	2026-11-25
+#	p021_b_rot0	gated	14	18073	ocr	2464
+#	p021_b_rot0	gated	13	27721	vlm	12114	2026-11-25
+p021_b_rot0	gated	2026-11-25	27721	4	3	14
+#	p021_d_rot0	gated	0	3109	ocr	3102
+#	p021_d_rot0	gated	4	6448	ocr	3333
+#	p021_d_rot0	gated	0	5396	vlm	2287	2026-05-25
+#	p021_d_rot0	gated	8	9887	ocr	3433
+#	p021_d_rot0	gated	4	8777	vlm	2328	2026-11-25
+#	p021_d_rot0	gated	13	13185	ocr	3292
+#	p021_d_rot0	gated	8	12189	vlm	2302	2026-05-25
+p021_d_rot0	gated	2026-05-25	12189	4	3	13
+#	p021_c_rot0	gated	0	2850	ocr	2841
+#	p021_c_rot0	gated	3	6133	ocr	3278
+#	p021_c_rot0	gated	0	5171	vlm	2321	2029-03-??
+#	p021_c_rot0	gated	8	8980	ocr	2842
+#	p021_c_rot0	gated	3	9559	vlm	3426	NONE
+#	p021_c_rot0	gated	12	13173	ocr	3608
+#	p021_c_rot0	gated	8	12433	vlm	2874	2029-02-??
+#	p021_c_rot0	gated	14	16494	ocr	3317
+#	p021_c_rot0	gated	12	20392	vlm	7219	NONE
+p021_c_rot0	gated	NONE	20392	5	4	14
+#	p022_a_rot0	gated	0	2992	ocr	2987
+#	p022_a_rot0	gated	3	5936	ocr	2939
+#	p022_a_rot0	gated	0	5319	vlm	2327	2026-11-24
+#	p022_a_rot0	gated	7	8520	ocr	2576
+#	p022_a_rot0	gated	3	8706	vlm	2770	2026-11-24
+p022_a_rot0	gated	2026-11-24	8706	3	2	7
+#	p022_b_rot0	gated	0	2838	ocr	2833
+#	p022_b_rot0	gated	3	5098	ocr	2254
+#	p022_b_rot0	gated	0	10059	vlm	7220	2026-11-24
+#	p022_b_rot0	gated	13	12447	ocr	2382
+#	p022_b_rot0	gated	3	16963	vlm	6904	2026-11-24
+p022_b_rot0	gated	2026-11-24	16963	3	2	13
+#	p022_d_rot0	gated	0	2606	ocr	2600
+#	p022_d_rot0	gated	3	5166	ocr	2554
+#	p022_d_rot0	gated	0	4979	vlm	2373	2026-11-24
+#	p022_d_rot0	gated	6	7775	ocr	2603
+#	p022_d_rot0	gated	3	7554	vlm	2388	2026-11-24
+p022_d_rot0	gated	2026-11-24	7554	3	2	6
+#	p022_c_rot0	gated	0	3551	ocr	3546
+#	p022_c_rot0	gated	4	7395	ocr	3838
+#	p022_c_rot0	gated	0	6298	vlm	2746	NONE
+#	p022_c_rot0	gated	9	11009	ocr	3609
+#	p022_c_rot0	gated	4	16123	vlm	8728	NONE
+p022_c_rot0	gated	NONE	16123	3	2	9
+#	p023_a_rot0	gated	0	3660	ocr	3655
+#	p023_a_rot0	gated	4	7801	ocr	4136
+#	p023_a_rot0	gated	0	6387	vlm	2727	2026-12-01
+#	p023_a_rot0	gated	10	11706	ocr	3899
+#	p023_a_rot0	gated	4	10427	vlm	2626	2026-12-01
+p023_a_rot0	gated	2026-12-01	10427	3	2	10
+#	p023_b_rot0	gated	0	3000	ocr	2994
+#	p023_b_rot0	gated	4	4735	ocr	1730
+#	p023_b_rot0	gated	0	27521	vlm	24521	2026-12-01
+#	p023_b_rot0	gated	14	29419	ocr	1894
+#	p023_b_rot0	gated	14	36649	vlm	7230	2027-03-??
+p023_b_rot0	gated	ABSTAIN	36649	3	2	14
+#	p023_d_rot0	gated	0	3604	ocr	3599
+#	p023_d_rot0	gated	4	6573	ocr	2955
+#	p023_d_rot0	gated	0	7117	vlm	3513	2026-12-01
+#	p023_d_rot0	gated	9	11058	ocr	3935
+#	p023_d_rot0	gated	4	10586	vlm	3468	2026-12-01
+p023_d_rot0	gated	2026-12-01	10586	3	2	9
+#	p023_c_rot0	gated	0	4330	ocr	4324
+#	p023_c_rot0	gated	5	8050	ocr	3715
+#	p023_c_rot0	gated	0	10782	vlm	6452	2026-05-10
+#	p023_c_rot0	gated	14	15125	ocr	4337
+#	p023_c_rot0	gated	14	21522	vlm	6397	NONE
+p023_c_rot0	gated	ABSTAIN	21522	3	2	14
+#	p024_a_rot0	gated	0	2582	ocr	2577
+#	p024_a_rot0	gated	3	6410	ocr	3822
+#	p024_a_rot0	gated	0	5034	vlm	2451	2026-11-26
+#	p024_a_rot0	gated	8	9523	ocr	3106
+#	p024_a_rot0	gated	3	17138	vlm	10727	2026-11-26
+p024_a_rot0	gated	2026-11-26	17138	3	2	8
+#	p024_b_rot0	gated	0	1922	ocr	1917
+#	p024_b_rot0	gated	2	4460	ocr	2532
+#	p024_b_rot0	gated	5	6833	ocr	2366
+#	p024_b_rot0	gated	2	12046	vlm	7586	2026-11-26
+#	p024_b_rot0	gated	14	14822	ocr	2770
+#	p024_b_rot0	gated	5	23664	vlm	11617	2026-11-26
+p024_b_rot0	gated	2026-11-26	23664	4	2	14
+#	p024_d_rot0	gated	0	2380	ocr	2376
+#	p024_d_rot0	gated	3	5154	ocr	2769
+#	p024_d_rot0	gated	0	4705	vlm	2324	2026-11-26
+#	p024_d_rot0	gated	6	7717	ocr	2558
+#	p024_d_rot0	gated	3	8509	vlm	3354	2026-11-26
+p024_d_rot0	gated	2026-11-26	8509	3	2	6
+#	p024_c_rot0	gated	0	2409	ocr	2403
+#	p024_c_rot0	gated	3	4654	ocr	2237
+#	p024_c_rot0	gated	0	4803	vlm	2394	2026-09-??
+#	p024_c_rot0	gated	6	7272	ocr	2462
+#	p024_c_rot0	gated	3	7001	vlm	2197	NONE
+#	p024_c_rot0	gated	9	10066	ocr	2789
+#	p024_c_rot0	gated	6	9539	vlm	2267	2026-09-??
+p024_c_rot0	gated	2026-09-??	9539	4	3	9
+#	p025_a_rot0	gated	0	4426	ocr	4420
+#	p025_a_rot0	gated	5	10103	ocr	5672
+#	p025_a_rot0	gated	0	6940	vlm	2514	2026-12-01
+#	p025_a_rot0	gated	13	15809	ocr	5702
+#	p025_a_rot0	gated	5	12569	vlm	2465	2026-12-01
+p025_a_rot0	gated	2026-12-01	12569	3	2	13
+#	p025_b_rot0	gated	0	2612	ocr	2608
+#	p025_b_rot0	gated	3	4806	ocr	2188
+#	p025_b_rot0	gated	0	11246	vlm	8633	2026-12-01
+#	p025_b_rot0	gated	14	13283	ocr	2032
+#	p025_b_rot0	gated	3	34534	vlm	23288	2026-12-01
+p025_b_rot0	gated	2026-12-01	34534	3	2	14
+#	p025_d_rot0	gated	0	5390	ocr	5386
+#	p025_d_rot0	gated	7	10240	ocr	4844
+#	p025_d_rot0	gated	0	7805	vlm	2414	2026-12-01
+#	p025_d_rot0	gated	13	15245	ocr	4999
+#	p025_d_rot0	gated	7	12603	vlm	2362	2026-12-01
+p025_d_rot0	gated	2026-12-01	12603	3	2	13
+#	p025_c_rot0	gated	0	2891	ocr	2885
+#	p025_c_rot0	gated	3	9028	ocr	6132
+#	p025_c_rot0	gated	12	14258	ocr	5224
+#	p025_c_rot0	gated	3	11700	vlm	2671	NONE
+#	p025_c_rot0	gated	14	19819	ocr	5555
+#	p025_c_rot0	gated	12	16668	vlm	2409	2026-05-08
+#	p025_c_rot0	gated	14	21839	vlm	2020	2026-05-00
+p025_c_rot0	gated	ABSTAIN	21840	4	3	14
+#	p026_a_rot0	gated	0	6660	ocr	6656
+#	p026_a_rot0	gated	8	12220	ocr	5555
+#	p026_a_rot0	gated	0	24023	vlm	17363	2026-11-29
+#	p026_a_rot0	gated	14	29866	ocr	5837
+#	p026_a_rot0	gated	8	35751	vlm	11727	2026-11-29
+p026_a_rot0	gated	2026-11-29	35751	3	2	14
+#	p026_b_rot0	gated	0	5543	ocr	5537
+#	p026_b_rot0	gated	7	9880	ocr	4332
+#	p026_b_rot0	gated	0	17485	vlm	11942	2026-11-29
+#	p026_b_rot0	gated	14	21566	ocr	4075
+#	p026_b_rot0	gated	7	23333	vlm	5847	NONE
+#	p026_b_rot0	gated	14	27059	vlm	3723	NONE
+p026_b_rot0	gated	NONE	27059	3	3	14
+#	p026_d_rot0	gated	0	5956	ocr	5949
+#	p026_d_rot0	gated	7	11570	ocr	5608
+#	p026_d_rot0	gated	0	8363	vlm	2407	2026-11-29
+#	p026_d_rot0	gated	14	18809	ocr	7232
+#	p026_d_rot0	gated	7	15322	vlm	3752	2026-11-29
+p026_d_rot0	gated	2026-11-29	15322	3	2	14
+#	p026_c_rot0	gated	0	4342	ocr	4336
+#	p026_c_rot0	gated	5	8627	ocr	4279
+#	p026_c_rot0	gated	11	13393	ocr	4761
+#	p026_c_rot0	gated	5	10899	vlm	2272	2027-04-??
+#	p026_c_rot0	gated	14	17741	ocr	4343
+p026_c_rot0	gated	ABSTAIN	17741	4	1	14
+#	p027_a_rot0	gated	0	3680	ocr	3674
+#	p027_a_rot0	gated	4	7914	ocr	4228
+#	p027_a_rot0	gated	0	6504	vlm	2824	2027-01-09
+#	p027_a_rot0	gated	10	11980	ocr	4060
+#	p027_a_rot0	gated	4	10648	vlm	2733	2027-01-09
+p027_a_rot0	gated	2027-01-09	10648	3	2	10
+#	p027_b_rot0	gated	0	2510	ocr	2504
+#	p027_b_rot0	gated	3	4793	ocr	2277
+#	p027_b_rot0	gated	0	9294	vlm	6785	2027-01-09
+#	p027_b_rot0	gated	12	11364	ocr	2064
+#	p027_b_rot0	gated	3	18328	vlm	9032	2027-01-09
+p027_b_rot0	gated	2027-01-09	18328	3	2	12
+#	p027_d_rot0	gated	0	3852	ocr	3847
+#	p027_d_rot0	gated	5	8351	ocr	4493
+#	p027_d_rot0	gated	0	6226	vlm	2374	2027-01-09
+#	p027_d_rot0	gated	11	12288	ocr	3931
+#	p027_d_rot0	gated	5	10756	vlm	2405	2027-01-09
+p027_d_rot0	gated	2027-01-09	10756	3	2	11
+#	p027_c_rot0	gated	0	3769	ocr	3764
+#	p027_c_rot0	gated	5	7819	ocr	4045
+#	p027_c_rot0	gated	10	11819	ocr	3994
+#	p027_c_rot0	gated	14	15957	ocr	4131
+p027_c_rot0	gated	ABSTAIN	15957	4	0	14
+#	p028_a_rot0	gated	0	5755	ocr	5749
+#	p028_a_rot0	gated	7	13222	ocr	7461
+#	p028_a_rot0	gated	0	8220	vlm	2465	2027-02-08
+#	p028_a_rot0	gated	14	19745	ocr	6517
+#	p028_a_rot0	gated	7	15809	vlm	2586	2027-02-08
+p028_a_rot0	gated	2027-02-08	15809	3	2	14
+#	p028_b_rot0	gated	0	5065	ocr	5060
+#	p028_b_rot0	gated	6	7576	ocr	2505
+#	p028_b_rot0	gated	0	8461	vlm	3395	2027-02-08
+#	p028_b_rot0	gated	11	10894	ocr	2425
+#	p028_b_rot0	gated	6	13115	vlm	4653	2027-02-08
+p028_b_rot0	gated	2027-02-08	13115	3	2	11
+#	p028_d_rot0	gated	0	2795	ocr	2789
+#	p028_d_rot0	gated	3	5695	ocr	2895
+#	p028_d_rot0	gated	7	8405	ocr	2703
+#	p028_d_rot0	gated	11	11142	ocr	2733
+#	p028_d_rot0	gated	14	13796	ocr	2649
+p028_d_rot0	gated	ABSTAIN	13796	5	0	14
+#	p028_c_rot0	gated	0	2848	ocr	2844
+#	p028_c_rot0	gated	3	5631	ocr	2777
+#	p028_c_rot0	gated	7	8363	ocr	2728
+#	p028_c_rot0	gated	11	11302	ocr	2934
+#	p028_c_rot0	gated	14	14306	ocr	2998
+p028_c_rot0	gated	ABSTAIN	14306	5	0	14
+#	p029_a_rot0	gated	0	3589	ocr	3585
+#	p029_a_rot0	gated	4	7739	ocr	4143
+#	p029_a_rot0	gated	0	5922	vlm	2333	2027-02-01
+#	p029_a_rot0	gated	10	11005	ocr	3261
+#	p029_a_rot0	gated	4	11886	vlm	4147	NONE
+#	p029_a_rot0	gated	14	15790	ocr	3899
+#	p029_a_rot0	gated	10	14277	vlm	2390	2027-02-01
+p029_a_rot0	gated	2027-02-01	14277	4	3	14
+#	p029_b_rot0	gated	0	3577	ocr	3571
+#	p029_b_rot0	gated	4	7275	ocr	3692
+#	p029_b_rot0	gated	0	5918	vlm	2341	2027-02-07
+#	p029_b_rot0	gated	9	12658	ocr	5378
+#	p029_b_rot0	gated	4	9090	vlm	1815	NONE
+#	p029_b_rot0	gated	14	17667	ocr	5002
+#	p029_b_rot0	gated	9	15497	vlm	2839	2027-02-01
+#	p029_b_rot0	gated	14	20148	vlm	2481	2027-02-01
+p029_b_rot0	gated	2027-02-01	20148	4	4	14
+#	p029_d_rot0	gated	0	3154	ocr	3149
+#	p029_d_rot0	gated	4	6161	ocr	3003
+#	p029_d_rot0	gated	8	9864	ocr	3698
+#	p029_d_rot0	gated	4	8502	vlm	2341	2027-01-01
+#	p029_d_rot0	gated	13	13175	ocr	3305
+#	p029_d_rot0	gated	14	16524	ocr	3344
+#	p029_d_rot0	gated	13	15142	vlm	1967	NONE
+#	p029_d_rot0	gated	14	18398	vlm	1874	2026-09-??
+p029_d_rot0	gated	ABSTAIN	18398	5	3	14
+#	p029_c_rot0	gated	0	2458	ocr	2453
+#	p029_c_rot0	gated	3	5004	ocr	2541
+#	p029_c_rot0	gated	6	7583	ocr	2575
+#	p029_c_rot0	gated	10	9927	ocr	2340
+#	p029_c_rot0	gated	13	12317	ocr	2385
+#	p029_c_rot0	gated	14	14878	ocr	2555
+#	p029_c_rot0	gated	14	16796	vlm	1918	2026-09-??
+p029_c_rot0	gated	ABSTAIN	16796	6	1	14
+#	p030_a_rot0	gated	0	4613	ocr	4608
+#	p030_a_rot0	gated	6	9239	ocr	4620
+#	p030_a_rot0	gated	0	7259	vlm	2646	2027-04-??
+#	p030_a_rot0	gated	12	13681	ocr	4436
+#	p030_a_rot0	gated	6	12242	vlm	3003	2027-04-??
+p030_a_rot0	gated	2027-04-??	12242	3	2	12
+#	p030_b_rot0	gated	0	3331	ocr	3325
+#	p030_b_rot0	gated	4	5607	ocr	2271
+#	p030_b_rot0	gated	0	13811	vlm	10480	2027-04-??
+#	p030_b_rot0	gated	15	15828	ocr	2010
+#	p030_b_rot0	gated	4	30704	vlm	16893	2027-04-??
+p030_b_rot0	gated	2027-04-??	30704	3	2	15
+#	p030_d_rot0	gated	0	4181	ocr	4176
+#	p030_d_rot0	gated	5	8662	ocr	4475
+#	p030_d_rot0	gated	0	6469	vlm	2287	2027-04-??
+#	p030_d_rot0	gated	11	13347	ocr	4680
+#	p030_d_rot0	gated	5	10905	vlm	2243	2027-02-04
+#	p030_d_rot0	gated	14	17841	ocr	4489
+#	p030_d_rot0	gated	11	15713	vlm	2366	2027-02-04
+p030_d_rot0	gated	2027-02-04	15713	4	3	14
+#	p030_c_rot0	gated	0	3199	ocr	3195
+#	p030_c_rot0	gated	4	7001	ocr	3796
+#	p030_c_rot0	gated	0	5606	vlm	2407	2029-03-??
+#	p030_c_rot0	gated	9	10502	ocr	3496
+#	p030_c_rot0	gated	14	13907	ocr	3400
+#	p030_c_rot0	gated	14	15875	vlm	1968	2027-03-??
+p030_c_rot0	gated	ABSTAIN	15876	4	2	14
+#	p031_a_rot0	gated	0	2354	ocr	2349
+#	p031_a_rot0	gated	3	4858	ocr	2498
+#	p031_a_rot0	gated	6	6858	ocr	1995
+#	p031_a_rot0	gated	3	10622	vlm	5764	2026-11-22
+#	p031_a_rot0	gated	14	12573	ocr	1944
+#	p031_a_rot0	gated	6	14481	vlm	3858	2026-11-22
+p031_a_rot0	gated	2026-11-22	14481	4	2	14
+#	p031_b_rot0	gated	0	2110	ocr	2104
+#	p031_b_rot0	gated	2	4024	ocr	1909
+#	p031_b_rot0	gated	5	5876	ocr	1844
+#	p031_b_rot0	gated	2	15860	vlm	11835	2026-11-22
+#	p031_b_rot0	gated	15	17768	ocr	1903
+#	p031_b_rot0	gated	5	40412	vlm	24552	2026-11-22
+p031_b_rot0	gated	2026-11-22	40412	4	2	15
+#	p031_d_rot0	gated	0	2796	ocr	2790
+#	p031_d_rot0	gated	3	6212	ocr	3411
+#	p031_d_rot0	gated	0	5116	vlm	2320	2027-07-30
+#	p031_d_rot0	gated	8	9200	ocr	2982
+#	p031_d_rot0	gated	12	11986	ocr	2777
+#	p031_d_rot0	gated	14	15518	ocr	3527
+#	p031_d_rot0	gated	12	14382	vlm	2396	2026-11-23
+#	p031_d_rot0	gated	14	17421	vlm	1903	2026-11-23
+p031_d_rot0	gated	2026-11-23	17421	5	3	14
+#	p031_c_rot0	gated	0	2164	ocr	2157
+#	p031_c_rot0	gated	2	7569	ocr	5396
+#	p031_c_rot0	gated	10	12867	ocr	5292
+#	p031_c_rot0	gated	2	13303	vlm	5735	NONE
+#	p031_c_rot0	gated	14	18815	ocr	5505
+#	p031_c_rot0	gated	10	17222	vlm	3918	NONE
+p031_c_rot0	gated	NONE	17222	4	2	14
+#	p032_a_rot0	gated	0	4384	ocr	4378
+#	p032_a_rot0	gated	5	9438	ocr	5049
+#	p032_a_rot0	gated	0	6885	vlm	2501	2026-11-30
+#	p032_a_rot0	gated	12	14827	ocr	5382
+#	p032_a_rot0	gated	5	11863	vlm	2424	2026-11-30
+p032_a_rot0	gated	2026-11-30	11863	3	2	12
+#	p032_b_rot0	gated	0	2890	ocr	2884
+#	p032_b_rot0	gated	3	6645	ocr	3746
+#	p032_b_rot0	gated	0	6559	vlm	3669	2026-11-30
+#	p032_b_rot0	gated	8	9996	ocr	3346
+#	p032_b_rot0	gated	3	10671	vlm	4026	2026-11-30
+p032_b_rot0	gated	2026-11-30	10671	3	2	8
+#	p032_d_rot0	gated	0	3320	ocr	3312
+#	p032_d_rot0	gated	4	8001	ocr	4676
+#	p032_d_rot0	gated	10	12259	ocr	4252
+#	p032_d_rot0	gated	4	10541	vlm	2539	2026-11-30
+#	p032_d_rot0	gated	14	16445	ocr	4180
+#	p032_d_rot0	gated	14	18470	vlm	2024	2026-11-08
+p032_d_rot0	gated	ABSTAIN	18470	4	2	14
+#	p032_c_rot0	gated	0	2767	ocr	2762
+#	p032_c_rot0	gated	3	6633	ocr	3860
+#	p032_c_rot0	gated	0	4615	vlm	1847	NONE
+#	p032_c_rot0	gated	8	10414	ocr	3776
+#	p032_c_rot0	gated	13	15420	ocr	5000
+#	p032_c_rot0	gated	8	12668	vlm	2253	2027-03-??
+#	p032_c_rot0	gated	14	20126	ocr	4700
+p032_c_rot0	gated	ABSTAIN	20126	5	2	14
+#	p033_a_rot0	gated	0	3782	ocr	3776
+#	p033_a_rot0	gated	5	8298	ocr	4511
+#	p033_a_rot0	gated	0	6247	vlm	2465	2028-03-18
+#	p033_a_rot0	gated	11	12204	ocr	3899
+#	p033_a_rot0	gated	5	12144	vlm	3845	2028-03-18
+p033_a_rot0	gated	2028-03-18	12144	3	2	11
+#	p033_b_rot0	gated	0	4574	ocr	4567
+#	p033_b_rot0	gated	6	7620	ocr	3040
+#	p033_b_rot0	gated	0	16775	vlm	12200	2028-03-18
+#	p033_b_rot0	gated	14	19651	ocr	2871
+#	p033_b_rot0	gated	6	28994	vlm	12219	2028-03-18
+p033_b_rot0	gated	2028-03-18	28994	3	2	14
+#	p033_d_rot0	gated	0	3340	ocr	3335
+#	p033_d_rot0	gated	4	6407	ocr	3060
+#	p033_d_rot0	gated	0	5733	vlm	2393	2027-03-18
+#	p033_d_rot0	gated	8	9813	ocr	3401
+#	p033_d_rot0	gated	4	8856	vlm	2449	2028-03-18
+#	p033_d_rot0	gated	13	13342	ocr	3523
+#	p033_d_rot0	gated	8	12186	vlm	2372	2028-03-18
+p033_d_rot0	gated	2028-03-18	12186	4	3	13
+#	p033_c_rot0	gated	0	3026	ocr	3020
+#	p033_c_rot0	gated	4	6566	ocr	3534
+#	p033_c_rot0	gated	0	5217	vlm	2191	NONE
+#	p033_c_rot0	gated	8	9942	ocr	3370
+#	p033_c_rot0	gated	4	8648	vlm	2081	NONE
+p033_c_rot0	gated	NONE	8648	3	2	8
+#	p034_a_rot0	gated	0	5759	ocr	5753
+#	p034_a_rot0	gated	7	11458	ocr	5693
+#	p034_a_rot0	gated	0	13441	vlm	7681	2028-07-24
+#	p034_a_rot0	gated	17	19053	ocr	5607
+#	p034_a_rot0	gated	7	22978	vlm	9537	2028-07-24
+p034_a_rot0	gated	2028-07-24	22978	3	2	17
+#	p034_b_rot0	gated	0	5151	ocr	5145
+#	p034_b_rot0	gated	6	8055	ocr	2899
+#	p034_b_rot0	gated	0	17200	vlm	12049	2028-07-24
+#	p034_b_rot0	gated	18	20171	ocr	2963
+#	p034_b_rot0	gated	6	36419	vlm	19209	2028-07-24
+p034_b_rot0	gated	2028-07-24	36419	3	2	18
+#	p034_d_rot0	gated	0	4785	ocr	4780
+#	p034_d_rot0	gated	6	11231	ocr	6439
+#	p034_d_rot0	gated	0	7272	vlm	2487	NONE
+#	p034_d_rot0	gated	14	16594	ocr	5358
+#	p034_d_rot0	gated	6	27120	vlm	15890	2026-07-24
+#	p034_d_rot0	gated	17	32901	ocr	5775
+#	p034_d_rot0	gated	14	37118	vlm	9997	2028-07-24
+#	p034_d_rot0	gated	17	46409	vlm	9291	2028-07-24
+p034_d_rot0	gated	2028-07-24	46409	4	4	17
+#	p034_c_rot0	gated	0	3617	ocr	3612
+#	p034_c_rot0	gated	4	6297	ocr	2675
+#	p034_c_rot0	gated	8	9262	ocr	2959
+#	p034_c_rot0	gated	4	8851	vlm	2554	2026-09-??
+#	p034_c_rot0	gated	12	12600	ocr	3333
+#	p034_c_rot0	gated	8	11639	vlm	2377	????-??-15
+#	p034_c_rot0	gated	14	15429	ocr	2823
+#	p034_c_rot0	gated	14	17313	vlm	1883	2027-03-??
+p034_c_rot0	gated	ABSTAIN	17313	5	3	14
+#	p035_a_rot0	gated	0	4855	ocr	4847
+#	p035_a_rot0	gated	6	9531	ocr	4670
+#	p035_a_rot0	gated	0	6631	vlm	1776	NONE
+#	p035_a_rot0	gated	12	13672	ocr	4135
+#	p035_a_rot0	gated	6	26523	vlm	16991	2027-12-12
+#	p035_a_rot0	gated	15	31594	ocr	5066
+#	p035_a_rot0	gated	12	29287	vlm	2763	2027-12-12
+p035_a_rot0	gated	2027-12-12	29287	4	3	15
+#	p035_b_rot0	gated	0	2158	ocr	2152
+#	p035_b_rot0	gated	2	4024	ocr	1861
+#	p035_b_rot0	gated	0	8377	vlm	6219	2027-12-12
+#	p035_b_rot0	gated	11	10292	ocr	1906
+#	p035_b_rot0	gated	2	20123	vlm	11745	2027-12-12
+p035_b_rot0	gated	2027-12-12	20123	3	2	11
+#	p035_d_rot0	gated	0	4952	ocr	4947
+#	p035_d_rot0	gated	6	9664	ocr	4707
+#	p035_d_rot0	gated	0	7310	vlm	2358	2027-03-??
+#	p035_d_rot0	gated	12	14582	ocr	4912
+#	p035_d_rot0	gated	6	11888	vlm	2224	2027-04-??
+#	p035_d_rot0	gated	14	19977	ocr	5390
+#	p035_d_rot0	gated	12	16928	vlm	2346	2027-04-??
+p035_d_rot0	gated	2027-04-??	16928	4	3	14
+#	p035_c_rot0	gated	0	5165	ocr	5159
+#	p035_c_rot0	gated	6	9996	ocr	4826
+#	p035_c_rot0	gated	0	7470	vlm	2305	2027-03-??
+#	p035_c_rot0	gated	13	14267	ocr	4266
+#	p035_c_rot0	gated	14	18821	ocr	4549
+#	p035_c_rot0	gated	13	16637	vlm	2369	2027-03-??
+p035_c_rot0	gated	2027-03-??	16637	4	2	14
+#	p036_a_rot0	gated	0	5284	ocr	5278
+#	p036_a_rot0	gated	7	10473	ocr	5185
+#	p036_a_rot0	gated	0	7135	vlm	1851	NONE
+#	p036_a_rot0	gated	13	15537	ocr	5059
+#	p036_a_rot0	gated	7	12744	vlm	2271	2026-09-??
+#	p036_a_rot0	gated	14	20869	ocr	5326
+#	p036_a_rot0	gated	13	17349	vlm	1811	NONE
+p036_a_rot0	gated	NONE	17349	4	3	14
+#	p036_b_rot0	gated	0	2192	ocr	2188
+#	p036_b_rot0	gated	2	4182	ocr	1985
+#	p036_b_rot0	gated	5	6159	ocr	1972
+#	p036_b_rot0	gated	8	8425	ocr	2261
+#	p036_b_rot0	gated	11	10935	ocr	2505
+#	p036_b_rot0	gated	14	13301	ocr	2360
+#	p036_b_rot0	gated	15	15649	ocr	2342
+p036_b_rot0	gated	ABSTAIN	15649	7	0	15
+#	p036_d_rot0	gated	0	5533	ocr	5526
+#	p036_d_rot0	gated	7	11187	ocr	5648
+#	p036_d_rot0	gated	0	7917	vlm	2384	2027-06-30
+#	p036_d_rot0	gated	14	16902	ocr	5710
+#	p036_d_rot0	gated	7	13461	vlm	2274	2027-04-??
+#	p036_d_rot0	gated	14	18832	vlm	1930	2027-10-??
+p036_d_rot0	gated	ABSTAIN	18832	3	3	14
+#	p036_c_rot0	gated	0	8185	ocr	8180
+#	p036_c_rot0	gated	10	15541	ocr	7352
+#	p036_c_rot0	gated	0	32289	vlm	24104	NONE
+#	p036_c_rot0	gated	14	39879	ocr	7585
+#	p036_c_rot0	gated	10	44479	vlm	12189	NONE
+p036_c_rot0	gated	NONE	44479	3	2	14
+#	p037_a_rot0	gated	0	4370	ocr	4364
+#	p037_a_rot0	gated	5	8562	ocr	4187
+#	p037_a_rot0	gated	0	6704	vlm	2334	2027-12-??
+#	p037_a_rot0	gated	11	12786	ocr	4217
+#	p037_a_rot0	gated	5	10488	vlm	1925	NONE
+#	p037_a_rot0	gated	14	17020	ocr	4228
+#	p037_a_rot0	gated	11	15110	vlm	2323	2027-12-??
+p037_a_rot0	gated	2027-12-??	15110	4	3	14
+#	p037_b_rot0	gated	0	3323	ocr	3316
+#	p037_b_rot0	gated	4	5646	ocr	2318
+#	p037_b_rot0	gated	0	5131	vlm	1808	NONE
+#	p037_b_rot0	gated	7	7914	ocr	2257
+#	p037_b_rot0	gated	4	8376	vlm	2730	2027-12-??
+#	p037_b_rot0	gated	11	10552	ocr	2170
+#	p037_b_rot0	gated	7	12770	vlm	4393	2027-12-??
+p037_b_rot0	gated	2027-12-??	12770	4	3	11
+#	p037_d_rot0	gated	0	5238	ocr	5234
+#	p037_d_rot0	gated	6	9786	ocr	4542
+#	p037_d_rot0	gated	0	7622	vlm	2383	2026-09-??
+#	p037_d_rot0	gated	13	14452	ocr	4661
+#	p037_d_rot0	gated	6	12108	vlm	2322	2027-04-30
+#	p037_d_rot0	gated	14	18985	ocr	4528
+#	p037_d_rot0	gated	14	20990	vlm	2005	2027-12-??
+p037_d_rot0	gated	ABSTAIN	20990	4	3	14
+#	p037_c_rot0	gated	0	8068	ocr	8064
+#	p037_c_rot0	gated	10	15887	ocr	7814
+#	p037_c_rot0	gated	0	10409	vlm	2340	2026-08-13
+#	p037_c_rot0	gated	14	23838	ocr	7946
+#	p037_c_rot0	gated	10	18117	vlm	2230	2027-03-??
+#	p037_c_rot0	gated	14	25712	vlm	1874	2027-03-??
+p037_c_rot0	gated	2027-03-??	25712	3	3	14
+#	p038_a_rot0	gated	0	4685	ocr	4680
+#	p038_a_rot0	gated	6	8673	ocr	3983
+#	p038_a_rot0	gated	0	7178	vlm	2493	2027-05-06
+#	p038_a_rot0	gated	11	12780	ocr	4101
+#	p038_a_rot0	gated	6	11069	vlm	2396	2027-05-06
+p038_a_rot0	gated	2027-05-06	11069	3	2	11
+#	p038_b_rot0	gated	0	3170	ocr	3165
+#	p038_b_rot0	gated	4	5923	ocr	2747
+#	p038_b_rot0	gated	0	6116	vlm	2945	2027-05-06
+#	p038_b_rot0	gated	8	8500	ocr	2378
+#	p038_b_rot0	gated	4	10888	vlm	4771	2027-05-06
+p038_b_rot0	gated	2027-05-06	10888	3	2	8
+#	p038_d_rot0	gated	0	5397	ocr	5393
+#	p038_d_rot0	gated	7	10122	ocr	4720
+#	p038_d_rot0	gated	0	7711	vlm	2314	2027-05-06
+#	p038_d_rot0	gated	13	14801	ocr	4674
+#	p038_d_rot0	gated	7	12522	vlm	2399	2027-05-06
+p038_d_rot0	gated	2027-05-06	12522	3	2	13
+#	p038_c_rot0	gated	0	4581	ocr	4576
+#	p038_c_rot0	gated	6	8648	ocr	4061
+#	p038_c_rot0	gated	0	6829	vlm	2248	2026-09-??
+#	p038_c_rot0	gated	11	12615	ocr	3963
+#	p038_c_rot0	gated	6	10496	vlm	1848	NONE
+#	p038_c_rot0	gated	14	16444	ocr	3823
+#	p038_c_rot0	gated	11	14454	vlm	1839	NONE
+p038_c_rot0	gated	NONE	14454	4	3	14
+#	p039_a_rot0	gated	0	1943	ocr	1938
+#	p039_a_rot0	gated	2	7424	ocr	5475
+#	p039_a_rot0	gated	0	4483	vlm	2539	2026-09-??
+#	p039_a_rot0	gated	9	12232	ocr	4803
+#	p039_a_rot0	gated	2	19503	vlm	12079	2027-10-??
+#	p039_a_rot0	gated	14	24200	ocr	4692
+#	p039_a_rot0	gated	9	43381	vlm	23877	2027-10-??
+p039_a_rot0	gated	2027-10-??	43381	4	3	14
+#	p039_b_rot0	gated	0	5464	ocr	5459
+#	p039_b_rot0	gated	7	10951	ocr	5482
+#	p039_b_rot0	gated	0	17910	vlm	12446	2027-10-??
+#	p039_b_rot0	gated	14	23560	ocr	5643
+#	p039_b_rot0	gated	7	30157	vlm	12246	2027-10-??
+p039_b_rot0	gated	2027-10-??	30157	3	2	14
+#	p039_d_rot0	gated	0	2305	ocr	2300
+#	p039_d_rot0	gated	3	6930	ocr	4619
+#	p039_d_rot0	gated	0	4664	vlm	2359	2027-03-??
+#	p039_d_rot0	gated	9	10974	ocr	4038
+#	p039_d_rot0	gated	14	15324	ocr	4344
+#	p039_d_rot0	gated	9	12753	vlm	1779	NONE
+#	p039_d_rot0	gated	14	17516	vlm	2192	2027-10-??
+p039_d_rot0	gated	ABSTAIN	17516	4	3	14
+#	p039_c_rot0	gated	0	3374	ocr	3369
+#	p039_c_rot0	gated	4	6378	ocr	2999
+#	p039_c_rot0	gated	8	9209	ocr	2826
+#	p039_c_rot0	gated	12	12308	ocr	3094
+#	p039_c_rot0	gated	14	15209	ocr	2895
+p039_c_rot0	gated	ABSTAIN	15209	5	0	14
+#	p040_a_rot0	gated	0	3230	ocr	3223
+#	p040_a_rot0	gated	4	6707	ocr	3471
+#	p040_a_rot0	gated	8	10899	ocr	4187
+#	p040_a_rot0	gated	4	8970	vlm	2263	2026-11-11
+#	p040_a_rot0	gated	14	14857	ocr	3951
+#	p040_a_rot0	gated	8	13165	vlm	2265	2027-04-??
+#	p040_a_rot0	gated	14	16739	vlm	1881	????-??-15
+p040_a_rot0	gated	ABSTAIN	16739	4	3	14
+#	p040_b_rot0	gated	0	2619	ocr	2613
+#	p040_b_rot0	gated	3	5090	ocr	2466
+#	p040_b_rot0	gated	0	21598	vlm	18979	2027-05-??
+#	p040_b_rot0	gated	14	24182	ocr	2578
+#	p040_b_rot0	gated	3	39971	vlm	18372	2027-05-??
+p040_b_rot0	gated	2027-05-??	39971	3	2	14
+#	p040_d_rot0	gated	0	3476	ocr	3470
+#	p040_d_rot0	gated	4	7097	ocr	3615
+#	p040_d_rot0	gated	9	11069	ocr	3966
+#	p040_d_rot0	gated	4	9374	vlm	2277	2026-06-??
+#	p040_d_rot0	gated	14	15332	ocr	4257
+#	p040_d_rot0	gated	9	13376	vlm	2307	2026-09-??
+#	p040_d_rot0	gated	14	17237	vlm	1905	2027-05-??
+p040_d_rot0	gated	ABSTAIN	17237	4	3	14
+#	p040_c_rot0	gated	0	3081	ocr	3076
+#	p040_c_rot0	gated	4	6512	ocr	3425
+#	p040_c_rot0	gated	8	10099	ocr	3580
+#	p040_c_rot0	gated	4	8700	vlm	2187	????-??-15
+#	p040_c_rot0	gated	13	13748	ocr	3643
+#	p040_c_rot0	gated	8	12495	vlm	2396	2026-06-01
+#	p040_c_rot0	gated	14	17441	ocr	3687
+#	p040_c_rot0	gated	13	16082	vlm	2333	2026-11-19
+#	p040_c_rot0	gated	14	19063	vlm	1622	NONE
+p040_c_rot0	gated	ABSTAIN	19063	5	4	14

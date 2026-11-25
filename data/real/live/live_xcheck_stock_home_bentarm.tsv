@@ -1,0 +1,185 @@
+clip	rule	answer	decision_ms	examined	vlm_calls	last_frame_idx
+#	p004_a_rot0	xcheck	0	4890	ocr	4885
+#	p004_a_rot0	xcheck	6	12976	ocr	8077
+#	p004_a_rot0	xcheck	0	13197	vlm	8307	2026-12-08
+p004_a_rot0	xcheck	2026-12-08	13197	2	1	6
+#	p005_a_rot0	xcheck	0	2195	ocr	2191
+#	p005_a_rot0	xcheck	2	4460	ocr	2260
+#	p005_a_rot0	xcheck	5	6713	ocr	2248
+#	p005_a_rot0	xcheck	8	8885	ocr	2167
+#	p005_a_rot0	xcheck	11	10953	ocr	2062
+#	p005_a_rot0	xcheck	14	12913	ocr	1955
+#	p005_a_rot0	xcheck	17	15163	ocr	2245
+p005_a_rot0	xcheck	ABSTAIN	15163	7	0	17
+#	p006_a_rot0	xcheck	0	3632	ocr	3627
+#	p006_a_rot0	xcheck	4	10489	ocr	6851
+#	p006_a_rot0	xcheck	0	10942	vlm	7310	2027-01-23
+p006_a_rot0	xcheck	2027-01-23	10942	2	1	4
+#	p007_a_rot0	xcheck	0	8296	ocr	8291
+#	p007_a_rot0	xcheck	11	16650	ocr	8347
+#	p007_a_rot0	xcheck	14	30230	ocr	13574
+#	p007_a_rot0	xcheck	11	25869	vlm	9218	2027-06-??
+p007_a_rot0	xcheck	2027-06-??	25869	3	1	14
+#	p008_a_rot0	xcheck	0	4015	ocr	4009
+#	p008_a_rot0	xcheck	5	7719	ocr	3699
+#	p008_a_rot0	xcheck	10	11267	ocr	3543
+#	p008_a_rot0	xcheck	14	15087	ocr	3816
+p008_a_rot0	xcheck	ABSTAIN	15087	4	0	14
+#	p009_a_rot0	xcheck	0	2888	ocr	2885
+#	p009_a_rot0	xcheck	3	5786	ocr	2893
+#	p009_a_rot0	xcheck	7	8752	ocr	2961
+#	p009_a_rot0	xcheck	11	11564	ocr	2807
+#	p009_a_rot0	xcheck	14	14337	ocr	2770
+p009_a_rot0	xcheck	ABSTAIN	14337	5	0	14
+#	p010_a_rot0	xcheck	0	6563	ocr	6560
+#	p010_a_rot0	xcheck	8	24105	ocr	17530
+#	p010_a_rot0	xcheck	0	46925	vlm	40361	2027-03-04
+p010_a_rot0	xcheck	2027-03-04	46925	2	1	8
+#	p011_a_rot0	xcheck	0	2935	ocr	2931
+#	p011_a_rot0	xcheck	3	9113	ocr	6171
+#	p011_a_rot0	xcheck	0	9466	vlm	6529	2027-06-??
+#	p011_a_rot0	xcheck	12	14035	ocr	4564
+#	p011_a_rot0	xcheck	15	18984	ocr	4944
+p011_a_rot0	xcheck	ABSTAIN	18984	4	1	15
+#	p012_a_rot0	xcheck	0	4415	ocr	4410
+#	p012_a_rot0	xcheck	5	8690	ocr	4270
+#	p012_a_rot0	xcheck	11	13373	ocr	4679
+#	p012_a_rot0	xcheck	14	17778	ocr	4400
+p012_a_rot0	xcheck	ABSTAIN	17778	4	0	14
+#	p013_a_rot0	xcheck	0	7118	ocr	7113
+#	p013_a_rot0	xcheck	9	13985	ocr	6863
+#	p013_a_rot0	xcheck	14	20596	ocr	6607
+#	p013_a_rot0	xcheck	14	24518	vlm	3921	2026-11-??
+p013_a_rot0	xcheck	2026-11-??	24518	3	1	14
+#	p014_a_rot0	xcheck	0	4677	ocr	4673
+#	p014_a_rot0	xcheck	6	13723	ocr	9040
+#	p014_a_rot0	xcheck	0	12994	vlm	8316	2027-02-??
+#	p014_a_rot0	xcheck	14	24021	ocr	10294
+#	p014_a_rot0	xcheck	6	25723	vlm	12000	2027-05-02
+p014_a_rot0	xcheck	2027-05-02	25723	3	2	14
+#	p015_a_rot0	xcheck	0	5581	ocr	5576
+#	p015_a_rot0	xcheck	7	10586	ocr	5001
+#	p015_a_rot0	xcheck	14	20878	ocr	10287
+#	p015_a_rot0	xcheck	7	22426	vlm	11840	2027-03-09
+p015_a_rot0	xcheck	2027-03-09	22426	3	1	14
+#	p016_a_rot0	xcheck	0	7402	ocr	7395
+#	p016_a_rot0	xcheck	9	15985	ocr	8578
+#	p016_a_rot0	xcheck	14	30244	ocr	14254
+#	p016_a_rot0	xcheck	9	27175	vlm	11190	NONE
+#	p016_a_rot0	xcheck	14	36620	vlm	6376	NONE
+p016_a_rot0	xcheck	ABSTAIN	36620	3	2	14
+#	p017_a_rot0	xcheck	0	4075	ocr	4070
+#	p017_a_rot0	xcheck	5	8548	ocr	4469
+#	p017_a_rot0	xcheck	11	12880	ocr	4327
+#	p017_a_rot0	xcheck	14	17221	ocr	4337
+p017_a_rot0	xcheck	ABSTAIN	17221	4	0	14
+#	p018_a_rot0	xcheck	0	7015	ocr	7010
+#	p018_a_rot0	xcheck	9	13253	ocr	6234
+#	p018_a_rot0	xcheck	17	19110	ocr	5852
+#	p018_a_rot0	xcheck	17	22474	vlm	3362	NONE
+p018_a_rot0	xcheck	ABSTAIN	22474	3	1	17
+#	p019_a_rot0	xcheck	0	6934	ocr	6930
+#	p019_a_rot0	xcheck	9	19124	ocr	12185
+#	p019_a_rot0	xcheck	0	15066	vlm	8131	2027-09-08
+#	p019_a_rot0	xcheck	14	30710	ocr	11581
+#	p019_a_rot0	xcheck	9	27073	vlm	7949	2027-09-08
+p019_a_rot0	xcheck	2027-09-08	27073	3	2	14
+#	p020_a_rot0	xcheck	0	4558	ocr	4553
+#	p020_a_rot0	xcheck	6	8968	ocr	4406
+#	p020_a_rot0	xcheck	11	13781	ocr	4808
+#	p020_a_rot0	xcheck	14	17923	ocr	4138
+p020_a_rot0	xcheck	ABSTAIN	17923	4	0	14
+#	p021_a_rot0	xcheck	0	2933	ocr	2930
+#	p021_a_rot0	xcheck	3	8540	ocr	5603
+#	p021_a_rot0	xcheck	0	9606	vlm	6673	2026-11-25
+p021_a_rot0	xcheck	2026-11-25	9606	2	1	3
+#	p022_a_rot0	xcheck	0	3008	ocr	3002
+#	p022_a_rot0	xcheck	4	7691	ocr	4675
+#	p022_a_rot0	xcheck	0	9425	vlm	6416	2026-11-24
+p022_a_rot0	xcheck	2026-11-24	9425	2	1	4
+#	p023_a_rot0	xcheck	0	3681	ocr	3676
+#	p023_a_rot0	xcheck	4	10835	ocr	7147
+#	p023_a_rot0	xcheck	0	12410	vlm	8729	2026-12-01
+p023_a_rot0	xcheck	2026-12-01	12410	2	1	4
+#	p024_a_rot0	xcheck	0	2551	ocr	2546
+#	p024_a_rot0	xcheck	3	8822	ocr	6268
+#	p024_a_rot0	xcheck	0	9454	vlm	6902	2026-11-26
+p024_a_rot0	xcheck	2026-11-26	9454	2	1	3
+#	p025_a_rot0	xcheck	0	4399	ocr	4394
+#	p025_a_rot0	xcheck	5	13227	ocr	8825
+#	p025_a_rot0	xcheck	0	11966	vlm	7567	2026-12-01
+p025_a_rot0	xcheck	2026-12-01	11966	2	1	5
+#	p026_a_rot0	xcheck	0	5707	ocr	5703
+#	p026_a_rot0	xcheck	7	19134	ocr	13423
+#	p026_a_rot0	xcheck	0	35485	vlm	29778	2026-11-29
+p026_a_rot0	xcheck	2026-11-29	35485	2	1	7
+#	p027_a_rot0	xcheck	0	2683	ocr	2679
+#	p027_a_rot0	xcheck	3	7081	ocr	4394
+#	p027_a_rot0	xcheck	0	9434	vlm	6751	2027-01-09
+p027_a_rot0	xcheck	2027-01-09	9434	2	1	3
+#	p028_a_rot0	xcheck	0	4835	ocr	4831
+#	p028_a_rot0	xcheck	6	14315	ocr	9475
+#	p028_a_rot0	xcheck	0	12823	vlm	7988	2027-02-08
+p028_a_rot0	xcheck	2027-02-08	12823	2	1	6
+#	p029_a_rot0	xcheck	0	3723	ocr	3717
+#	p029_a_rot0	xcheck	4	7664	ocr	3936
+#	p029_a_rot0	xcheck	10	11347	ocr	3678
+#	p029_a_rot0	xcheck	14	17813	ocr	6461
+#	p029_a_rot0	xcheck	10	18352	vlm	7004	2027-02-01
+p029_a_rot0	xcheck	2027-02-01	18352	4	1	14
+#	p030_a_rot0	xcheck	0	4727	ocr	4723
+#	p030_a_rot0	xcheck	6	12616	ocr	7885
+#	p030_a_rot0	xcheck	0	13981	vlm	9254	2027-04-??
+#	p030_a_rot0	xcheck	14	22582	ocr	8596
+#	p030_a_rot0	xcheck	6	24115	vlm	10133	2027-04-??
+#	p030_a_rot0	xcheck	14	30472	vlm	6356	2027-04-??
+p030_a_rot0	xcheck	ABSTAIN	30472	3	3	14
+#	p031_a_rot0	xcheck	0	2392	ocr	2387
+#	p031_a_rot0	xcheck	3	4912	ocr	2516
+#	p031_a_rot0	xcheck	6	10746	ocr	5830
+#	p031_a_rot0	xcheck	3	20364	vlm	15452	2026-11-22
+p031_a_rot0	xcheck	2026-11-22	20364	3	1	6
+#	p032_a_rot0	xcheck	0	4516	ocr	4511
+#	p032_a_rot0	xcheck	6	13888	ocr	9367
+#	p032_a_rot0	xcheck	0	13348	vlm	8832	2026-11-30
+p032_a_rot0	xcheck	2026-11-30	13348	2	1	6
+#	p033_a_rot0	xcheck	0	3804	ocr	3800
+#	p033_a_rot0	xcheck	5	11200	ocr	7392
+#	p033_a_rot0	xcheck	0	11261	vlm	7457	2028-03-18
+#	p033_a_rot0	xcheck	15	21379	ocr	10114
+#	p033_a_rot0	xcheck	5	25206	vlm	13945	2028-03-18
+p033_a_rot0	xcheck	2028-03-18	25206	3	2	15
+#	p034_a_rot0	xcheck	0	5972	ocr	5965
+#	p034_a_rot0	xcheck	7	22550	ocr	16570
+#	p034_a_rot0	xcheck	0	34257	vlm	28285	2028-07-24
+p034_a_rot0	xcheck	2028-07-24	34257	2	1	7
+#	p035_a_rot0	xcheck	0	4935	ocr	4931
+#	p035_a_rot0	xcheck	6	9472	ocr	4532
+#	p035_a_rot0	xcheck	12	14143	ocr	4666
+#	p035_a_rot0	xcheck	15	19035	ocr	4888
+#	p035_a_rot0	xcheck	15	23771	vlm	4735	2027-12-12
+p035_a_rot0	xcheck	2027-12-12	23771	4	1	15
+#	p036_a_rot0	xcheck	0	5278	ocr	5273
+#	p036_a_rot0	xcheck	7	10374	ocr	5092
+#	p036_a_rot0	xcheck	13	15255	ocr	4877
+#	p036_a_rot0	xcheck	14	20575	ocr	5316
+p036_a_rot0	xcheck	ABSTAIN	20575	4	0	14
+#	p037_a_rot0	xcheck	0	4473	ocr	4468
+#	p037_a_rot0	xcheck	5	8447	ocr	3967
+#	p037_a_rot0	xcheck	11	12582	ocr	4129
+#	p037_a_rot0	xcheck	14	16544	ocr	3957
+p037_a_rot0	xcheck	ABSTAIN	16544	4	0	14
+#	p038_a_rot0	xcheck	0	4706	ocr	4701
+#	p038_a_rot0	xcheck	6	10702	ocr	5989
+#	p038_a_rot0	xcheck	0	11982	vlm	7276	2027-05-06
+p038_a_rot0	xcheck	2027-05-06	11982	2	1	6
+#	p039_a_rot0	xcheck	0	1964	ocr	1959
+#	p039_a_rot0	xcheck	2	7224	ocr	5254
+#	p039_a_rot0	xcheck	9	19976	ocr	12741
+#	p039_a_rot0	xcheck	2	46141	vlm	38917	2027-10-??
+p039_a_rot0	xcheck	2027-10-??	46141	3	1	9
+#	p040_a_rot0	xcheck	0	3228	ocr	3223
+#	p040_a_rot0	xcheck	4	6755	ocr	3523
+#	p040_a_rot0	xcheck	9	10545	ocr	3785
+#	p040_a_rot0	xcheck	14	14254	ocr	3704
+p040_a_rot0	xcheck	ABSTAIN	14254	4	0	14

@@ -169,3 +169,27 @@ Paired by product (5000 resamples): cross-check minus (a) +25 correct (95 % CI +
 +6 (-2..+14), one error fewer. The pilot products are uninformative here: OCR parses a date on 1 of their 63
 dated frames. Confidence scores come from a rerun of the same OCR whose text is identical on all 1120 frames
 (`data/real/ocr_scores_v5.json`).
+
+## Live decision loop on the headset (paper Table 5)
+
+`live/liveloop.cpp` runs on the Quest: sampled frames of each recorded clip arrive every 0.75 s, the loop
+localises the newest frame (PP-OCRv5 mobile, ONNX Runtime, 4 CPU threads) and drops older ones, sends the crop
+to the persistent llama-server asynchronously (reading overlaps with localising the next frame), and abstains
+after 7 examined frames or at the clip's end. VLM replies are the headset's own; the date parsed from the OCR
+text is taken from the offline pipeline (`live/make_live_plan.py`). Outputs in `data/real/live/`, summary with
+`python policies/live_eval.py data/real/live/*.tsv`:
+
+| Run | C / W / no-date / abstain / F | Cov. | Prec. | Decision median (p90) | To correct | To abstain | VLM calls |
+|---|---|---|---|---|---|---|---|
+| Gated VLM repeat | 63 / 15 / 9 / 24 / 4 | 70.3% | 76.8% | 17.2 (36.0) s | 17.0 (39.9) s | 17.6 (22.2) s | 2.26 |
+| OCR repeat | 47 / 2 / 0 / 62 / 0 | 44.1% | 95.9% | 15.5 (20.0) s | 9.2 (17.8) s | 16.2 (19.9) s | 0 |
+| OCR cross-check | 52 / 1 / 0 / 58 / 0 | 47.7% | 98.1% | 15.9 (21.2) s | 10.5 (19.7) s | 16.6 (21.3) s | 0.56 |
+| Cross-check, stock read, 37 bent-arm clips | 23 / 1 / 0 / 13 / – | 64.9% | 95.8% | 17.9 (34.7) s | 18.4 (35.2) s | 17.8 (28.9) s | 0.92 |
+| Cross-check, optimised read, same clips | 23 / 1 / 0 / 13 / – | 64.9% | 95.8% | 15.2 (20.9) s | 10.6 (19.7) s | 17.2 (20.9) s | 0.95 |
+
+The cross-check's one wrong date (p013, side a) is the production date of a package that prints two dates.
+Stock and optimised reads give the same answer on all 37 bent-arm clips. Per-frame times while both run:
+localisation median 3.5–3.7 s (p90 5.5 s), VLM read median 2.5–2.8 s (p90 12 s, large crops); stock read median
+8.1 s. Paired by product (10,000 resamples), the cross-check has 14 fewer wrong answers than gated VLM repeat
+(95% CI [7, 22]) and 11 fewer correct ones ([3, 20]); against OCR repeat, +5 correct ([−2, +12]) and −1 wrong
+([−6, +3]).
