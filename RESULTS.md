@@ -212,3 +212,19 @@ offline pipeline. Checked against the offline pipeline on all 2292 sampled frame
 Recognised text is rarely identical line for line: on the same probability map the port reproduces the line
 boxes within 1 px for 46 of 47, but recognition depends on batching and padding (the ONNX recogniser fed
 PaddleOCR's own crops one at a time changes 6 of 49 lines).
+
+## Live loop, fully on device (2026-11-26)
+
+OCR (port in `live/onloc.hpp`) and VLM both on the headset; 148 clips per run, frames every 0.75 s, budget 7 frames.
+Files: `data/real/live2/live2_*.tsv`; evaluate with `policies/live_eval.py`, paired product-level bootstrap with `policies/live_paired.py`.
+
+| Rule | C / W / F | Coverage | Precision | Decision s, median (p90) | To correct s | VLM calls |
+|---|---|---|---|---|---|---|
+| Gated VLM repeat | 57 / 14 / 4 | 64.0% | 76.0% | 16.9 (38.2) | 15.7 (41.1) | 2.30 |
+| OCR repeat (k=2) | 43 / 2 / 0 | 40.5% | 95.6% | 14.9 (19.5) | 8.9 (15.9) | 0 |
+| Tuned OCR (k=3, conf >= 0.80) | 38 / 1 / 0 | 35.1% | 97.4% | 15.5 (20.6) | 12.1 (20.3) | 0 |
+| OCR cross-check | 48 / 1 / 0 | 44.1% | 98.0% | 15.6 (21.5) | 9.9 (24.9) | 0.53 |
+| Cross-check, stock runtime | 49 / 1 / 0 | 45.0% | 98.0% | 16.7 (33.8) | 18.4 (45.0) | 0.52 |
+
+Paired vs the cross-check (37 products, 95% CI): gated +17 wrong-or-invented [9, 25]; OCR repeat -5 correct [-11, 1];
+tuned OCR -10 correct [-18, -3], +0 errors [-3, 3]; stock runtime: same answer on 147/148 clips.
