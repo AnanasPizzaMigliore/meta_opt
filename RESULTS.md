@@ -228,3 +228,11 @@ Files: `data/real/live2/live2_*.tsv`; evaluate with `policies/live_eval.py`, pai
 
 Paired vs the cross-check (37 products, 95% CI): gated +17 wrong-or-invented [9, 25]; OCR repeat -5 correct [-11, 1];
 tuned OCR -10 correct [-18, -3], +0 errors [-3, 3]; stock runtime: same answer on 147/148 clips.
+
+### Under a rendering load (2026-11-26)
+
+Cross-check, optimised runtime, with Meta's Discover sample app rendering in the foreground for the whole run
+(`live/watch_fg.sh` checked the foreground every 30 s): 49 / 2 / 0, coverage 45.9%, precision 96.1%, decision
+17.8 (25.0) s, to correct 12.8 (31.4) s, VLM calls 0.52. Per frame, localisation 3.46 -> 4.81 s (median) and a
+read 2.68 -> 3.37 s versus the run without rendering. Paired: +1 wrong [0, 3], +1 correct [-5, 6]; same answer on
+140/148 clips. The added error (p026_d) is a 29 read as 28 by both OCR and VLM on a later frame.

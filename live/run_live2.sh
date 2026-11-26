@@ -5,14 +5,15 @@
 # if it is not, and checks it again at the end.
 set -e
 NAME=$1; RULE=$2; CFG=$3; RENDER=${4:-none}; PLAN=${5:-live_plan.txt}
-A="adb ${SERIAL:+-s $SERIAL}"
-H=$(dirname "$(readlink -f "$0")"); R=/data/local/tmp/edb/ocr; OUT=$(dirname "$H")/data/real/live2
+SERIAL=${SERIAL:?set SERIAL to the headset serial}; export ANDROID_SERIAL=$SERIAL
+A="$HOME/qwen/phone_bench/adbq -s $SERIAL"
+H=$(dirname "$(readlink -f "$0")"); R=/data/local/tmp/edb/ocr; OUT=$HOME/qwen/phone_bench/dvfs/revision/live2
 mkdir -p $OUT
 fg() { $A shell "dumpsys activity activities | grep -m1 -E 'topResumedActivity|mResumedActivity'" || true; }
 if [ "$RENDER" != none ]; then
   if ! fg | grep -q "$RENDER"; then echo "ABORT: $RENDER is not in the foreground: $(fg)"; exit 3; fi
 fi
-cd "$(dirname "$H")/bench"
+cd $HOME/qwen/phone_bench/dvfs
 if [ "$RULE" != "ocronly" ]; then
   if [ "$CFG" = opt ]; then CONF="+stop_if"; else CONF="orig"; fi
   python3 -c "
