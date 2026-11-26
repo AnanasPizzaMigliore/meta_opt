@@ -29,8 +29,10 @@ def q(v, p):
 
 
 def main(paths):
-    for path in paths:
+    for arg in paths:
+        path, _, want = arg.partition(":")
         rows = [l.rstrip("\n").split("\t") for l in open(path) if l.strip() and not l.startswith("#") and not l.startswith("clip")]
+        rows = [r for r in rows if not want or r[1] == want]
         cnt, T, Tc, Ta, ex, calls = collections.Counter(), [], [], [], [], []
         for clip, rule, ans, ms, nexam, ncalls, last in rows:
             p, c = clip.split("_")[0], clip.split("_")[1]
@@ -45,7 +47,7 @@ def main(paths):
             if o in ("abstain", "ok") and ans == "ABSTAIN":
                 Ta.append(t)
         em = cnt["correct"] + cnt["wrong"] + cnt["false"]
-        print(f"{Path(path).stem:28s} n={len(rows)} correct {cnt['correct']} wrong {cnt['wrong']} no-date {cnt['missed']} "
+        print(f"{Path(path).stem + (":" + want if want else ""):28s} n={len(rows)} correct {cnt['correct']} wrong {cnt['wrong']} no-date {cnt['missed']} "
               f"abstain {cnt['abstain']} false {cnt['false']} | cov {100 * (cnt['correct'] + cnt['wrong']) / 111:.1f}% "
               f"prec {100 * cnt['correct'] / em if em else float('nan'):.1f}% | time median {st.median(T):.1f} p90 {q(T, 90):.1f} s; "
               f"to correct {st.median(Tc) if Tc else float('nan'):.1f} (p90 {q(Tc, 90):.1f}); to abstain {st.median(Ta) if Ta else float('nan'):.1f} "
